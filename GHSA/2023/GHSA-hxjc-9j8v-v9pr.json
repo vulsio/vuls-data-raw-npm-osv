@@ -1,0 +1,65 @@
+{
+	"schema_version": "1.6.0",
+	"id": "GHSA-hxjc-9j8v-v9pr",
+	"modified": "2023-11-16T21:26:32.084585Z",
+	"published": "2023-11-16T15:30:20Z",
+	"aliases": [
+		"CVE-2023-4771"
+	],
+	"summary": "CKEditor Cross-site Scripting vulnerability",
+	"details": "A Cross-Site scripting vulnerability has been found in CKSource CKEditor affecting versions 4.15.1 and earlier. An attacker could send malicious javascript code through the /`ckeditor/samples/old/ajax.html` file and retrieve an authorized user's information.",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N"
+		}
+	],
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "ckeditor4",
+				"purl": "pkg:npm/ckeditor4"
+			},
+			"ranges": [
+				{
+					"type": "SEMVER",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"last_affected": "4.15.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-hxjc-9j8v-v9pr/GHSA-hxjc-9j8v-v9pr.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-4771"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/ckeditor/ckeditor4-releases"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.incibe.es/en/incibe-cert/notices/aviso/cross-site-scripting-vulnerability-cksource-ckeditor"
+		}
+	],
+	"database_specific": {
+		"cwe_ids": [
+			"CWE-79"
+		],
+		"github_reviewed": true,
+		"github_reviewed_at": "2023-11-16T21:02:40Z",
+		"nvd_published_at": "2023-11-16T14:15:28Z",
+		"severity": "MODERATE"
+	}
+}
