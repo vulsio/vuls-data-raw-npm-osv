@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2023-8678",
+	"modified": "2023-12-09T10:18:15Z",
+	"published": "2023-12-09T10:18:15Z",
+	"summary": "Malicious code in orchestrationdesk (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (b726220091091a8632bfdf31fd689f52d521ac933a42d1229633c98c026b4dfd)\nThe OpenSSF Package Analysis project identified 'orchestrationdesk' @ 4.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "orchestrationdesk",
+				"purl": "pkg:npm/orchestrationdesk"
+			},
+			"versions": [
+				"4.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/orchestrationdesk/MAL-2023-8678.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2023-12-09T10:33:16.641508026Z",
+				"modified_time": "2023-12-09T10:18:15Z",
+				"sha256": "b726220091091a8632bfdf31fd689f52d521ac933a42d1229633c98c026b4dfd",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"4.0.0"
+				]
+			}
+		]
+	}
+}
