@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-8670",
-	"modified": "2023-12-08T16:36:24Z",
+	"modified": "2023-12-10T21:33:52Z",
 	"published": "2023-12-06T23:02:55Z",
 	"summary": "Malicious code in react-hook-form-latest (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (70087ac0b64fee9397becd5e9465ea8df08d942bb49e6330b840080d81c334b2)\nThe OpenSSF Package Analysis project identified 'react-hook-form-latest' @ 14.0.5 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
@@ -14,7 +14,8 @@
 			},
 			"versions": [
 				"14.0.5",
-				"24.1.6"
+				"24.1.6",
+				"25.1.6"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/react-hook-form-latest/MAL-2023-8670.json"
@@ -49,6 +50,15 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"24.1.6"
+				]
+			},
+			{
+				"import_time": "2023-12-10T21:33:25.590620769Z",
+				"modified_time": "2023-12-10T21:10:43Z",
+				"sha256": "cc629bf54732ba123a32fab753e8a9090a8da52a07ef1e5b2e34d63f8d1162ef",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"25.1.6"
 				]
 			}
 		]
