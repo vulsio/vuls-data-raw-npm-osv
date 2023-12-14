@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/google-cloud-node-todos/MAL-2022-3413.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/google-cloud-node-todos/MAL-2022-3413.json"
 			}
 		}
 	],

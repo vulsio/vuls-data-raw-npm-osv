@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@bijie/react-bnb/MAL-2022-120.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@bijie/react-bnb/MAL-2022-120.json"
 			}
 		}
 	],

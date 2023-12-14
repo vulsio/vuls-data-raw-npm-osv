@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/aws-ms-deploy-assistant/MAL-2022-1200.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/aws-ms-deploy-assistant/MAL-2022-1200.json"
 			}
 		}
 	],

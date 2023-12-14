@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/auction2-im/MAL-2022-1168.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/auction2-im/MAL-2022-1168.json"
 			}
 		}
 	],

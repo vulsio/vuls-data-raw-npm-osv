@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dig-fonts/MAL-2022-2468.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dig-fonts/MAL-2022-2468.json"
 			}
 		}
 	],

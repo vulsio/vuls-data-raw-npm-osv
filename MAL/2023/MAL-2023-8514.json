@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/frontend-style-janus/MAL-2023-8514.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/frontend-style-janus/MAL-2023-8514.json"
 			}
 		}
 	],

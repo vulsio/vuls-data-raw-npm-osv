@@ -17,7 +17,7 @@
 				"99.99.99"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/texture-allocator/MAL-2023-1320.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/texture-allocator/MAL-2023-1320.json"
 			}
 		}
 	],

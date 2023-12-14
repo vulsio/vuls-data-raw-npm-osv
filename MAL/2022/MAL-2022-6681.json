@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/turbine_helper/MAL-2022-6681.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/turbine_helper/MAL-2022-6681.json"
 			}
 		}
 	],

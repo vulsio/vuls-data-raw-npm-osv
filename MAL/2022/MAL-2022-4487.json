@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/mason-auth-middleware/MAL-2022-4487.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mason-auth-middleware/MAL-2022-4487.json"
 			}
 		}
 	],

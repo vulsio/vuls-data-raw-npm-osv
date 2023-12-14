@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/it-advisor-webclient/MAL-2022-3978.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/it-advisor-webclient/MAL-2022-3978.json"
 			}
 		}
 	],

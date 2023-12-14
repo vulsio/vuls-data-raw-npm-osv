@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/binance-connector-node/MAL-2022-1577.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/binance-connector-node/MAL-2022-1577.json"
 			}
 		}
 	],

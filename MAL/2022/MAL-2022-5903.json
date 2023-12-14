@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/saddlebag-events/MAL-2022-5903.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/saddlebag-events/MAL-2022-5903.json"
 			}
 		}
 	],

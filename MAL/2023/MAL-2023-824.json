@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/sword123/MAL-2023-824.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/sword123/MAL-2023-824.json"
 			}
 		}
 	],

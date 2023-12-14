@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/amazon-kinesis-video-streams-webrtc-sdk-js/MAL-2022-955.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/amazon-kinesis-video-streams-webrtc-sdk-js/MAL-2022-955.json"
 			}
 		}
 	],

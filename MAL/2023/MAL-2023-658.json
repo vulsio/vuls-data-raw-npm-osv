@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/origin-robert-langdon-5-by-dan-brown-on-kindle-full-version-/MAL-2023-658.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/origin-robert-langdon-5-by-dan-brown-on-kindle-full-version-/MAL-2023-658.json"
 			}
 		}
 	],

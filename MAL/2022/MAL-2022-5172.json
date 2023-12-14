@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/p2p-amount-field/MAL-2022-5172.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/p2p-amount-field/MAL-2022-5172.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/chat-orion-sdk/MAL-2022-1889.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/chat-orion-sdk/MAL-2022-1889.json"
 			}
 		}
 	],

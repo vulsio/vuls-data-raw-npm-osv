@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/arui-ft-private/MAL-2022-1125.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/arui-ft-private/MAL-2022-1125.json"
 			}
 		}
 	],

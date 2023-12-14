@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/hoisting-peer-check-child/MAL-2022-3652.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hoisting-peer-check-child/MAL-2022-3652.json"
 			}
 		}
 	],

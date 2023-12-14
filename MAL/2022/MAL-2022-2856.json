@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/estwatchtypaehead/MAL-2022-2856.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/estwatchtypaehead/MAL-2022-2856.json"
 			}
 		}
 	],

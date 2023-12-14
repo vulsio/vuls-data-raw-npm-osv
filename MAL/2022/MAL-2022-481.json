@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@onehaufe-platform/amplify-auth/MAL-2022-481.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@onehaufe-platform/amplify-auth/MAL-2022-481.json"
 			}
 		}
 	],

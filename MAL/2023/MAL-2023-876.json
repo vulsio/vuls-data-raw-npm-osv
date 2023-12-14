@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/the-starch-solution-eat-the-foods-you-love-regain-your-health-and-lose-the-weight-for-good-by-john-a/MAL-2023-876.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/the-starch-solution-eat-the-foods-you-love-regain-your-health-and-lose-the-weight-for-good-by-john-a/MAL-2023-876.json"
 			}
 		}
 	],

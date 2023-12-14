@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/xms-error-responses/MAL-2022-7285.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/xms-error-responses/MAL-2022-7285.json"
 			}
 		}
 	],

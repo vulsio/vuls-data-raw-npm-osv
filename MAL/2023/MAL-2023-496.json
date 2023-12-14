@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/hellosign-embedded-cla/MAL-2023-496.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hellosign-embedded-cla/MAL-2023-496.json"
 			}
 		}
 	],

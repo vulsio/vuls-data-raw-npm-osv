@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ssomicroservicefrontend/MAL-2022-6285.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ssomicroservicefrontend/MAL-2022-6285.json"
 			}
 		}
 	],

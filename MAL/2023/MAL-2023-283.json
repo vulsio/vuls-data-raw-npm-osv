@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dow-load-the-subtle-art-of-not-giving-a-fck-a-counterintuitive-approach-to-living-a-good-l/MAL-2023-283.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dow-load-the-subtle-art-of-not-giving-a-fck-a-counterintuitive-approach-to-living-a-good-l/MAL-2023-283.json"
 			}
 		}
 	],

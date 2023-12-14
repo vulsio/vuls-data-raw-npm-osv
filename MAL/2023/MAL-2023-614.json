@@ -40,7 +40,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/n-messaging-client/MAL-2023-614.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/n-messaging-client/MAL-2023-614.json"
 			}
 		}
 	],

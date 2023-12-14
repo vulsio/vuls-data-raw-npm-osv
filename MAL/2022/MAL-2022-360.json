@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@instant-api-hooks/assethub-campaigns/MAL-2022-360.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@instant-api-hooks/assethub-campaigns/MAL-2022-360.json"
 			}
 		}
 	],

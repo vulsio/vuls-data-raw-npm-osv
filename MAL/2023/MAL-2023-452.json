@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/follow-ebay/MAL-2023-452.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/follow-ebay/MAL-2023-452.json"
 			}
 		}
 	],

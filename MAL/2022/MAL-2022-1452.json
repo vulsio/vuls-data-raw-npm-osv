@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/baeltraverse/MAL-2022-1452.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/baeltraverse/MAL-2022-1452.json"
 			}
 		}
 	],

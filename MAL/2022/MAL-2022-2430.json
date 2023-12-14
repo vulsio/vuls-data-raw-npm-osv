@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dependencies-zksync/MAL-2022-2430.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dependencies-zksync/MAL-2022-2430.json"
 			}
 		}
 	],

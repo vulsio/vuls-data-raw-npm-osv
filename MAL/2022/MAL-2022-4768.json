@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/mynewpkgtest1/MAL-2022-4768.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mynewpkgtest1/MAL-2022-4768.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ai-indeed/MAL-2022-903.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ai-indeed/MAL-2022-903.json"
 			}
 		}
 	],

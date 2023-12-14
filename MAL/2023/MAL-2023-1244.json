@@ -16,7 +16,7 @@
 				"1.1.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/nemocloud/MAL-2023-1244.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/nemocloud/MAL-2023-1244.json"
 			}
 		}
 	],

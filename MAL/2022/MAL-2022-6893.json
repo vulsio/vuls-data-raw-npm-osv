@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/vazliwd-url/MAL-2022-6893.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/vazliwd-url/MAL-2022-6893.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/kapollolink/MAL-2022-4105.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/kapollolink/MAL-2022-4105.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/mirror-branch-action/MAL-2022-4607.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mirror-branch-action/MAL-2022-4607.json"
 			}
 		}
 	],

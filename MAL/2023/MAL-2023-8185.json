@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/agopoweryea123/MAL-2023-8185.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/agopoweryea123/MAL-2023-8185.json"
 			}
 		}
 	],

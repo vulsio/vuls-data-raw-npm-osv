@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/react-nati0e-vecor-icons/MAL-2022-5655.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/react-nati0e-vecor-icons/MAL-2022-5655.json"
 			}
 		}
 	],

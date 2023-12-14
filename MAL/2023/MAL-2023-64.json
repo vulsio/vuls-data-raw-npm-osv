@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@superbet-group/web.lib.utilities/MAL-2023-64.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@superbet-group/web.lib.utilities/MAL-2023-64.json"
 			}
 		}
 	],

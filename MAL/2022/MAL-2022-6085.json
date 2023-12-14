@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/shiba-inu-technologies/MAL-2022-6085.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/shiba-inu-technologies/MAL-2022-6085.json"
 			}
 		}
 	],

@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/satellite-precipitation-detector/MAL-2023-761.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/satellite-precipitation-detector/MAL-2023-761.json"
 			}
 		}
 	],

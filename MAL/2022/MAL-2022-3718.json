@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/hubspot-url-utils/MAL-2022-3718.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hubspot-url-utils/MAL-2022-3718.json"
 			}
 		}
 	],

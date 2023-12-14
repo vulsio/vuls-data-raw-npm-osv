@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@porting-assistant/electron/MAL-2022-514.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@porting-assistant/electron/MAL-2022-514.json"
 			}
 		}
 	],

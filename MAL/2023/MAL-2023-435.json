@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/fe-core-components-vuejs/MAL-2023-435.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fe-core-components-vuejs/MAL-2023-435.json"
 			}
 		}
 	],

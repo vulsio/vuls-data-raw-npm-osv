@@ -38,7 +38,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/hydradx-ui/MAL-2023-8407.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hydradx-ui/MAL-2023-8407.json"
 			}
 		}
 	],

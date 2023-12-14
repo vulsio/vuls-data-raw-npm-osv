@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/json-rpc-adapter/MAL-2022-4072.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/json-rpc-adapter/MAL-2022-4072.json"
 			}
 		}
 	],

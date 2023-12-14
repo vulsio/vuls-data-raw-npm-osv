@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/sa-383-bulk-creative-update/MAL-2022-5899.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/sa-383-bulk-creative-update/MAL-2022-5899.json"
 			}
 		}
 	],

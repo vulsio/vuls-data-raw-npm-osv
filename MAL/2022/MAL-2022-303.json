@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@gs-ux-uitoolkit-react/select/MAL-2022-303.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@gs-ux-uitoolkit-react/select/MAL-2022-303.json"
 			}
 		}
 	],

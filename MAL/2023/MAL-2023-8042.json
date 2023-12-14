@@ -16,7 +16,7 @@
 				"1.0.3"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ccfedrtest-poc/MAL-2023-8042.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ccfedrtest-poc/MAL-2023-8042.json"
 			}
 		}
 	],

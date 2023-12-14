@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/setup-maven/MAL-2023-772.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/setup-maven/MAL-2023-772.json"
 			}
 		}
 	],

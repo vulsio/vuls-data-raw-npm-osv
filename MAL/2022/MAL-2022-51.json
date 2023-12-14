@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@3p-future-solutions/ember-cui/MAL-2022-51.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@3p-future-solutions/ember-cui/MAL-2022-51.json"
 			}
 		}
 	],

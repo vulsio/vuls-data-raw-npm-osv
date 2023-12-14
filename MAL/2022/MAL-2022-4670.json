@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/mollie-payments-for-woocommerce/MAL-2022-4670.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mollie-payments-for-woocommerce/MAL-2022-4670.json"
 			}
 		}
 	],

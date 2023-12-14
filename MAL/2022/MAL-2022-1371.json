@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/azure-schema-registry-avro-js/MAL-2022-1371.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/azure-schema-registry-avro-js/MAL-2022-1371.json"
 			}
 		}
 	],

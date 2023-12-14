@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/vso-splash-screen-terminals/MAL-2022-6982.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/vso-splash-screen-terminals/MAL-2022-6982.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/casesensitijepathswebpackplugin/MAL-2022-1835.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/casesensitijepathswebpackplugin/MAL-2022-1835.json"
 			}
 		}
 	],

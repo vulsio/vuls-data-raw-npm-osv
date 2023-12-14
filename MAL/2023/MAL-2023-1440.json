@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/react-dropzone-legacy/MAL-2023-1440.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/react-dropzone-legacy/MAL-2023-1440.json"
 			}
 		}
 	],

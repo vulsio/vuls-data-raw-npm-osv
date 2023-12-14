@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/bytedance-js-jdk/MAL-2022-1746.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bytedance-js-jdk/MAL-2022-1746.json"
 			}
 		}
 	],

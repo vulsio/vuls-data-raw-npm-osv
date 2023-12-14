@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/perimeterx-fastly-js-edge-template/MAL-2023-679.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/perimeterx-fastly-js-edge-template/MAL-2023-679.json"
 			}
 		}
 	],

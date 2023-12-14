@@ -16,7 +16,7 @@
 				"99.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/lp-transporter/MAL-2023-1542.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/lp-transporter/MAL-2023-1542.json"
 			}
 		}
 	],

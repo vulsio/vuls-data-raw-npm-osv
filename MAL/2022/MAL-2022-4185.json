@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/klook-node-framework-experiment/MAL-2022-4185.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/klook-node-framework-experiment/MAL-2022-4185.json"
 			}
 		}
 	],

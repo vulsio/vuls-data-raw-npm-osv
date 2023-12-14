@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/hyperwallet-sdk-paypal/MAL-2022-3740.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hyperwallet-sdk-paypal/MAL-2022-3740.json"
 			}
 		}
 	],

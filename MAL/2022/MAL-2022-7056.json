@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wdesk-sdk-builders/MAL-2022-7056.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wdesk-sdk-builders/MAL-2022-7056.json"
 			}
 		}
 	],

@@ -16,7 +16,7 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/stranger-strings-functions/MAL-2023-1307.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/stranger-strings-functions/MAL-2023-1307.json"
 			}
 		}
 	],

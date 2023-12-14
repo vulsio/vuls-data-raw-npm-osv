@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@xvideos/s3_tools/MAL-2022-776.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@xvideos/s3_tools/MAL-2022-776.json"
 			}
 		}
 	],

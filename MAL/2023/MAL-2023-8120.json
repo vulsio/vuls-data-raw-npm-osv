@@ -16,7 +16,7 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@healthbridge-design-system/components/MAL-2023-8120.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@healthbridge-design-system/components/MAL-2023-8120.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/data-mil-thor-ww1/MAL-2022-2338.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/data-mil-thor-ww1/MAL-2022-2338.json"
 			}
 		}
 	],

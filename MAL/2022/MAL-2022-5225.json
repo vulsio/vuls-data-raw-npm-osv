@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/path-to-reugep/MAL-2022-5225.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/path-to-reugep/MAL-2022-5225.json"
 			}
 		}
 	],

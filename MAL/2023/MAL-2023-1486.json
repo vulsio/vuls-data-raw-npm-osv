@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/inf-build-module/MAL-2023-1486.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/inf-build-module/MAL-2023-1486.json"
 			}
 		}
 	],

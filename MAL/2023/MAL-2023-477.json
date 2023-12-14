@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/globalize-bundle/MAL-2023-477.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/globalize-bundle/MAL-2023-477.json"
 			}
 		}
 	],

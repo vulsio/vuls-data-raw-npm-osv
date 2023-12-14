@@ -23,7 +23,7 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/some_crucial_web_app_new/MAL-2023-8035.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/some_crucial_web_app_new/MAL-2023-8035.json"
 			}
 		}
 	],

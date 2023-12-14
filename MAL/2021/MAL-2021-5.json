@@ -23,7 +23,7 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/portal-shell/MAL-2021-5.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/portal-shell/MAL-2021-5.json"
 			}
 		}
 	],

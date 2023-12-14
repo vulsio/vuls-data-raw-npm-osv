@@ -16,7 +16,7 @@
 				"11.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/csmqrcode/MAL-2023-8254.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/csmqrcode/MAL-2023-8254.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/fc-grid/MAL-2023-351.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fc-grid/MAL-2023-351.json"
 			}
 		}
 	],

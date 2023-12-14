@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/facebook-instant-articles-builder/MAL-2022-2960.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/facebook-instant-articles-builder/MAL-2022-2960.json"
 			}
 		}
 	],

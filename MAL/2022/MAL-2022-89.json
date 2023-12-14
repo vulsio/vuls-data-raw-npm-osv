@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@atlasmonorepo/email-wizard/MAL-2022-89.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@atlasmonorepo/email-wizard/MAL-2022-89.json"
 			}
 		}
 	],

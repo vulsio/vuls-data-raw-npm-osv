@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/tkn-poc/MAL-2023-8495.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tkn-poc/MAL-2023-8495.json"
 			}
 		}
 	],

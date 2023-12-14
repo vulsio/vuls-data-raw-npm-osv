@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/situs-slot-kakek-petir-slot-zeus-pragmaticplay-gampang-menang/MAL-2023-8348.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/situs-slot-kakek-petir-slot-zeus-pragmaticplay-gampang-menang/MAL-2023-8348.json"
 			}
 		}
 	],

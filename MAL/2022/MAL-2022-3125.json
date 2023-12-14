@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/fraud-filter/MAL-2022-3125.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fraud-filter/MAL-2022-3125.json"
 			}
 		}
 	],

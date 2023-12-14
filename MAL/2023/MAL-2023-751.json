@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/rudder-analytics-js-sdk-sanity-suite/MAL-2023-751.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/rudder-analytics-js-sdk-sanity-suite/MAL-2023-751.json"
 			}
 		}
 	],

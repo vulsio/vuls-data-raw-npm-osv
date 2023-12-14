@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/blueprintjs-monorepo/MAL-2022-1630.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/blueprintjs-monorepo/MAL-2022-1630.json"
 			}
 		}
 	],

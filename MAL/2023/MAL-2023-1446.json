@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/horaw/MAL-2023-1446.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/horaw/MAL-2023-1446.json"
 			}
 		}
 	],

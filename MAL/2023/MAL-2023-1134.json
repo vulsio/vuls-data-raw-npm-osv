@@ -16,7 +16,7 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/chain00xtest3/MAL-2023-1134.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/chain00xtest3/MAL-2023-1134.json"
 			}
 		}
 	],

@@ -16,7 +16,7 @@
 				"20.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/virgil-spring-boot-starter/MAL-2023-1337.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/virgil-spring-boot-starter/MAL-2023-1337.json"
 			}
 		}
 	],

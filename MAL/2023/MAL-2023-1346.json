@@ -16,7 +16,7 @@
 				"1.1.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/workfront-typescript-definitions/MAL-2023-1346.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/workfront-typescript-definitions/MAL-2023-1346.json"
 			}
 		}
 	],

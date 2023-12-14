@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/nrmadanadaogress/MAL-2022-4957.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/nrmadanadaogress/MAL-2022-4957.json"
 			}
 		}
 	],

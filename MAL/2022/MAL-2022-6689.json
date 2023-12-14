@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/twilio-bugcrowd-poc-twilio-flex-ui-sample/MAL-2022-6689.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/twilio-bugcrowd-poc-twilio-flex-ui-sample/MAL-2022-6689.json"
 			}
 		}
 	],

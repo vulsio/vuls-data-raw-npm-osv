@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@distributedcollective/charting-library/MAL-2022-204.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@distributedcollective/charting-library/MAL-2022-204.json"
 			}
 		}
 	],

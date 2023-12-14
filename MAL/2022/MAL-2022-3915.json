@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/intersting_package_bhavik/MAL-2022-3915.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/intersting_package_bhavik/MAL-2022-3915.json"
 			}
 		}
 	],

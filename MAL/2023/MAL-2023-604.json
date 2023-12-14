@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/mlp-friendship-map-mapping/MAL-2023-604.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mlp-friendship-map-mapping/MAL-2023-604.json"
 			}
 		}
 	],

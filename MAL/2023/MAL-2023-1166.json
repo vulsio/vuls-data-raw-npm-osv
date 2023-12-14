@@ -16,7 +16,7 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dragonsense-config/MAL-2023-1166.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dragonsense-config/MAL-2023-1166.json"
 			}
 		}
 	],

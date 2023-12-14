@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@emon-bhai/fca-emon-bhai-api/MAL-2023-8334.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@emon-bhai/fca-emon-bhai-api/MAL-2023-8334.json"
 			}
 		}
 	],

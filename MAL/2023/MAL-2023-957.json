@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/waking-the-tiger-healing-trauma-by-peter-a-levine-on-kindle-new-format-/MAL-2023-957.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/waking-the-tiger-healing-trauma-by-peter-a-levine-on-kindle-new-format-/MAL-2023-957.json"
 			}
 		}
 	],

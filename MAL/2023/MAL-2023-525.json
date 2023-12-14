@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ing-feat-lu-luxtrust-oaw-authentication/MAL-2023-525.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ing-feat-lu-luxtrust-oaw-authentication/MAL-2023-525.json"
 			}
 		}
 	],

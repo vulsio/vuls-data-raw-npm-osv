@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/intena_pkg_for_hs/MAL-2022-3859.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/intena_pkg_for_hs/MAL-2022-3859.json"
 			}
 		}
 	],

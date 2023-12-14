@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/hidden-figures-by-margot-lee-shetterly-on-kindle-new-format-/MAL-2023-499.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hidden-figures-by-margot-lee-shetterly-on-kindle-new-format-/MAL-2023-499.json"
 			}
 		}
 	],

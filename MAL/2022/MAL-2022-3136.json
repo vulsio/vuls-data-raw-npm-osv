@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/free-fire-hakc-donwload-tool-2022/MAL-2022-3136.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/free-fire-hakc-donwload-tool-2022/MAL-2022-3136.json"
 			}
 		}
 	],

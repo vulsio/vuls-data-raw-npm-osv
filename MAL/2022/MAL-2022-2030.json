@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/com.apple.core/MAL-2022-2030.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/com.apple.core/MAL-2022-2030.json"
 			}
 		}
 	],

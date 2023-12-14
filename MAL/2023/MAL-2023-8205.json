@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@zettle-bo/react-spa/MAL-2023-8205.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@zettle-bo/react-spa/MAL-2023-8205.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/red-bull-global-onboarding/MAL-2022-5719.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/red-bull-global-onboarding/MAL-2022-5719.json"
 			}
 		}
 	],

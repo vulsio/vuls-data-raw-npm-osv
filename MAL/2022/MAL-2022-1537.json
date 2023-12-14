@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/bfx-facs-sftp/MAL-2022-1537.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bfx-facs-sftp/MAL-2022-1537.json"
 			}
 		}
 	],

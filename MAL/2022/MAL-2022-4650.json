@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/mobilbank-communication/MAL-2022-4650.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mobilbank-communication/MAL-2022-4650.json"
 			}
 		}
 	],

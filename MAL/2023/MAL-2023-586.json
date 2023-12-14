@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/mdes_digital_enablement_api/MAL-2023-586.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mdes_digital_enablement_api/MAL-2023-586.json"
 			}
 		}
 	],

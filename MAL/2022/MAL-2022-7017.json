@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wafer-beacon/MAL-2022-7017.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wafer-beacon/MAL-2022-7017.json"
 			}
 		}
 	],

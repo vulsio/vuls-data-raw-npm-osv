@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/kbn-ui-shared-deps/MAL-2022-4126.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/kbn-ui-shared-deps/MAL-2022-4126.json"
 			}
 		}
 	],

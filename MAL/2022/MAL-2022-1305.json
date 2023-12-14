@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/azure-communication-short-codes/MAL-2022-1305.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/azure-communication-short-codes/MAL-2022-1305.json"
 			}
 		}
 	],

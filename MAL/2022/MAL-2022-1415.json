@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/babel-pzugin-transform-es2015-modues-commonjs/MAL-2022-1415.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/babel-pzugin-transform-es2015-modues-commonjs/MAL-2022-1415.json"
 			}
 		}
 	],

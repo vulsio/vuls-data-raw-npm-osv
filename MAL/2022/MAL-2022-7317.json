@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/yamoney-react-components/MAL-2022-7317.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/yamoney-react-components/MAL-2022-7317.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/beta-fhr-nxt/MAL-2023-8228.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/beta-fhr-nxt/MAL-2023-8228.json"
 			}
 		}
 	],

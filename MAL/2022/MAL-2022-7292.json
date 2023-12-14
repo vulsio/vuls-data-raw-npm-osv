@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/xp-ui/MAL-2022-7292.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/xp-ui/MAL-2022-7292.json"
 			}
 		}
 	],

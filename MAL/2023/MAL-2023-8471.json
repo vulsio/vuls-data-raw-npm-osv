@@ -16,7 +16,7 @@
 				"0.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@klapp-shopping-search-v2/data-types-public/MAL-2023-8471.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@klapp-shopping-search-v2/data-types-public/MAL-2023-8471.json"
 			}
 		}
 	],

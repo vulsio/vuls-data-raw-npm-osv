@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/canavs/MAL-2022-1820.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/canavs/MAL-2022-1820.json"
 			}
 		}
 	],

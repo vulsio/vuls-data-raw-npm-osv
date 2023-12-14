@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/emoji-scavenger-hunt/MAL-2022-2729.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/emoji-scavenger-hunt/MAL-2022-2729.json"
 			}
 		}
 	],

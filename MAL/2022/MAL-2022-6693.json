@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/twilio-video-app-react/MAL-2022-6693.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/twilio-video-app-react/MAL-2022-6693.json"
 			}
 		}
 	],

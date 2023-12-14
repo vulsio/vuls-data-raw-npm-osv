@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/braze-webpack-sample/MAL-2023-141.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/braze-webpack-sample/MAL-2023-141.json"
 			}
 		}
 	],

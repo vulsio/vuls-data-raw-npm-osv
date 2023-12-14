@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/sparhandy-speedtest/MAL-2022-6228.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/sparhandy-speedtest/MAL-2022-6228.json"
 			}
 		}
 	],

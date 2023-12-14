@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/axios-proxy/MAL-2023-116.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/axios-proxy/MAL-2023-116.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/tazata/MAL-2022-6423.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tazata/MAL-2022-6423.json"
 			}
 		}
 	],

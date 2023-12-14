@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/yandex-logger-qloud/MAL-2023-985.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/yandex-logger-qloud/MAL-2023-985.json"
 			}
 		}
 	],

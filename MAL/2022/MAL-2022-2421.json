@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/deneuve-package-test/MAL-2022-2421.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/deneuve-package-test/MAL-2022-2421.json"
 			}
 		}
 	],

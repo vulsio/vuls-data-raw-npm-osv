@@ -16,7 +16,7 @@
 				"2.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/hydra-consent-app-express/MAL-2023-7917.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hydra-consent-app-express/MAL-2023-7917.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/yaml2stream/MAL-2023-982.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/yaml2stream/MAL-2023-982.json"
 			}
 		}
 	],

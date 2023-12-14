@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/discord.js-hakai-v2/MAL-2023-255.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/discord.js-hakai-v2/MAL-2023-255.json"
 			}
 		}
 	],

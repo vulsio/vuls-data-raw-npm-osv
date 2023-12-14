@@ -16,7 +16,7 @@
 				"1.0.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/store-js-sdk/MAL-2023-1306.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/store-js-sdk/MAL-2023-1306.json"
 			}
 		}
 	],

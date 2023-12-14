@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/get-twitter-status/MAL-2023-8645.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/get-twitter-status/MAL-2023-8645.json"
 			}
 		}
 	],

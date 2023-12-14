@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@bingads-webui-campaign-react/labels-page/MAL-2023-27.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@bingads-webui-campaign-react/labels-page/MAL-2023-27.json"
 			}
 		}
 	],

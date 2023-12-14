@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/vagrant-s3-cdk/MAL-2022-6887.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/vagrant-s3-cdk/MAL-2022-6887.json"
 			}
 		}
 	],

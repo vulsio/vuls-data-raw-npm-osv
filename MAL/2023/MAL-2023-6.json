@@ -17,7 +17,7 @@
 				"99.99.101"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/parallel-workers/MAL-2023-6.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/parallel-workers/MAL-2023-6.json"
 			}
 		}
 	],

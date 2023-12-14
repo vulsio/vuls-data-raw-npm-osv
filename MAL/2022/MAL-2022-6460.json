@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/terra-view-function-adapter/MAL-2022-6460.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/terra-view-function-adapter/MAL-2022-6460.json"
 			}
 		}
 	],

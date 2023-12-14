@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/slit-stged/MAL-2022-6167.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/slit-stged/MAL-2022-6167.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/walmart-component-library/MAL-2022-7042.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/walmart-component-library/MAL-2022-7042.json"
 			}
 		}
 	],

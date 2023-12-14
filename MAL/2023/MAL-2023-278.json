@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dow-load-prisoners-of-geography-ten-maps-that-explain-everything-about-the-world-by-tim-ma/MAL-2023-278.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dow-load-prisoners-of-geography-ten-maps-that-explain-everything-about-the-world-by-tim-ma/MAL-2023-278.json"
 			}
 		}
 	],

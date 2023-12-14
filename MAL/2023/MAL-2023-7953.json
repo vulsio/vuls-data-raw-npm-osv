@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/eslint-config-lotus/MAL-2023-7953.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/eslint-config-lotus/MAL-2023-7953.json"
 			}
 		}
 	],

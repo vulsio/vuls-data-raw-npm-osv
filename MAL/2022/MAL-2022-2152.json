@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/coninect-flksh/MAL-2022-2152.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/coninect-flksh/MAL-2022-2152.json"
 			}
 		}
 	],

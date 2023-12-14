@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/remote-dev-jobs-streamer/MAL-2022-5741.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/remote-dev-jobs-streamer/MAL-2022-5741.json"
 			}
 		}
 	],

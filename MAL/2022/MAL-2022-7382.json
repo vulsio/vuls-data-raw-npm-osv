@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/zendesk-editor/MAL-2022-7382.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/zendesk-editor/MAL-2022-7382.json"
 			}
 		}
 	],

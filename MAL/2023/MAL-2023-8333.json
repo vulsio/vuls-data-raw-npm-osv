@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@dsr-rollback-org-hover-owled-agios-situs/dsr-rollback-package-hover-owled-agios-situs/MAL-2023-8333.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@dsr-rollback-org-hover-owled-agios-situs/dsr-rollback-package-hover-owled-agios-situs/MAL-2023-8333.json"
 			}
 		}
 	],

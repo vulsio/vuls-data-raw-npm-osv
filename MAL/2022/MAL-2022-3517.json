@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/gulpposgcss/MAL-2022-3517.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/gulpposgcss/MAL-2022-3517.json"
 			}
 		}
 	],

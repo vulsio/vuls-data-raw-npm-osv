@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/tv_home/MAL-2022-6684.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tv_home/MAL-2022-6684.json"
 			}
 		}
 	],

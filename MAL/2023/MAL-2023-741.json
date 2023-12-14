@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/recurly-dev/MAL-2023-741.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/recurly-dev/MAL-2023-741.json"
 			}
 		}
 	],

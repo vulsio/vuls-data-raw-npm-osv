@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/chain-desktop-wallet/MAL-2022-1871.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/chain-desktop-wallet/MAL-2022-1871.json"
 			}
 		}
 	],

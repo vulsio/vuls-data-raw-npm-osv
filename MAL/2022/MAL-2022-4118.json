@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/katt-player/MAL-2022-4118.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/katt-player/MAL-2022-4118.json"
 			}
 		}
 	],

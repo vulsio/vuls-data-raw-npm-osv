@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@image-process-library/blob-to-base64/MAL-2022-352.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@image-process-library/blob-to-base64/MAL-2022-352.json"
 			}
 		}
 	],

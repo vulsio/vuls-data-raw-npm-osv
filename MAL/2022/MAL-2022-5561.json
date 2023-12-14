@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/quantum-jobs/MAL-2022-5561.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/quantum-jobs/MAL-2022-5561.json"
 			}
 		}
 	],

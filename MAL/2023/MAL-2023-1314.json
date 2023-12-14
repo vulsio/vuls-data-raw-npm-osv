@@ -16,7 +16,7 @@
 				"1.1.2"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/tecno-new/MAL-2023-1314.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tecno-new/MAL-2023-1314.json"
 			}
 		}
 	],

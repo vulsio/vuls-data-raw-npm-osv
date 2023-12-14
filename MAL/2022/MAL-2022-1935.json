@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/cloudflare-docs-engine/MAL-2022-1935.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cloudflare-docs-engine/MAL-2022-1935.json"
 			}
 		}
 	],

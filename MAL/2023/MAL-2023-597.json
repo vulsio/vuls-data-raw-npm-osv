@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/milo-cute/MAL-2023-597.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/milo-cute/MAL-2023-597.json"
 			}
 		}
 	],

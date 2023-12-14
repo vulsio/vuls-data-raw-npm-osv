@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/babrlpdloader/MAL-2022-1447.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/babrlpdloader/MAL-2022-1447.json"
 			}
 		}
 	],

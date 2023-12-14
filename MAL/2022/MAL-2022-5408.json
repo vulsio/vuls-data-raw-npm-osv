@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/polygon-adapter/MAL-2022-5408.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/polygon-adapter/MAL-2022-5408.json"
 			}
 		}
 	],

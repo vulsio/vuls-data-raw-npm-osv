@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/fiji-core-cryptopool/MAL-2023-8046.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fiji-core-cryptopool/MAL-2023-8046.json"
 			}
 		}
 	],

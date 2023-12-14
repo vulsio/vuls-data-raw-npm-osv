@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@xvideos/runner/MAL-2022-773.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@xvideos/runner/MAL-2022-773.json"
 			}
 		}
 	],

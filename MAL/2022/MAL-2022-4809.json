@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/network-metrics-js/MAL-2022-4809.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/network-metrics-js/MAL-2022-4809.json"
 			}
 		}
 	],

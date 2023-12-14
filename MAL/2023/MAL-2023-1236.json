@@ -16,7 +16,7 @@
 				"0.28.263081"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/microsoft.quantum.sdk/MAL-2023-1236.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/microsoft.quantum.sdk/MAL-2023-1236.json"
 			}
 		}
 	],

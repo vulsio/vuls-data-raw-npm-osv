@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/fc-settings-service/MAL-2023-367.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fc-settings-service/MAL-2023-367.json"
 			}
 		}
 	],

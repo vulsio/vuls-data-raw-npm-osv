@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/life.qq.com/MAL-2022-4306.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/life.qq.com/MAL-2022-4306.json"
 			}
 		}
 	],

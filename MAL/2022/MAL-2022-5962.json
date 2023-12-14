@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/schedviz/MAL-2022-5962.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/schedviz/MAL-2022-5962.json"
 			}
 		}
 	],

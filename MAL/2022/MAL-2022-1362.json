@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/azure-pipelines-dependency-track/MAL-2022-1362.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/azure-pipelines-dependency-track/MAL-2022-1362.json"
 			}
 		}
 	],

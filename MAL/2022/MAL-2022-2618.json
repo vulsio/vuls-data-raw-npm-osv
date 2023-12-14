@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dustjs-linkedin-helpers/MAL-2022-2618.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dustjs-linkedin-helpers/MAL-2022-2618.json"
 			}
 		}
 	],

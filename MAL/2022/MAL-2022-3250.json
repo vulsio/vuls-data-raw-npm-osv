@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/fusion-tables-drive-export/MAL-2022-3250.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fusion-tables-drive-export/MAL-2022-3250.json"
 			}
 		}
 	],

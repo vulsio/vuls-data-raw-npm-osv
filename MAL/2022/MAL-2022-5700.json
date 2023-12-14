@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/reacttrans8tiongroup/MAL-2022-5700.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/reacttrans8tiongroup/MAL-2022-5700.json"
 			}
 		}
 	],

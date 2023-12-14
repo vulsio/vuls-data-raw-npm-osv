@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/purple_team_midway_cenario_2/MAL-2022-5527.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/purple_team_midway_cenario_2/MAL-2022-5527.json"
 			}
 		}
 	],

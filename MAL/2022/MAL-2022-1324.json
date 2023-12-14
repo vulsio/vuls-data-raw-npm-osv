@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/azure-digital-twins-core-js/MAL-2022-1324.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/azure-digital-twins-core-js/MAL-2022-1324.json"
 			}
 		}
 	],

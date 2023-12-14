@@ -18,7 +18,7 @@
 				"1.18.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/kobi--front-helpers/MAL-2023-1222.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/kobi--front-helpers/MAL-2023-1222.json"
 			}
 		}
 	],

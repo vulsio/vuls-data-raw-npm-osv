@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/com.google.firebase.app/MAL-2022-2035.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/com.google.firebase.app/MAL-2022-2035.json"
 			}
 		}
 	],

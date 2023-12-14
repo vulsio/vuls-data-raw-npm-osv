@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/imagemu8/MAL-2022-3799.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/imagemu8/MAL-2022-3799.json"
 			}
 		}
 	],

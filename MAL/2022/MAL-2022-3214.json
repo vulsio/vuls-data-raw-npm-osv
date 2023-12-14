@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/frogsui/MAL-2022-3214.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/frogsui/MAL-2022-3214.json"
 			}
 		}
 	],

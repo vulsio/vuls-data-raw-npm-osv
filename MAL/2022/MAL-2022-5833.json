@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/roblox-es6-migration-helper/MAL-2022-5833.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/roblox-es6-migration-helper/MAL-2022-5833.json"
 			}
 		}
 	],

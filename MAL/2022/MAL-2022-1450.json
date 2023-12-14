@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/bael-plugin-syntax-dynramic-import/MAL-2022-1450.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bael-plugin-syntax-dynramic-import/MAL-2022-1450.json"
 			}
 		}
 	],

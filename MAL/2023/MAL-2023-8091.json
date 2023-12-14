@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/pretty-array/MAL-2023-8091.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/pretty-array/MAL-2023-8091.json"
 			}
 		}
 	],

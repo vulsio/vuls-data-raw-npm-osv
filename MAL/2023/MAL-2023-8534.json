@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/autocomplete-core/MAL-2023-8534.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/autocomplete-core/MAL-2023-8534.json"
 			}
 		}
 	],

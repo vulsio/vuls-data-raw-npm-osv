@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/paywithaffirmtheme/MAL-2022-5254.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/paywithaffirmtheme/MAL-2022-5254.json"
 			}
 		}
 	],

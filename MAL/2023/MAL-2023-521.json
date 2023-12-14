@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/imposter-pkg-poc/MAL-2023-521.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/imposter-pkg-poc/MAL-2023-521.json"
 			}
 		}
 	],

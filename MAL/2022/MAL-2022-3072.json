@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/fleetrouting-app-backend/MAL-2022-3072.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fleetrouting-app-backend/MAL-2022-3072.json"
 			}
 		}
 	],

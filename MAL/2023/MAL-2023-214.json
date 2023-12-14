@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/creation_ct630_usb_driver__5w/MAL-2023-214.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/creation_ct630_usb_driver__5w/MAL-2023-214.json"
 			}
 		}
 	],

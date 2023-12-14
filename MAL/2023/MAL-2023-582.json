@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/marathi_chawat_katha_mck_comics_by_24_gw97/MAL-2023-582.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/marathi_chawat_katha_mck_comics_by_24_gw97/MAL-2023-582.json"
 			}
 		}
 	],

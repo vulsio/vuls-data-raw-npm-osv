@@ -16,7 +16,7 @@
 				"5.0.9"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/shopify-sections-manager/MAL-2023-8299.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/shopify-sections-manager/MAL-2023-8299.json"
 			}
 		}
 	],

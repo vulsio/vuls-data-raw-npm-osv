@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/a11y-speak/MAL-2022-799.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/a11y-speak/MAL-2022-799.json"
 			}
 		}
 	],

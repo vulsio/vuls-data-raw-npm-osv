@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/mbed-drivers/MAL-2022-4513.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mbed-drivers/MAL-2022-4513.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/gxm-reference-web-auth-server/MAL-2022-3538.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/gxm-reference-web-auth-server/MAL-2022-3538.json"
 			}
 		}
 	],

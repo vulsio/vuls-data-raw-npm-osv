@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/alias-for-vue3/MAL-2022-932.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/alias-for-vue3/MAL-2022-932.json"
 			}
 		}
 	],

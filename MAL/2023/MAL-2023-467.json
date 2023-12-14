@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/gatsby-remark-images-uploadcare/MAL-2023-467.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/gatsby-remark-images-uploadcare/MAL-2023-467.json"
 			}
 		}
 	],

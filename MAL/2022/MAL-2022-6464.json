@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/tesla-pre-delivery-onboarding/MAL-2022-6464.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tesla-pre-delivery-onboarding/MAL-2022-6464.json"
 			}
 		}
 	],

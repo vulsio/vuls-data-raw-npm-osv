@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/mapbox-studio-default-fonts/MAL-2022-4475.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mapbox-studio-default-fonts/MAL-2022-4475.json"
 			}
 		}
 	],

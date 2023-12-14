@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/mollie-design-system/MAL-2022-4669.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mollie-design-system/MAL-2022-4669.json"
 			}
 		}
 	],

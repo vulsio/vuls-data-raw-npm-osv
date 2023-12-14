@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/client-sdk-contract-tests/MAL-2022-1926.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/client-sdk-contract-tests/MAL-2022-1926.json"
 			}
 		}
 	],

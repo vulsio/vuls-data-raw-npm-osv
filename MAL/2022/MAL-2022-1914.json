@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/cleancuss/MAL-2022-1914.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cleancuss/MAL-2022-1914.json"
 			}
 		}
 	],

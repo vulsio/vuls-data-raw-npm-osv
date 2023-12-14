@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@playgami/portal-design-icons/MAL-2023-51.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@playgami/portal-design-icons/MAL-2023-51.json"
 			}
 		}
 	],

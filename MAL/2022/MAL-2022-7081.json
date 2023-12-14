@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/web3-0.20.7/MAL-2022-7081.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/web3-0.20.7/MAL-2022-7081.json"
 			}
 		}
 	],

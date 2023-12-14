@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/auto-protect-node/MAL-2023-115.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/auto-protect-node/MAL-2023-115.json"
 			}
 		}
 	],

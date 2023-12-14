@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/collection-events-discord-webhook/MAL-2022-1994.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/collection-events-discord-webhook/MAL-2022-1994.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/brlc-token/MAL-2022-1685.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/brlc-token/MAL-2022-1685.json"
 			}
 		}
 	],

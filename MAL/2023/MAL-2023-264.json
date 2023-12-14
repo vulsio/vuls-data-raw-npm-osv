@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/django-template-common/MAL-2023-264.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/django-template-common/MAL-2023-264.json"
 			}
 		}
 	],

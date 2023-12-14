@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/santander-portal-node-library/MAL-2023-760.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/santander-portal-node-library/MAL-2023-760.json"
 			}
 		}
 	],

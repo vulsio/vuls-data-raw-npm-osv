@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/fi-connect/MAL-2023-438.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fi-connect/MAL-2023-438.json"
 			}
 		}
 	],

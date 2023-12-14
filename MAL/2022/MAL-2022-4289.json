@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/levl/MAL-2022-4289.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/levl/MAL-2022-4289.json"
 			}
 		}
 	],

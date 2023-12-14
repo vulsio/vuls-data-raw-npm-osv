@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dow-load-twisted-palace-the-royals-3-by-erin-watt-on-kindle-full-edition-/MAL-2023-285.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dow-load-twisted-palace-the-royals-3-by-erin-watt-on-kindle-full-edition-/MAL-2023-285.json"
 			}
 		}
 	],

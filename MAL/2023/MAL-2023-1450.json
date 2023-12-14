@@ -16,7 +16,7 @@
 				"99.99.9"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/blockly-mirror-demo/MAL-2023-1450.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/blockly-mirror-demo/MAL-2023-1450.json"
 			}
 		}
 	],

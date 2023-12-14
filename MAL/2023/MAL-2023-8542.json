@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/cobrowse-visitor/MAL-2023-8542.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cobrowse-visitor/MAL-2023-8542.json"
 			}
 		}
 	],

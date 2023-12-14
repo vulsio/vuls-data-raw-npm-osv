@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/guzpless/MAL-2022-3531.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/guzpless/MAL-2022-3531.json"
 			}
 		}
 	],

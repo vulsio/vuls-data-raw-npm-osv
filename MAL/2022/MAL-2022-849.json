@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/adc-session-id/MAL-2022-849.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/adc-session-id/MAL-2022-849.json"
 			}
 		}
 	],

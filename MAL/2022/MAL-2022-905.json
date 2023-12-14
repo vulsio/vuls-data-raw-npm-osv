@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ai-text-analytics/MAL-2022-905.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ai-text-analytics/MAL-2022-905.json"
 			}
 		}
 	],

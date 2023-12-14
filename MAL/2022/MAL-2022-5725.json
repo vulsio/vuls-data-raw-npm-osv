@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/redtail-embeddable-ringcentral-phone/MAL-2022-5725.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/redtail-embeddable-ringcentral-phone/MAL-2022-5725.json"
 			}
 		}
 	],

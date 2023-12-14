@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/paypay-sample-ecommerce-server/MAL-2022-5249.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/paypay-sample-ecommerce-server/MAL-2022-5249.json"
 			}
 		}
 	],

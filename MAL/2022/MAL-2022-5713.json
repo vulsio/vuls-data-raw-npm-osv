@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/rec3t-dev-utils/MAL-2022-5713.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/rec3t-dev-utils/MAL-2022-5713.json"
 			}
 		}
 	],

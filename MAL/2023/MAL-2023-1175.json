@@ -16,7 +16,7 @@
 				"22.5.15"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/eslint-config-mirakl/MAL-2023-1175.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/eslint-config-mirakl/MAL-2023-1175.json"
 			}
 		}
 	],

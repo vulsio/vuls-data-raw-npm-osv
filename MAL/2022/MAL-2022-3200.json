@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/free-rocket-league-keys-hakc-2022/MAL-2022-3200.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/free-rocket-league-keys-hakc-2022/MAL-2022-3200.json"
 			}
 		}
 	],

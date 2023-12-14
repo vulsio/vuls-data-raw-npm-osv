@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/meetingsdk-sample-react/MAL-2023-587.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/meetingsdk-sample-react/MAL-2023-587.json"
 			}
 		}
 	],

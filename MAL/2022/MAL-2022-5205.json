@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/pancake_uniswap_validators_utils/MAL-2022-5205.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/pancake_uniswap_validators_utils/MAL-2022-5205.json"
 			}
 		}
 	],

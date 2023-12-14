@@ -23,7 +23,7 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@pagseguro/axios-instance/MAL-2023-7994.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@pagseguro/axios-instance/MAL-2023-7994.json"
 			}
 		}
 	],

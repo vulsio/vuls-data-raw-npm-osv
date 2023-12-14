@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/grunt-backbone-typescript-accessor-generator/MAL-2022-3471.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/grunt-backbone-typescript-accessor-generator/MAL-2022-3471.json"
 			}
 		}
 	],

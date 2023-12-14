@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/charting-library-angular5/MAL-2022-1885.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/charting-library-angular5/MAL-2022-1885.json"
 			}
 		}
 	],

@@ -16,7 +16,7 @@
 				"50.20.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/vymo-jsevaluator/MAL-2023-1339.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/vymo-jsevaluator/MAL-2023-1339.json"
 			}
 		}
 	],

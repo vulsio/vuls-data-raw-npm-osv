@@ -16,7 +16,7 @@
 				"0.2.3"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/grizzly_sql_graph_visualization/MAL-2023-1192.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/grizzly_sql_graph_visualization/MAL-2023-1192.json"
 			}
 		}
 	],

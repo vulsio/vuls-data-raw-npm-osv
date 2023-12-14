@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/maps-api-for-javascript/MAL-2022-4479.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/maps-api-for-javascript/MAL-2022-4479.json"
 			}
 		}
 	],

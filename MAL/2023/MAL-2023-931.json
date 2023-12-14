@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ux-translation-tools/MAL-2023-931.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ux-translation-tools/MAL-2023-931.json"
 			}
 		}
 	],

@@ -16,7 +16,7 @@
 				"99.99.991"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@get-bridge/tapestry-sdk/MAL-2023-8065.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@get-bridge/tapestry-sdk/MAL-2023-8065.json"
 			}
 		}
 	],

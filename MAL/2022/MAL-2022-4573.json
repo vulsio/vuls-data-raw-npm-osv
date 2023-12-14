@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/metamask-state-log-explorer/MAL-2022-4573.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/metamask-state-log-explorer/MAL-2022-4573.json"
 			}
 		}
 	],

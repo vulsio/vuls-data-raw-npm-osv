@@ -16,7 +16,7 @@
 				"1.1.14"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/firefly-utilities-helper-ts/MAL-2023-1181.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/firefly-utilities-helper-ts/MAL-2023-1181.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ringcentral-embeddable-voice-app/MAL-2022-5804.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ringcentral-embeddable-voice-app/MAL-2022-5804.json"
 			}
 		}
 	],

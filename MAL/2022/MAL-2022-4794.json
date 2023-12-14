@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/near-api-server/MAL-2022-4794.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/near-api-server/MAL-2022-4794.json"
 			}
 		}
 	],

@@ -17,7 +17,7 @@
 				"9.0.2"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/links-3/MAL-2023-1228.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/links-3/MAL-2023-1228.json"
 			}
 		}
 	],

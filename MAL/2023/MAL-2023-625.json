@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/nirvana-api/MAL-2023-625.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/nirvana-api/MAL-2023-625.json"
 			}
 		}
 	],

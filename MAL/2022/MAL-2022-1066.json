@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/app.uniswap.org/MAL-2022-1066.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/app.uniswap.org/MAL-2022-1066.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/hhsoig-design-system-core/MAL-2022-3624.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hhsoig-design-system-core/MAL-2022-3624.json"
 			}
 		}
 	],

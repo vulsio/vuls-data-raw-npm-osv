@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/yandex-cfg-env/MAL-2023-983.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/yandex-cfg-env/MAL-2023-983.json"
 			}
 		}
 	],

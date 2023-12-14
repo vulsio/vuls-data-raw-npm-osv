@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/rocketship-validator/MAL-2023-748.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/rocketship-validator/MAL-2023-748.json"
 			}
 		}
 	],

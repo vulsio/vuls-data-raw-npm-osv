@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wafer-darla/MAL-2022-7022.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wafer-darla/MAL-2022-7022.json"
 			}
 		}
 	],

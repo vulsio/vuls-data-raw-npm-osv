@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wakacje-frontend-salki-neon/MAL-2022-7035.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wakacje-frontend-salki-neon/MAL-2022-7035.json"
 			}
 		}
 	],

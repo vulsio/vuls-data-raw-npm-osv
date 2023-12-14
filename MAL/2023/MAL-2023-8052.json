@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/jupiter-opensdk/MAL-2023-8052.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/jupiter-opensdk/MAL-2023-8052.json"
 			}
 		}
 	],

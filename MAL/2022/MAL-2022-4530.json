@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/mean_time_recovery/MAL-2022-4530.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mean_time_recovery/MAL-2022-4530.json"
 			}
 		}
 	],

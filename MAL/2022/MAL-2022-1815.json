@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/calling-stateful-client/MAL-2022-1815.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/calling-stateful-client/MAL-2022-1815.json"
 			}
 		}
 	],

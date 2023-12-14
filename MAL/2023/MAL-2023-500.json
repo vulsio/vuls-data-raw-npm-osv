@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/hiring-without-whiteboards/MAL-2023-500.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hiring-without-whiteboards/MAL-2023-500.json"
 			}
 		}
 	],

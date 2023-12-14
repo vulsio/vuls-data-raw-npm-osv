@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/the-viscount-who-loved-me-bridgertons-2-by-julia-quinn-on-textbook-full-version-/MAL-2023-879.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/the-viscount-who-loved-me-bridgertons-2-by-julia-quinn-on-textbook-full-version-/MAL-2023-879.json"
 			}
 		}
 	],

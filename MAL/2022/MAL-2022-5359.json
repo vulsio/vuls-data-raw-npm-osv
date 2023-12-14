@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/playhq_net_jwplayer/MAL-2022-5359.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/playhq_net_jwplayer/MAL-2022-5359.json"
 			}
 		}
 	],

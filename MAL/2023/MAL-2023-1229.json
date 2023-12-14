@@ -16,7 +16,7 @@
 				"3.1.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/logzio-azure-serverless/MAL-2023-1229.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/logzio-azure-serverless/MAL-2023-1229.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/cash-app-free-money/MAL-2022-1837.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cash-app-free-money/MAL-2022-1837.json"
 			}
 		}
 	],

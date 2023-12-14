@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@tr-digital/react-rehydrate/MAL-2022-666.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@tr-digital/react-rehydrate/MAL-2022-666.json"
 			}
 		}
 	],

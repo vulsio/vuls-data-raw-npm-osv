@@ -16,7 +16,7 @@
 				"3.4.15"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dropdown-input/MAL-2023-8622.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dropdown-input/MAL-2023-8622.json"
 			}
 		}
 	],

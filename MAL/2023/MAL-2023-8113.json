@@ -41,7 +41,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/developer-scaffold-full-width-wrapper/MAL-2023-8113.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/developer-scaffold-full-width-wrapper/MAL-2023-8113.json"
 			}
 		}
 	],

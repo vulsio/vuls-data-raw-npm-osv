@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/nunjcke/MAL-2022-4976.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/nunjcke/MAL-2022-4976.json"
 			}
 		}
 	],

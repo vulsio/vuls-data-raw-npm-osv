@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/jmadanada-base64/MAL-2022-4038.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/jmadanada-base64/MAL-2022-4038.json"
 			}
 		}
 	],

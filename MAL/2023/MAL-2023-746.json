@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/river-of-love-audiobook-the-bradens-at-peaceful-harbor-3-the-bradens-15-love-in-bloom-34-by-melissa-/MAL-2023-746.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/river-of-love-audiobook-the-bradens-at-peaceful-harbor-3-the-bradens-15-love-in-bloom-34-by-melissa-/MAL-2023-746.json"
 			}
 		}
 	],

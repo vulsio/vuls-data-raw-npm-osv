@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/eacttestrenderer/MAL-2022-2651.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/eacttestrenderer/MAL-2022-2651.json"
 			}
 		}
 	],

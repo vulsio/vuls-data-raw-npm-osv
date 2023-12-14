@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ifabric-styling-bundle/MAL-2023-516.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ifabric-styling-bundle/MAL-2023-516.json"
 			}
 		}
 	],

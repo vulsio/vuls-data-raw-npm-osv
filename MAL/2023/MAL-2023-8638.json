@@ -39,7 +39,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/discord-sounds/MAL-2023-8638.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/discord-sounds/MAL-2023-8638.json"
 			}
 		}
 	],

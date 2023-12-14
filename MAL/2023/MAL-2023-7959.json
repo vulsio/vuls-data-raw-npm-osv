@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wallet-add-chain/MAL-2023-7959.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wallet-add-chain/MAL-2023-7959.json"
 			}
 		}
 	],

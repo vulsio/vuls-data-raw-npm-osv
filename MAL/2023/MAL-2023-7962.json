@@ -37,7 +37,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/metronome-ui/MAL-2023-7962.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/metronome-ui/MAL-2023-7962.json"
 			}
 		}
 	],

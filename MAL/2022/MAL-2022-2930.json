@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/express-yandexuid/MAL-2022-2930.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/express-yandexuid/MAL-2022-2930.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/bender-event-definition-loader/MAL-2022-1500.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bender-event-definition-loader/MAL-2022-1500.json"
 			}
 		}
 	],

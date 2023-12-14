@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/toolbox-bem-bundle/MAL-2023-895.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/toolbox-bem-bundle/MAL-2023-895.json"
 			}
 		}
 	],

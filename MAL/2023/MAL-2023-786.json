@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/spaceman-an-astronauts-unlikely-journey-to-unlock-the-secrets-of-the-universe-by-mike-massimino-on-a/MAL-2023-786.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/spaceman-an-astronauts-unlikely-journey-to-unlock-the-secrets-of-the-universe-by-mike-massimino-on-a/MAL-2023-786.json"
 			}
 		}
 	],

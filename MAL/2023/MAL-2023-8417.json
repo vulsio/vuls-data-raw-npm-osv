@@ -39,7 +39,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/transaction-decoder/MAL-2023-8417.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/transaction-decoder/MAL-2023-8417.json"
 			}
 		}
 	],

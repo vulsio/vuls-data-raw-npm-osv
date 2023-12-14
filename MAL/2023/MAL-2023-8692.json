@@ -16,7 +16,7 @@
 				"13.0.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@dle-multiform-angular-component/core/MAL-2023-8692.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@dle-multiform-angular-component/core/MAL-2023-8692.json"
 			}
 		}
 	],

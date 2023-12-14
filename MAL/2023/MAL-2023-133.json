@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/binance-prices/MAL-2023-133.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/binance-prices/MAL-2023-133.json"
 			}
 		}
 	],

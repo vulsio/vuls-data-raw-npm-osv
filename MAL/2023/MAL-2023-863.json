@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/thank-you-for-being-late-an-optimists-guide-to-thriving-in-the-age-of-accelerations-by-thomas-l-frie/MAL-2023-863.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/thank-you-for-being-late-an-optimists-guide-to-thriving-in-the-age-of-accelerations-by-thomas-l-frie/MAL-2023-863.json"
 			}
 		}
 	],

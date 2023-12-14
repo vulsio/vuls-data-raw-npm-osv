@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ticket-parser2/MAL-2023-889.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ticket-parser2/MAL-2023-889.json"
 			}
 		}
 	],

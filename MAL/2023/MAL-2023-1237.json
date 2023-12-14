@@ -16,7 +16,7 @@
 				"1.0.3"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/misk-tailwind-css/MAL-2023-1237.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/misk-tailwind-css/MAL-2023-1237.json"
 			}
 		}
 	],

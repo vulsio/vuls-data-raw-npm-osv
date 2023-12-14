@@ -16,7 +16,7 @@
 				"3.3.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/xsollacommercesdk/MAL-2023-8439.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/xsollacommercesdk/MAL-2023-8439.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/bot-discord-js/MAL-2022-1656.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bot-discord-js/MAL-2022-1656.json"
 			}
 		}
 	],

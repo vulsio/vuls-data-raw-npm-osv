@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@fb-pfpcommon/core/MAL-2022-262.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@fb-pfpcommon/core/MAL-2022-262.json"
 			}
 		}
 	],

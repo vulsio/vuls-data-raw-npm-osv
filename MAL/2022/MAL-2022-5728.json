@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/redux-data-model-documentation/MAL-2022-5728.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/redux-data-model-documentation/MAL-2022-5728.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ex6error/MAL-2022-2906.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ex6error/MAL-2022-2906.json"
 			}
 		}
 	],

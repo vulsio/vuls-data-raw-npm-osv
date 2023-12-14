@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/envision-config/MAL-2023-8401.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/envision-config/MAL-2023-8401.json"
 			}
 		}
 	],

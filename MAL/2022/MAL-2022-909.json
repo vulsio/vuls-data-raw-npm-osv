@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/airbnb-cookie/MAL-2022-909.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/airbnb-cookie/MAL-2022-909.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/fortnite-skin-2022-free-fortnite-skins-genertor-2022/MAL-2022-3115.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fortnite-skin-2022-free-fortnite-skins-genertor-2022/MAL-2022-3115.json"
 			}
 		}
 	],

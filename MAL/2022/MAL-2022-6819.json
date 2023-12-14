@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/uraib/MAL-2022-6819.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/uraib/MAL-2022-6819.json"
 			}
 		}
 	],

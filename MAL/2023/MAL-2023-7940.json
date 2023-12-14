@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/school-task-tester/MAL-2023-7940.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/school-task-tester/MAL-2023-7940.json"
 			}
 		}
 	],

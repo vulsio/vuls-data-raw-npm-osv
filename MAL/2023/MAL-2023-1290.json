@@ -18,7 +18,7 @@
 				"5.2.3"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/scuid-x/MAL-2023-1290.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/scuid-x/MAL-2023-1290.json"
 			}
 		}
 	],

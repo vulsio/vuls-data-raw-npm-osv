@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/eclipse-typescript/MAL-2022-2659.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/eclipse-typescript/MAL-2022-2659.json"
 			}
 		}
 	],

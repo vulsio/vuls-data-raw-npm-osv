@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ierbase/MAL-2022-3783.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ierbase/MAL-2022-3783.json"
 			}
 		}
 	],

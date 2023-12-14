@@ -17,7 +17,7 @@
 				"101.0.9"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@mddsfmsdflm/itemselector/MAL-2023-1085.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@mddsfmsdflm/itemselector/MAL-2023-1085.json"
 			}
 		}
 	],

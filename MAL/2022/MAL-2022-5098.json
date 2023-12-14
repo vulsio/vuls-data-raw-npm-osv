@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/opensea-creatures/MAL-2022-5098.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/opensea-creatures/MAL-2022-5098.json"
 			}
 		}
 	],

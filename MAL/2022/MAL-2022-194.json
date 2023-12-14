@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@dbk-legacy/muster/MAL-2022-194.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@dbk-legacy/muster/MAL-2022-194.json"
 			}
 		}
 	],

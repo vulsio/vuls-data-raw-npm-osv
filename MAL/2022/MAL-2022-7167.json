@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wix-form-builder/MAL-2022-7167.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wix-form-builder/MAL-2022-7167.json"
 			}
 		}
 	],

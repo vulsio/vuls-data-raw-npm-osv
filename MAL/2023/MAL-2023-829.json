@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/tanker-ts-i18n/MAL-2023-829.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tanker-ts-i18n/MAL-2023-829.json"
 			}
 		}
 	],

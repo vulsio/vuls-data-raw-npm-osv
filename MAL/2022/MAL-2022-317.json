@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@harrysforge/input-field/MAL-2022-317.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@harrysforge/input-field/MAL-2022-317.json"
 			}
 		}
 	],

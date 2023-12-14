@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/microsites-ui-hudsons-bay-french/MAL-2022-4584.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/microsites-ui-hudsons-bay-french/MAL-2022-4584.json"
 			}
 		}
 	],

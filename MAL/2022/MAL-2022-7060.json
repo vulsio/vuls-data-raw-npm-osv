@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wdl-workspace/MAL-2022-7060.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wdl-workspace/MAL-2022-7060.json"
 			}
 		}
 	],

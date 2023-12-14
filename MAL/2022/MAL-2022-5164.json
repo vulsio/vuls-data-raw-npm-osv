@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/oxapi-documentations-build-script/MAL-2022-5164.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/oxapi-documentations-build-script/MAL-2022-5164.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@nexthink/arm-jwt-decoder/MAL-2022-459.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@nexthink/arm-jwt-decoder/MAL-2022-459.json"
 			}
 		}
 	],

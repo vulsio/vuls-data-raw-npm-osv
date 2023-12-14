@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ory-config/MAL-2023-8554.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ory-config/MAL-2023-8554.json"
 			}
 		}
 	],

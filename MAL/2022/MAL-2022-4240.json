@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/kusto-language-service/MAL-2022-4240.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/kusto-language-service/MAL-2022-4240.json"
 			}
 		}
 	],

@@ -18,7 +18,7 @@
 				"25.1.6"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/react-hook-form-latest/MAL-2023-8670.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/react-hook-form-latest/MAL-2023-8670.json"
 			}
 		}
 	],

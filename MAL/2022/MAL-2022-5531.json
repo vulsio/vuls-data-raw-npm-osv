@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/purview-catalog/MAL-2022-5531.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/purview-catalog/MAL-2022-5531.json"
 			}
 		}
 	],

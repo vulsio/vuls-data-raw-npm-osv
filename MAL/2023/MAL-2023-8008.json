@@ -23,7 +23,7 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@rocketrefer/components/MAL-2023-8008.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@rocketrefer/components/MAL-2023-8008.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/you-are-a-badass-at-making-money-master-the-mindset-of-wealth-by-jen-sincero-on-mac-new-version-/MAL-2023-1001.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/you-are-a-badass-at-making-money-master-the-mindset-of-wealth-by-jen-sincero-on-mac-new-version-/MAL-2023-1001.json"
 			}
 		}
 	],

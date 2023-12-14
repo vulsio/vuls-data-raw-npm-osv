@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/techtalkui/MAL-2022-6446.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/techtalkui/MAL-2022-6446.json"
 			}
 		}
 	],

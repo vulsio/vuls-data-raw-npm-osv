@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/lenovo-js-sdk/MAL-2022-4283.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/lenovo-js-sdk/MAL-2022-4283.json"
 			}
 		}
 	],

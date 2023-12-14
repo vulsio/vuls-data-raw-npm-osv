@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/reactaddonscsstransitiong5rop/MAL-2022-5685.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/reactaddonscsstransitiong5rop/MAL-2022-5685.json"
 			}
 		}
 	],

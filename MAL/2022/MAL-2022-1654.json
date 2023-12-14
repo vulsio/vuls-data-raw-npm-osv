@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/boss-alien-media-player/MAL-2022-1654.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/boss-alien-media-player/MAL-2022-1654.json"
 			}
 		}
 	],

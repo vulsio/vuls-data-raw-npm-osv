@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/the-clojure-worker/MAL-2022-6545.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/the-clojure-worker/MAL-2022-6545.json"
 			}
 		}
 	],

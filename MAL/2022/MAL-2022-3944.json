@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/iotc-file-upload-device/MAL-2022-3944.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/iotc-file-upload-device/MAL-2022-3944.json"
 			}
 		}
 	],

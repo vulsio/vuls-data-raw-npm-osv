@@ -17,7 +17,7 @@
 				"6.0.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ext-frontend-esignature/MAL-2023-8513.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ext-frontend-esignature/MAL-2023-8513.json"
 			}
 		}
 	],

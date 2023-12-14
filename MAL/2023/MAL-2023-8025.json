@@ -23,7 +23,7 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/developer_backup_test532/MAL-2023-8025.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/developer_backup_test532/MAL-2023-8025.json"
 			}
 		}
 	],

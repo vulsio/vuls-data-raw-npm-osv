@@ -16,7 +16,7 @@
 				"1.999.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@terraform-aws-github-runner/aws-ssm-uti/MAL-2023-8636.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@terraform-aws-github-runner/aws-ssm-uti/MAL-2023-8636.json"
 			}
 		}
 	],

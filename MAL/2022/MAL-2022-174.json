@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@cobalt-team/multi-invite/MAL-2022-174.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@cobalt-team/multi-invite/MAL-2022-174.json"
 			}
 		}
 	],

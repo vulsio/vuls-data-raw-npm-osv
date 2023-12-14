@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/towo/MAL-2022-6618.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/towo/MAL-2022-6618.json"
 			}
 		}
 	],

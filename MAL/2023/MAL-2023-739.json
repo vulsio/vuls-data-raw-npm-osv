@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/reality-lens-sdk/MAL-2023-739.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/reality-lens-sdk/MAL-2023-739.json"
 			}
 		}
 	],

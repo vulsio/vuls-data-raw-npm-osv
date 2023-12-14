@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/vinyl-sf/MAL-2022-6937.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/vinyl-sf/MAL-2022-6937.json"
 			}
 		}
 	],

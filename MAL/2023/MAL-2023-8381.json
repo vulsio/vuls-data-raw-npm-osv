@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/data-kempremium/MAL-2023-8381.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/data-kempremium/MAL-2023-8381.json"
 			}
 		}
 	],

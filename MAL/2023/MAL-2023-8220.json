@@ -17,7 +17,7 @@
 				"1.0.5"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@cosell/accountplan/MAL-2023-8220.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@cosell/accountplan/MAL-2023-8220.json"
 			}
 		}
 	],

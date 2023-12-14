@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/cdcrep-docs/MAL-2022-1853.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cdcrep-docs/MAL-2022-1853.json"
 			}
 		}
 	],

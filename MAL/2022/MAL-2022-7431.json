@@ -23,7 +23,7 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/bootstrap-feature/MAL-2022-7431.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bootstrap-feature/MAL-2022-7431.json"
 			}
 		}
 	],

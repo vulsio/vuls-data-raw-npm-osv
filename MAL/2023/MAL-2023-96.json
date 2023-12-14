@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/animoto_full_version_portable_crack_rt/MAL-2023-96.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/animoto_full_version_portable_crack_rt/MAL-2023-96.json"
 			}
 		}
 	],

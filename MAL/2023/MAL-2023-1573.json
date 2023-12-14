@@ -16,7 +16,7 @@
 				"99.99.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/website-frontend-cms/MAL-2023-1573.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/website-frontend-cms/MAL-2023-1573.json"
 			}
 		}
 	],

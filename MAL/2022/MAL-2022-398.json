@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@logistics-frontend/ui-old/MAL-2022-398.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@logistics-frontend/ui-old/MAL-2022-398.json"
 			}
 		}
 	],

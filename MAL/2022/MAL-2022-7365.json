@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/youtrack-personal-timetracking/MAL-2022-7365.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/youtrack-personal-timetracking/MAL-2022-7365.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@t15-ui-kit/enums/MAL-2022-619.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@t15-ui-kit/enums/MAL-2022-619.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ion-schema-sandbox/MAL-2022-3929.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ion-schema-sandbox/MAL-2022-3929.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@xivart/edge/MAL-2023-70.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@xivart/edge/MAL-2023-70.json"
 			}
 		}
 	],

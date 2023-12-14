@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/conjure-receipe-example-app/MAL-2022-2153.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/conjure-receipe-example-app/MAL-2022-2153.json"
 			}
 		}
 	],

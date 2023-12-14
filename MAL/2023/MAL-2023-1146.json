@@ -16,7 +16,7 @@
 				"3.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/coveo-101-commerce/MAL-2023-1146.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/coveo-101-commerce/MAL-2023-1146.json"
 			}
 		}
 	],

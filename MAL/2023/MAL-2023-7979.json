@@ -21,7 +21,7 @@
 				"1.0.21"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/visual_components/MAL-2023-7979.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/visual_components/MAL-2023-7979.json"
 			}
 		}
 	],

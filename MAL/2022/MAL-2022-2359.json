@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dazaar-resolve/MAL-2022-2359.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dazaar-resolve/MAL-2022-2359.json"
 			}
 		}
 	],

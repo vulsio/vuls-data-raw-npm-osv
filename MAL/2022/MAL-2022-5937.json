@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/satreg-bits/MAL-2022-5937.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/satreg-bits/MAL-2022-5937.json"
 			}
 		}
 	],

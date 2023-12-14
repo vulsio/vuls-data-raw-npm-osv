@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/criteo-static-variables-datasource/MAL-2023-215.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/criteo-static-variables-datasource/MAL-2023-215.json"
 			}
 		}
 	],

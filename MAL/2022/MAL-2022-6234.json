@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/speedy-ts-compiler/MAL-2022-6234.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/speedy-ts-compiler/MAL-2022-6234.json"
 			}
 		}
 	],

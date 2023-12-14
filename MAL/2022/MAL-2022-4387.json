@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/loki-price/MAL-2022-4387.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/loki-price/MAL-2022-4387.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/airpal/MAL-2022-913.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/airpal/MAL-2022-913.json"
 			}
 		}
 	],

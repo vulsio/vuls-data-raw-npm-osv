@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/hawaii-webchat/MAL-2022-3569.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hawaii-webchat/MAL-2022-3569.json"
 			}
 		}
 	],

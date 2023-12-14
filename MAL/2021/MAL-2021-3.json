@@ -23,7 +23,7 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/digital-marketing-client/MAL-2021-3.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/digital-marketing-client/MAL-2021-3.json"
 			}
 		}
 	],

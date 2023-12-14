@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/workbox-plugin/MAL-2022-7221.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/workbox-plugin/MAL-2022-7221.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@primeo/translate/MAL-2022-531.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@primeo/translate/MAL-2022-531.json"
 			}
 		}
 	],

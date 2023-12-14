@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/gae-scaffold/MAL-2022-3264.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/gae-scaffold/MAL-2022-3264.json"
 			}
 		}
 	],

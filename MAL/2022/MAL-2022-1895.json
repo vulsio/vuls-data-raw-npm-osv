@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/checkout-ui-extensions-template/MAL-2022-1895.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/checkout-ui-extensions-template/MAL-2022-1895.json"
 			}
 		}
 	],

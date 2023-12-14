@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/owa-sprite/MAL-2023-661.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/owa-sprite/MAL-2023-661.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/relap-ui/MAL-2022-5737.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/relap-ui/MAL-2022-5737.json"
 			}
 		}
 	],

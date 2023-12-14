@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/fa-icdc-form-api-bdt/MAL-2023-8457.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fa-icdc-form-api-bdt/MAL-2023-8457.json"
 			}
 		}
 	],

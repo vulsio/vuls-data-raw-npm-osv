@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/browserslist-config-usaa/MAL-2023-1512.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/browserslist-config-usaa/MAL-2023-1512.json"
 			}
 		}
 	],

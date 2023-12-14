@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/fxa-dev-launcher/MAL-2022-3256.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fxa-dev-launcher/MAL-2022-3256.json"
 			}
 		}
 	],

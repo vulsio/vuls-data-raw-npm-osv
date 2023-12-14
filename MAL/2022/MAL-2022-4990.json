@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/nylas-webhooks-example/MAL-2022-4990.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/nylas-webhooks-example/MAL-2022-4990.json"
 			}
 		}
 	],

@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/gateleen-hook-js/MAL-2023-465.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/gateleen-hook-js/MAL-2023-465.json"
 			}
 		}
 	],

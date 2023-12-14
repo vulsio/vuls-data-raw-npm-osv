@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/sn-seismic-addons/MAL-2022-6184.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/sn-seismic-addons/MAL-2022-6184.json"
 			}
 		}
 	],

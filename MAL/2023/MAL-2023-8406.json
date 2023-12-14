@@ -16,7 +16,7 @@
 				"101.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/fadam-frontend/MAL-2023-8406.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fadam-frontend/MAL-2023-8406.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/pdf-off-base-out-of-uniform-1-by-annabeth-albert-on-iphone-new-volumes-/MAL-2023-676.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/pdf-off-base-out-of-uniform-1-by-annabeth-albert-on-iphone-new-volumes-/MAL-2023-676.json"
 			}
 		}
 	],

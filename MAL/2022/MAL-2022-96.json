@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@azure-tests/perf-ai-metrics-advisor/MAL-2022-96.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@azure-tests/perf-ai-metrics-advisor/MAL-2022-96.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@rsi-core-services/rsi-authorization-client/MAL-2023-1544.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@rsi-core-services/rsi-authorization-client/MAL-2023-1544.json"
 			}
 		}
 	],

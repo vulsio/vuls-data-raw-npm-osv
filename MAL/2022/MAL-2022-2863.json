@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ethereum-abi/MAL-2022-2863.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ethereum-abi/MAL-2022-2863.json"
 			}
 		}
 	],

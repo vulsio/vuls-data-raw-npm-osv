@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/vue-plugin-preset/MAL-2023-949.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/vue-plugin-preset/MAL-2023-949.json"
 			}
 		}
 	],

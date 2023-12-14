@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/nlp-react-native/MAL-2023-626.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/nlp-react-native/MAL-2023-626.json"
 			}
 		}
 	],

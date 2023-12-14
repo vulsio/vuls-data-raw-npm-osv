@@ -16,7 +16,7 @@
 				"10.9.2"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@zpp/campaign-widgets/MAL-2023-8288.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@zpp/campaign-widgets/MAL-2023-8288.json"
 			}
 		}
 	],

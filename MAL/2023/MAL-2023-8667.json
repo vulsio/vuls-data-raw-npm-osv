@@ -38,7 +38,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@huby/infovist-report/MAL-2023-8667.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@huby/infovist-report/MAL-2023-8667.json"
 			}
 		}
 	],

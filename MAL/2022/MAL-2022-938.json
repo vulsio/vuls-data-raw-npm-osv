@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/alicloud-ui3/MAL-2022-938.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/alicloud-ui3/MAL-2022-938.json"
 			}
 		}
 	],

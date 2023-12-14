@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/mitui-util-bootstrap/MAL-2022-4627.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mitui-util-bootstrap/MAL-2022-4627.json"
 			}
 		}
 	],

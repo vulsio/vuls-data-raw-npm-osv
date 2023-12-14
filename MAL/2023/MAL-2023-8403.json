@@ -37,7 +37,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/sparkonto-plus-external-web-app/MAL-2023-8403.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/sparkonto-plus-external-web-app/MAL-2023-8403.json"
 			}
 		}
 	],

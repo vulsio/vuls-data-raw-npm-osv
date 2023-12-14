@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/hardhat-contract-size/MAL-2023-8138.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hardhat-contract-size/MAL-2023-8138.json"
 			}
 		}
 	],

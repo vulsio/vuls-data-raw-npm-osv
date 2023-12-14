@@ -16,7 +16,7 @@
 				"9.9.9"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/code-debug-codes/MAL-2023-1497.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/code-debug-codes/MAL-2023-1497.json"
 			}
 		}
 	],

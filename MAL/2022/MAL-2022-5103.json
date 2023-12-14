@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/opentelemetry-instrumentation-azure-sdk/MAL-2022-5103.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/opentelemetry-instrumentation-azure-sdk/MAL-2022-5103.json"
 			}
 		}
 	],

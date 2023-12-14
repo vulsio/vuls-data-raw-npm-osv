@@ -16,7 +16,7 @@
 				"0.1.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/onsurity-onboarding/MAL-2023-8436.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/onsurity-onboarding/MAL-2023-8436.json"
 			}
 		}
 	],

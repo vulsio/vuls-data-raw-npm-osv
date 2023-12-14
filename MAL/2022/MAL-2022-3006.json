@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/feishu-js-jdk/MAL-2022-3006.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/feishu-js-jdk/MAL-2022-3006.json"
 			}
 		}
 	],

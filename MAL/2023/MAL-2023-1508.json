@@ -16,7 +16,7 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/auth0-playground/MAL-2023-1508.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/auth0-playground/MAL-2023-1508.json"
 			}
 		}
 	],

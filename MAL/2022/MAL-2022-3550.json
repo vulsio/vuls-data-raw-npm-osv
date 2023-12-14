@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/hacked-shakti/MAL-2022-3550.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hacked-shakti/MAL-2022-3550.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@ljon/meterpreter-backdoor/MAL-2022-388.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ljon/meterpreter-backdoor/MAL-2022-388.json"
 			}
 		}
 	],

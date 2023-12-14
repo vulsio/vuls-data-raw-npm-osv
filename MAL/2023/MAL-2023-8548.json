@@ -16,7 +16,7 @@
 				"4.4.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/logpeck/MAL-2023-8548.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/logpeck/MAL-2023-8548.json"
 			}
 		}
 	],

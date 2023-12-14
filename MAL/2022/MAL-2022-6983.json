@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/vso-ts-agent/MAL-2022-6983.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/vso-ts-agent/MAL-2022-6983.json"
 			}
 		}
 	],

@@ -23,7 +23,7 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@pagseguro/psit/MAL-2023-8005.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@pagseguro/psit/MAL-2023-8005.json"
 			}
 		}
 	],

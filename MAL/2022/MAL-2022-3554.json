@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/hakunamatata/MAL-2022-3554.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hakunamatata/MAL-2022-3554.json"
 			}
 		}
 	],

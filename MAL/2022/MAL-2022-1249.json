@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/azure-arm-labservices-samples-ts-beta/MAL-2022-1249.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/azure-arm-labservices-samples-ts-beta/MAL-2022-1249.json"
 			}
 		}
 	],

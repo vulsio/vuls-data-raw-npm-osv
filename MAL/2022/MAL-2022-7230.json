@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wormhole-client/MAL-2022-7230.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wormhole-client/MAL-2022-7230.json"
 			}
 		}
 	],

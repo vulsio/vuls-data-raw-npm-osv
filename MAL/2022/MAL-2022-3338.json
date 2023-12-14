@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/genshin-impact-free-primogems-and-genesis-crystals-2022/MAL-2022-3338.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/genshin-impact-free-primogems-and-genesis-crystals-2022/MAL-2022-3338.json"
 			}
 		}
 	],

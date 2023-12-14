@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/crack_vialibera_gestione_contabile_free__qls/MAL-2023-211.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/crack_vialibera_gestione_contabile_free__qls/MAL-2023-211.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/mmolecule-pm2-metrics/MAL-2023-7974.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mmolecule-pm2-metrics/MAL-2023-7974.json"
 			}
 		}
 	],

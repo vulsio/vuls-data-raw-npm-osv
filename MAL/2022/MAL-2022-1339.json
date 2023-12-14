@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/azure-iot-modelsrepository/MAL-2022-1339.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/azure-iot-modelsrepository/MAL-2022-1339.json"
 			}
 		}
 	],

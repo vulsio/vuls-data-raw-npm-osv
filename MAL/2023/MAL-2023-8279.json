@@ -17,7 +17,7 @@
 				"0.4.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/webdriverio-browserstack/MAL-2023-8279.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/webdriverio-browserstack/MAL-2023-8279.json"
 			}
 		}
 	],

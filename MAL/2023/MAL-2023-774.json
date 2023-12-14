@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/shitpa/MAL-2023-774.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/shitpa/MAL-2023-774.json"
 			}
 		}
 	],

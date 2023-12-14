@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/the-hate-u-give-the-hate-u-give-1-by-angie-thomas-on-audiobook-full-chapters-/MAL-2023-871.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/the-hate-u-give-the-hate-u-give-1-by-angie-thomas-on-audiobook-full-chapters-/MAL-2023-871.json"
 			}
 		}
 	],

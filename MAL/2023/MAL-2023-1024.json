@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@ikea-aoa/component-text/MAL-2023-1024.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ikea-aoa/component-text/MAL-2023-1024.json"
 			}
 		}
 	],

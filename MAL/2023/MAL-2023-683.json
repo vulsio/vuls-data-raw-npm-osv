@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/pixelstreaming-sfu/MAL-2023-683.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/pixelstreaming-sfu/MAL-2023-683.json"
 			}
 		}
 	],

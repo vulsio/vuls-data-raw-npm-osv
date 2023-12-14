@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@chegg-varafy-editor/editor-tools-common/MAL-2022-169.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@chegg-varafy-editor/editor-tools-common/MAL-2022-169.json"
 			}
 		}
 	],

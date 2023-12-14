@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/gather-electron-interop/MAL-2022-3277.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/gather-electron-interop/MAL-2022-3277.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/honsoliodate/MAL-2022-3659.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/honsoliodate/MAL-2022-3659.json"
 			}
 		}
 	],

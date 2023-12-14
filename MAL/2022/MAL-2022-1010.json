@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/angular-tz-extensions/MAL-2022-1010.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/angular-tz-extensions/MAL-2022-1010.json"
 			}
 		}
 	],

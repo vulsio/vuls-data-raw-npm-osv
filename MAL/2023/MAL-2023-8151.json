@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/telia-front-react/MAL-2023-8151.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/telia-front-react/MAL-2023-8151.json"
 			}
 		}
 	],

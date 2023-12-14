@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/babfl-ie2mplate/MAL-2022-1442.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/babfl-ie2mplate/MAL-2022-1442.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/bitwarden-web/MAL-2022-1599.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bitwarden-web/MAL-2022-1599.json"
 			}
 		}
 	],

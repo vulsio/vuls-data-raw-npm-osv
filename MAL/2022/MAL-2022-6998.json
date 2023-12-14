@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/vue2-wangwanqi/MAL-2022-6998.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/vue2-wangwanqi/MAL-2022-6998.json"
 			}
 		}
 	],

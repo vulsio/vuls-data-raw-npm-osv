@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ttp-error/MAL-2022-6675.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ttp-error/MAL-2022-6675.json"
 			}
 		}
 	],

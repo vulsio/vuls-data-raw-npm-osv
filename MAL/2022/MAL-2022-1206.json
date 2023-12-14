@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/axelar-signing-relayer/MAL-2022-1206.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/axelar-signing-relayer/MAL-2022-1206.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/parlai-mturk-task-compiler/MAL-2022-5215.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/parlai-mturk-task-compiler/MAL-2022-5215.json"
 			}
 		}
 	],

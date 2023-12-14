@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@react-native-tscodegen/tslint-shared/MAL-2022-555.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@react-native-tscodegen/tslint-shared/MAL-2022-555.json"
 			}
 		}
 	],

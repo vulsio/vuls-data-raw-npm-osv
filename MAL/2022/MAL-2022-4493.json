@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/material-ui-plugin-theme-provider-cache/MAL-2022-4493.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/material-ui-plugin-theme-provider-cache/MAL-2022-4493.json"
 			}
 		}
 	],

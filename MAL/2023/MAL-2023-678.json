@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/pdf-the-daily-stoic-366-meditations-on-wisdom-perseverance-and-the-art-of-living-by-ryan-holiday-on-/MAL-2023-678.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/pdf-the-daily-stoic-366-meditations-on-wisdom-perseverance-and-the-art-of-living-by-ryan-holiday-on-/MAL-2023-678.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/aliyun-js-sdk/MAL-2022-942.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/aliyun-js-sdk/MAL-2022-942.json"
 			}
 		}
 	],

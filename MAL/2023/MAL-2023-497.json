@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/here-cicd/MAL-2023-497.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/here-cicd/MAL-2023-497.json"
 			}
 		}
 	],

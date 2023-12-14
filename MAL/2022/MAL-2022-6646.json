@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/trezor-ui-components/MAL-2022-6646.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/trezor-ui-components/MAL-2022-6646.json"
 			}
 		}
 	],

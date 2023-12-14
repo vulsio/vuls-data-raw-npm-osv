@@ -19,7 +19,7 @@
 				"2.1.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/pmd-github-action/MAL-2023-8125.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/pmd-github-action/MAL-2023-8125.json"
 			}
 		}
 	],

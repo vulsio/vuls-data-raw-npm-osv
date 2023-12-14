@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/jiser-sp/MAL-2023-534.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/jiser-sp/MAL-2023-534.json"
 			}
 		}
 	],

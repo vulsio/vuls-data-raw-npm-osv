@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/stripe-terminal-react-native-dev-app/MAL-2023-8433.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/stripe-terminal-react-native-dev-app/MAL-2023-8433.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/r3corda/MAL-2022-5572.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/r3corda/MAL-2022-5572.json"
 			}
 		}
 	],

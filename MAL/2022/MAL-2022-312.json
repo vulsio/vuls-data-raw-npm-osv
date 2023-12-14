@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@harrysforge/gatsby-theme-cart/MAL-2022-312.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@harrysforge/gatsby-theme-cart/MAL-2022-312.json"
 			}
 		}
 	],

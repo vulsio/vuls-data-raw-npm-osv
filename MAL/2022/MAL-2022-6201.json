@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/socless_integration_packager/MAL-2022-6201.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/socless_integration_packager/MAL-2022-6201.json"
 			}
 		}
 	],

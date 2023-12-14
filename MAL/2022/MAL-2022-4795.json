@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/near-nftchecker/MAL-2022-4795.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/near-nftchecker/MAL-2022-4795.json"
 			}
 		}
 	],

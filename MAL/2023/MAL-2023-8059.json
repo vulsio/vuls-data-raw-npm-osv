@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@ks-radar/radar-resource-collect/MAL-2023-8059.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ks-radar/radar-resource-collect/MAL-2023-8059.json"
 			}
 		}
 	],

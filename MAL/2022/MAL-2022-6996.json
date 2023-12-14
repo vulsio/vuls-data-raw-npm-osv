@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/vue-test-utils-mic/MAL-2022-6996.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/vue-test-utils-mic/MAL-2022-6996.json"
 			}
 		}
 	],

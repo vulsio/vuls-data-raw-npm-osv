@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/anjelo-developer/MAL-2023-99.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/anjelo-developer/MAL-2023-99.json"
 			}
 		}
 	],

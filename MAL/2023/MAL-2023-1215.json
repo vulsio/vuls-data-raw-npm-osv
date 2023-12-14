@@ -16,7 +16,7 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/itemsselector/MAL-2023-1215.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/itemsselector/MAL-2023-1215.json"
 			}
 		}
 	],

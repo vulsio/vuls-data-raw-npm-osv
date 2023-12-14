@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dep-conf-test-tal/MAL-2023-233.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dep-conf-test-tal/MAL-2023-233.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@feis-vanilla/vanilla-util/MAL-2022-272.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@feis-vanilla/vanilla-util/MAL-2022-272.json"
 			}
 		}
 	],

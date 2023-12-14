@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ktarco1/MAL-2023-8252.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ktarco1/MAL-2023-8252.json"
 			}
 		}
 	],

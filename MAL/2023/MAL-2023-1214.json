@@ -16,7 +16,7 @@
 				"1.0.8"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/inter-mobile-bridge/MAL-2023-1214.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/inter-mobile-bridge/MAL-2023-1214.json"
 			}
 		}
 	],

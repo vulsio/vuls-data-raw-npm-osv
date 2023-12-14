@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/prova-admin/MAL-2022-5494.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/prova-admin/MAL-2022-5494.json"
 			}
 		}
 	],

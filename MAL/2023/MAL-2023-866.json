@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/the-duke-and-i-bridgertons-1-by-julia-quinn-on-iphone-new-format-/MAL-2023-866.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/the-duke-and-i-bridgertons-1-by-julia-quinn-on-iphone-new-format-/MAL-2023-866.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@atlasmonorepo/atlas-base-service/MAL-2022-86.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@atlasmonorepo/atlas-base-service/MAL-2022-86.json"
 			}
 		}
 	],

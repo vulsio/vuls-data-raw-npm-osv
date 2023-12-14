@@ -19,7 +19,7 @@
 				"5.0.3"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@siigo-arquitectura/button-atom/MAL-2023-8302.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@siigo-arquitectura/button-atom/MAL-2023-8302.json"
 			}
 		}
 	],

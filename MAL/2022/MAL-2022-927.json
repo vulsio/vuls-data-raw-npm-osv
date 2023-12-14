@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ale_frugal/MAL-2022-927.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ale_frugal/MAL-2022-927.json"
 			}
 		}
 	],

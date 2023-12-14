@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/finco/MAL-2022-3043.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/finco/MAL-2022-3043.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/nextcloud-cookbook/MAL-2022-4827.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/nextcloud-cookbook/MAL-2022-4827.json"
 			}
 		}
 	],

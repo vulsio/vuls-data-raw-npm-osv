@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/cync-color/MAL-2023-220.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cync-color/MAL-2023-220.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/trin-axios/MAL-2022-6651.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/trin-axios/MAL-2022-6651.json"
 			}
 		}
 	],

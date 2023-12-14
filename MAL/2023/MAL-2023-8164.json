@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@cat-abdulla/fca-abdulla-api/MAL-2023-8164.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@cat-abdulla/fca-abdulla-api/MAL-2023-8164.json"
 			}
 		}
 	],

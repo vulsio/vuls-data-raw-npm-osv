@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@playgami/eslint-config-portal-base/MAL-2023-48.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@playgami/eslint-config-portal-base/MAL-2023-48.json"
 			}
 		}
 	],

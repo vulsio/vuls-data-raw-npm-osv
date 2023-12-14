@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/leaflet-opencage-search/MAL-2022-4271.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/leaflet-opencage-search/MAL-2022-4271.json"
 			}
 		}
 	],

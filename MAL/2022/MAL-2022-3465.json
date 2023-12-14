@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/grnt-co3trib-watch/MAL-2022-3465.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/grnt-co3trib-watch/MAL-2022-3465.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@bugbounty-automation/deps-json-webpack-plugin/MAL-2022-157.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@bugbounty-automation/deps-json-webpack-plugin/MAL-2022-157.json"
 			}
 		}
 	],

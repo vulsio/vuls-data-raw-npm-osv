@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/fc-address-lookup/MAL-2023-330.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fc-address-lookup/MAL-2023-330.json"
 			}
 		}
 	],

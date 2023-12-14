@@ -23,7 +23,7 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@pagseguro/ps-validations/MAL-2023-8004.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@pagseguro/ps-validations/MAL-2023-8004.json"
 			}
 		}
 	],

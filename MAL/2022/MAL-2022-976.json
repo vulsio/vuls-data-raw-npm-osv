@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/amplify-category-api-dynamodb-simulator/MAL-2022-976.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/amplify-category-api-dynamodb-simulator/MAL-2022-976.json"
 			}
 		}
 	],

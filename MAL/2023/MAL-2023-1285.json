@@ -16,7 +16,7 @@
 				"100.100.101"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/rfs-utils/MAL-2023-1285.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/rfs-utils/MAL-2023-1285.json"
 			}
 		}
 	],

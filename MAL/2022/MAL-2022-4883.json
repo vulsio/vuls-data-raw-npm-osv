@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/node-cron-master1/MAL-2022-4883.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/node-cron-master1/MAL-2022-4883.json"
 			}
 		}
 	],

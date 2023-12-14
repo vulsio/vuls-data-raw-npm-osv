@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/freekws-devportal-api-client-angular/MAL-2022-3209.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/freekws-devportal-api-client-angular/MAL-2022-3209.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/epic-ue-fonts/MAL-2022-2770.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/epic-ue-fonts/MAL-2022-2770.json"
 			}
 		}
 	],

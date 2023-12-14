@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/parrot-skill/MAL-2022-5216.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/parrot-skill/MAL-2022-5216.json"
 			}
 		}
 	],

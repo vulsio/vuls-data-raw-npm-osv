@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@msmg/vue-merge-data-qa/MAL-2022-441.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@msmg/vue-merge-data-qa/MAL-2022-441.json"
 			}
 		}
 	],

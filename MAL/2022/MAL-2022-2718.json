@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ember-graceful-retry/MAL-2022-2718.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ember-graceful-retry/MAL-2022-2718.json"
 			}
 		}
 	],

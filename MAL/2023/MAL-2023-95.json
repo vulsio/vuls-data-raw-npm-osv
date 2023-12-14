@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/angular-portal-dependencies/MAL-2023-95.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/angular-portal-dependencies/MAL-2023-95.json"
 			}
 		}
 	],

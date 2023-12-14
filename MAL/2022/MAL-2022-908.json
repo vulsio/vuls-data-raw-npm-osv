@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/aio-cli-config/MAL-2022-908.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/aio-cli-config/MAL-2022-908.json"
 			}
 		}
 	],

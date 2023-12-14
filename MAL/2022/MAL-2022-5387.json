@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/poa-adapter/MAL-2022-5387.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/poa-adapter/MAL-2022-5387.json"
 			}
 		}
 	],

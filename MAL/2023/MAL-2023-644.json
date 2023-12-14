@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/number_of_input_data_dependencies/MAL-2023-644.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/number_of_input_data_dependencies/MAL-2023-644.json"
 			}
 		}
 	],

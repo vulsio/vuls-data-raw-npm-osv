@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/kbwood-jquery-svg/MAL-2023-552.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/kbwood-jquery-svg/MAL-2023-552.json"
 			}
 		}
 	],

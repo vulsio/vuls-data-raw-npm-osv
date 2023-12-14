@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/postman-echo-nock/MAL-2022-5430.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/postman-echo-nock/MAL-2022-5430.json"
 			}
 		}
 	],

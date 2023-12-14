@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/binance-dex-adapter/MAL-2022-1578.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/binance-dex-adapter/MAL-2022-1578.json"
 			}
 		}
 	],

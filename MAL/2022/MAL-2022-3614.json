@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/here_lead_generation_v2/MAL-2022-3614.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/here_lead_generation_v2/MAL-2022-3614.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/zoom-sdk-native-addon/MAL-2022-7412.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/zoom-sdk-native-addon/MAL-2022-7412.json"
 			}
 		}
 	],

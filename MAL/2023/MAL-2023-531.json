@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/int_stripe_sfra/MAL-2023-531.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/int_stripe_sfra/MAL-2023-531.json"
 			}
 		}
 	],

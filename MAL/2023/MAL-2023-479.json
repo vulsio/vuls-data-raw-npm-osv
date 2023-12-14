@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/google-bard724/MAL-2023-479.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/google-bard724/MAL-2023-479.json"
 			}
 		}
 	],

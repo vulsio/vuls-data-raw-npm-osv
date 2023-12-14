@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/niroborg-npm-com-test/MAL-2023-624.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/niroborg-npm-com-test/MAL-2023-624.json"
 			}
 		}
 	],

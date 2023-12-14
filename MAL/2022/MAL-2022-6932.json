@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/vikyl-buf2fer/MAL-2022-6932.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/vikyl-buf2fer/MAL-2022-6932.json"
 			}
 		}
 	],

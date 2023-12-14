@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/mailjet-old-react-components/MAL-2022-4456.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mailjet-old-react-components/MAL-2022-4456.json"
 			}
 		}
 	],

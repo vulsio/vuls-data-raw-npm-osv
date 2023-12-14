@@ -16,7 +16,7 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/f0-data-constructor/MAL-2023-1491.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/f0-data-constructor/MAL-2023-1491.json"
 			}
 		}
 	],

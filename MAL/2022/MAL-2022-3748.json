@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ibm-plex/MAL-2022-3748.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ibm-plex/MAL-2022-3748.json"
 			}
 		}
 	],

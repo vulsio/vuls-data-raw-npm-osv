@@ -16,7 +16,7 @@
 				"100.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/highchartsofflineexport/MAL-2023-1201.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/highchartsofflineexport/MAL-2023-1201.json"
 			}
 		}
 	],

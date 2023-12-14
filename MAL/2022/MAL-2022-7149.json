@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/win32ipc/MAL-2022-7149.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/win32ipc/MAL-2022-7149.json"
 			}
 		}
 	],

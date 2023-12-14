@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/kakaga/MAL-2022-4095.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/kakaga/MAL-2022-4095.json"
 			}
 		}
 	],

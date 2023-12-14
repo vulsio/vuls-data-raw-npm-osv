@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/elasticsearch-logstash_reporter/MAL-2022-2688.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/elasticsearch-logstash_reporter/MAL-2022-2688.json"
 			}
 		}
 	],

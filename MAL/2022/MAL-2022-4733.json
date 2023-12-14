@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/multiple-inheritance-rest/MAL-2022-4733.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/multiple-inheritance-rest/MAL-2022-4733.json"
 			}
 		}
 	],

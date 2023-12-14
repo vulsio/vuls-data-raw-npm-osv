@@ -16,7 +16,7 @@
 				"24.12.47"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wrangler-dev-api-app/MAL-2023-1347.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wrangler-dev-api-app/MAL-2023-1347.json"
 			}
 		}
 	],

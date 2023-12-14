@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/caas-assembly/MAL-2023-151.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/caas-assembly/MAL-2023-151.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@uc-maps/layer-select.react/MAL-2022-680.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@uc-maps/layer-select.react/MAL-2022-680.json"
 			}
 		}
 	],

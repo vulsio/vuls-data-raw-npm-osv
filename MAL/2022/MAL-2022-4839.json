@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/nflx-spectator-jsconf/MAL-2022-4839.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/nflx-spectator-jsconf/MAL-2022-4839.json"
 			}
 		}
 	],

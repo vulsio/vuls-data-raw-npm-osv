@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/eactdatepcker/MAL-2022-2649.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/eactdatepcker/MAL-2022-2649.json"
 			}
 		}
 	],

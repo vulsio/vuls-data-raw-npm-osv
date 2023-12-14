@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ashion-ingest/MAL-2022-1132.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ashion-ingest/MAL-2022-1132.json"
 			}
 		}
 	],

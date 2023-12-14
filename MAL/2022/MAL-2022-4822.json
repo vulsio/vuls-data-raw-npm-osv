@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/newtestforme1007/MAL-2022-4822.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/newtestforme1007/MAL-2022-4822.json"
 			}
 		}
 	],

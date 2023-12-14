@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/hopk/MAL-2022-3673.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hopk/MAL-2022-3673.json"
 			}
 		}
 	],

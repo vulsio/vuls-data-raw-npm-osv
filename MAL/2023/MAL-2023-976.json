@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/xpyqze_e38/MAL-2023-976.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/xpyqze_e38/MAL-2023-976.json"
 			}
 		}
 	],

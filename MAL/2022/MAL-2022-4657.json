@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/mock-ea-adapter/MAL-2022-4657.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mock-ea-adapter/MAL-2022-4657.json"
 			}
 		}
 	],

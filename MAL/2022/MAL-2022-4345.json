@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/loashpbick/MAL-2022-4345.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/loashpbick/MAL-2022-4345.json"
 			}
 		}
 	],

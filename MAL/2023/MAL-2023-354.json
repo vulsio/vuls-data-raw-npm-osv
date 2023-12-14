@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/fc-login/MAL-2023-354.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fc-login/MAL-2023-354.json"
 			}
 		}
 	],

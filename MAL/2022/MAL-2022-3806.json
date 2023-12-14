@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/inbox-zero/MAL-2022-3806.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/inbox-zero/MAL-2022-3806.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/casino.web/MAL-2023-7932.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/casino.web/MAL-2023-7932.json"
 			}
 		}
 	],

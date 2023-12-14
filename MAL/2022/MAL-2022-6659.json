@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/trycourier/MAL-2022-6659.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/trycourier/MAL-2022-6659.json"
 			}
 		}
 	],

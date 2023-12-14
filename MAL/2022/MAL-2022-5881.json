@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/rx3egexp/MAL-2022-5881.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/rx3egexp/MAL-2022-5881.json"
 			}
 		}
 	],

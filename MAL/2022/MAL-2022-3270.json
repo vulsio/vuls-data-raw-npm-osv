@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ganache-core-coverage/MAL-2022-3270.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ganache-core-coverage/MAL-2022-3270.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@leesiwoo/fca-horizon-remake/MAL-2023-40.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@leesiwoo/fca-horizon-remake/MAL-2023-40.json"
 			}
 		}
 	],

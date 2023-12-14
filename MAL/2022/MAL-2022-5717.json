@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/recsive-read9dir/MAL-2022-5717.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/recsive-read9dir/MAL-2022-5717.json"
 			}
 		}
 	],

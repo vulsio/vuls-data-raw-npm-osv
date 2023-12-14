@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/angular-dev-test/MAL-2022-1006.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/angular-dev-test/MAL-2022-1006.json"
 			}
 		}
 	],

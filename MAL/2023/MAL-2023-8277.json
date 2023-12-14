@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/playwright-internal/MAL-2023-8277.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/playwright-internal/MAL-2023-8277.json"
 			}
 		}
 	],

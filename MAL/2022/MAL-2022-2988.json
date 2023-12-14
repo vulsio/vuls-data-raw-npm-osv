@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/fe-cookie-consent/MAL-2022-2988.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fe-cookie-consent/MAL-2022-2988.json"
 			}
 		}
 	],

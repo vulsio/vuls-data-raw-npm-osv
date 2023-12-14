@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/makerdao-governance-bot/MAL-2022-4465.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/makerdao-governance-bot/MAL-2022-4465.json"
 			}
 		}
 	],

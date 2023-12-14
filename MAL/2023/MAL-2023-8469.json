@@ -16,7 +16,7 @@
 				"0.1.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/react-18-viem/MAL-2023-8469.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/react-18-viem/MAL-2023-8469.json"
 			}
 		}
 	],

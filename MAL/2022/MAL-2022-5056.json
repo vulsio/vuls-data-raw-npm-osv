@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ollup-pugincommonjs/MAL-2022-5056.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ollup-pugincommonjs/MAL-2022-5056.json"
 			}
 		}
 	],

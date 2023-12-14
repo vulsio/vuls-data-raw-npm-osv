@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/jetpack-connection/MAL-2022-4025.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/jetpack-connection/MAL-2022-4025.json"
 			}
 		}
 	],

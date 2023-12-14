@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/american-street-by-ibi-zoboi-on-kindle-full-pages-/MAL-2023-89.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/american-street-by-ibi-zoboi-on-kindle-full-pages-/MAL-2023-89.json"
 			}
 		}
 	],

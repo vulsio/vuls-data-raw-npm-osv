@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/son-stringiy-safe/MAL-2022-6215.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/son-stringiy-safe/MAL-2022-6215.json"
 			}
 		}
 	],

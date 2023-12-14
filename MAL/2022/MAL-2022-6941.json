@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/virtual-authenticators-tab/MAL-2022-6941.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/virtual-authenticators-tab/MAL-2022-6941.json"
 			}
 		}
 	],

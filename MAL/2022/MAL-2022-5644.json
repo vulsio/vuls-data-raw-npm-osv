@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/react-dts-codegen/MAL-2022-5644.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/react-dts-codegen/MAL-2022-5644.json"
 			}
 		}
 	],

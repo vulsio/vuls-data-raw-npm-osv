@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/jaspine-coer/MAL-2022-4002.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/jaspine-coer/MAL-2022-4002.json"
 			}
 		}
 	],

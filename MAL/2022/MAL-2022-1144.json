@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/assign-pr/MAL-2022-1144.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/assign-pr/MAL-2022-1144.json"
 			}
 		}
 	],

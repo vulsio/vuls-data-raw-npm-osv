@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/tdype-si/MAL-2022-6432.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tdype-si/MAL-2022-6432.json"
 			}
 		}
 	],

@@ -16,7 +16,7 @@
 				"19.20.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ui-zephyr/MAL-2023-8628.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ui-zephyr/MAL-2023-8628.json"
 			}
 		}
 	],

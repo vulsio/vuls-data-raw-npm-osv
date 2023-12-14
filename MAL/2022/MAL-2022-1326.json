@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/azure-dtdl-parser-samples-js-beta/MAL-2022-1326.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/azure-dtdl-parser-samples-js-beta/MAL-2022-1326.json"
 			}
 		}
 	],

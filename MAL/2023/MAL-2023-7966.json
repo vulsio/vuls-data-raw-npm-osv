@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@manomano-internal/mf-seller-xp-commons-objects/MAL-2023-7966.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@manomano-internal/mf-seller-xp-commons-objects/MAL-2023-7966.json"
 			}
 		}
 	],

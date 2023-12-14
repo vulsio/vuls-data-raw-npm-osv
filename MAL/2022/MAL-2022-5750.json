@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/renvm-address-set-adapter/MAL-2022-5750.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/renvm-address-set-adapter/MAL-2022-5750.json"
 			}
 		}
 	],

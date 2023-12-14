@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/mv-browser-support/MAL-2023-611.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mv-browser-support/MAL-2023-611.json"
 			}
 		}
 	],

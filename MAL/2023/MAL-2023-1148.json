@@ -26,7 +26,7 @@
 				"71.999.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/cptalertbox/MAL-2023-1148.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cptalertbox/MAL-2023-1148.json"
 			}
 		}
 	],

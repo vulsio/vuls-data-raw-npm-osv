@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/angieslist-gulp-build-tasks/MAL-2022-998.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/angieslist-gulp-build-tasks/MAL-2022-998.json"
 			}
 		}
 	],

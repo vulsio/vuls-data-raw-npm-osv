@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/lightweight-android/MAL-2022-4307.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/lightweight-android/MAL-2022-4307.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/linkbubble-website/MAL-2022-4314.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/linkbubble-website/MAL-2022-4314.json"
 			}
 		}
 	],

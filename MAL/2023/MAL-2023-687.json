@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/poker_clock_professional_22_better_crack_h8z6f/MAL-2023-687.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/poker_clock_professional_22_better_crack_h8z6f/MAL-2023-687.json"
 			}
 		}
 	],

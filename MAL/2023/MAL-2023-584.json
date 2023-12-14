@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/marketplace-frontend-client-config/MAL-2023-584.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/marketplace-frontend-client-config/MAL-2023-584.json"
 			}
 		}
 	],

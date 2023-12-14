@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/admin-palantir/MAL-2022-862.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/admin-palantir/MAL-2022-862.json"
 			}
 		}
 	],

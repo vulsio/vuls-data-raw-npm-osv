@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ug-lifjjs-webpack-plugin/MAL-2022-6741.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ug-lifjjs-webpack-plugin/MAL-2022-6741.json"
 			}
 		}
 	],

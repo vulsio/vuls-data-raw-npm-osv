@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/price-record/MAL-2023-697.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/price-record/MAL-2023-697.json"
 			}
 		}
 	],

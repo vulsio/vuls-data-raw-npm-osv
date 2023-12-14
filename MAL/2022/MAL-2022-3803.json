@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/immutoabilityhelper/MAL-2022-3803.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/immutoabilityhelper/MAL-2022-3803.json"
 			}
 		}
 	],

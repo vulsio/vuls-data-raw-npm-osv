@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/freefire/MAL-2022-3208.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/freefire/MAL-2022-3208.json"
 			}
 		}
 	],

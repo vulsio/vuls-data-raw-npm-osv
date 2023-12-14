@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/angara.chartjs/MAL-2022-994.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/angara.chartjs/MAL-2022-994.json"
 			}
 		}
 	],

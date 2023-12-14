@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/sharded-redis-client/MAL-2022-6076.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/sharded-redis-client/MAL-2022-6076.json"
 			}
 		}
 	],

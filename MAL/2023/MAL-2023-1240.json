@@ -16,7 +16,7 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/mongoose-geospatial/MAL-2023-1240.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mongoose-geospatial/MAL-2023-1240.json"
 			}
 		}
 	],

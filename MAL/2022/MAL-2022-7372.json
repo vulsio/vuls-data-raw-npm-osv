@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/z-wallet/MAL-2022-7372.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/z-wallet/MAL-2022-7372.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/jb-animation-generator/MAL-2022-4005.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/jb-animation-generator/MAL-2022-4005.json"
 			}
 		}
 	],

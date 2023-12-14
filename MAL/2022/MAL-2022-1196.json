@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/aws-delivlib-sample/MAL-2022-1196.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/aws-delivlib-sample/MAL-2022-1196.json"
 			}
 		}
 	],

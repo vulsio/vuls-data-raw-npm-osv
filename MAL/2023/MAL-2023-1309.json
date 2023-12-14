@@ -17,7 +17,7 @@
 				"1.0.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/stripe-deep-dup-tree/MAL-2023-1309.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/stripe-deep-dup-tree/MAL-2023-1309.json"
 			}
 		}
 	],

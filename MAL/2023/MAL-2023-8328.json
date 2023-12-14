@@ -39,7 +39,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/storyteq-landingspage/MAL-2023-8328.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/storyteq-landingspage/MAL-2023-8328.json"
 			}
 		}
 	],

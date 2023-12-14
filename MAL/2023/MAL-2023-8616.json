@@ -16,7 +16,7 @@
 				"1.0.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/gog-module-event-bus/MAL-2023-8616.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/gog-module-event-bus/MAL-2023-8616.json"
 			}
 		}
 	],

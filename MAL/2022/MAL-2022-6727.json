@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/uber-unify/MAL-2022-6727.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/uber-unify/MAL-2022-6727.json"
 			}
 		}
 	],

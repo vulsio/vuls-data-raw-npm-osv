@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/idnnnms-widget-auth-service/MAL-2022-3776.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/idnnnms-widget-auth-service/MAL-2022-3776.json"
 			}
 		}
 	],

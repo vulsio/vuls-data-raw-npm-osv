@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/niquirer-autocomplete-prompt/MAL-2022-4856.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/niquirer-autocomplete-prompt/MAL-2022-4856.json"
 			}
 		}
 	],

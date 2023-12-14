@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/carbon-localization/MAL-2022-1827.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/carbon-localization/MAL-2022-1827.json"
 			}
 		}
 	],

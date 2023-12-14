@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/frontegg/MAL-2022-3217.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/frontegg/MAL-2022-3217.json"
 			}
 		}
 	],

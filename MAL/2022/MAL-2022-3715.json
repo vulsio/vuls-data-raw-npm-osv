@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/hubot-hostinger/MAL-2022-3715.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hubot-hostinger/MAL-2022-3715.json"
 			}
 		}
 	],

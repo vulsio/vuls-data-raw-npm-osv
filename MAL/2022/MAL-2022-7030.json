@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/waffles-icons/MAL-2022-7030.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/waffles-icons/MAL-2022-7030.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/inv-cyber-core/MAL-2022-3918.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/inv-cyber-core/MAL-2022-3918.json"
 			}
 		}
 	],

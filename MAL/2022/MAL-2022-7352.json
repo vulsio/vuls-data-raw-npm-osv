@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ykeykey-getkey/MAL-2022-7352.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ykeykey-getkey/MAL-2022-7352.json"
 			}
 		}
 	],

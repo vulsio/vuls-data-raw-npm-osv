@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/b64-svn/MAL-2023-119.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/b64-svn/MAL-2023-119.json"
 			}
 		}
 	],

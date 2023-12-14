@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/react-devtools-shell/MAL-2022-5637.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/react-devtools-shell/MAL-2022-5637.json"
 			}
 		}
 	],

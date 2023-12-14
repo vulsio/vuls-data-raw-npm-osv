@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/poppejs/MAL-2022-5416.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/poppejs/MAL-2022-5416.json"
 			}
 		}
 	],

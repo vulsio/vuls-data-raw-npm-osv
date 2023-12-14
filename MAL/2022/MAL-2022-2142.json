@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/competitive-equipment-icon/MAL-2022-2142.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/competitive-equipment-icon/MAL-2022-2142.json"
 			}
 		}
 	],

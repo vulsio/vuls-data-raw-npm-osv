@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/docusaurus-plugin-matamoh/MAL-2023-8610.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/docusaurus-plugin-matamoh/MAL-2023-8610.json"
 			}
 		}
 	],

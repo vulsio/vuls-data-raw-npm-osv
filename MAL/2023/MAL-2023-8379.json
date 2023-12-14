@@ -17,7 +17,7 @@
 				"4.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/xsolla-paystation-widget/MAL-2023-8379.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/xsolla-paystation-widget/MAL-2023-8379.json"
 			}
 		}
 	],

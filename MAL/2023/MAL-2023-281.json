@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dow-load-the-great-passage-by-shion-miura-on-ipad-full-edition-/MAL-2023-281.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dow-load-the-great-passage-by-shion-miura-on-ipad-full-edition-/MAL-2023-281.json"
 			}
 		}
 	],

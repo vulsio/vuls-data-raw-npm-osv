@@ -16,7 +16,7 @@
 				"99.99.99"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@get-bridge/bridge-string-utils/MAL-2023-8064.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@get-bridge/bridge-string-utils/MAL-2023-8064.json"
 			}
 		}
 	],

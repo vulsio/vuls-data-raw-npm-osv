@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/pokemon-go-generator-2022-new-pogo-coins/MAL-2022-5394.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/pokemon-go-generator-2022-new-pogo-coins/MAL-2022-5394.json"
 			}
 		}
 	],

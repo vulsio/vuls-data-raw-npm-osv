@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/homo-deus-a-brief-history-of-tomorrow-by-yuval-noah-harari-on-audible-new-version-/MAL-2023-503.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/homo-deus-a-brief-history-of-tomorrow-by-yuval-noah-harari-on-audible-new-version-/MAL-2023-503.json"
 			}
 		}
 	],

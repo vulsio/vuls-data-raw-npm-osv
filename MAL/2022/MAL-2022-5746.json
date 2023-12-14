@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/remote-pay-cloud-starter-example-typescript/MAL-2022-5746.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/remote-pay-cloud-starter-example-typescript/MAL-2022-5746.json"
 			}
 		}
 	],

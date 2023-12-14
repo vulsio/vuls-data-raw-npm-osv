@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/the-self-taught-programmer-the-definitive-guide-to-programming-professionally-by-cory-althoff-on-kin/MAL-2023-873.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/the-self-taught-programmer-the-definitive-guide-to-programming-professionally-by-cory-althoff-on-kin/MAL-2023-873.json"
 			}
 		}
 	],

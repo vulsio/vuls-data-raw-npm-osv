@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/cloud-workers/MAL-2022-1933.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cloud-workers/MAL-2022-1933.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/w00dr0w-test/MAL-2023-953.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/w00dr0w-test/MAL-2023-953.json"
 			}
 		}
 	],

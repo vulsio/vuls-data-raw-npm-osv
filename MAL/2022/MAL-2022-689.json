@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@umpirsky/country-list/MAL-2022-689.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@umpirsky/country-list/MAL-2022-689.json"
 			}
 		}
 	],

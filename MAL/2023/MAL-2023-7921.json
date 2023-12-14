@@ -18,7 +18,7 @@
 				"5.0.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/helio_tawa/MAL-2023-7921.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/helio_tawa/MAL-2023-7921.json"
 			}
 		}
 	],

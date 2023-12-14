@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/--legacy-peer-deps/MAL-2022-3.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/--legacy-peer-deps/MAL-2022-3.json"
 			}
 		}
 	],

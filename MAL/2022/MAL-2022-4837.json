@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/nfe-kampanje-react/MAL-2022-4837.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/nfe-kampanje-react/MAL-2022-4837.json"
 			}
 		}
 	],

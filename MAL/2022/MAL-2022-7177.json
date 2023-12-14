@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wix-user-preferences-webapp/MAL-2022-7177.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wix-user-preferences-webapp/MAL-2022-7177.json"
 			}
 		}
 	],

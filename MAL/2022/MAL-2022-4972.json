@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/nuclide-marshalers-client/MAL-2022-4972.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/nuclide-marshalers-client/MAL-2022-4972.json"
 			}
 		}
 	],

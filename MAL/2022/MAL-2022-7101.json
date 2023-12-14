@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/webpack-dev-fixture/MAL-2022-7101.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/webpack-dev-fixture/MAL-2022-7101.json"
 			}
 		}
 	],

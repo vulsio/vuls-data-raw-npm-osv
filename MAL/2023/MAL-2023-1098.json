@@ -26,7 +26,7 @@
 				"1.999.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@pagseguro/pagseguro-utils-test/MAL-2023-1098.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@pagseguro/pagseguro-utils-test/MAL-2023-1098.json"
 			}
 		}
 	],

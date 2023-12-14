@@ -17,7 +17,7 @@
 				"2002.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@n9xcnr5test/n9xcnr5/MAL-2023-1092.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@n9xcnr5test/n9xcnr5/MAL-2023-1092.json"
 			}
 		}
 	],

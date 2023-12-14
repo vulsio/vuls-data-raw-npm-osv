@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/spr-svg-loader/MAL-2022-6264.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/spr-svg-loader/MAL-2022-6264.json"
 			}
 		}
 	],

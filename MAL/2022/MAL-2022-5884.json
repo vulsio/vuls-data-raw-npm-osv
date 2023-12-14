@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/rycursive-rfaddir/MAL-2022-5884.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/rycursive-rfaddir/MAL-2022-5884.json"
 			}
 		}
 	],

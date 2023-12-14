@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/designer-relationships-a-guide-to-happy-monogamy-positive-polyamory-and-optimistic-open-relationship/MAL-2023-245.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/designer-relationships-a-guide-to-happy-monogamy-positive-polyamory-and-optimistic-open-relationship/MAL-2023-245.json"
 			}
 		}
 	],

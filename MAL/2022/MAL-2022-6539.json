@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/tezdoank/MAL-2022-6539.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tezdoank/MAL-2022-6539.json"
 			}
 		}
 	],

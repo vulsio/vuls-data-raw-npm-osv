@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/apswap-api/MAL-2022-1076.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/apswap-api/MAL-2022-1076.json"
 			}
 		}
 	],

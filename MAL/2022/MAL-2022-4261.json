@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/launchdarkly-cloudflare-worker-template/MAL-2022-4261.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/launchdarkly-cloudflare-worker-template/MAL-2022-4261.json"
 			}
 		}
 	],

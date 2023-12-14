@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/semantic-u-resct/MAL-2022-6008.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/semantic-u-resct/MAL-2022-6008.json"
 			}
 		}
 	],

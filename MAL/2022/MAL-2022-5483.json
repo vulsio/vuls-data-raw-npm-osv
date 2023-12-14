@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/promoimmo/MAL-2022-5483.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/promoimmo/MAL-2022-5483.json"
 			}
 		}
 	],

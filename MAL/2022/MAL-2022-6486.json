@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/test-package-dependencyconfusion/MAL-2022-6486.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/test-package-dependencyconfusion/MAL-2022-6486.json"
 			}
 		}
 	],

@@ -16,7 +16,7 @@
 				"6.6.6"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wpi-rules-valid-events/MAL-2023-1500.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wpi-rules-valid-events/MAL-2023-1500.json"
 			}
 		}
 	],

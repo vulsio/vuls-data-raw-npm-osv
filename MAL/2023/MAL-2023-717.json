@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/qb2-core/MAL-2023-717.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/qb2-core/MAL-2023-717.json"
 			}
 		}
 	],

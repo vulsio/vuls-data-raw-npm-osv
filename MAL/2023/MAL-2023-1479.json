@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/nayan-remake-h/MAL-2023-1479.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/nayan-remake-h/MAL-2023-1479.json"
 			}
 		}
 	],

@@ -16,7 +16,7 @@
 				"0.1.2"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@satsuitesdk/score-choice-policy/MAL-2023-1105.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@satsuitesdk/score-choice-policy/MAL-2023-1105.json"
 			}
 		}
 	],

@@ -16,7 +16,7 @@
 				"0.0.227"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/mets-disclosures/MAL-2023-1234.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mets-disclosures/MAL-2023-1234.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/epm-rdpt-angularjs/MAL-2022-2774.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/epm-rdpt-angularjs/MAL-2022-2774.json"
 			}
 		}
 	],

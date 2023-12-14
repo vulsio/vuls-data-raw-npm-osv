@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/idp-ssr-shell/MAL-2022-3779.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/idp-ssr-shell/MAL-2022-3779.json"
 			}
 		}
 	],

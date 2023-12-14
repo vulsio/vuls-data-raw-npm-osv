@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/yarn-design-system-flatpickr/MAL-2022-7326.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/yarn-design-system-flatpickr/MAL-2022-7326.json"
 			}
 		}
 	],

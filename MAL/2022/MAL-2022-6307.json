@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/stlintreact/MAL-2022-6307.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/stlintreact/MAL-2022-6307.json"
 			}
 		}
 	],

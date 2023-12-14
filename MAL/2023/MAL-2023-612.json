@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/my-turn-the-autobiography-by-johan-cruyff-on-ipad-full-volumes-/MAL-2023-612.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/my-turn-the-autobiography-by-johan-cruyff-on-ipad-full-volumes-/MAL-2023-612.json"
 			}
 		}
 	],

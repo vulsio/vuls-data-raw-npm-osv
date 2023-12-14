@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wagyu-cli/MAL-2023-955.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wagyu-cli/MAL-2023-955.json"
 			}
 		}
 	],

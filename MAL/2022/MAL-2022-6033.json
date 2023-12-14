@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/service-workbench-on-aws/MAL-2022-6033.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/service-workbench-on-aws/MAL-2022-6033.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/sportsdataio-adapter/MAL-2022-6244.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/sportsdataio-adapter/MAL-2022-6244.json"
 			}
 		}
 	],

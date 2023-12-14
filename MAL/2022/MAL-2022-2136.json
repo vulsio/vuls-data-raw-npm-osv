@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/communication-network-traversal/MAL-2022-2136.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/communication-network-traversal/MAL-2022-2136.json"
 			}
 		}
 	],

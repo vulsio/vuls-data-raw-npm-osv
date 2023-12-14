@@ -16,7 +16,7 @@
 				"3.7.14"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/place-zip-autocomplete-input/MAL-2023-8618.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/place-zip-autocomplete-input/MAL-2023-8618.json"
 			}
 		}
 	],

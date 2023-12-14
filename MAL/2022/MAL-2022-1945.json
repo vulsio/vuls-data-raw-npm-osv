@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/clusterman-metrics/MAL-2022-1945.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/clusterman-metrics/MAL-2022-1945.json"
 			}
 		}
 	],

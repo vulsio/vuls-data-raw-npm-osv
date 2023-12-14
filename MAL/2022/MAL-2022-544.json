@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@qw-app/images/MAL-2022-544.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@qw-app/images/MAL-2022-544.json"
 			}
 		}
 	],

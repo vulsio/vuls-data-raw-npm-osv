@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wallet-recovery-wizard/MAL-2022-7040.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wallet-recovery-wizard/MAL-2022-7040.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/crypto-com-chain-wallet/MAL-2022-2251.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/crypto-com-chain-wallet/MAL-2022-2251.json"
 			}
 		}
 	],

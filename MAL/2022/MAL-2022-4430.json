@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/lwc-playground/MAL-2022-4430.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/lwc-playground/MAL-2022-4430.json"
 			}
 		}
 	],

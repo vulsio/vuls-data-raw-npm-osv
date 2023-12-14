@@ -23,7 +23,7 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/binance-price/MAL-2023-1549.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/binance-price/MAL-2023-1549.json"
 			}
 		}
 	],

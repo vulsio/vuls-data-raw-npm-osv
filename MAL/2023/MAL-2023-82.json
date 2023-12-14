@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/afterpay/MAL-2023-82.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/afterpay/MAL-2023-82.json"
 			}
 		}
 	],

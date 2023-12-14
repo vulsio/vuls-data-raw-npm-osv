@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/recurrence-formatter/MAL-2023-742.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/recurrence-formatter/MAL-2023-742.json"
 			}
 		}
 	],

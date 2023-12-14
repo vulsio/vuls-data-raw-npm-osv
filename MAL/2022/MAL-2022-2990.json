@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/fe-fabric-react/MAL-2022-2990.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fe-fabric-react/MAL-2022-2990.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/azure-arm-containerservice-samples/MAL-2022-1239.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/azure-arm-containerservice-samples/MAL-2022-1239.json"
 			}
 		}
 	],

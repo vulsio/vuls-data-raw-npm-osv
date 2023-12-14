@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/darkc0d3-test-xss/MAL-2022-2330.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/darkc0d3-test-xss/MAL-2022-2330.json"
 			}
 		}
 	],

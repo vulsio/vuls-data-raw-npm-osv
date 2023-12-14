@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/yamoney-frontend-lib/MAL-2022-7316.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/yamoney-frontend-lib/MAL-2022-7316.json"
 			}
 		}
 	],

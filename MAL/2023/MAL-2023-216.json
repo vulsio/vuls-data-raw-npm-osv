@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/crooked-kingdom-six-of-crows-2-by-leigh-bardugo-on-mac-full-format-/MAL-2023-216.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/crooked-kingdom-six-of-crows-2-by-leigh-bardugo-on-mac-full-format-/MAL-2023-216.json"
 			}
 		}
 	],

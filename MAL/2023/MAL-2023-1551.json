@@ -23,7 +23,7 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/coingecko-price/MAL-2023-1551.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/coingecko-price/MAL-2023-1551.json"
 			}
 		}
 	],

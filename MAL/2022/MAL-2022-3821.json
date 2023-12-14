@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ing-feat-view-cancel-payments/MAL-2022-3821.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ing-feat-view-cancel-payments/MAL-2022-3821.json"
 			}
 		}
 	],

@@ -16,7 +16,7 @@
 				"200.0.3"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/bistrosk/MAL-2023-8422.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bistrosk/MAL-2023-8422.json"
 			}
 		}
 	],

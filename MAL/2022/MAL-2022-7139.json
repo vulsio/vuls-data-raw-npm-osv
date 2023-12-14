@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/whiteline/MAL-2022-7139.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/whiteline/MAL-2022-7139.json"
 			}
 		}
 	],

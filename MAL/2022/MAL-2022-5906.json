@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/safe-nonce-7218/MAL-2022-5906.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/safe-nonce-7218/MAL-2022-5906.json"
 			}
 		}
 	],

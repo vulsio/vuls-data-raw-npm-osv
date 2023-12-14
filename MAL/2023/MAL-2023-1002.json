@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/you-are-the-placebo-making-your-mind-matter-by-joe-dispenza-on-mac-full-version-/MAL-2023-1002.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/you-are-the-placebo-making-your-mind-matter-by-joe-dispenza-on-mac-full-version-/MAL-2023-1002.json"
 			}
 		}
 	],

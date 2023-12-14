@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/kemnasa-sp/MAL-2023-553.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/kemnasa-sp/MAL-2023-553.json"
 			}
 		}
 	],

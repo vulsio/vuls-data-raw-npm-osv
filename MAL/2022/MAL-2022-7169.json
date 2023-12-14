@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wix-labs-pdf-viewer-statics/MAL-2022-7169.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wix-labs-pdf-viewer-statics/MAL-2022-7169.json"
 			}
 		}
 	],

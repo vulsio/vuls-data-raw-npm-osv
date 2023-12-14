@@ -17,7 +17,7 @@
 				"99.3.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/eslint-config-ironfish/MAL-2023-1174.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/eslint-config-ironfish/MAL-2023-1174.json"
 			}
 		}
 	],

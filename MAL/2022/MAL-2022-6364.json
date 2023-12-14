@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/sushi-client/MAL-2022-6364.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/sushi-client/MAL-2022-6364.json"
 			}
 		}
 	],

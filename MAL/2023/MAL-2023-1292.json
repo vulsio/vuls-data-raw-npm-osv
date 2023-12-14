@@ -16,7 +16,7 @@
 				"10.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/seafoam-desktop/MAL-2023-1292.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/seafoam-desktop/MAL-2023-1292.json"
 			}
 		}
 	],

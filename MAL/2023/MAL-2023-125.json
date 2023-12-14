@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/beginners-luck-chance-of-a-lifetime-1-by-kate-clayborn-on-audible-full-chapters-/MAL-2023-125.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/beginners-luck-chance-of-a-lifetime-1-by-kate-clayborn-on-audible-full-chapters-/MAL-2023-125.json"
 			}
 		}
 	],

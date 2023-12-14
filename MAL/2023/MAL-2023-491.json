@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/hardhat-manage/MAL-2023-491.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hardhat-manage/MAL-2023-491.json"
 			}
 		}
 	],

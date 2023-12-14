@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/safehaven-sdk/MAL-2022-5907.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/safehaven-sdk/MAL-2022-5907.json"
 			}
 		}
 	],

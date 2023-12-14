@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ing-flow-v2/MAL-2022-3823.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ing-flow-v2/MAL-2022-3823.json"
 			}
 		}
 	],

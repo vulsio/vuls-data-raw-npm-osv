@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ketcher/MAL-2022-4146.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ketcher/MAL-2022-4146.json"
 			}
 		}
 	],

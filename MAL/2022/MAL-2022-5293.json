@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/perf-storage-blob/MAL-2022-5293.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/perf-storage-blob/MAL-2022-5293.json"
 			}
 		}
 	],

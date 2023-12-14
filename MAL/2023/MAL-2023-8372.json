@@ -16,7 +16,7 @@
 				"7.8.9"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/tfb-cip-app/MAL-2023-8372.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tfb-cip-app/MAL-2023-8372.json"
 			}
 		}
 	],

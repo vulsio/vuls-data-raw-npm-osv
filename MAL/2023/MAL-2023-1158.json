@@ -16,7 +16,7 @@
 				"1.0.8"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/docs-component-follow-public-pop/MAL-2023-1158.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/docs-component-follow-public-pop/MAL-2023-1158.json"
 			}
 		}
 	],

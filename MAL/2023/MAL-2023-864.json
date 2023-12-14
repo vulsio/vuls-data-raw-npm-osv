@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/the-ashes-of-london-marwood-and-lovett-1-by-andrew-taylor-on-ipad-full-volumes-/MAL-2023-864.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/the-ashes-of-london-marwood-and-lovett-1-by-andrew-taylor-on-ipad-full-volumes-/MAL-2023-864.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/tracking-pixel/MAL-2022-6624.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tracking-pixel/MAL-2022-6624.json"
 			}
 		}
 	],

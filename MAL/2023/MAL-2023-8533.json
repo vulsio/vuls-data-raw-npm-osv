@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/xpub-lib/MAL-2023-8533.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/xpub-lib/MAL-2023-8533.json"
 			}
 		}
 	],

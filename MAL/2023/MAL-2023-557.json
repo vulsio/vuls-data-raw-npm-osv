@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/kitab_ta_lim_muta_alim_pdf_link__4i/MAL-2023-557.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/kitab_ta_lim_muta_alim_pdf_link__4i/MAL-2023-557.json"
 			}
 		}
 	],

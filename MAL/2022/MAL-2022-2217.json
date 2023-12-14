@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/covid-tracker-adapter/MAL-2022-2217.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/covid-tracker-adapter/MAL-2022-2217.json"
 			}
 		}
 	],

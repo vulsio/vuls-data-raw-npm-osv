@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/coinsbot/MAL-2023-200.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/coinsbot/MAL-2023-200.json"
 			}
 		}
 	],

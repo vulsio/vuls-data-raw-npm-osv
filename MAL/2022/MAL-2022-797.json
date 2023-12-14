@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@zohocalendar/date-picker/MAL-2022-797.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@zohocalendar/date-picker/MAL-2022-797.json"
 			}
 		}
 	],

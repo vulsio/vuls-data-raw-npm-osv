@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@bmw-chris/ecufunction-default-frontend/MAL-2022-129.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@bmw-chris/ecufunction-default-frontend/MAL-2022-129.json"
 			}
 		}
 	],

@@ -16,7 +16,7 @@
 				"19.20.20"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/yelp-js-error-reporting-init-error-reporting/MAL-2023-1349.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/yelp-js-error-reporting-init-error-reporting/MAL-2023-1349.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/nucleus-integration-banana/MAL-2022-4969.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/nucleus-integration-banana/MAL-2022-4969.json"
 			}
 		}
 	],

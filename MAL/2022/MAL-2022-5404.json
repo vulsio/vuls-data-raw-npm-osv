@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/polarloft-discord/MAL-2022-5404.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/polarloft-discord/MAL-2022-5404.json"
 			}
 		}
 	],

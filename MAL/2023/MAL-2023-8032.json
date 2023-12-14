@@ -23,7 +23,7 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/olymptrade/MAL-2023-8032.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/olymptrade/MAL-2023-8032.json"
 			}
 		}
 	],

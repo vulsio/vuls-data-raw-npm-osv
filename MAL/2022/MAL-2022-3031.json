@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/figusr/MAL-2022-3031.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/figusr/MAL-2022-3031.json"
 			}
 		}
 	],

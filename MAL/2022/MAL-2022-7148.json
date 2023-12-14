@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wikiloop-doublecheck/MAL-2022-7148.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wikiloop-doublecheck/MAL-2022-7148.json"
 			}
 		}
 	],

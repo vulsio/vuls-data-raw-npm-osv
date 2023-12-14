@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/com.unity.modules.imageconversion/MAL-2022-2074.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/com.unity.modules.imageconversion/MAL-2022-2074.json"
 			}
 		}
 	],

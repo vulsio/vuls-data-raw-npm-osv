@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/changcase/MAL-2022-1878.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/changcase/MAL-2022-1878.json"
 			}
 		}
 	],

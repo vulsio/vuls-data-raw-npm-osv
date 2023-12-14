@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/chat-component-bindings/MAL-2022-1888.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/chat-component-bindings/MAL-2022-1888.json"
 			}
 		}
 	],

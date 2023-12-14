@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@hmg-sucasa-npm/my-account-components/MAL-2022-335.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@hmg-sucasa-npm/my-account-components/MAL-2022-335.json"
 			}
 		}
 	],

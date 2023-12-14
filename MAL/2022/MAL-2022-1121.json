@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/armeria-site/MAL-2022-1121.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/armeria-site/MAL-2022-1121.json"
 			}
 		}
 	],

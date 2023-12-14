@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/opy-wepback-plugin/MAL-2022-5114.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/opy-wepback-plugin/MAL-2022-5114.json"
 			}
 		}
 	],

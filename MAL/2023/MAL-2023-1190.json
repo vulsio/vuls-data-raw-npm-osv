@@ -16,7 +16,7 @@
 				"2.1.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/gql2ts-from-schema/MAL-2023-1190.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/gql2ts-from-schema/MAL-2023-1190.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/khelahobe/MAL-2022-4161.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/khelahobe/MAL-2022-4161.json"
 			}
 		}
 	],

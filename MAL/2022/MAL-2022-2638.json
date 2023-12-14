@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dyson-careers/MAL-2022-2638.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dyson-careers/MAL-2022-2638.json"
 			}
 		}
 	],

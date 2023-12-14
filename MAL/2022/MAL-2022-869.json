@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/adroit-f0-components/MAL-2022-869.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/adroit-f0-components/MAL-2022-869.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/evernote-sdk-sample-node/MAL-2022-2898.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/evernote-sdk-sample-node/MAL-2022-2898.json"
 			}
 		}
 	],

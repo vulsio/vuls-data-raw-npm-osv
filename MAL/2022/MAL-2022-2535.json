@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dklive-admin-api/MAL-2022-2535.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dklive-admin-api/MAL-2022-2535.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/aggregator-dashboard-microfrontend/MAL-2022-892.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/aggregator-dashboard-microfrontend/MAL-2022-892.json"
 			}
 		}
 	],

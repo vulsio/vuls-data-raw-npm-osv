@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/samples-cors-typescript-server/MAL-2022-5925.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/samples-cors-typescript-server/MAL-2022-5925.json"
 			}
 		}
 	],

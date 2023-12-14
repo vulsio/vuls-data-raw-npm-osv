@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/vro-language-server/MAL-2022-6970.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/vro-language-server/MAL-2022-6970.json"
 			}
 		}
 	],

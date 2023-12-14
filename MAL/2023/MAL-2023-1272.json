@@ -17,7 +17,7 @@
 				"10.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/proteus-demo-app-server/MAL-2023-1272.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/proteus-demo-app-server/MAL-2023-1272.json"
 			}
 		}
 	],

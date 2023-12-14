@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/usaa-dls-build-utils/MAL-2022-6837.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/usaa-dls-build-utils/MAL-2022-6837.json"
 			}
 		}
 	],

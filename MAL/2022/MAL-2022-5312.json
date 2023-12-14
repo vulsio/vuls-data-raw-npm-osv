@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/pg-ng-popover/MAL-2022-5312.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/pg-ng-popover/MAL-2022-5312.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/woofi_swap/MAL-2022-7216.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/woofi_swap/MAL-2022-7216.json"
 			}
 		}
 	],

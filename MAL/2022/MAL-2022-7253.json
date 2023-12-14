@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/www.etherscan.com/MAL-2022-7253.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/www.etherscan.com/MAL-2022-7253.json"
 			}
 		}
 	],

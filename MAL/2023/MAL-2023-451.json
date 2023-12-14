@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/flying_pusher/MAL-2023-451.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/flying_pusher/MAL-2023-451.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/lusha-ui-components-v2/MAL-2022-4424.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/lusha-ui-components-v2/MAL-2022-4424.json"
 			}
 		}
 	],

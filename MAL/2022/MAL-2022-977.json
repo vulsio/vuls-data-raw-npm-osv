@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/amplify-category-api-e2e-core/MAL-2022-977.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/amplify-category-api-e2e-core/MAL-2022-977.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/pokemon-go-promo-codes-app-apk/MAL-2022-5395.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/pokemon-go-promo-codes-app-apk/MAL-2022-5395.json"
 			}
 		}
 	],

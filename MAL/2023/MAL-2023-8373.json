@@ -37,7 +37,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@bitsoex/react-design-system/MAL-2023-8373.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@bitsoex/react-design-system/MAL-2023-8373.json"
 			}
 		}
 	],

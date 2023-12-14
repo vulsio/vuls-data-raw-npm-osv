@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/fri9d-up/MAL-2022-3211.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fri9d-up/MAL-2022-3211.json"
 			}
 		}
 	],

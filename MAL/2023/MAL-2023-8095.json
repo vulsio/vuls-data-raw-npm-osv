@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/xweb_3.0_rootlib/MAL-2023-8095.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/xweb_3.0_rootlib/MAL-2023-8095.json"
 			}
 		}
 	],

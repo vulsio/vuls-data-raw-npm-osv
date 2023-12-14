@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/gauntlet-solana-contracts/MAL-2022-3294.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/gauntlet-solana-contracts/MAL-2022-3294.json"
 			}
 		}
 	],

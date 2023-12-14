@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/byted-tma-pack/MAL-2022-1745.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/byted-tma-pack/MAL-2022-1745.json"
 			}
 		}
 	],

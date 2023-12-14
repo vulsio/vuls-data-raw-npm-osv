@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/volcan0x/MAL-2022-6963.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/volcan0x/MAL-2022-6963.json"
 			}
 		}
 	],

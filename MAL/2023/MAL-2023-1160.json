@@ -17,7 +17,7 @@
 				"1.2.2"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/docs-component-title/MAL-2023-1160.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/docs-component-title/MAL-2023-1160.json"
 			}
 		}
 	],

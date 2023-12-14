@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/component---src-pages-corporate-delegate-packages-js/MAL-2023-8270.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/component---src-pages-corporate-delegate-packages-js/MAL-2023-8270.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/cutoffurmind-ui-kit2/MAL-2022-2290.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cutoffurmind-ui-kit2/MAL-2022-2290.json"
 			}
 		}
 	],

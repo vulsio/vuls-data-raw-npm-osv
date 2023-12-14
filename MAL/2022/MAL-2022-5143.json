@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ot-toy/MAL-2022-5143.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ot-toy/MAL-2022-5143.json"
 			}
 		}
 	],

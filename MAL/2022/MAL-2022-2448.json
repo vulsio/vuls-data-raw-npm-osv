@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/deskera-cli/MAL-2022-2448.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/deskera-cli/MAL-2022-2448.json"
 			}
 		}
 	],

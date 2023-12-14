@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/yasap-lodash/MAL-2023-996.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/yasap-lodash/MAL-2023-996.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@ling-web/psdviewer/MAL-2022-387.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ling-web/psdviewer/MAL-2022-387.json"
 			}
 		}
 	],

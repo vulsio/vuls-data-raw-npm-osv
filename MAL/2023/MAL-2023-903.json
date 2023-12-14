@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/tropine_1/MAL-2023-903.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tropine_1/MAL-2023-903.json"
 			}
 		}
 	],

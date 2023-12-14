@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/vue-smooth/MAL-2022-6994.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/vue-smooth/MAL-2022-6994.json"
 			}
 		}
 	],

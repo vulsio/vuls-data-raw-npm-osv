@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/yelp_js_component/MAL-2022-7339.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/yelp_js_component/MAL-2022-7339.json"
 			}
 		}
 	],

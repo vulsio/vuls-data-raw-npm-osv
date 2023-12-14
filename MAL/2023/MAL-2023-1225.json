@@ -16,7 +16,7 @@
 				"99.9.9"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/lexicaltext/MAL-2023-1225.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/lexicaltext/MAL-2023-1225.json"
 			}
 		}
 	],

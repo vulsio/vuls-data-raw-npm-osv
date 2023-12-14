@@ -16,7 +16,7 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/web-dev-for-beginners/MAL-2023-1503.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/web-dev-for-beginners/MAL-2023-1503.json"
 			}
 		}
 	],

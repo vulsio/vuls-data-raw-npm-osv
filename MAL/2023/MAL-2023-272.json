@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dow-load-all-systems-red-the-murderbot-diaries-1-by-martha-wells-online-new-volumes-/MAL-2023-272.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dow-load-all-systems-red-the-murderbot-diaries-1-by-martha-wells-online-new-volumes-/MAL-2023-272.json"
 			}
 		}
 	],

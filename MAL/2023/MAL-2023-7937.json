@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/hh-dep-monitoring/MAL-2023-7937.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hh-dep-monitoring/MAL-2023-7937.json"
 			}
 		}
 	],

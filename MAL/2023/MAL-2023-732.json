@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/react-pop-tooltip/MAL-2023-732.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/react-pop-tooltip/MAL-2023-732.json"
 			}
 		}
 	],

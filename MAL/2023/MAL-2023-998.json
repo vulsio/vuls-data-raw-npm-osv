@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/yb-trust-butils/MAL-2023-998.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/yb-trust-butils/MAL-2023-998.json"
 			}
 		}
 	],

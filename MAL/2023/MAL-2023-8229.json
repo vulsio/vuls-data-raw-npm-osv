@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/bot-asuna-temp/MAL-2023-8229.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bot-asuna-temp/MAL-2023-8229.json"
 			}
 		}
 	],

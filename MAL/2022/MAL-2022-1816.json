@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/callrail-package-cleanup/MAL-2022-1816.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/callrail-package-cleanup/MAL-2022-1816.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/kiota-authentication-azure/MAL-2022-4173.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/kiota-authentication-azure/MAL-2022-4173.json"
 			}
 		}
 	],

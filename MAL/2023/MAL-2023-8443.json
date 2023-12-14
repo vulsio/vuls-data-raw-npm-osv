@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/watchman-search-ui/MAL-2023-8443.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/watchman-search-ui/MAL-2023-8443.json"
 			}
 		}
 	],

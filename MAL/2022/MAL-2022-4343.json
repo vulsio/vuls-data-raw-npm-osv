@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/loade3r-utisl/MAL-2022-4343.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/loade3r-utisl/MAL-2022-4343.json"
 			}
 		}
 	],

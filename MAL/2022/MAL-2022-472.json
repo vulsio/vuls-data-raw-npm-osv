@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@nexthink/nxassignment/MAL-2022-472.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@nexthink/nxassignment/MAL-2022-472.json"
 			}
 		}
 	],

@@ -37,7 +37,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/test262-runner/MAL-2023-8414.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/test262-runner/MAL-2023-8414.json"
 			}
 		}
 	],

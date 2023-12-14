@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/azure-arm-redisenterprisecache-samples-js/MAL-2022-1276.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/azure-arm-redisenterprisecache-samples-js/MAL-2022-1276.json"
 			}
 		}
 	],

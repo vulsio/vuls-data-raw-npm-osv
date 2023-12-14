@@ -23,7 +23,7 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/btc-api-node/MAL-2023-1550.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/btc-api-node/MAL-2023-1550.json"
 			}
 		}
 	],

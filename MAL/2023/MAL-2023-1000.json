@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ynodejs_mod_log/MAL-2023-1000.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ynodejs_mod_log/MAL-2023-1000.json"
 			}
 		}
 	],

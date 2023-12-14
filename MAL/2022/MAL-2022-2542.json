@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dns-watcher-frontend/MAL-2022-2542.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dns-watcher-frontend/MAL-2022-2542.json"
 			}
 		}
 	],

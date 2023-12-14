@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@12build/account-api-ts-axios-sdk/MAL-2023-20.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@12build/account-api-ts-axios-sdk/MAL-2023-20.json"
 			}
 		}
 	],

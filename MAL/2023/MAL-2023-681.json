@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/photos-story-animator/MAL-2023-681.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/photos-story-animator/MAL-2023-681.json"
 			}
 		}
 	],

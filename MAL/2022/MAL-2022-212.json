@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@dsgn-sys/editor-elements-corvid-utils/MAL-2022-212.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@dsgn-sys/editor-elements-corvid-utils/MAL-2022-212.json"
 			}
 		}
 	],

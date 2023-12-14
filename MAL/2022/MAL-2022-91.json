@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@audi-cct/teaser-feature-app/MAL-2022-91.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@audi-cct/teaser-feature-app/MAL-2022-91.json"
 			}
 		}
 	],

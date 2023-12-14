@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/bem-xjst-static-analyzer/MAL-2022-1498.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bem-xjst-static-analyzer/MAL-2022-1498.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/nodejs-gcloud-pubsub-module/MAL-2022-4906.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/nodejs-gcloud-pubsub-module/MAL-2022-4906.json"
 			}
 		}
 	],

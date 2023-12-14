@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/tari_wallet_ffi/MAL-2023-8613.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tari_wallet_ffi/MAL-2023-8613.json"
 			}
 		}
 	],

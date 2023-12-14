@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/facebook-asuna-api/MAL-2023-8232.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/facebook-asuna-api/MAL-2023-8232.json"
 			}
 		}
 	],

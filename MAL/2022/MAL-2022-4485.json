@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/marketplace-benchmarks/MAL-2022-4485.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/marketplace-benchmarks/MAL-2022-4485.json"
 			}
 		}
 	],

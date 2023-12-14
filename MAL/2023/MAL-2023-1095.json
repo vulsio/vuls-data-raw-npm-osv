@@ -16,7 +16,7 @@
 				"99999.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@obg/ngx.global/MAL-2023-1095.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@obg/ngx.global/MAL-2023-1095.json"
 			}
 		}
 	],

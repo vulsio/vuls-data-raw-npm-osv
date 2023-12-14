@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@nokia-csf-uxr/csfwidgets/MAL-2023-46.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@nokia-csf-uxr/csfwidgets/MAL-2023-46.json"
 			}
 		}
 	],

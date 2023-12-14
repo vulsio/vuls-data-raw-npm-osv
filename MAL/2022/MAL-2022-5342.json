@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/pipeline-npm-artifactory/MAL-2022-5342.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/pipeline-npm-artifactory/MAL-2022-5342.json"
 			}
 		}
 	],

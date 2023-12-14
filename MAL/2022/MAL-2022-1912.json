@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/cl.i-psinner/MAL-2022-1912.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cl.i-psinner/MAL-2022-1912.json"
 			}
 		}
 	],

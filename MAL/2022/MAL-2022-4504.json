@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/mattermost-push-proxy/MAL-2022-4504.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mattermost-push-proxy/MAL-2022-4504.json"
 			}
 		}
 	],

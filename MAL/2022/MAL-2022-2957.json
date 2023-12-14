@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/f5-logger/MAL-2022-2957.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/f5-logger/MAL-2022-2957.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/basubanakar/MAL-2022-1470.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/basubanakar/MAL-2022-1470.json"
 			}
 		}
 	],

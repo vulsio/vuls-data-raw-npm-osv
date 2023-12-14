@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/cms-ui-presentationlogic/MAL-2023-194.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cms-ui-presentationlogic/MAL-2023-194.json"
 			}
 		}
 	],

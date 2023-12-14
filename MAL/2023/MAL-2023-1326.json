@@ -16,7 +16,7 @@
 				"99.99.992"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/uber-eslint/MAL-2023-1326.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/uber-eslint/MAL-2023-1326.json"
 			}
 		}
 	],

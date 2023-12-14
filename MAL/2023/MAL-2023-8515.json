@@ -40,7 +40,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/discord-web-stream/MAL-2023-8515.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/discord-web-stream/MAL-2023-8515.json"
 			}
 		}
 	],

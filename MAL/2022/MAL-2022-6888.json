@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/validaqr/MAL-2022-6888.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/validaqr/MAL-2022-6888.json"
 			}
 		}
 	],

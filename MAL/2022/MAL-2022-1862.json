@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ceshia-node-stack/MAL-2022-1862.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ceshia-node-stack/MAL-2022-1862.json"
 			}
 		}
 	],

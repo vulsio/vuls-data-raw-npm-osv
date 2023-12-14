@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@dpdgroupuk/design-space-components/MAL-2023-1569.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@dpdgroupuk/design-space-components/MAL-2023-1569.json"
 			}
 		}
 	],

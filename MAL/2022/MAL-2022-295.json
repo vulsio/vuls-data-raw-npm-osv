@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@greetznl/eslint-config-greetz/MAL-2022-295.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@greetznl/eslint-config-greetz/MAL-2022-295.json"
 			}
 		}
 	],

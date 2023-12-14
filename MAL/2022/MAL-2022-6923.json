@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/videoplayershakaperformancelogger/MAL-2022-6923.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/videoplayershakaperformancelogger/MAL-2022-6923.json"
 			}
 		}
 	],

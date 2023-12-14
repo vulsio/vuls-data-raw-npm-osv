@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@shared-ui/global-navigation-header/MAL-2022-587.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@shared-ui/global-navigation-header/MAL-2022-587.json"
 			}
 		}
 	],

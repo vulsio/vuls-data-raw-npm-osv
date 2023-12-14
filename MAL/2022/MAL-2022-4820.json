@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/newrelic-caf/MAL-2022-4820.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/newrelic-caf/MAL-2022-4820.json"
 			}
 		}
 	],

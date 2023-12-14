@@ -16,7 +16,7 @@
 				"2.21.3"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/codeql/MAL-2023-1138.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/codeql/MAL-2023-1138.json"
 			}
 		}
 	],

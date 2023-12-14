@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wafer-countdown/MAL-2022-7021.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wafer-countdown/MAL-2022-7021.json"
 			}
 		}
 	],

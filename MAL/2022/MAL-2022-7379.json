@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/zd-product-tray/MAL-2022-7379.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/zd-product-tray/MAL-2022-7379.json"
 			}
 		}
 	],

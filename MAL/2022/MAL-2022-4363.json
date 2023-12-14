@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/lodashdkbounce/MAL-2022-4363.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/lodashdkbounce/MAL-2022-4363.json"
 			}
 		}
 	],

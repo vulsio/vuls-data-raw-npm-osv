@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/pcorbr-ui-framework/MAL-2023-670.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/pcorbr-ui-framework/MAL-2023-670.json"
 			}
 		}
 	],

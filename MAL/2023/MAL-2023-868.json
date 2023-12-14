@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/the-gentlemans-guide-to-vice-and-virtue-montague-siblings-1-by-mackenzi-lee-on-audiobook-full-editio/MAL-2023-868.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/the-gentlemans-guide-to-vice-and-virtue-montague-siblings-1-by-mackenzi-lee-on-audiobook-full-editio/MAL-2023-868.json"
 			}
 		}
 	],

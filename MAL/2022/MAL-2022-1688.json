@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/broccolirmergetes/MAL-2022-1688.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/broccolirmergetes/MAL-2022-1688.json"
 			}
 		}
 	],

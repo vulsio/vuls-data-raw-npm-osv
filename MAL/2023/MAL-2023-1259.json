@@ -16,7 +16,7 @@
 				"99.99.999"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/openai-beta/MAL-2023-1259.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/openai-beta/MAL-2023-1259.json"
 			}
 		}
 	],

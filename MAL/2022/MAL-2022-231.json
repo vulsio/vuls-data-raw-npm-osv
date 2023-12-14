@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@epc-apps/api-generic-plan/MAL-2022-231.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@epc-apps/api-generic-plan/MAL-2022-231.json"
 			}
 		}
 	],

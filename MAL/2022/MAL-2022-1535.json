@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/bfx-facs-redis-lock/MAL-2022-1535.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bfx-facs-redis-lock/MAL-2022-1535.json"
 			}
 		}
 	],

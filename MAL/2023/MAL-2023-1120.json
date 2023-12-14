@@ -16,7 +16,7 @@
 				"1.1.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/back-alley/MAL-2023-1120.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/back-alley/MAL-2023-1120.json"
 			}
 		}
 	],

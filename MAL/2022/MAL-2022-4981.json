@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/nw-api-sdk/MAL-2022-4981.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/nw-api-sdk/MAL-2022-4981.json"
 			}
 		}
 	],

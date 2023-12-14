@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/rcsolvefrom/MAL-2022-5612.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/rcsolvefrom/MAL-2022-5612.json"
 			}
 		}
 	],

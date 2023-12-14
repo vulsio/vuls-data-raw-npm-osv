@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@nexthink/ea-widgets/MAL-2022-463.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@nexthink/ea-widgets/MAL-2022-463.json"
 			}
 		}
 	],

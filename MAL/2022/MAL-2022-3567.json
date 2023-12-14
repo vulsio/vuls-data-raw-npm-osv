@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/haste-preset-playable/MAL-2022-3567.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/haste-preset-playable/MAL-2022-3567.json"
 			}
 		}
 	],

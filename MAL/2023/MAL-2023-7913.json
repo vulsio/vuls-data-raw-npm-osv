@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/mx-icon/MAL-2023-7913.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mx-icon/MAL-2023-7913.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/theft-by-finding-diaries-1977-2002-by-david-sedaris-on-kindle-new-pages-/MAL-2023-880.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/theft-by-finding-diaries-1977-2002-by-david-sedaris-on-kindle-new-pages-/MAL-2023-880.json"
 			}
 		}
 	],

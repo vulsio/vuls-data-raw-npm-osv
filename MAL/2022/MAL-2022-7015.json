@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wad-workshop-starter/MAL-2022-7015.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wad-workshop-starter/MAL-2022-7015.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/bitmovin-internal/MAL-2022-1593.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bitmovin-internal/MAL-2022-1593.json"
 			}
 		}
 	],

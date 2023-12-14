@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/zkcalendar/MAL-2022-7396.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/zkcalendar/MAL-2022-7396.json"
 			}
 		}
 	],

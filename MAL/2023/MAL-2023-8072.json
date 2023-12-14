@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ethereum-cryptograph/MAL-2023-8072.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ethereum-cryptograph/MAL-2023-8072.json"
 			}
 		}
 	],

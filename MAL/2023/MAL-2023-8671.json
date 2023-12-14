@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/cosmos-wallet-js/MAL-2023-8671.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cosmos-wallet-js/MAL-2023-8671.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@porting-assistant/integration-test/MAL-2022-515.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@porting-assistant/integration-test/MAL-2022-515.json"
 			}
 		}
 	],

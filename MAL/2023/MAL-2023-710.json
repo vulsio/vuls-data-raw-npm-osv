@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/pucked-under-pucked-45-by-helena-hunting-on-textbook-full-edition-/MAL-2023-710.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/pucked-under-pucked-45-by-helena-hunting-on-textbook-full-edition-/MAL-2023-710.json"
 			}
 		}
 	],

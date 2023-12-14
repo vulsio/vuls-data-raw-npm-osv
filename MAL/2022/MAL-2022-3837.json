@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ing-util-scr-session/MAL-2022-3837.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ing-util-scr-session/MAL-2022-3837.json"
 			}
 		}
 	],

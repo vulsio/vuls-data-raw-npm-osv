@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/viihdeonline-shared-components/MAL-2023-939.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/viihdeonline-shared-components/MAL-2023-939.json"
 			}
 		}
 	],

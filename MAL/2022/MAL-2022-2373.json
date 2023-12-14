@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dcrtimegui/MAL-2022-2373.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dcrtimegui/MAL-2022-2373.json"
 			}
 		}
 	],

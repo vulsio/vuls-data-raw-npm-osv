@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/bfx-facs-deflate/MAL-2022-1522.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bfx-facs-deflate/MAL-2022-1522.json"
 			}
 		}
 	],

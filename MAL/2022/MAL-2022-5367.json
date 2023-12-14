@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/plugin-bugfix-v8-spread-parameters-in-optional-chaining/MAL-2022-5367.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/plugin-bugfix-v8-spread-parameters-in-optional-chaining/MAL-2022-5367.json"
 			}
 		}
 	],

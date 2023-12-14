@@ -16,7 +16,7 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/a2b_hex/MAL-2023-1109.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/a2b_hex/MAL-2023-1109.json"
 			}
 		}
 	],

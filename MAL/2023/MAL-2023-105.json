@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/arkaos_nuvj_1_5_serial_number_xx4w9/MAL-2023-105.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/arkaos_nuvj_1_5_serial_number_xx4w9/MAL-2023-105.json"
 			}
 		}
 	],

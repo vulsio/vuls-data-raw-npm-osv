@@ -16,7 +16,7 @@
 				"1.999.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/pmcrypto-v7-test/MAL-2023-1268.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/pmcrypto-v7-test/MAL-2023-1268.json"
 			}
 		}
 	],

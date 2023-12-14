@@ -16,7 +16,7 @@
 				"1.0.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/snapchat-test-package/MAL-2023-1470.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/snapchat-test-package/MAL-2023-1470.json"
 			}
 		}
 	],

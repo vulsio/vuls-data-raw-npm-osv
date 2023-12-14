@@ -20,7 +20,7 @@
 				"1.0.3"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/bugsnotfound/MAL-2023-1490.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bugsnotfound/MAL-2023-1490.json"
 			}
 		}
 	],

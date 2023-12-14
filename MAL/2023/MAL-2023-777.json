@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/signurl-bindings/MAL-2023-777.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/signurl-bindings/MAL-2023-777.json"
 			}
 		}
 	],

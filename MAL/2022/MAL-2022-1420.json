@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/babelllugintransformes2015modulescommonjs/MAL-2022-1420.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/babelllugintransformes2015modulescommonjs/MAL-2022-1420.json"
 			}
 		}
 	],

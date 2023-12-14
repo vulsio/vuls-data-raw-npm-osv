@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/adc-ui-components/MAL-2022-850.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/adc-ui-components/MAL-2022-850.json"
 			}
 		}
 	],

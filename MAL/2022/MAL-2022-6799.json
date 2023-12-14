@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/upaya/MAL-2022-6799.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/upaya/MAL-2022-6799.json"
 			}
 		}
 	],

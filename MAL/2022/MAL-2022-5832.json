@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/roar-02/MAL-2022-5832.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/roar-02/MAL-2022-5832.json"
 			}
 		}
 	],

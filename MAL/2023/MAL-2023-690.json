@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/postcss-file-match/MAL-2023-690.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/postcss-file-match/MAL-2023-690.json"
 			}
 		}
 	],

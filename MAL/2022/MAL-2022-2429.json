@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/depedence-confusion/MAL-2022-2429.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/depedence-confusion/MAL-2022-2429.json"
 			}
 		}
 	],

@@ -16,7 +16,7 @@
 				"2.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/com.unity.xrtools.spatial-hash/MAL-2023-1141.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/com.unity.xrtools.spatial-hash/MAL-2023-1141.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/pdf2htmlex2/MAL-2023-8659.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/pdf2htmlex2/MAL-2023-8659.json"
 			}
 		}
 	],

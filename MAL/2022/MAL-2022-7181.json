@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wixstore-client-worker/MAL-2022-7181.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wixstore-client-worker/MAL-2022-7181.json"
 			}
 		}
 	],

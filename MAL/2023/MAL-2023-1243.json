@@ -16,7 +16,7 @@
 				"999.999.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/navigation-component-tco/MAL-2023-1243.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/navigation-component-tco/MAL-2023-1243.json"
 			}
 		}
 	],

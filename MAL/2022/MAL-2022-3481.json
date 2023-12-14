@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/grunt-scratchy/MAL-2022-3481.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/grunt-scratchy/MAL-2022-3481.json"
 			}
 		}
 	],

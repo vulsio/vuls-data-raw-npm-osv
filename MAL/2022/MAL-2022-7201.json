@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wm-prelib-builder/MAL-2022-7201.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wm-prelib-builder/MAL-2022-7201.json"
 			}
 		}
 	],

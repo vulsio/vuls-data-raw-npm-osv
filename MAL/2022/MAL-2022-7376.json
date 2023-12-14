@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/zapper-safe-app/MAL-2022-7376.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/zapper-safe-app/MAL-2022-7376.json"
 			}
 		}
 	],

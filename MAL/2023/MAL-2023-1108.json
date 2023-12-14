@@ -16,7 +16,7 @@
 				"100.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@yuga-labs/web3-react/MAL-2023-1108.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@yuga-labs/web3-react/MAL-2023-1108.json"
 			}
 		}
 	],

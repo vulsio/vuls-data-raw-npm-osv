@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/velo-external-database-adapter/MAL-2023-933.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/velo-external-database-adapter/MAL-2023-933.json"
 			}
 		}
 	],

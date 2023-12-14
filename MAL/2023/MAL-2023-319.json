@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/experimental-entrevista-react-01/MAL-2023-319.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/experimental-entrevista-react-01/MAL-2023-319.json"
 			}
 		}
 	],

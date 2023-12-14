@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/com.citrix.cordova.testapp/MAL-2022-2032.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/com.citrix.cordova.testapp/MAL-2022-2032.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/hapollocaheinmemory/MAL-2022-3559.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hapollocaheinmemory/MAL-2022-3559.json"
 			}
 		}
 	],

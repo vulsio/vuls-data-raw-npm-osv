@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/crcloud-layout/MAL-2023-1515.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/crcloud-layout/MAL-2023-1515.json"
 			}
 		}
 	],

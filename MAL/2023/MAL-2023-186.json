@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/cms-businesslogic/MAL-2023-186.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cms-businesslogic/MAL-2023-186.json"
 			}
 		}
 	],

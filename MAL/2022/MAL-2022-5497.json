@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ps-asymmetric-crypts/MAL-2022-5497.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ps-asymmetric-crypts/MAL-2022-5497.json"
 			}
 		}
 	],

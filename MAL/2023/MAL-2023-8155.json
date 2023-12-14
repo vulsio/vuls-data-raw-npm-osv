@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/thinhdz-fb/MAL-2023-8155.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/thinhdz-fb/MAL-2023-8155.json"
 			}
 		}
 	],

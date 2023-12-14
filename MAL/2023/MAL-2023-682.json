@@ -38,7 +38,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/pitito/MAL-2023-682.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/pitito/MAL-2023-682.json"
 			}
 		}
 	],

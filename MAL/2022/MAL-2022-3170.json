@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/free-fortnite-skins-ps4-no-human-verification/MAL-2022-3170.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/free-fortnite-skins-ps4-no-human-verification/MAL-2022-3170.json"
 			}
 		}
 	],

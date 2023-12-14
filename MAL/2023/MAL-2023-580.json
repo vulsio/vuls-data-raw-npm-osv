@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/managed-vip-2-by-kristen-callihan-on-iphone-full-volumes-/MAL-2023-580.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/managed-vip-2-by-kristen-callihan-on-iphone-full-volumes-/MAL-2023-580.json"
 			}
 		}
 	],

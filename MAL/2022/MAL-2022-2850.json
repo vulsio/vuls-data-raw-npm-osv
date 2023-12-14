@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/esperamier-ctf1/MAL-2022-2850.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/esperamier-ctf1/MAL-2022-2850.json"
 			}
 		}
 	],

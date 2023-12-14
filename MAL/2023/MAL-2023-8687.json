@@ -16,7 +16,7 @@
 				"0.9.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/rechtspraak.namenlijst/MAL-2023-8687.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/rechtspraak.namenlijst/MAL-2023-8687.json"
 			}
 		}
 	],

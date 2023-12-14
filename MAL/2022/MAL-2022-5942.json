@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/sb1-adobe-analytics/MAL-2022-5942.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/sb1-adobe-analytics/MAL-2022-5942.json"
 			}
 		}
 	],

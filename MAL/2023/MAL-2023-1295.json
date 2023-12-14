@@ -16,7 +16,7 @@
 				"0.1.4-beta"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/shein-bbl/MAL-2023-1295.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/shein-bbl/MAL-2023-1295.json"
 			}
 		}
 	],

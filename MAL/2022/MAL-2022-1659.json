@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/bouncer-auth-js/MAL-2022-1659.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bouncer-auth-js/MAL-2022-1659.json"
 			}
 		}
 	],

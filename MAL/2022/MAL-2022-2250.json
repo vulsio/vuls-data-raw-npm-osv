@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/crypt-osj/MAL-2022-2250.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/crypt-osj/MAL-2022-2250.json"
 			}
 		}
 	],

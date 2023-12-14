@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/indriver/MAL-2023-522.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/indriver/MAL-2023-522.json"
 			}
 		}
 	],

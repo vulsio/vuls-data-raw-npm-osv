@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/this-is-how-it-always-is-by-laurie-frankel-on-mac-new-volumes-/MAL-2023-886.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/this-is-how-it-always-is-by-laurie-frankel-on-mac-new-volumes-/MAL-2023-886.json"
 			}
 		}
 	],

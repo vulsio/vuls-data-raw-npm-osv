@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/bootstrap-base-nabtrade-design/MAL-2022-1651.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bootstrap-base-nabtrade-design/MAL-2022-1651.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/maw-fetch/MAL-2023-585.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/maw-fetch/MAL-2023-585.json"
 			}
 		}
 	],

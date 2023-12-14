@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/strip-json-combmentd/MAL-2022-6327.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/strip-json-combmentd/MAL-2022-6327.json"
 			}
 		}
 	],

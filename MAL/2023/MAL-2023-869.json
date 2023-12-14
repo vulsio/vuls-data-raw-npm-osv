@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/the-girl-with-the-make-believe-husband-rokesbys-2-by-julia-quinn-on-ipad-new-chapters-/MAL-2023-869.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/the-girl-with-the-make-believe-husband-rokesbys-2-by-julia-quinn-on-ipad-new-chapters-/MAL-2023-869.json"
 			}
 		}
 	],

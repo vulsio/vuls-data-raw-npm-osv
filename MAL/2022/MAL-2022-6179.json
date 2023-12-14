@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/smithy-client/MAL-2022-6179.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/smithy-client/MAL-2022-6179.json"
 			}
 		}
 	],

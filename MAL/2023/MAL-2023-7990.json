@@ -16,7 +16,7 @@
 				"2.0.10"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/www-ankr-com/MAL-2023-7990.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/www-ankr-com/MAL-2023-7990.json"
 			}
 		}
 	],

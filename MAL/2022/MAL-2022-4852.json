@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/nih-ncats-translator/MAL-2022-4852.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/nih-ncats-translator/MAL-2022-4852.json"
 			}
 		}
 	],

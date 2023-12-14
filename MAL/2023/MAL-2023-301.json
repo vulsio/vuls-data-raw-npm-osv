@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/eg-shared/MAL-2023-301.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/eg-shared/MAL-2023-301.json"
 			}
 		}
 	],

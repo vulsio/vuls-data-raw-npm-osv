@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/bing11testpak/MAL-2022-1581.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bing11testpak/MAL-2022-1581.json"
 			}
 		}
 	],

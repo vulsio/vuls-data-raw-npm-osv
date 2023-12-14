@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/cart-bucketing/MAL-2022-1832.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cart-bucketing/MAL-2022-1832.json"
 			}
 		}
 	],

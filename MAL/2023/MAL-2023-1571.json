@@ -16,7 +16,7 @@
 				"9.9.9"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/gapps-automation/MAL-2023-1571.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/gapps-automation/MAL-2023-1571.json"
 			}
 		}
 	],

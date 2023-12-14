@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/payment_method/MAL-2022-5237.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/payment_method/MAL-2022-5237.json"
 			}
 		}
 	],

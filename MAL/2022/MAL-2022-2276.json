@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/curri-slack/MAL-2022-2276.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/curri-slack/MAL-2022-2276.json"
 			}
 		}
 	],

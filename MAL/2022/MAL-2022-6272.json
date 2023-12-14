@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/sql-action/MAL-2022-6272.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/sql-action/MAL-2022-6272.json"
 			}
 		}
 	],

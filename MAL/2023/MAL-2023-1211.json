@@ -16,7 +16,7 @@
 				"1.0.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/infobip-rtc-token/MAL-2023-1211.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/infobip-rtc-token/MAL-2023-1211.json"
 			}
 		}
 	],

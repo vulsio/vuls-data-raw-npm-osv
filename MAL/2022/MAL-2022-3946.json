@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/iotex-explorer/MAL-2022-3946.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/iotex-explorer/MAL-2022-3946.json"
 			}
 		}
 	],

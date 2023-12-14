@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/omnigodz_testpkg/MAL-2023-653.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/omnigodz_testpkg/MAL-2023-653.json"
 			}
 		}
 	],

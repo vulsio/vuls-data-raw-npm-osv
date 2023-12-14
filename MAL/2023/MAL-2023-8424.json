@@ -37,7 +37,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/atmos-design-system/MAL-2023-8424.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/atmos-design-system/MAL-2023-8424.json"
 			}
 		}
 	],

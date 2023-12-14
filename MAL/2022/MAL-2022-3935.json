@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ionicons-pack/MAL-2022-3935.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ionicons-pack/MAL-2022-3935.json"
 			}
 		}
 	],

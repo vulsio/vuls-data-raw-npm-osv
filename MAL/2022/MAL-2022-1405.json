@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/babel-plugin-inline-gl-constants/MAL-2022-1405.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/babel-plugin-inline-gl-constants/MAL-2022-1405.json"
 			}
 		}
 	],

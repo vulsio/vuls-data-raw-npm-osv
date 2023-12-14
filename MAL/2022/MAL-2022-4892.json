@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/node-upwork-oauth2/MAL-2022-4892.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/node-upwork-oauth2/MAL-2022-4892.json"
 			}
 		}
 	],

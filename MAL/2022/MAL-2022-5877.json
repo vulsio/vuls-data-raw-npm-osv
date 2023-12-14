@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/rv-modal-store/MAL-2022-5877.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/rv-modal-store/MAL-2022-5877.json"
 			}
 		}
 	],

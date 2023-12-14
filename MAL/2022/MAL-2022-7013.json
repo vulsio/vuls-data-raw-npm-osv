@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/vyopta-analytics/MAL-2022-7013.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/vyopta-analytics/MAL-2022-7013.json"
 			}
 		}
 	],

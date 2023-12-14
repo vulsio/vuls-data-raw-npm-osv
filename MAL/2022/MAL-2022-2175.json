@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/conversations-prop-types/MAL-2022-2175.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/conversations-prop-types/MAL-2022-2175.json"
 			}
 		}
 	],

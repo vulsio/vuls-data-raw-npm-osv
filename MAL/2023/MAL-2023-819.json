@@ -37,7 +37,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/superagt/MAL-2023-819.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/superagt/MAL-2023-819.json"
 			}
 		}
 	],

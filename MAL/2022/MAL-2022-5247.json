@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/paypalcorp/MAL-2022-5247.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/paypalcorp/MAL-2022-5247.json"
 			}
 		}
 	],

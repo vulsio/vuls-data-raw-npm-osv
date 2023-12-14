@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/anyblock-adapter/MAL-2022-1026.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/anyblock-adapter/MAL-2022-1026.json"
 			}
 		}
 	],

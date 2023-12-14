@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/rrcputli/MAL-2022-5852.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/rrcputli/MAL-2022-5852.json"
 			}
 		}
 	],

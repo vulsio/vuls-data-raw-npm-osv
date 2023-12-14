@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/moonbeam-mongodb/MAL-2022-4694.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/moonbeam-mongodb/MAL-2022-4694.json"
 			}
 		}
 	],

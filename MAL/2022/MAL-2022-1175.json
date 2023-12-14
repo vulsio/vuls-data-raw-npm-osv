@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/auth-ebay/MAL-2022-1175.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/auth-ebay/MAL-2022-1175.json"
 			}
 		}
 	],

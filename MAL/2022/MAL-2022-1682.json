@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/brightspot-rishad/MAL-2022-1682.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/brightspot-rishad/MAL-2022-1682.json"
 			}
 		}
 	],

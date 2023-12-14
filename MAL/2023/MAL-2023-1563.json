@@ -16,7 +16,7 @@
 				"99.99.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/sketch-71-symbol-resync/MAL-2023-1563.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/sketch-71-symbol-resync/MAL-2023-1563.json"
 			}
 		}
 	],

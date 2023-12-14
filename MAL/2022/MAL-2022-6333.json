@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/stripe-ms/MAL-2022-6333.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/stripe-ms/MAL-2022-6333.json"
 			}
 		}
 	],

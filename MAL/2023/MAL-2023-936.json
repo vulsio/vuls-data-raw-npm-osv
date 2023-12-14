@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/very-bad-transitive-pkg/MAL-2023-936.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/very-bad-transitive-pkg/MAL-2023-936.json"
 			}
 		}
 	],

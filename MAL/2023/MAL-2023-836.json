@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/tdv2-applet-monalixa.store/MAL-2023-836.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tdv2-applet-monalixa.store/MAL-2023-836.json"
 			}
 		}
 	],

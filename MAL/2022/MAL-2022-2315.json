@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dade-murphys-package/MAL-2022-2315.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dade-murphys-package/MAL-2022-2315.json"
 			}
 		}
 	],

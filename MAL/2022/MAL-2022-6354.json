@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/superset-websocket/MAL-2022-6354.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/superset-websocket/MAL-2022-6354.json"
 			}
 		}
 	],

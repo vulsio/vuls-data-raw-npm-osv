@@ -18,7 +18,7 @@
 				"14.999.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/gd-company-updates/MAL-2023-1185.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/gd-company-updates/MAL-2023-1185.json"
 			}
 		}
 	],

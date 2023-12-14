@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/pdf-gods-generals-the-military-lives-of-moses-the-buddha-and-muhammad-by-richard-a-gabriel-on-textbo/MAL-2023-675.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/pdf-gods-generals-the-military-lives-of-moses-the-buddha-and-muhammad-by-richard-a-gabriel-on-textbo/MAL-2023-675.json"
 			}
 		}
 	],

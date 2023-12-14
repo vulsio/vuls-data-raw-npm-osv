@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/confidential-ledger/MAL-2022-2150.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/confidential-ledger/MAL-2022-2150.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/socket.ioo-cient/MAL-2022-6199.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/socket.ioo-cient/MAL-2022-6199.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/eva.io-docker/MAL-2022-2887.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/eva.io-docker/MAL-2022-2887.json"
 			}
 		}
 	],

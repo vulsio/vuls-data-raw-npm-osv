@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/koh-tvjs-xp/MAL-2022-4213.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/koh-tvjs-xp/MAL-2022-4213.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ntnx-price-calculator/MAL-2022-4967.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ntnx-price-calculator/MAL-2022-4967.json"
 			}
 		}
 	],

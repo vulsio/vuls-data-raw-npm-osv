@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dtv-rich-text/MAL-2022-2601.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dtv-rich-text/MAL-2022-2601.json"
 			}
 		}
 	],

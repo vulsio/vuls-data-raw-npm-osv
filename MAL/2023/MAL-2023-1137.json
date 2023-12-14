@@ -16,7 +16,7 @@
 				"7.5.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/cloudsplaining/MAL-2023-1137.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cloudsplaining/MAL-2023-1137.json"
 			}
 		}
 	],

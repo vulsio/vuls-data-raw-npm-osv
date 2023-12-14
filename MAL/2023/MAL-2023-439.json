@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/fierce-obsessions-the-phoenix-pack-6-by-suzanne-wright-online-new-pages-/MAL-2023-439.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fierce-obsessions-the-phoenix-pack-6-by-suzanne-wright-online-new-pages-/MAL-2023-439.json"
 			}
 		}
 	],

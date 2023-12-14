@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/nim-status-client/MAL-2022-4854.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/nim-status-client/MAL-2022-4854.json"
 			}
 		}
 	],

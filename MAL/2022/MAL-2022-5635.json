@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/react-datepicker-docs/MAL-2022-5635.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/react-datepicker-docs/MAL-2022-5635.json"
 			}
 		}
 	],

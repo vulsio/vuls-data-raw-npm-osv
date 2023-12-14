@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/web3-provider-patchers/MAL-2023-7961.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/web3-provider-patchers/MAL-2023-7961.json"
 			}
 		}
 	],

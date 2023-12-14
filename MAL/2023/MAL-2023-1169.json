@@ -16,7 +16,7 @@
 				"99.20.20"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ee-cloud-functions/MAL-2023-1169.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ee-cloud-functions/MAL-2023-1169.json"
 			}
 		}
 	],

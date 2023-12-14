@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/breakpoint-action/MAL-2022-1679.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/breakpoint-action/MAL-2022-1679.json"
 			}
 		}
 	],

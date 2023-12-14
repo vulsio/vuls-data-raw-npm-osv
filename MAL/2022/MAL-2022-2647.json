@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/eact-routre/MAL-2022-2647.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/eact-routre/MAL-2022-2647.json"
 			}
 		}
 	],

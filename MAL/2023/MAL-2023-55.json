@@ -41,7 +41,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@sbb2b/ngx.sportsbook/MAL-2023-55.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@sbb2b/ngx.sportsbook/MAL-2023-55.json"
 			}
 		}
 	],

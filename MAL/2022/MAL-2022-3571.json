@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/hb-portal-xss/MAL-2022-3571.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hb-portal-xss/MAL-2022-3571.json"
 			}
 		}
 	],

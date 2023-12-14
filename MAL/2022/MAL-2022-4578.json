@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/meupkgdeteste/MAL-2022-4578.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/meupkgdeteste/MAL-2022-4578.json"
 			}
 		}
 	],

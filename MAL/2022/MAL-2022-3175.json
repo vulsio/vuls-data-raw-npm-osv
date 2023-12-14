@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/free-gta5-money-no-human-verification/MAL-2022-3175.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/free-gta5-money-no-human-verification/MAL-2022-3175.json"
 			}
 		}
 	],

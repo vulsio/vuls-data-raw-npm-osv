@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@gettilled/tslint-preset/MAL-2022-288.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@gettilled/tslint-preset/MAL-2022-288.json"
 			}
 		}
 	],

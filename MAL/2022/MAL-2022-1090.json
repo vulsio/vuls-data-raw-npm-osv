@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/arkane-network/MAL-2022-1090.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/arkane-network/MAL-2022-1090.json"
 			}
 		}
 	],

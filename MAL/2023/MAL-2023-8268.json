@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/anup-yogesh/MAL-2023-8268.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/anup-yogesh/MAL-2023-8268.json"
 			}
 		}
 	],

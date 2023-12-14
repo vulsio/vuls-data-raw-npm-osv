@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/poctesthackerone/MAL-2023-7914.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/poctesthackerone/MAL-2023-7914.json"
 			}
 		}
 	],

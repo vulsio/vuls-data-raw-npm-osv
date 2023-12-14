@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ff-webstore-e2e/MAL-2022-3018.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ff-webstore-e2e/MAL-2022-3018.json"
 			}
 		}
 	],

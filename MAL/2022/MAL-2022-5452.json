@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/prerequests-xcode/MAL-2022-5452.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/prerequests-xcode/MAL-2022-5452.json"
 			}
 		}
 	],

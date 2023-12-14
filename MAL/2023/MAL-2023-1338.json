@@ -16,7 +16,7 @@
 				"47.47.48"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/vote-chatbot/MAL-2023-1338.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/vote-chatbot/MAL-2023-1338.json"
 			}
 		}
 	],

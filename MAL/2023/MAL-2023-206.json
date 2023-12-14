@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/conversations-with-friends-by-sally-rooney-on-audible-new-volumes-/MAL-2023-206.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/conversations-with-friends-by-sally-rooney-on-audible-new-volumes-/MAL-2023-206.json"
 			}
 		}
 	],

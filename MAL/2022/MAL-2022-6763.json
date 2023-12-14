@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/uitk-react-icons/MAL-2022-6763.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/uitk-react-icons/MAL-2022-6763.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@s3p-js-deep-purple/utils/MAL-2022-569.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@s3p-js-deep-purple/utils/MAL-2022-569.json"
 			}
 		}
 	],

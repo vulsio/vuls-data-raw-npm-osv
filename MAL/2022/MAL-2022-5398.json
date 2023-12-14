@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/polaris-example-webpack/MAL-2022-5398.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/polaris-example-webpack/MAL-2022-5398.json"
 			}
 		}
 	],

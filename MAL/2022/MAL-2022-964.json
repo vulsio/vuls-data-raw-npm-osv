@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/amex-eapply-dxp-component-button/MAL-2022-964.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/amex-eapply-dxp-component-button/MAL-2022-964.json"
 			}
 		}
 	],

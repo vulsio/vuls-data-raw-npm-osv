@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@jmfe/rollup-plugin-jss-upload/MAL-2022-370.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@jmfe/rollup-plugin-jss-upload/MAL-2022-370.json"
 			}
 		}
 	],

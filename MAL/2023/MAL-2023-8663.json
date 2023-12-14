@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/port-launcher/MAL-2023-8663.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/port-launcher/MAL-2023-8663.json"
 			}
 		}
 	],

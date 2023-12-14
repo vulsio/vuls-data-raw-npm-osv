@@ -16,7 +16,7 @@
 				"0.1.36"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@ms-atlas-module/datastudio-datafactory/MAL-2023-1091.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ms-atlas-module/datastudio-datafactory/MAL-2023-1091.json"
 			}
 		}
 	],

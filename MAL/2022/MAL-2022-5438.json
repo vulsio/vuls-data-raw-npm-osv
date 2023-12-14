@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ppp-types/MAL-2022-5438.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ppp-types/MAL-2022-5438.json"
 			}
 		}
 	],

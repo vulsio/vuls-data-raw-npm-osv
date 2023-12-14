@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ok-message-parser/MAL-2022-5046.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ok-message-parser/MAL-2022-5046.json"
 			}
 		}
 	],

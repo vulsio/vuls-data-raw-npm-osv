@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/babeeopresetstage0/MAL-2022-1403.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/babeeopresetstage0/MAL-2022-1403.json"
 			}
 		}
 	],

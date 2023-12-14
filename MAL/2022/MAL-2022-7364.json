@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/youtrack-issues-list-widget/MAL-2022-7364.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/youtrack-issues-list-widget/MAL-2022-7364.json"
 			}
 		}
 	],

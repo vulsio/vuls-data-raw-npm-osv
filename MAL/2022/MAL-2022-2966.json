@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/fantasy-react-native/MAL-2022-2966.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fantasy-react-native/MAL-2022-2966.json"
 			}
 		}
 	],

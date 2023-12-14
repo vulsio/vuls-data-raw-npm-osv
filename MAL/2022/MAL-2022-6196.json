@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/soarou0er/MAL-2022-6196.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/soarou0er/MAL-2022-6196.json"
 			}
 		}
 	],

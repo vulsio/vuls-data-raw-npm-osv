@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wfs-admin-test/MAL-2022-7128.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wfs-admin-test/MAL-2022-7128.json"
 			}
 		}
 	],

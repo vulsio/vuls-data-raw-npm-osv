@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/internal_pkg_for_verd/MAL-2022-3875.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/internal_pkg_for_verd/MAL-2022-3875.json"
 			}
 		}
 	],

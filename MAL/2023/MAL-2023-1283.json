@@ -16,7 +16,7 @@
 				"1.0.3"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/redirect-support/MAL-2023-1283.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/redirect-support/MAL-2023-1283.json"
 			}
 		}
 	],

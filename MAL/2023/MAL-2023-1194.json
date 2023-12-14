@@ -16,7 +16,7 @@
 				"99.9.8"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/gtf-error-tracker/MAL-2023-1194.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/gtf-error-tracker/MAL-2023-1194.json"
 			}
 		}
 	],

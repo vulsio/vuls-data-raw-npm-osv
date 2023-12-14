@@ -39,7 +39,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ui-elements-icons/MAL-2023-8078.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ui-elements-icons/MAL-2023-8078.json"
 			}
 		}
 	],

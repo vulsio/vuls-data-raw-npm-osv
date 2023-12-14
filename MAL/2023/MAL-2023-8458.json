@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/frontegg-react-sanity-check/MAL-2023-8458.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/frontegg-react-sanity-check/MAL-2023-8458.json"
 			}
 		}
 	],

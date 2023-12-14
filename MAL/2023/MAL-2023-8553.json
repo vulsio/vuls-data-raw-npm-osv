@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/kratos-nextjs-react-example/MAL-2023-8553.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/kratos-nextjs-react-example/MAL-2023-8553.json"
 			}
 		}
 	],

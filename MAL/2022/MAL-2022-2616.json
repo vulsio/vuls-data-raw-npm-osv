@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/durable-functions-samples/MAL-2022-2616.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/durable-functions-samples/MAL-2022-2616.json"
 			}
 		}
 	],

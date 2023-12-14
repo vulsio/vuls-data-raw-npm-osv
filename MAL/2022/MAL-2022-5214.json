@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/parlai-mephisto-task-compiler/MAL-2022-5214.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/parlai-mephisto-task-compiler/MAL-2022-5214.json"
 			}
 		}
 	],

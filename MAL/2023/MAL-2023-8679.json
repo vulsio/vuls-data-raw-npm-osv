@@ -37,7 +37,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/react-native-dual-pedometer/MAL-2023-8679.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/react-native-dual-pedometer/MAL-2023-8679.json"
 			}
 		}
 	],

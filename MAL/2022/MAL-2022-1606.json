@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/blank-ts-monorepo/MAL-2022-1606.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/blank-ts-monorepo/MAL-2022-1606.json"
 			}
 		}
 	],

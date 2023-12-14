@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/taxi-localization/MAL-2023-830.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/taxi-localization/MAL-2023-830.json"
 			}
 		}
 	],

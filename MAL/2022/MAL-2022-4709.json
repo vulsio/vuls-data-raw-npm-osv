@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/mrg-icons/MAL-2022-4709.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mrg-icons/MAL-2022-4709.json"
 			}
 		}
 	],

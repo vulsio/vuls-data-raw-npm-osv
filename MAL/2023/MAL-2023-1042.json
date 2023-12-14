@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/yatai-web-ui/MAL-2023-1042.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/yatai-web-ui/MAL-2023-1042.json"
 			}
 		}
 	],

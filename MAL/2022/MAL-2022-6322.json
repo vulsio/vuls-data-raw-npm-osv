@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/strapi-provider-upload-aws-s3-auth/MAL-2022-6322.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/strapi-provider-upload-aws-s3-auth/MAL-2022-6322.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/tradeshift-ui-docs/MAL-2023-900.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tradeshift-ui-docs/MAL-2023-900.json"
 			}
 		}
 	],

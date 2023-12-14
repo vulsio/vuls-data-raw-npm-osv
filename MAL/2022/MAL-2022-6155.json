@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/skyscanner.github.io/MAL-2022-6155.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/skyscanner.github.io/MAL-2022-6155.json"
 			}
 		}
 	],

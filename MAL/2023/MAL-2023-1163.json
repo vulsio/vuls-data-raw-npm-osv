@@ -16,7 +16,7 @@
 				"99.99.104"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/donuts.node-build/MAL-2023-1163.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/donuts.node-build/MAL-2023-1163.json"
 			}
 		}
 	],

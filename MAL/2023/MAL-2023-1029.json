@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/bluehost-wordpress-plugin/MAL-2023-1029.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bluehost-wordpress-plugin/MAL-2023-1029.json"
 			}
 		}
 	],

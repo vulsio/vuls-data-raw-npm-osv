@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/osmosis-frontend/MAL-2022-5132.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/osmosis-frontend/MAL-2022-5132.json"
 			}
 		}
 	],

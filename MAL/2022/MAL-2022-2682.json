@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/eks-auto-create-idp/MAL-2022-2682.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/eks-auto-create-idp/MAL-2022-2682.json"
 			}
 		}
 	],

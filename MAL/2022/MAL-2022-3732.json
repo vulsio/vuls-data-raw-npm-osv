@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/hyatt-mumbai/MAL-2022-3732.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hyatt-mumbai/MAL-2022-3732.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/weact-d5tepicker/MAL-2022-7062.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/weact-d5tepicker/MAL-2022-7062.json"
 			}
 		}
 	],

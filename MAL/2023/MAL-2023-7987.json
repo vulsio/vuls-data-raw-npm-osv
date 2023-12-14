@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/master-oracle-lib/MAL-2023-7987.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/master-oracle-lib/MAL-2023-7987.json"
 			}
 		}
 	],

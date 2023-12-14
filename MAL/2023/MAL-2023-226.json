@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dash_cam_viewer_serial_107_c3/MAL-2023-226.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dash_cam_viewer_serial_107_c3/MAL-2023-226.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/automated-end-to-end-tests/MAL-2022-1179.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/automated-end-to-end-tests/MAL-2022-1179.json"
 			}
 		}
 	],

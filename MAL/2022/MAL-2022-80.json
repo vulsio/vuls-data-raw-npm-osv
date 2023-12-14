@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@app-services-components/usedomlocation/MAL-2022-80.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@app-services-components/usedomlocation/MAL-2022-80.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/enzyme-kovan/MAL-2022-2758.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/enzyme-kovan/MAL-2022-2758.json"
 			}
 		}
 	],

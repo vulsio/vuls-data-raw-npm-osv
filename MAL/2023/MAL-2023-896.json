@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/tools-access-lego/MAL-2023-896.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tools-access-lego/MAL-2023-896.json"
 			}
 		}
 	],

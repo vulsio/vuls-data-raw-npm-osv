@@ -19,7 +19,7 @@
 				"1.0.4"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/nwa-uikit-web/MAL-2023-1255.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/nwa-uikit-web/MAL-2023-1255.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dx-osc-ui/MAL-2022-2632.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dx-osc-ui/MAL-2022-2632.json"
 			}
 		}
 	],

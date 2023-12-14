@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/born-to-win-find-your-success-by-zig-ziglar-on-iphone-new-version-/MAL-2023-139.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/born-to-win-find-your-success-by-zig-ziglar-on-iphone-new-version-/MAL-2023-139.json"
 			}
 		}
 	],

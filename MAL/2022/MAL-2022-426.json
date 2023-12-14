@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@mckesson/fetlife-assets/MAL-2022-426.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@mckesson/fetlife-assets/MAL-2022-426.json"
 			}
 		}
 	],

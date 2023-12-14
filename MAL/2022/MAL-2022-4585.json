@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/microsoft-bonsai-visualizer/MAL-2022-4585.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/microsoft-bonsai-visualizer/MAL-2022-4585.json"
 			}
 		}
 	],

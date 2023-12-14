@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/finastra-nodejs-libs/MAL-2022-3040.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/finastra-nodejs-libs/MAL-2022-3040.json"
 			}
 		}
 	],

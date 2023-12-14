@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/bitcore-website/MAL-2022-1589.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bitcore-website/MAL-2022-1589.json"
 			}
 		}
 	],

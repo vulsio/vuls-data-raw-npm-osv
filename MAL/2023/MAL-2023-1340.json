@@ -16,7 +16,7 @@
 				"7.1.2"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/w_sox/MAL-2023-1340.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/w_sox/MAL-2023-1340.json"
 			}
 		}
 	],

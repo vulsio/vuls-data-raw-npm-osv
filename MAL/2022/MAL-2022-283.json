@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@gco-angular/apollo/MAL-2022-283.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@gco-angular/apollo/MAL-2022-283.json"
 			}
 		}
 	],

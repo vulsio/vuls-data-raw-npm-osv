@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/pagespeed-server/MAL-2022-5192.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/pagespeed-server/MAL-2022-5192.json"
 			}
 		}
 	],

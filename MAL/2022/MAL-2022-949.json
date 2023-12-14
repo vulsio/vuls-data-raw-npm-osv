@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/alpine-adapter/MAL-2022-949.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/alpine-adapter/MAL-2022-949.json"
 			}
 		}
 	],

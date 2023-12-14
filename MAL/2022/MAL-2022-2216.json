@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/courier-plugin-sdk-nodejs/MAL-2022-2216.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/courier-plugin-sdk-nodejs/MAL-2022-2216.json"
 			}
 		}
 	],

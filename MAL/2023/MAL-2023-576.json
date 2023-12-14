@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/madly-whiskey-the-whiskeys-dark-knights-at-peaceful-harbor-2-by-melissa-foster-on-iphone-new-pages-/MAL-2023-576.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/madly-whiskey-the-whiskeys-dark-knights-at-peaceful-harbor-2-by-melissa-foster-on-iphone-new-pages-/MAL-2023-576.json"
 			}
 		}
 	],

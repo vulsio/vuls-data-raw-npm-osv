@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/rnaftjs/MAL-2022-5825.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/rnaftjs/MAL-2022-5825.json"
 			}
 		}
 	],

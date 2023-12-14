@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/registrydependency1/MAL-2022-5735.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/registrydependency1/MAL-2022-5735.json"
 			}
 		}
 	],

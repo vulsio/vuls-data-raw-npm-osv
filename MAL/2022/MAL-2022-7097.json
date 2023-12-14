@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/webhooks-server/MAL-2022-7097.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/webhooks-server/MAL-2022-7097.json"
 			}
 		}
 	],

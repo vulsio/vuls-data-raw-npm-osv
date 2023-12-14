@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@lg-private/mongo-nav/MAL-2023-1509.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@lg-private/mongo-nav/MAL-2023-1509.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wake_frequency_calculation_software_hot_free__z0no2/MAL-2023-956.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wake_frequency_calculation_software_hot_free__z0no2/MAL-2023-956.json"
 			}
 		}
 	],

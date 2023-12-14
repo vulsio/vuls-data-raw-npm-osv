@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dgse-tools-mgm-elf-helper/MAL-2022-2464.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dgse-tools-mgm-elf-helper/MAL-2022-2464.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/serverless-yandex-cloud-template/MAL-2022-6025.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/serverless-yandex-cloud-template/MAL-2022-6025.json"
 			}
 		}
 	],

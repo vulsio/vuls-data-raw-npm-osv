@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/metalsapi-adapter/MAL-2022-4570.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/metalsapi-adapter/MAL-2022-4570.json"
 			}
 		}
 	],

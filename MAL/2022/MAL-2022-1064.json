@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/app-shims/MAL-2022-1064.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/app-shims/MAL-2022-1064.json"
 			}
 		}
 	],

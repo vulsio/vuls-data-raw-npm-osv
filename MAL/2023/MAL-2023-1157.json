@@ -17,7 +17,7 @@
 				"1.0.9"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/docs-component-folder-selector/MAL-2023-1157.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/docs-component-folder-selector/MAL-2023-1157.json"
 			}
 		}
 	],

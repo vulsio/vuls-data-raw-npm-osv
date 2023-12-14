@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@m365-admin/utilities/MAL-2022-405.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@m365-admin/utilities/MAL-2022-405.json"
 			}
 		}
 	],

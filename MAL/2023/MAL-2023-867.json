@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/the-four-tendencies-the-indispensable-personality-profiles-that-reveal-how-to-make-your-life-better-/MAL-2023-867.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/the-four-tendencies-the-indispensable-personality-profiles-that-reveal-how-to-make-your-life-better-/MAL-2023-867.json"
 			}
 		}
 	],

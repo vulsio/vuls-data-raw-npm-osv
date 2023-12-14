@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dow-load-the-best-we-could-do-by-thi-bui-on-ipad-new-format-/MAL-2023-280.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dow-load-the-best-we-could-do-by-thi-bui-on-ipad-new-format-/MAL-2023-280.json"
 			}
 		}
 	],

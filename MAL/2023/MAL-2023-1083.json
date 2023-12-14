@@ -16,7 +16,7 @@
 				"2023.1.28"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@infinitebrahmanuniverse/nolb-cys/MAL-2023-1083.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@infinitebrahmanuniverse/nolb-cys/MAL-2023-1083.json"
 			}
 		}
 	],

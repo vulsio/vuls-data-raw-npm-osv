@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ing-kit-dev-server/MAL-2022-3825.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ing-kit-dev-server/MAL-2022-3825.json"
 			}
 		}
 	],

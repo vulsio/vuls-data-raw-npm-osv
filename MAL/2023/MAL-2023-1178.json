@@ -16,7 +16,7 @@
 				"1.1.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/examplehu/MAL-2023-1178.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/examplehu/MAL-2023-1178.json"
 			}
 		}
 	],

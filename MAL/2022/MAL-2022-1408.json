@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/babel-plugin-transform3react-remove-prop-t8pes/MAL-2022-1408.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/babel-plugin-transform3react-remove-prop-t8pes/MAL-2022-1408.json"
 			}
 		}
 	],

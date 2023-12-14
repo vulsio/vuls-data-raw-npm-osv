@@ -16,7 +16,7 @@
 				"1.6.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/salesforce-ux/MAL-2023-1286.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/salesforce-ux/MAL-2023-1286.json"
 			}
 		}
 	],

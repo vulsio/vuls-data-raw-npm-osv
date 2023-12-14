@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/msal-react-quickstart/MAL-2022-4722.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/msal-react-quickstart/MAL-2022-4722.json"
 			}
 		}
 	],

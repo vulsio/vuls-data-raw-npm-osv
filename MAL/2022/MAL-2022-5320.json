@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/phapntomjs0prebeuilt/MAL-2022-5320.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/phapntomjs0prebeuilt/MAL-2022-5320.json"
 			}
 		}
 	],

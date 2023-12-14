@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ko-astatiqc/MAL-2022-4206.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ko-astatiqc/MAL-2022-4206.json"
 			}
 		}
 	],

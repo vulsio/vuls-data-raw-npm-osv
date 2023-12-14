@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/brave-chromium-themes/MAL-2022-1668.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/brave-chromium-themes/MAL-2022-1668.json"
 			}
 		}
 	],

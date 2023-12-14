@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/bfx-hf-func-data/MAL-2022-1540.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bfx-hf-func-data/MAL-2022-1540.json"
 			}
 		}
 	],

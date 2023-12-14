@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@tekion/fxt/MAL-2022-628.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@tekion/fxt/MAL-2022-628.json"
 			}
 		}
 	],

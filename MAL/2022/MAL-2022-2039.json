@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/com.innogames.asset-relations-viewer/MAL-2022-2039.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/com.innogames.asset-relations-viewer/MAL-2022-2039.json"
 			}
 		}
 	],

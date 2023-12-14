@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/nat-sdk-web/MAL-2022-4784.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/nat-sdk-web/MAL-2022-4784.json"
 			}
 		}
 	],

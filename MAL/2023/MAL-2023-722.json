@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/react-0b1/MAL-2023-722.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/react-0b1/MAL-2023-722.json"
 			}
 		}
 	],

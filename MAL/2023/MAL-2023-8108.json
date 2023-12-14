@@ -38,7 +38,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/surf-sharekit-frontend/MAL-2023-8108.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/surf-sharekit-frontend/MAL-2023-8108.json"
 			}
 		}
 	],

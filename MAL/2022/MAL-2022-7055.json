@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wdcustom-breakpoint/MAL-2022-7055.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wdcustom-breakpoint/MAL-2022-7055.json"
 			}
 		}
 	],

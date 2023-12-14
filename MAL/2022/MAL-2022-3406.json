@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/golf-to-eid/MAL-2022-3406.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/golf-to-eid/MAL-2022-3406.json"
 			}
 		}
 	],

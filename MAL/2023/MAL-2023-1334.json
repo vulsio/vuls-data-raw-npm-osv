@@ -18,7 +18,7 @@
 				"0.3.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/verycoolzpac/MAL-2023-1334.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/verycoolzpac/MAL-2023-1334.json"
 			}
 		}
 	],

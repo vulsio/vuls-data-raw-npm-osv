@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/finage-adapter/MAL-2022-3037.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/finage-adapter/MAL-2022-3037.json"
 			}
 		}
 	],

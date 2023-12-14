@@ -23,7 +23,7 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/niroborg-com-test/MAL-2022-7432.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/niroborg-com-test/MAL-2022-7432.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wrf-distribute/MAL-2023-970.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wrf-distribute/MAL-2023-970.json"
 			}
 		}
 	],

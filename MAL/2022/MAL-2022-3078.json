@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/flocktory/MAL-2022-3078.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/flocktory/MAL-2022-3078.json"
 			}
 		}
 	],

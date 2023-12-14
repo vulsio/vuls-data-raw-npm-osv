@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/rnpm-plugin-test/MAL-2022-5826.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/rnpm-plugin-test/MAL-2022-5826.json"
 			}
 		}
 	],

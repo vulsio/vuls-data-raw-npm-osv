@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/bip174-bigint/MAL-2022-1582.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bip174-bigint/MAL-2022-1582.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@bmw-ispi-workplace/iwplib/MAL-2022-139.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@bmw-ispi-workplace/iwplib/MAL-2022-139.json"
 			}
 		}
 	],

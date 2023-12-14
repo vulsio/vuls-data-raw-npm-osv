@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/vesper-synth-user-lib/MAL-2023-7989.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/vesper-synth-user-lib/MAL-2023-7989.json"
 			}
 		}
 	],

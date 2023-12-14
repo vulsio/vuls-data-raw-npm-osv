@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/stylelint-config-monorepo-palantir/MAL-2022-6340.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/stylelint-config-monorepo-palantir/MAL-2022-6340.json"
 			}
 		}
 	],

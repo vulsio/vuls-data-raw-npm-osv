@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/segmentrequestmanager/MAL-2022-5997.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/segmentrequestmanager/MAL-2022-5997.json"
 			}
 		}
 	],

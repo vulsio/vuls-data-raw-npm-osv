@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/atestofwhatmighthappenifwetypo/MAL-2022-1152.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/atestofwhatmighthappenifwetypo/MAL-2022-1152.json"
 			}
 		}
 	],

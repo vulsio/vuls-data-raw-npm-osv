@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/botbait/MAL-2022-1657.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/botbait/MAL-2022-1657.json"
 			}
 		}
 	],

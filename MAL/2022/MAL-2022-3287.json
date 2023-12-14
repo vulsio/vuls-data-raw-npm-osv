@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/gatsby-source-newrelic-sdk/MAL-2022-3287.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/gatsby-source-newrelic-sdk/MAL-2022-3287.json"
 			}
 		}
 	],

@@ -16,7 +16,7 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ux-website/MAL-2023-8392.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ux-website/MAL-2023-8392.json"
 			}
 		}
 	],

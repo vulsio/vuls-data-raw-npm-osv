@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/adaptivecards-extras-designer/MAL-2022-846.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/adaptivecards-extras-designer/MAL-2022-846.json"
 			}
 		}
 	],

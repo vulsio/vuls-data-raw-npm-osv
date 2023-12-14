@@ -16,7 +16,7 @@
 				"0.1.2"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/eslint-config-web3-base/MAL-2023-7905.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/eslint-config-web3-base/MAL-2023-7905.json"
 			}
 		}
 	],

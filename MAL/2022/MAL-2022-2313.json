@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/daas-rce-1/MAL-2022-2313.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/daas-rce-1/MAL-2022-2313.json"
 			}
 		}
 	],

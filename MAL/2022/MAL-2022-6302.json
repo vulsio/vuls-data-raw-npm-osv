@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/stcak-trace/MAL-2022-6302.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/stcak-trace/MAL-2022-6302.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/mmolecule-elasticsearch/MAL-2023-7968.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mmolecule-elasticsearch/MAL-2023-7968.json"
 			}
 		}
 	],

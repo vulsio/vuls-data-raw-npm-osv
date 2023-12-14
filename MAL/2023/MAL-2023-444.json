@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/flip-flip-flip/MAL-2023-444.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/flip-flip-flip/MAL-2023-444.json"
 			}
 		}
 	],

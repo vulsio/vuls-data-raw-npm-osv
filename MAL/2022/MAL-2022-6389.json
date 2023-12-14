@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/sync-express/MAL-2022-6389.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/sync-express/MAL-2022-6389.json"
 			}
 		}
 	],

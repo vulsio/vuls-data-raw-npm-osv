@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/speedtestfast/MAL-2023-793.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/speedtestfast/MAL-2023-793.json"
 			}
 		}
 	],

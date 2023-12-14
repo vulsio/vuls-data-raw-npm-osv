@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/amazon-s3-data-replication-hub-plugin/MAL-2022-957.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/amazon-s3-data-replication-hub-plugin/MAL-2022-957.json"
 			}
 		}
 	],

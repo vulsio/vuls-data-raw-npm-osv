@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/e-finance-tms-analytics/MAL-2022-2639.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/e-finance-tms-analytics/MAL-2022-2639.json"
 			}
 		}
 	],

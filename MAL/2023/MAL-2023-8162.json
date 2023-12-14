@@ -16,7 +16,7 @@
 				"1.999.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/sw-kendo-atomic-theme/MAL-2023-8162.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/sw-kendo-atomic-theme/MAL-2023-8162.json"
 			}
 		}
 	],

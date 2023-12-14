@@ -16,7 +16,7 @@
 				"6.0.7"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/xterm-addon-clipboard/MAL-2023-8444.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/xterm-addon-clipboard/MAL-2023-8444.json"
 			}
 		}
 	],

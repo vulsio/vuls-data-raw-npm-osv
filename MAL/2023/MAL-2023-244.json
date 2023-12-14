@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/der_zahlenteufel_enzensberger_pdf_free_hot__760/MAL-2023-244.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/der_zahlenteufel_enzensberger_pdf_free_hot__760/MAL-2023-244.json"
 			}
 		}
 	],

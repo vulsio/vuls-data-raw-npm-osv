@@ -39,7 +39,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/inteken-app-client/MAL-2023-8109.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/inteken-app-client/MAL-2023-8109.json"
 			}
 		}
 	],

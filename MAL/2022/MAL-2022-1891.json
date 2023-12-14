@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/chawla-init-3/MAL-2022-1891.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/chawla-init-3/MAL-2022-1891.json"
 			}
 		}
 	],

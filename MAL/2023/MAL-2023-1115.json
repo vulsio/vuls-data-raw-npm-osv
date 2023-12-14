@@ -16,7 +16,7 @@
 				"20.0.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/api-code-capture-chrome-extension/MAL-2023-1115.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/api-code-capture-chrome-extension/MAL-2023-1115.json"
 			}
 		}
 	],

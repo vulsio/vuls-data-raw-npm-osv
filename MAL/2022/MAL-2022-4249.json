@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/labrujha-cadas/MAL-2022-4249.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/labrujha-cadas/MAL-2022-4249.json"
 			}
 		}
 	],

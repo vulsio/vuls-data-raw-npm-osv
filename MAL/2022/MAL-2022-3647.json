@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/hls-outreach-sms/MAL-2022-3647.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hls-outreach-sms/MAL-2022-3647.json"
 			}
 		}
 	],

@@ -16,7 +16,7 @@
 				"99.19.19"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/int_access_worldpay_sfra/MAL-2023-1213.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/int_access_worldpay_sfra/MAL-2023-1213.json"
 			}
 		}
 	],

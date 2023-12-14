@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/whitney-my-love-westmoreland-saga-2-by-judith-mcnaught-on-audible-new-pages-/MAL-2023-965.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/whitney-my-love-westmoreland-saga-2-by-judith-mcnaught-on-audible-new-pages-/MAL-2023-965.json"
 			}
 		}
 	],

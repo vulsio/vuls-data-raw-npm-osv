@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/persona-verifier-lib/MAL-2022-5301.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/persona-verifier-lib/MAL-2022-5301.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/webhint-configuration-braintree-sdk/MAL-2022-7095.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/webhint-configuration-braintree-sdk/MAL-2022-7095.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/asfsertx-plus/MAL-2022-1131.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/asfsertx-plus/MAL-2022-1131.json"
 			}
 		}
 	],

@@ -16,7 +16,7 @@
 				"50.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/platon-contract/MAL-2023-1568.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/platon-contract/MAL-2023-1568.json"
 			}
 		}
 	],

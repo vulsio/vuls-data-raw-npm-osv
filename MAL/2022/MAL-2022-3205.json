@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/free-tiktok-followers-app-2022/MAL-2022-3205.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/free-tiktok-followers-app-2022/MAL-2022-3205.json"
 			}
 		}
 	],

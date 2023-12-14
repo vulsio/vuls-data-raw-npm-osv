@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@azure-tests/perf-storage-blob-track-1/MAL-2022-112.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@azure-tests/perf-storage-blob-track-1/MAL-2022-112.json"
 			}
 		}
 	],

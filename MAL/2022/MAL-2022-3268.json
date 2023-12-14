@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/galaxyy-lib/MAL-2022-3268.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/galaxyy-lib/MAL-2022-3268.json"
 			}
 		}
 	],

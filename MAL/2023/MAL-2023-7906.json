@@ -16,7 +16,7 @@
 				"1.0.2"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ux-authentication-auth0/MAL-2023-7906.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ux-authentication-auth0/MAL-2023-7906.json"
 			}
 		}
 	],

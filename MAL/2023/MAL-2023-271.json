@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/donuts.node-remote/MAL-2023-271.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/donuts.node-remote/MAL-2023-271.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/this-is-war-travis--viola-1-checkmate-duet-1-by-kennedy-fox-on-audible-full-edition-/MAL-2023-887.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/this-is-war-travis--viola-1-checkmate-duet-1-by-kennedy-fox-on-audible-full-edition-/MAL-2023-887.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/gatekeeper-ebay/MAL-2022-3276.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/gatekeeper-ebay/MAL-2022-3276.json"
 			}
 		}
 	],

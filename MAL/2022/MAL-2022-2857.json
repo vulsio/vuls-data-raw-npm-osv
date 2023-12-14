@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/esyncvalidator/MAL-2022-2857.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/esyncvalidator/MAL-2022-2857.json"
 			}
 		}
 	],

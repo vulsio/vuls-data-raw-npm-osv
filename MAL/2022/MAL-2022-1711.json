@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/bubujs/MAL-2022-1711.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bubujs/MAL-2022-1711.json"
 			}
 		}
 	],

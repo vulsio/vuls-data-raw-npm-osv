@@ -17,7 +17,7 @@
 				"9.999.8"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@metronetinc/react-component-library/MAL-2023-1087.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@metronetinc/react-component-library/MAL-2023-1087.json"
 			}
 		}
 	],

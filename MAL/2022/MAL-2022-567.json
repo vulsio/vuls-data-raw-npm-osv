@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@roku-web-core/ajax/MAL-2022-567.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@roku-web-core/ajax/MAL-2022-567.json"
 			}
 		}
 	],

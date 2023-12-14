@@ -16,7 +16,7 @@
 				"7.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@operational-reporting/wire-contracts/MAL-2023-8061.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@operational-reporting/wire-contracts/MAL-2023-8061.json"
 			}
 		}
 	],

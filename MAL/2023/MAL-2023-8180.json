@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/simple-team-api/MAL-2023-8180.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/simple-team-api/MAL-2023-8180.json"
 			}
 		}
 	],

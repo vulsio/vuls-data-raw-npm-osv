@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@buffer-mono/png-export/MAL-2023-31.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@buffer-mono/png-export/MAL-2023-31.json"
 			}
 		}
 	],

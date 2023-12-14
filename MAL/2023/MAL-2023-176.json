@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/chrome-extension-message-relay/MAL-2023-176.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/chrome-extension-message-relay/MAL-2023-176.json"
 			}
 		}
 	],

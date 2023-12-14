@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/alprazolamdiv/MAL-2022-950.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/alprazolamdiv/MAL-2022-950.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/tachyon-package-builder/MAL-2022-6408.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tachyon-package-builder/MAL-2022-6408.json"
 			}
 		}
 	],

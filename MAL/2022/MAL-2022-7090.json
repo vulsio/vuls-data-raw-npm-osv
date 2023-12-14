@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/webbluetooth-edison-demo/MAL-2022-7090.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/webbluetooth-edison-demo/MAL-2022-7090.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/airbnb-geetest3/MAL-2022-911.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/airbnb-geetest3/MAL-2022-911.json"
 			}
 		}
 	],

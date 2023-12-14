@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/prisoners-of-geography-ten-maps-that-explain-everything-about-the-world-by-tim-marshall-on-iphone-fu/MAL-2023-698.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/prisoners-of-geography-ten-maps-that-explain-everything-about-the-world-by-tim-marshall-on-iphone-fu/MAL-2023-698.json"
 			}
 		}
 	],

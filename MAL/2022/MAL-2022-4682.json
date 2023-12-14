@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/moneytree/MAL-2022-4682.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/moneytree/MAL-2022-4682.json"
 			}
 		}
 	],

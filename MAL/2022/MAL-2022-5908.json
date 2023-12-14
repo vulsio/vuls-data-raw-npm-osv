@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/sageone_api_ruby_sample/MAL-2022-5908.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/sageone_api_ruby_sample/MAL-2022-5908.json"
 			}
 		}
 	],

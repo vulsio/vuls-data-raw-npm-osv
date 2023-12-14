@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dvknpm-dev/MAL-2023-296.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dvknpm-dev/MAL-2023-296.json"
 			}
 		}
 	],

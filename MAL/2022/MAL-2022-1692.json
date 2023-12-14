@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/brogan-ebay/MAL-2022-1692.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/brogan-ebay/MAL-2022-1692.json"
 			}
 		}
 	],

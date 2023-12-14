@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/bigid-query-object-serialization/MAL-2022-1571.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bigid-query-object-serialization/MAL-2022-1571.json"
 			}
 		}
 	],

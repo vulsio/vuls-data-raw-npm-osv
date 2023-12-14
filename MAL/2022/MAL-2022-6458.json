@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/tensorflow-js-website/MAL-2022-6458.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tensorflow-js-website/MAL-2022-6458.json"
 			}
 		}
 	],

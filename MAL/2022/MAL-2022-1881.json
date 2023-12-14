@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/charon-relay-cloudwatch/MAL-2022-1881.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/charon-relay-cloudwatch/MAL-2022-1881.json"
 			}
 		}
 	],

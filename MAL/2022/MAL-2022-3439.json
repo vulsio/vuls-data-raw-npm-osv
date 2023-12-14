@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/gradient-stringnnnn/MAL-2022-3439.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/gradient-stringnnnn/MAL-2022-3439.json"
 			}
 		}
 	],

@@ -37,7 +37,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/shinchina/MAL-2023-8680.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/shinchina/MAL-2023-8680.json"
 			}
 		}
 	],

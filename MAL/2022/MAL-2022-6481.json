@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/test-hitesh/MAL-2022-6481.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/test-hitesh/MAL-2022-6481.json"
 			}
 		}
 	],

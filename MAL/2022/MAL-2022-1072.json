@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/appsec-event-rules-tools/MAL-2022-1072.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/appsec-event-rules-tools/MAL-2022-1072.json"
 			}
 		}
 	],

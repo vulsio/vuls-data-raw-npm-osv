@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/twikoo-magic/MAL-2023-914.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/twikoo-magic/MAL-2023-914.json"
 			}
 		}
 	],

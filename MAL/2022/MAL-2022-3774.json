@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/identity-vscode/MAL-2022-3774.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/identity-vscode/MAL-2022-3774.json"
 			}
 		}
 	],

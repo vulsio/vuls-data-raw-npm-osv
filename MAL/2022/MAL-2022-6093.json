@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/shodanio/MAL-2022-6093.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/shodanio/MAL-2022-6093.json"
 			}
 		}
 	],

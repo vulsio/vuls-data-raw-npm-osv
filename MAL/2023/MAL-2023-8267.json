@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@inconspicuously/test-lib-1/MAL-2023-8267.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@inconspicuously/test-lib-1/MAL-2023-8267.json"
 			}
 		}
 	],

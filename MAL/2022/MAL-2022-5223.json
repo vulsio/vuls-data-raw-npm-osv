@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/passpzrtfaueth2/MAL-2022-5223.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/passpzrtfaueth2/MAL-2022-5223.json"
 			}
 		}
 	],

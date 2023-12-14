@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/statfacepy/MAL-2023-813.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/statfacepy/MAL-2023-813.json"
 			}
 		}
 	],

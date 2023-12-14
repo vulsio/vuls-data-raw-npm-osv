@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/opbox-web-browser/MAL-2022-5089.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/opbox-web-browser/MAL-2022-5089.json"
 			}
 		}
 	],

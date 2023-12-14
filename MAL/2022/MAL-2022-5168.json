@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ozone-helper/MAL-2022-5168.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ozone-helper/MAL-2022-5168.json"
 			}
 		}
 	],

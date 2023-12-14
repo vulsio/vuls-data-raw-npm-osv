@@ -16,7 +16,7 @@
 				"1.7.9"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@binter/inputs/MAL-2023-8313.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@binter/inputs/MAL-2023-8313.json"
 			}
 		}
 	],

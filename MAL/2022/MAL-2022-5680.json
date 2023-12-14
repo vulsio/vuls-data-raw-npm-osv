@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/react-video-live-demo/MAL-2022-5680.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/react-video-live-demo/MAL-2022-5680.json"
 			}
 		}
 	],

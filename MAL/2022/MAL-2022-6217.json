@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/sorareshshsjs/MAL-2022-6217.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/sorareshshsjs/MAL-2022-6217.json"
 			}
 		}
 	],

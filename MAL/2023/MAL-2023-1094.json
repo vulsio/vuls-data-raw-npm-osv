@@ -19,7 +19,7 @@
 				"99999.222.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@obg/gtm.types/MAL-2023-1094.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@obg/gtm.types/MAL-2023-1094.json"
 			}
 		}
 	],

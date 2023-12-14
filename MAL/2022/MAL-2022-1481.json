@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/bcoin-mongo-models/MAL-2022-1481.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bcoin-mongo-models/MAL-2022-1481.json"
 			}
 		}
 	],

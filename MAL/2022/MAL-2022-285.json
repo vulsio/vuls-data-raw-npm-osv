@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@gco-angular/rxjs-utils/MAL-2022-285.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@gco-angular/rxjs-utils/MAL-2022-285.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dark-warriors-promise-the-children-of-the-gods-8-by-it-lucas-on-audible-new-edition-/MAL-2023-225.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dark-warriors-promise-the-children-of-the-gods-8-by-it-lucas-on-audible-new-edition-/MAL-2023-225.json"
 			}
 		}
 	],

@@ -16,7 +16,7 @@
 				"3.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/application-delivery-tool-preload-expo/MAL-2023-1116.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/application-delivery-tool-preload-expo/MAL-2023-1116.json"
 			}
 		}
 	],

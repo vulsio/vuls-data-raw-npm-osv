@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/uhclabs_local_check/MAL-2022-6745.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/uhclabs_local_check/MAL-2022-6745.json"
 			}
 		}
 	],

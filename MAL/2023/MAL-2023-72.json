@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@xivart/tangram/MAL-2023-72.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@xivart/tangram/MAL-2023-72.json"
 			}
 		}
 	],

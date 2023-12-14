@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/jb-rpd-splash/MAL-2022-4006.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/jb-rpd-splash/MAL-2022-4006.json"
 			}
 		}
 	],

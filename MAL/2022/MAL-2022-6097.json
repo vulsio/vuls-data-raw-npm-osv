@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/shopify-cli-extensions-test-utils/MAL-2022-6097.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/shopify-cli-extensions-test-utils/MAL-2022-6097.json"
 			}
 		}
 	],

@@ -17,7 +17,7 @@
 				"1.0.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/securitytxt-worker/MAL-2023-1506.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/securitytxt-worker/MAL-2023-1506.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/cartesi-subgraph/MAL-2022-1834.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cartesi-subgraph/MAL-2022-1834.json"
 			}
 		}
 	],

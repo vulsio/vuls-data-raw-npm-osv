@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/alipay-js-jdk/MAL-2022-941.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/alipay-js-jdk/MAL-2022-941.json"
 			}
 		}
 	],

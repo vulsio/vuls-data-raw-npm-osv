@@ -16,7 +16,7 @@
 				"3.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/papaya_pear_vicious/MAL-2023-1263.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/papaya_pear_vicious/MAL-2023-1263.json"
 			}
 		}
 	],

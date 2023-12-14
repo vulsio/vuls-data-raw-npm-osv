@@ -38,7 +38,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/editor-layer-index/MAL-2023-1168.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/editor-layer-index/MAL-2023-1168.json"
 			}
 		}
 	],

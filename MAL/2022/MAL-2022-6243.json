@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/sportsbook-frontend-integration/MAL-2022-6243.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/sportsbook-frontend-integration/MAL-2022-6243.json"
 			}
 		}
 	],

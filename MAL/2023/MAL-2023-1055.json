@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@jackshanyeshuzi/curvess/MAL-2023-1055.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@jackshanyeshuzi/curvess/MAL-2023-1055.json"
 			}
 		}
 	],

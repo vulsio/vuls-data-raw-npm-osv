@@ -16,7 +16,7 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/packyourbag/MAL-2023-8312.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/packyourbag/MAL-2023-8312.json"
 			}
 		}
 	],

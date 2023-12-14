@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/apex-metrics/MAL-2022-1036.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/apex-metrics/MAL-2022-1036.json"
 			}
 		}
 	],

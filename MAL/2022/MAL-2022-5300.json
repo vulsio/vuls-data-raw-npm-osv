@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/perseus-build-settings/MAL-2022-5300.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/perseus-build-settings/MAL-2022-5300.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/teams-outlook-meeting-addin/MAL-2022-6443.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/teams-outlook-meeting-addin/MAL-2022-6443.json"
 			}
 		}
 	],

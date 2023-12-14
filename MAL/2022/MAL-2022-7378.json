@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/zcli-monorepo/MAL-2022-7378.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/zcli-monorepo/MAL-2022-7378.json"
 			}
 		}
 	],

@@ -16,7 +16,7 @@
 				"4.27.2"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ifl-primitives/MAL-2023-8506.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ifl-primitives/MAL-2023-8506.json"
 			}
 		}
 	],

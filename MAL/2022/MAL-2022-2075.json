@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/com.unity.modules.particlesystem/MAL-2022-2075.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/com.unity.modules.particlesystem/MAL-2022-2075.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/teller-protocol/MAL-2022-6452.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/teller-protocol/MAL-2022-6452.json"
 			}
 		}
 	],

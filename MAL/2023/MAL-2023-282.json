@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dow-load-the-idea-of-you-by-robinne-lee-on-audiobook-full-volumes-/MAL-2023-282.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dow-load-the-idea-of-you-by-robinne-lee-on-audiobook-full-volumes-/MAL-2023-282.json"
 			}
 		}
 	],

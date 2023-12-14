@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/paging-no-iterators/MAL-2022-5194.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/paging-no-iterators/MAL-2022-5194.json"
 			}
 		}
 	],

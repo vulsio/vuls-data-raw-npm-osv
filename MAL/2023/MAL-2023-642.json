@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/npm-webcomponent-murphysms1/MAL-2023-642.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/npm-webcomponent-murphysms1/MAL-2023-642.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@bitmex-frontend-team/segment-analytics/MAL-2022-122.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@bitmex-frontend-team/segment-analytics/MAL-2022-122.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/jive-styling-toolkit/MAL-2022-4034.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/jive-styling-toolkit/MAL-2022-4034.json"
 			}
 		}
 	],

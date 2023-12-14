@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/microsoft-internq/MAL-2022-4588.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/microsoft-internq/MAL-2022-4588.json"
 			}
 		}
 	],

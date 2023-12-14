@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/jhasj-sum/MAL-2022-4028.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/jhasj-sum/MAL-2022-4028.json"
 			}
 		}
 	],

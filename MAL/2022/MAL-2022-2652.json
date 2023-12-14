@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/eazyminer-fsdjufhsdjf/MAL-2022-2652.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/eazyminer-fsdjufhsdjf/MAL-2022-2652.json"
 			}
 		}
 	],

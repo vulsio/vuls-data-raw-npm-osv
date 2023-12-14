@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/xlj2s/MAL-2022-7281.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/xlj2s/MAL-2022-7281.json"
 			}
 		}
 	],

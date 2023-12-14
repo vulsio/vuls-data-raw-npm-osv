@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/rebact-eror-oveflay/MAL-2022-5712.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/rebact-eror-oveflay/MAL-2022-5712.json"
 			}
 		}
 	],

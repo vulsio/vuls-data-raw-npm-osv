@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/gctor-storage/MAL-2022-3300.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/gctor-storage/MAL-2022-3300.json"
 			}
 		}
 	],

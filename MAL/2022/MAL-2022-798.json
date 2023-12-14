@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@zohocalendar/resource-loader/MAL-2022-798.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@zohocalendar/resource-loader/MAL-2022-798.json"
 			}
 		}
 	],

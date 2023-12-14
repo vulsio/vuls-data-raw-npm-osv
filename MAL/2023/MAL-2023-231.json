@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/delta-editor/MAL-2023-231.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/delta-editor/MAL-2023-231.json"
 			}
 		}
 	],

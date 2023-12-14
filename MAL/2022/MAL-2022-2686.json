@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/elasticagent-linux-arm/MAL-2022-2686.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/elasticagent-linux-arm/MAL-2022-2686.json"
 			}
 		}
 	],

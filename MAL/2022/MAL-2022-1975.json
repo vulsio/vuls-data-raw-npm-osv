@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/coding-with-chrome-lib/MAL-2022-1975.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/coding-with-chrome-lib/MAL-2022-1975.json"
 			}
 		}
 	],

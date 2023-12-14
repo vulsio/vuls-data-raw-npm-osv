@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/garena-free-fire-skin-2022/MAL-2022-3275.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/garena-free-fire-skin-2022/MAL-2022-3275.json"
 			}
 		}
 	],

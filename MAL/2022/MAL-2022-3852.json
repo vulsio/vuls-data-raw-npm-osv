@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/instacart-javascript/MAL-2022-3852.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/instacart-javascript/MAL-2022-3852.json"
 			}
 		}
 	],

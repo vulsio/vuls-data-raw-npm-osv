@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/prettier-linter-helper/MAL-2022-5455.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/prettier-linter-helper/MAL-2022-5455.json"
 			}
 		}
 	],

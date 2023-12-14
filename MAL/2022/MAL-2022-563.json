@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@rnps-ppr/gensen-gotham/MAL-2022-563.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@rnps-ppr/gensen-gotham/MAL-2022-563.json"
 			}
 		}
 	],

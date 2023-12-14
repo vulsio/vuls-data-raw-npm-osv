@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/snyk-azure-pipelines-task/MAL-2022-6194.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/snyk-azure-pipelines-task/MAL-2022-6194.json"
 			}
 		}
 	],

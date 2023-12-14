@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/eagleshotelcaliforniamultitrackflac_top__k3/MAL-2023-298.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/eagleshotelcaliforniamultitrackflac_top__k3/MAL-2023-298.json"
 			}
 		}
 	],

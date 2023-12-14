@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/doper/MAL-2022-2571.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/doper/MAL-2022-2571.json"
 			}
 		}
 	],

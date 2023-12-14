@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/oasis-os-react/MAL-2023-8520.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/oasis-os-react/MAL-2023-8520.json"
 			}
 		}
 	],

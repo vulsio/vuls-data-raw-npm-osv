@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ptokens-erc777-smart-contract/MAL-2022-5511.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ptokens-erc777-smart-contract/MAL-2022-5511.json"
 			}
 		}
 	],

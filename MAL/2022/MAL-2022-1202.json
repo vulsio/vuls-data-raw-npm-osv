@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/aws-simple-cicd/MAL-2022-1202.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/aws-simple-cicd/MAL-2022-1202.json"
 			}
 		}
 	],

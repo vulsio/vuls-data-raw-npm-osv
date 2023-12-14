@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/csp-preset-yastatic/MAL-2023-218.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/csp-preset-yastatic/MAL-2023-218.json"
 			}
 		}
 	],

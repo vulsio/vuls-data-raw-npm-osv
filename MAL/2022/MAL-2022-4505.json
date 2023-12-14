@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/mattermost-qa-automation/MAL-2022-4505.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mattermost-qa-automation/MAL-2022-4505.json"
 			}
 		}
 	],

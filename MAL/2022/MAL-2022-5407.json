@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/poll-add-in/MAL-2022-5407.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/poll-add-in/MAL-2022-5407.json"
 			}
 		}
 	],

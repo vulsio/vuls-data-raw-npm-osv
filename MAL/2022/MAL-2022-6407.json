@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/tableau-iframe/MAL-2022-6407.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tableau-iframe/MAL-2022-6407.json"
 			}
 		}
 	],

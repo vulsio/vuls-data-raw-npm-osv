@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/react-ldclient-default-values/MAL-2022-5653.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/react-ldclient-default-values/MAL-2022-5653.json"
 			}
 		}
 	],

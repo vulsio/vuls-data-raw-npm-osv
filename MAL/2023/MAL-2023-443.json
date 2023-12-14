@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/firtssocketia2/MAL-2023-443.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/firtssocketia2/MAL-2023-443.json"
 			}
 		}
 	],

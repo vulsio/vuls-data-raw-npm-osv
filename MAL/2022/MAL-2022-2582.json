@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dpd-returns-portal/MAL-2022-2582.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dpd-returns-portal/MAL-2022-2582.json"
 			}
 		}
 	],

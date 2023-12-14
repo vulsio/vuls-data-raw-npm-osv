@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/xfinity-web/MAL-2023-8546.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/xfinity-web/MAL-2023-8546.json"
 			}
 		}
 	],

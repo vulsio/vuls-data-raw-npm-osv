@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/fstream-pirlalala/MAL-2022-3235.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fstream-pirlalala/MAL-2022-3235.json"
 			}
 		}
 	],

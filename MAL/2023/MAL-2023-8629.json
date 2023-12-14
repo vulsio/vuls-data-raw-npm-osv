@@ -16,7 +16,7 @@
 				"5.5.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/lc-config/MAL-2023-8629.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/lc-config/MAL-2023-8629.json"
 			}
 		}
 	],

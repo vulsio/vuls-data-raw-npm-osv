@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@8x8/oxygen-constants/MAL-2022-54.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@8x8/oxygen-constants/MAL-2022-54.json"
 			}
 		}
 	],

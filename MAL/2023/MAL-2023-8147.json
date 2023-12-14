@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/nvthinhdz-api/MAL-2023-8147.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/nvthinhdz-api/MAL-2023-8147.json"
 			}
 		}
 	],

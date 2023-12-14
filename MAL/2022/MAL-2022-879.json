@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/aer_css-vars/MAL-2022-879.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/aer_css-vars/MAL-2022-879.json"
 			}
 		}
 	],

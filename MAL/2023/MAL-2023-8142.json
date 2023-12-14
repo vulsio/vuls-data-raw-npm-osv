@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/lodarshe/MAL-2023-8142.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/lodarshe/MAL-2023-8142.json"
 			}
 		}
 	],

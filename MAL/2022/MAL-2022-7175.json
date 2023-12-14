@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wix-react-dealer-viewer/MAL-2022-7175.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wix-react-dealer-viewer/MAL-2022-7175.json"
 			}
 		}
 	],

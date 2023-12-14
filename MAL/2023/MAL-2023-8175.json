@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/fca-chan/MAL-2023-8175.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fca-chan/MAL-2023-8175.json"
 			}
 		}
 	],

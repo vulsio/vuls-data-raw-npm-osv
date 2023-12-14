@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ts-genapi/MAL-2022-6661.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ts-genapi/MAL-2022-6661.json"
 			}
 		}
 	],

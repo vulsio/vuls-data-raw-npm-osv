@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/sdc40_yamatake_manual_gi/MAL-2023-764.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/sdc40_yamatake_manual_gi/MAL-2023-764.json"
 			}
 		}
 	],

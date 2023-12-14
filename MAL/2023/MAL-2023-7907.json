@@ -39,7 +39,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/emails-helper/MAL-2023-7907.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/emails-helper/MAL-2023-7907.json"
 			}
 		}
 	],

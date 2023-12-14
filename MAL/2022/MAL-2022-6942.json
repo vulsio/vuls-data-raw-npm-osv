@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/virtual-npm-lyft/MAL-2022-6942.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/virtual-npm-lyft/MAL-2022-6942.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/tresdepasdfasdf/MAL-2022-6644.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tresdepasdfasdf/MAL-2022-6644.json"
 			}
 		}
 	],

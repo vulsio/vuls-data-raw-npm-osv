@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/isomorphi-cetch/MAL-2022-3967.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/isomorphi-cetch/MAL-2022-3967.json"
 			}
 		}
 	],

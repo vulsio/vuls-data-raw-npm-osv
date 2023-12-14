@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/jack_and_diane_nikita_king_epub_reader_best__lp5g/MAL-2023-532.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/jack_and_diane_nikita_king_epub_reader_best__lp5g/MAL-2023-532.json"
 			}
 		}
 	],

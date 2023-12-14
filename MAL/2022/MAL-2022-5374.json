@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/plugin-transform-typeof-symbol/MAL-2022-5374.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/plugin-transform-typeof-symbol/MAL-2022-5374.json"
 			}
 		}
 	],

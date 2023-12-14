@@ -16,7 +16,7 @@
 				"10.1.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@apps-common/ui-theme/MAL-2023-8123.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@apps-common/ui-theme/MAL-2023-8123.json"
 			}
 		}
 	],

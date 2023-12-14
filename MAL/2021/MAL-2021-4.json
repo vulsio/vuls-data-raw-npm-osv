@@ -23,7 +23,7 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/lib-bb-html-sanitizer/MAL-2021-4.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/lib-bb-html-sanitizer/MAL-2021-4.json"
 			}
 		}
 	],

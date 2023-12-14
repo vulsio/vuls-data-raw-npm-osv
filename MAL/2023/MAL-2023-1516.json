@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ent-cas-common-utils/MAL-2023-1516.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ent-cas-common-utils/MAL-2023-1516.json"
 			}
 		}
 	],

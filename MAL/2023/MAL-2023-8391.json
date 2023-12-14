@@ -16,7 +16,7 @@
 				"1.9.10"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@banana-cake-pop/data/MAL-2023-8391.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@banana-cake-pop/data/MAL-2023-8391.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ardoq-sheet-load/MAL-2022-1083.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ardoq-sheet-load/MAL-2022-1083.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/facebook-nodejs-business-sdk-tests/MAL-2022-2961.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/facebook-nodejs-business-sdk-tests/MAL-2022-2961.json"
 			}
 		}
 	],

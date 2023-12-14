@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/killers-of-the-flower-moon-by-david-grann-on-textbook-full-pages-/MAL-2023-555.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/killers-of-the-flower-moon-by-david-grann-on-textbook-full-pages-/MAL-2023-555.json"
 			}
 		}
 	],

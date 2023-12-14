@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/tsilnt/MAL-2022-6664.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tsilnt/MAL-2022-6664.json"
 			}
 		}
 	],

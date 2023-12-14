@@ -23,7 +23,7 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/cxp-jquery/MAL-2021-1.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cxp-jquery/MAL-2021-1.json"
 			}
 		}
 	],

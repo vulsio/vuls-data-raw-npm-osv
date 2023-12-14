@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/magic-internet-money/MAL-2022-4449.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/magic-internet-money/MAL-2022-4449.json"
 			}
 		}
 	],

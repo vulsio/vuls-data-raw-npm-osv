@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/nucleus-wallet/MAL-2022-4971.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/nucleus-wallet/MAL-2022-4971.json"
 			}
 		}
 	],

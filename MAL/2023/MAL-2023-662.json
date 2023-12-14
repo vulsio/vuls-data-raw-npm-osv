@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/owa-strings/MAL-2023-662.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/owa-strings/MAL-2023-662.json"
 			}
 		}
 	],

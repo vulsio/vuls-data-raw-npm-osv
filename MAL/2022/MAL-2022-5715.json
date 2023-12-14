@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/recat-olor/MAL-2022-5715.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/recat-olor/MAL-2022-5715.json"
 			}
 		}
 	],

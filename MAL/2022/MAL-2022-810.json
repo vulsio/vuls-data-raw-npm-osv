@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/abunews-components/MAL-2022-810.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/abunews-components/MAL-2022-810.json"
 			}
 		}
 	],

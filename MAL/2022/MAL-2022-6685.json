@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/tvmtool-bin/MAL-2022-6685.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tvmtool-bin/MAL-2022-6685.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@sok-brand-sites/common-frontend-components/MAL-2023-56.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@sok-brand-sites/common-frontend-components/MAL-2023-56.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/harp-theme-tools/MAL-2022-3564.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/harp-theme-tools/MAL-2022-3564.json"
 			}
 		}
 	],

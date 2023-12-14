@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/tranny-confessions-of-punk-rocks-most-infamous-anarchist-sellout-by-laura-jane-grace-on-audible-full/MAL-2023-901.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tranny-confessions-of-punk-rocks-most-infamous-anarchist-sellout-by-laura-jane-grace-on-audible-full/MAL-2023-901.json"
 			}
 		}
 	],

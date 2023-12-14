@@ -37,7 +37,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/action-destinations/MAL-2023-78.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/action-destinations/MAL-2023-78.json"
 			}
 		}
 	],

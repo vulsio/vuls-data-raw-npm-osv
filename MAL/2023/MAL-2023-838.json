@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/tdv2-applet-search-input/MAL-2023-838.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tdv2-applet-search-input/MAL-2023-838.json"
 			}
 		}
 	],

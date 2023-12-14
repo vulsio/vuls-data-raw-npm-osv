@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/cryptoapis-v2-adapter/MAL-2022-2254.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cryptoapis-v2-adapter/MAL-2022-2254.json"
 			}
 		}
 	],

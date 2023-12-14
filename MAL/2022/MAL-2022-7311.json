@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/yahoo-react-multi-select-box/MAL-2022-7311.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/yahoo-react-multi-select-box/MAL-2022-7311.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/readle-stream/MAL-2022-5704.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/readle-stream/MAL-2022-5704.json"
 			}
 		}
 	],

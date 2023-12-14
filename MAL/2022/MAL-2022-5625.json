@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/reac6-hintl/MAL-2022-5625.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/reac6-hintl/MAL-2022-5625.json"
 			}
 		}
 	],

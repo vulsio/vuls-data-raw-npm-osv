@@ -16,7 +16,7 @@
 				"3.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/another-dev-dependency3/MAL-2023-1113.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/another-dev-dependency3/MAL-2023-1113.json"
 			}
 		}
 	],

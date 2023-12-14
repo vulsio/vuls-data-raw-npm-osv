@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/parcel-plugin-test/MAL-2022-5212.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/parcel-plugin-test/MAL-2022-5212.json"
 			}
 		}
 	],

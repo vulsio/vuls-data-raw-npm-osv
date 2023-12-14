@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/avax-js-cli-tools/MAL-2022-1184.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/avax-js-cli-tools/MAL-2022-1184.json"
 			}
 		}
 	],

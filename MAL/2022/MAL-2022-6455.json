@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/tempus-core-services/MAL-2022-6455.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tempus-core-services/MAL-2022-6455.json"
 			}
 		}
 	],

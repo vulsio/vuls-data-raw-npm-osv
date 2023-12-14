@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@tide-web-apps/bert2/MAL-2022-642.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@tide-web-apps/bert2/MAL-2022-642.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wbpac-hot-middwleware/MAL-2022-7052.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wbpac-hot-middwleware/MAL-2022-7052.json"
 			}
 		}
 	],

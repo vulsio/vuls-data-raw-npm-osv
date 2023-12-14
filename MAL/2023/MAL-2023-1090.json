@@ -16,7 +16,7 @@
 				"0.2.10"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@ms-atlas/datastudio-diagnostics/MAL-2023-1090.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ms-atlas/datastudio-diagnostics/MAL-2023-1090.json"
 			}
 		}
 	],

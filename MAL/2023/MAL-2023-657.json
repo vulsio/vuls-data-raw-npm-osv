@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/org.slf4j.logger/MAL-2023-657.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/org.slf4j.logger/MAL-2023-657.json"
 			}
 		}
 	],

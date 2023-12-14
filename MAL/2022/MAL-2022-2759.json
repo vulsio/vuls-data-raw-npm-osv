@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/eodhistoricaldata-adapter/MAL-2022-2759.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/eodhistoricaldata-adapter/MAL-2022-2759.json"
 			}
 		}
 	],

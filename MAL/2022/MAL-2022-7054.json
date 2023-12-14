@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wcebpack-bunde-analyzer/MAL-2022-7054.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wcebpack-bunde-analyzer/MAL-2022-7054.json"
 			}
 		}
 	],

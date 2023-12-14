@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wordpress-core-css/MAL-2022-7219.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wordpress-core-css/MAL-2022-7219.json"
 			}
 		}
 	],

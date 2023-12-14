@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/reactdncdhtml5backend/MAL-2022-5687.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/reactdncdhtml5backend/MAL-2022-5687.json"
 			}
 		}
 	],

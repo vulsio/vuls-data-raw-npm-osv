@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/free-tiktok-fans-app-2022/MAL-2022-3202.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/free-tiktok-fans-app-2022/MAL-2022-3202.json"
 			}
 		}
 	],

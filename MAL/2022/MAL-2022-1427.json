@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/babelplugintransformclassproprties/MAL-2022-1427.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/babelplugintransformclassproprties/MAL-2022-1427.json"
 			}
 		}
 	],

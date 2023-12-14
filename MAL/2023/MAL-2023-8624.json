@@ -17,7 +17,7 @@
 				"1.0.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/topcoderhomepage_3.0/MAL-2023-8624.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/topcoderhomepage_3.0/MAL-2023-8624.json"
 			}
 		}
 	],

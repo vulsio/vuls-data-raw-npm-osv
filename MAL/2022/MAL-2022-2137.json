@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/communication-phone-numbers/MAL-2022-2137.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/communication-phone-numbers/MAL-2022-2137.json"
 			}
 		}
 	],

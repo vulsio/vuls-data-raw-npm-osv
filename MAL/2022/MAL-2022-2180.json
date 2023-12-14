@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/coolqueue.io/MAL-2022-2180.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/coolqueue.io/MAL-2022-2180.json"
 			}
 		}
 	],

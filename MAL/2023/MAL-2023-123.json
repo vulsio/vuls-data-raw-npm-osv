@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/becoming-the-narcissists-nightmare-how-to-devalue-and-discard-the-narcissist-while-supplying-yoursel/MAL-2023-123.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/becoming-the-narcissists-nightmare-how-to-devalue-and-discard-the-narcissist-while-supplying-yoursel/MAL-2023-123.json"
 			}
 		}
 	],

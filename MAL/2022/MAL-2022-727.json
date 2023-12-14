@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@wix-ui/editor-elements-corvid-utils/MAL-2022-727.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@wix-ui/editor-elements-corvid-utils/MAL-2022-727.json"
 			}
 		}
 	],

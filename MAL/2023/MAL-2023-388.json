@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/fca-dark-rulex/MAL-2023-388.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fca-dark-rulex/MAL-2023-388.json"
 			}
 		}
 	],

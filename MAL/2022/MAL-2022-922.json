@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ajax-libz/MAL-2022-922.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ajax-libz/MAL-2022-922.json"
 			}
 		}
 	],

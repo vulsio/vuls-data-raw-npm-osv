@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/vue-docs-image-recognition/MAL-2022-6991.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/vue-docs-image-recognition/MAL-2022-6991.json"
 			}
 		}
 	],

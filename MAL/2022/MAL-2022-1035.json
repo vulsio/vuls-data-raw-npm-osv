@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/apex-chart-react/MAL-2022-1035.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/apex-chart-react/MAL-2022-1035.json"
 			}
 		}
 	],

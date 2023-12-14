@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/retact-vrtualiied/MAL-2022-5769.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/retact-vrtualiied/MAL-2022-5769.json"
 			}
 		}
 	],

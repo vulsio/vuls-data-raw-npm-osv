@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wnode-acche/MAL-2022-7210.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wnode-acche/MAL-2022-7210.json"
 			}
 		}
 	],

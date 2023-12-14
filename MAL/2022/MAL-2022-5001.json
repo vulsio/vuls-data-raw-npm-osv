@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/oauth_tutorial/MAL-2022-5001.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/oauth_tutorial/MAL-2022-5001.json"
 			}
 		}
 	],

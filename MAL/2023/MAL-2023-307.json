@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/env-cross/MAL-2023-307.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/env-cross/MAL-2023-307.json"
 			}
 		}
 	],

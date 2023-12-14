@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ot-logger/MAL-2022-5138.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ot-logger/MAL-2022-5138.json"
 			}
 		}
 	],

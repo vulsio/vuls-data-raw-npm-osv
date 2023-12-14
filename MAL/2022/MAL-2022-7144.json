@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wickrio-proxy-bot/MAL-2022-7144.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wickrio-proxy-bot/MAL-2022-7144.json"
 			}
 		}
 	],

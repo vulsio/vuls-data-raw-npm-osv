@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/doneida/MAL-2023-8494.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/doneida/MAL-2023-8494.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/tra-arifvauchat-api/MAL-2023-1443.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tra-arifvauchat-api/MAL-2023-1443.json"
 			}
 		}
 	],

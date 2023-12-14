@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ringcentral-api/MAL-2022-5797.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ringcentral-api/MAL-2022-5797.json"
 			}
 		}
 	],

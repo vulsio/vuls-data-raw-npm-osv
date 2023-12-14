@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/base-app-unauth/MAL-2022-1464.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/base-app-unauth/MAL-2022-1464.json"
 			}
 		}
 	],

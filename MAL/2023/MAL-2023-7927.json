@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@intact-lab/ngx-iceberg-links/MAL-2023-7927.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@intact-lab/ngx-iceberg-links/MAL-2023-7927.json"
 			}
 		}
 	],

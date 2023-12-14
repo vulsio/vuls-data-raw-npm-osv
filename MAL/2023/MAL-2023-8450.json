@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/airslate-static/MAL-2023-8450.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/airslate-static/MAL-2023-8450.json"
 			}
 		}
 	],

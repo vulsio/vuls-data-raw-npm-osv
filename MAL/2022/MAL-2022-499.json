@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@personio-internal/split-sdk-provider/MAL-2022-499.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@personio-internal/split-sdk-provider/MAL-2022-499.json"
 			}
 		}
 	],

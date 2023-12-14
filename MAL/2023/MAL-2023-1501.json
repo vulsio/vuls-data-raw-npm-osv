@@ -16,7 +16,7 @@
 				"2.2.2"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/wpi-xmldom/MAL-2023-1501.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wpi-xmldom/MAL-2023-1501.json"
 			}
 		}
 	],

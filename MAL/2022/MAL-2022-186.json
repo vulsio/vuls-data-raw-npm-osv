@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@crackle-fixtures/multi-entry-library/MAL-2022-186.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@crackle-fixtures/multi-entry-library/MAL-2022-186.json"
 			}
 		}
 	],

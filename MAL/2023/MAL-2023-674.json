@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/pdf-a-court-of-wings-and-ruin-a-court-of-thorns-and-roses-3-by-sarah-j-maas-on-iphone-full-chapters-/MAL-2023-674.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/pdf-a-court-of-wings-and-ruin-a-court-of-thorns-and-roses-3-by-sarah-j-maas-on-iphone-full-chapters-/MAL-2023-674.json"
 			}
 		}
 	],

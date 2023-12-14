@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/open-xchange-appsuite/MAL-2022-5091.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/open-xchange-appsuite/MAL-2022-5091.json"
 			}
 		}
 	],

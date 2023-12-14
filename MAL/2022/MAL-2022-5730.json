@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/reflect_decorators/MAL-2022-5730.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/reflect_decorators/MAL-2022-5730.json"
 			}
 		}
 	],

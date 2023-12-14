@@ -38,7 +38,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@pagseguro/pagseguro-utils/MAL-2023-47.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@pagseguro/pagseguro-utils/MAL-2023-47.json"
 			}
 		}
 	],

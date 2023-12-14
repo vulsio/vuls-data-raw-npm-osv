@@ -16,7 +16,7 @@
 				"0.3.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/nequi-api-utils/MAL-2023-7925.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/nequi-api-utils/MAL-2023-7925.json"
 			}
 		}
 	],

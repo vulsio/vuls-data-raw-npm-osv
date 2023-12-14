@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/search-gov-website/MAL-2022-5990.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/search-gov-website/MAL-2022-5990.json"
 			}
 		}
 	],

@@ -16,7 +16,7 @@
 				"2.1.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/accounting-core/MAL-2023-8241.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/accounting-core/MAL-2023-8241.json"
 			}
 		}
 	],

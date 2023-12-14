@@ -16,7 +16,7 @@
 				"9999.9.9"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/falsepositivecheck6969/MAL-2023-1180.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/falsepositivecheck6969/MAL-2023-1180.json"
 			}
 		}
 	],

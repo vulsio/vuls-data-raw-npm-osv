@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/swift-docc-render/MAL-2022-6375.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/swift-docc-render/MAL-2022-6375.json"
 			}
 		}
 	],

@@ -16,7 +16,7 @@
 				"0.2.9"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/fec-sdk/MAL-2023-8396.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fec-sdk/MAL-2023-8396.json"
 			}
 		}
 	],

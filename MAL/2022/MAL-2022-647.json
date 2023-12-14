@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@tinkoff-react-bui/animation/MAL-2022-647.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@tinkoff-react-bui/animation/MAL-2022-647.json"
 			}
 		}
 	],

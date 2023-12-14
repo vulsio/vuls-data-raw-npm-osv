@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/childpocessopromise/MAL-2022-1898.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/childpocessopromise/MAL-2022-1898.json"
 			}
 		}
 	],

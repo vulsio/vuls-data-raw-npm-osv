@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/bmw-angular-framework/MAL-2022-1633.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bmw-angular-framework/MAL-2022-1633.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/polymesh-cli/MAL-2022-5409.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/polymesh-cli/MAL-2022-5409.json"
 			}
 		}
 	],

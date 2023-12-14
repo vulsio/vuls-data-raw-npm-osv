@@ -16,7 +16,7 @@
 				"100.0.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/scuntest/MAL-2023-1291.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/scuntest/MAL-2023-1291.json"
 			}
 		}
 	],

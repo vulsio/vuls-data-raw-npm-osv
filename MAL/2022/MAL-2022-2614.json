@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/duplex-child-orocess/MAL-2022-2614.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/duplex-child-orocess/MAL-2022-2614.json"
 			}
 		}
 	],

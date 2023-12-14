@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/browserslist-config-freight-trust/MAL-2022-1697.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/browserslist-config-freight-trust/MAL-2022-1697.json"
 			}
 		}
 	],

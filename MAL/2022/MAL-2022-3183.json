@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/free-primogems-codes-2022/MAL-2022-3183.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/free-primogems-codes-2022/MAL-2022-3183.json"
 			}
 		}
 	],

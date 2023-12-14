@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/aidl-language/MAL-2022-906.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/aidl-language/MAL-2022-906.json"
 			}
 		}
 	],

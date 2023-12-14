@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/athulkrishnan_test_package/MAL-2023-109.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/athulkrishnan_test_package/MAL-2023-109.json"
 			}
 		}
 	],

@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ifl-tokens/MAL-2023-8507.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ifl-tokens/MAL-2023-8507.json"
 			}
 		}
 	],

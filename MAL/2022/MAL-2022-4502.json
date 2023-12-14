@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/mattermost-oauth2-client-sample-app/MAL-2022-4502.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mattermost-oauth2-client-sample-app/MAL-2022-4502.json"
 			}
 		}
 	],

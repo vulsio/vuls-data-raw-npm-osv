@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/okapi-doc/MAL-2022-5050.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/okapi-doc/MAL-2022-5050.json"
 			}
 		}
 	],

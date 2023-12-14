@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/vgs-staging/MAL-2022-6912.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/vgs-staging/MAL-2022-6912.json"
 			}
 		}
 	],

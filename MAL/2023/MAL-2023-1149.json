@@ -16,7 +16,7 @@
 				"5.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/cyclotron-svc/MAL-2023-1149.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cyclotron-svc/MAL-2023-1149.json"
 			}
 		}
 	],

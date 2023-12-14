@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/youla-js/MAL-2022-7359.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/youla-js/MAL-2022-7359.json"
 			}
 		}
 	],

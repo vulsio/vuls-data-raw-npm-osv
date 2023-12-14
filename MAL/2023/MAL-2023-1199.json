@@ -26,7 +26,7 @@
 				"2.999.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/hideorg-lvl/MAL-2023-1199.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hideorg-lvl/MAL-2023-1199.json"
 			}
 		}
 	],

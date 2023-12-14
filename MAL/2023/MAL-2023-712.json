@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/puik-experimental/MAL-2023-712.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/puik-experimental/MAL-2023-712.json"
 			}
 		}
 	],

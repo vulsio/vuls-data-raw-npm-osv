@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/argo-hosting-api/MAL-2022-1085.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/argo-hosting-api/MAL-2022-1085.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/preply-riddle-online-status/MAL-2022-5450.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/preply-riddle-online-status/MAL-2022-5450.json"
 			}
 		}
 	],

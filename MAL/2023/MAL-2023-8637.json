@@ -16,7 +16,7 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@terraform-aws-github-runner/aws-ssm-util/MAL-2023-8637.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@terraform-aws-github-runner/aws-ssm-util/MAL-2023-8637.json"
 			}
 		}
 	],

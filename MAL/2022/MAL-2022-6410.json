@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/tachyon-utils-twitch/MAL-2022-6410.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tachyon-utils-twitch/MAL-2022-6410.json"
 			}
 		}
 	],

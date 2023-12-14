@@ -18,7 +18,7 @@
 				"966.0.3"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/javascript-appfabric-logger/MAL-2023-1217.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/javascript-appfabric-logger/MAL-2023-1217.json"
 			}
 		}
 	],

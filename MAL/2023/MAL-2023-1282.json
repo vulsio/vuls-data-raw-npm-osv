@@ -16,7 +16,7 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/react-test-renderer-17/MAL-2023-1282.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/react-test-renderer-17/MAL-2023-1282.json"
 			}
 		}
 	],

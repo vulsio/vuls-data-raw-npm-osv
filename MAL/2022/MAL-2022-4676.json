@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/monday-integration-quickstart/MAL-2022-4676.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/monday-integration-quickstart/MAL-2022-4676.json"
 			}
 		}
 	],

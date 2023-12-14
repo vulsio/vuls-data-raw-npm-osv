@@ -16,7 +16,7 @@
 				"6.6.6"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/jscrambler-permission-utils/MAL-2023-1502.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/jscrambler-permission-utils/MAL-2023-1502.json"
 			}
 		}
 	],

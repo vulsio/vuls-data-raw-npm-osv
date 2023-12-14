@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/argo-checkout-template/MAL-2022-1084.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/argo-checkout-template/MAL-2022-1084.json"
 			}
 		}
 	],

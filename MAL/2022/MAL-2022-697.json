@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/@unpkg-semver/wix-recorder/MAL-2022-697.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@unpkg-semver/wix-recorder/MAL-2022-697.json"
 			}
 		}
 	],

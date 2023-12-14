@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/blind-threshold-bls/MAL-2022-1608.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/blind-threshold-bls/MAL-2022-1608.json"
 			}
 		}
 	],

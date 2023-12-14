@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/kauram/MAL-2022-4121.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/kauram/MAL-2022-4121.json"
 			}
 		}
 	],

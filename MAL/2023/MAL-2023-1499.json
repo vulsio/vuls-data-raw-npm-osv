@@ -16,7 +16,7 @@
 				"9.9.9"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/jscrambler-dashboard-components/MAL-2023-1499.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/jscrambler-dashboard-components/MAL-2023-1499.json"
 			}
 		}
 	],

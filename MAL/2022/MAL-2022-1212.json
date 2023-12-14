@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/axp-base/MAL-2022-1212.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/axp-base/MAL-2022-1212.json"
 			}
 		}
 	],

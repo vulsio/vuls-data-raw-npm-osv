@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/ng-json-explorer/MAL-2022-4845.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ng-json-explorer/MAL-2022-4845.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/commerce-sdk-react/MAL-2022-2121.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/commerce-sdk-react/MAL-2022-2121.json"
 			}
 		}
 	],

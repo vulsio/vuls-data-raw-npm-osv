@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/crashtravel-utilities/MAL-2022-2227.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/crashtravel-utilities/MAL-2022-2227.json"
 			}
 		}
 	],

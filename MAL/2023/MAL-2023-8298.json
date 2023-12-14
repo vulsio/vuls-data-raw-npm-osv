@@ -36,7 +36,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/shopify-currency-converter/MAL-2023-8298.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/shopify-currency-converter/MAL-2023-8298.json"
 			}
 		}
 	],

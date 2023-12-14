@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/babelrun3ie/MAL-2022-1436.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/babelrun3ie/MAL-2022-1436.json"
 			}
 		}
 	],

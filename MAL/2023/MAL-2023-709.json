@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/pucked-off-pucked-5-by-helena-hunting-on-audiobook-new-chapters-/MAL-2023-709.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/pucked-off-pucked-5-by-helena-hunting-on-audiobook-new-chapters-/MAL-2023-709.json"
 			}
 		}
 	],

@@ -16,7 +16,7 @@
 				"19.6.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/smart-commons/MAL-2023-1298.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/smart-commons/MAL-2023-1298.json"
 			}
 		}
 	],

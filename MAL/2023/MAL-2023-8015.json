@@ -23,7 +23,7 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/cnp_al_corp_front/MAL-2023-8015.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cnp_al_corp_front/MAL-2023-8015.json"
 			}
 		}
 	],

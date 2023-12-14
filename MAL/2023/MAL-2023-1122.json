@@ -16,7 +16,7 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/bernie-plugin-ads-loader-script/MAL-2023-1122.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bernie-plugin-ads-loader-script/MAL-2023-1122.json"
 			}
 		}
 	],

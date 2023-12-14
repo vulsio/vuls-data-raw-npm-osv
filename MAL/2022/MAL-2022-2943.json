@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/extracttextwrebpackplugin/MAL-2022-2943.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/extracttextwrebpackplugin/MAL-2022-2943.json"
 			}
 		}
 	],

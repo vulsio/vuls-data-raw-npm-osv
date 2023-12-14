@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/dropins_sdk_refactor/MAL-2022-2595.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dropins_sdk_refactor/MAL-2022-2595.json"
 			}
 		}
 	],

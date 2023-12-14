@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/azure-arm-marketplaceordering-samples-js/MAL-2022-1256.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/azure-arm-marketplaceordering-samples-js/MAL-2022-1256.json"
 			}
 		}
 	],

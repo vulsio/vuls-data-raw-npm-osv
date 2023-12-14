@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/satoshi-fire-alarm/MAL-2022-5935.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/satoshi-fire-alarm/MAL-2022-5935.json"
 			}
 		}
 	],

@@ -33,7 +33,7 @@
 						"name": "Embedded Malicious Code"
 					}
 				],
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/npm/afisha-guides-landing/MAL-2022-887.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/afisha-guides-landing/MAL-2022-887.json"
 			}
 		}
 	],
