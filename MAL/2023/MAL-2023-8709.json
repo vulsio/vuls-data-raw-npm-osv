@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2023-8709",
+	"modified": "2023-12-19T06:45:55Z",
+	"published": "2023-12-19T06:45:55Z",
+	"summary": "Malicious code in paalni (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (ef84f3e2861172f94c2e4896ee6d360f4dcca88742240bd5afe62886771944e9)\nThe OpenSSF Package Analysis project identified 'paalni' @ 2.3.4 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "paalni",
+				"purl": "pkg:npm/paalni"
+			},
+			"versions": [
+				"2.3.4"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/paalni/MAL-2023-8709.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2023-12-19T07:04:57.281644087Z",
+				"modified_time": "2023-12-19T06:45:55Z",
+				"sha256": "ef84f3e2861172f94c2e4896ee6d360f4dcca88742240bd5afe62886771944e9",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"2.3.4"
+				]
+			}
+		]
+	}
+}
