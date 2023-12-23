@@ -1,10 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-8735",
-	"modified": "2023-12-23T11:04:53Z",
+	"modified": "2023-12-23T11:34:01Z",
 	"published": "2023-12-22T13:23:25Z",
 	"summary": "Malicious code in fe-commons (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (43f66b71590ab106384f17a62dab244f743fed4d0362106df1eeed3e811c7a1b)\nThe OpenSSF Package Analysis project identified 'fe-commons' @ 11.99.999 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (4bc25cd02b921e1195c0b30bf6cc3a319604465dac87179062a135fbd480e990)\nThe OpenSSF Package Analysis project identified 'fe-commons' @ 11.99.99999 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
 	"affected": [
 		{
 			"package": {
@@ -16,7 +16,11 @@
 				"10.99.0",
 				"1.0.0",
 				"11.99.999",
-				"11.99.99"
+				"11.99.99",
+				"11.99.99999",
+				"12.1.11",
+				"11.99.9999",
+				"12.0.0"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fe-commons/MAL-2023-8735.json"
@@ -69,6 +73,42 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"11.99.99"
+				]
+			},
+			{
+				"import_time": "2023-12-23T11:33:43.948745055Z",
+				"modified_time": "2023-12-23T11:18:19Z",
+				"sha256": "4bc25cd02b921e1195c0b30bf6cc3a319604465dac87179062a135fbd480e990",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"11.99.99999"
+				]
+			},
+			{
+				"import_time": "2023-12-23T11:33:44.178475818Z",
+				"modified_time": "2023-12-23T11:31:34Z",
+				"sha256": "afdda941645a1caff1580bdc4409872e23534c3135b3a996d8f8060c7e6d1915",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"12.1.11"
+				]
+			},
+			{
+				"import_time": "2023-12-23T11:33:44.113319565Z",
+				"modified_time": "2023-12-23T11:22:52Z",
+				"sha256": "cad3bbf09a6a28c2014df4829cf31cc1400f54a91300a7f48c5c4e95209088ce",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"11.99.9999"
+				]
+			},
+			{
+				"import_time": "2023-12-23T11:33:44.013288817Z",
+				"modified_time": "2023-12-23T11:19:10Z",
+				"sha256": "fc33df509c242ad8aaaf5d9043e86ea13ab41f950a4ffd9e04f4c17a45d1f1ee",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"12.0.0"
 				]
 			}
 		]
