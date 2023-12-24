@@ -1,10 +1,12 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c9g6-9335-x697",
-	"modified": "2023-11-08T04:04:05.193933Z",
+	"modified": "2023-12-23T22:57:52.313981Z",
 	"published": "2021-04-13T15:27:51Z",
 	"aliases": [
-		"CVE-2020-7693"
+		"CVE-2020-7693",
+		"SNYK-JAVA-ORGWEBJARSNPM-575448",
+		"SNYK-JS-SOCKJS-575261"
 	],
 	"summary": "Improper Input Validation in SocksJS-Node",
 	"details": "Incorrect handling of Upgrade header with the value websocket leads in crashing of containers hosting sockjs apps. This affects the package sockjs before 0.3.20.",
