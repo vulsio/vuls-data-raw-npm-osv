@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-8743",
-	"modified": "2023-12-27T06:05:51Z",
+	"modified": "2023-12-27T11:34:02Z",
 	"published": "2023-12-26T06:27:32Z",
 	"summary": "Malicious code in finalact (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (65ae4f51ac0f42175a709c00e1fa248d12861a7d64bd828cfce2ab35f6a6c106)\nThe OpenSSF Package Analysis project identified 'finalact' @ 1.1.3 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
@@ -17,7 +17,8 @@
 				"1.1.5",
 				"1.1.4",
 				"1.1.6",
-				"1.1.9"
+				"1.1.9",
+				"1.2.1"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/finalact/MAL-2023-8743.json"
@@ -79,6 +80,15 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"1.1.9"
+				]
+			},
+			{
+				"import_time": "2023-12-27T11:33:40.67763571Z",
+				"modified_time": "2023-12-27T11:30:36Z",
+				"sha256": "db4c10e1ecbfe28ce71f1591a5bfbaef836f09257fc0b7589dcea64cfe163076",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.2.1"
 				]
 			}
 		]
