@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2023-8776",
+	"modified": "2023-12-30T17:55:52Z",
+	"published": "2023-12-30T17:55:52Z",
+	"summary": "Malicious code in discord.js-self-v22 (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (0fef797fd42310961ca0150a74e5ef05220ee081e86a75a25f4f85a484319743)\nThe OpenSSF Package Analysis project identified 'discord.js-self-v22' @ 1.0.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "discord.js-self-v22",
+				"purl": "pkg:npm/discord.js-self-v22"
+			},
+			"versions": [
+				"1.0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/discord.js-self-v22/MAL-2023-8776.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-01-01T00:18:48.032373582Z",
+				"modified_time": "2023-12-30T17:55:52Z",
+				"sha256": "0fef797fd42310961ca0150a74e5ef05220ee081e86a75a25f4f85a484319743",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.1"
+				]
+			}
+		]
+	}
+}

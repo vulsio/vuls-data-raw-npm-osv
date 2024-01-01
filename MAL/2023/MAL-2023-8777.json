@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2023-8777",
+	"modified": "2023-12-31T00:25:44Z",
+	"published": "2023-12-31T00:25:44Z",
+	"summary": "Malicious code in sparxy (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (53d9d23dceb717f9e3989366e5795bd15970bcc2de047eb4bece299c5e732e99)\nThe OpenSSF Package Analysis project identified 'sparxy' @ 1.0.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "sparxy",
+				"purl": "pkg:npm/sparxy"
+			},
+			"versions": [
+				"1.0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/sparxy/MAL-2023-8777.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-01-01T00:18:48.12232457Z",
+				"modified_time": "2023-12-31T00:25:44Z",
+				"sha256": "53d9d23dceb717f9e3989366e5795bd15970bcc2de047eb4bece299c5e732e99",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.1"
+				]
+			}
+		]
+	}
+}
