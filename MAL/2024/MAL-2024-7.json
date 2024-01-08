@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-7",
-	"modified": "2024-01-02T06:52:36Z",
+	"modified": "2024-01-08T08:34:52Z",
 	"published": "2024-01-02T06:52:36Z",
 	"summary": "Malicious code in chancets (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (1cde3c28ba0e3ddcec9535e7fba3d85ed1b49557bd2351ed4c270871109074c1)\nThe OpenSSF Package Analysis project identified 'chancets' @ 1.1.14 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
@@ -13,7 +13,9 @@
 				"purl": "pkg:npm/chancets"
 			},
 			"versions": [
-				"1.1.14"
+				"1.1.14",
+				"1.1.15",
+				"1.1.16"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/chancets/MAL-2024-7.json"
@@ -39,6 +41,24 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"1.1.14"
+				]
+			},
+			{
+				"import_time": "2024-01-08T08:34:38.473793927Z",
+				"modified_time": "2024-01-08T08:16:07Z",
+				"sha256": "910fc98792aef5a70d785ee68956c4095f4e82a1d6cdbcd4b4b3a9cd63b43d54",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.1.15"
+				]
+			},
+			{
+				"import_time": "2024-01-08T08:34:38.56431166Z",
+				"modified_time": "2024-01-08T08:20:44Z",
+				"sha256": "bebd76c555730881c6cd03337a0b1063ba1bd4b1761db36505d68a9356dd547f",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.1.16"
 				]
 			}
 		]
