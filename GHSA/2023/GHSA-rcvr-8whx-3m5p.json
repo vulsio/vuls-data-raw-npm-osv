@@ -1,13 +1,19 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rcvr-8whx-3m5p",
-	"modified": "2024-01-03T21:58:13.621926Z",
+	"modified": "2024-01-08T15:55:06Z",
 	"published": "2023-12-30T18:30:35Z",
 	"aliases": [
 		"CVE-2023-50550"
 	],
 	"summary": "Layui cross-site scripting (XSS) vulnerability",
 	"details": "layui up to v2.74 was discovered to contain a cross-site scripting (XSS) vulnerability via the data-content parameter.",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N"
+		}
+	],
 	"affected": [
 		{
 			"package": {
@@ -53,7 +59,9 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-79"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-01-03T21:42:34Z",
 		"nvd_published_at": "2023-12-30T16:15:44Z",
