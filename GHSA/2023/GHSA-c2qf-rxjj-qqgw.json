@@ -34,6 +34,11 @@
 					]
 				}
 			],
+			"ecosystem_specific": {
+				"affected_functions": [
+					"(semver).Range"
+				]
+			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/06/GHSA-c2qf-rxjj-qqgw/GHSA-c2qf-rxjj-qqgw.json"
 			}
