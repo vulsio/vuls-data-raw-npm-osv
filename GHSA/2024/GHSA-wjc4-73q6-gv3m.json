@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wjc4-73q6-gv3m",
-	"modified": "2024-01-03T19:56:45.993893Z",
+	"modified": "2024-01-09T19:16:17.648701Z",
 	"published": "2024-01-03T06:30:27Z",
 	"aliases": [
 		"CVE-2023-46308"
@@ -271,7 +271,9 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-1321"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-01-03T19:38:54Z",
 		"nvd_published_at": "2024-01-03T05:15:11Z",

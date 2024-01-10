@@ -51,10 +51,16 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/perfood/couch-auth"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.npmjs.com/package/%40perfood/couch-auth"
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-74"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-01-03T22:03:52Z",
 		"nvd_published_at": "2024-01-03T13:15:08Z",
