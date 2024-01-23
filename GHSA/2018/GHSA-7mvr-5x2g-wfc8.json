@@ -1,13 +1,13 @@
 {
 	"schema_version": "1.6.0",
-	"id": "GHSA-3wqf-4x89-9g79",
-	"modified": "2024-01-23T16:16:29.069136Z",
-	"published": "2022-05-13T01:07:54Z",
+	"id": "GHSA-7mvr-5x2g-wfc8",
+	"modified": "2024-01-23T16:16:14.438763Z",
+	"published": "2018-09-13T15:50:32Z",
 	"aliases": [
-		"CVE-2018-14040"
+		"CVE-2018-14042"
 	],
-	"summary": "Bootstrap vulnerable to Cross-Site Scripting (XSS)",
-	"details": "In Bootstrap starting in version 2.3.0 and prior to 3.4.0, as well as 4.x before 4.1.2, XSS is possible in the collapse data-parent attribute.",
+	"summary": "Bootstrap Cross-site Scripting vulnerability",
+	"details": "In Bootstrap starting in version 2.3.0 and prior to versions 3.4.0 and 4.1.2, XSS is possible in the data-container property of tooltip.  This is similar to CVE-2018-14041.",
 	"severity": [
 		{
 			"type": "CVSS_V3",
@@ -15,29 +15,6 @@
 		}
 	],
 	"affected": [
-		{
-			"package": {
-				"ecosystem": "npm",
-				"name": "bootstrap",
-				"purl": "pkg:npm/bootstrap"
-			},
-			"ranges": [
-				{
-					"type": "SEMVER",
-					"events": [
-						{
-							"introduced": "4.0.0"
-						},
-						{
-							"fixed": "4.1.2"
-						}
-					]
-				}
-			],
-			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-3wqf-4x89-9g79/GHSA-3wqf-4x89-9g79.json"
-			}
-		},
 		{
 			"package": {
 				"ecosystem": "RubyGems",
@@ -63,30 +40,7 @@
 				"4.1.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-3wqf-4x89-9g79/GHSA-3wqf-4x89-9g79.json"
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "npm",
-				"name": "bootstrap",
-				"purl": "pkg:npm/bootstrap"
-			},
-			"ranges": [
-				{
-					"type": "SEMVER",
-					"events": [
-						{
-							"introduced": "2.3.0"
-						},
-						{
-							"fixed": "3.4.0"
-						}
-					]
-				}
-			],
-			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-3wqf-4x89-9g79/GHSA-3wqf-4x89-9g79.json"
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2018/09/GHSA-7mvr-5x2g-wfc8/GHSA-7mvr-5x2g-wfc8.json"
 			}
 		},
 		{
@@ -109,14 +63,60 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-3wqf-4x89-9g79/GHSA-3wqf-4x89-9g79.json"
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2018/09/GHSA-7mvr-5x2g-wfc8/GHSA-7mvr-5x2g-wfc8.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "bootstrap",
+				"purl": "pkg:npm/bootstrap"
+			},
+			"ranges": [
+				{
+					"type": "SEMVER",
+					"events": [
+						{
+							"introduced": "4.0.0"
+						},
+						{
+							"fixed": "4.1.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2018/09/GHSA-7mvr-5x2g-wfc8/GHSA-7mvr-5x2g-wfc8.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "bootstrap",
+				"purl": "pkg:npm/bootstrap"
+			},
+			"ranges": [
+				{
+					"type": "SEMVER",
+					"events": [
+						{
+							"introduced": "2.3.0"
+						},
+						{
+							"fixed": "3.4.0"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2018/09/GHSA-7mvr-5x2g-wfc8/GHSA-7mvr-5x2g-wfc8.json"
 			}
 		}
 	],
 	"references": [
 		{
 			"type": "ADVISORY",
-			"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-14040"
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-14042"
 		},
 		{
 			"type": "WEB",
@@ -124,7 +124,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://github.com/twbs/bootstrap/issues/26625"
+			"url": "https://github.com/twbs/bootstrap/issues/26428"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/twbs/bootstrap/issues/26628"
 		},
 		{
 			"type": "WEB",
@@ -132,15 +136,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://github.com/twbs/bootstrap-rubygem/commit/f34c43c936ac7d0ebb129289321d8c51cd56aed1#diff-4e736e880b7fc39eb5e85576b629f6e3cd08f02f45104a7b4581f82852e97a81R1306"
-		},
-		{
-			"type": "WEB",
-			"url": "https://github.com/twbs/bootstrap/commit/149096016f70fd815540d62c0989fd99cdc809e0"
-		},
-		{
-			"type": "WEB",
 			"url": "https://github.com/twbs/bootstrap/commit/2a5ba23ce8f041f3548317acc992ed8a736b609d"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/twbs/bootstrap/commit/2d90d369bbc2bd2647620246c55cec8c4705e3d0"
 		},
 		{
 			"type": "WEB",
@@ -148,19 +148,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/bootstrap/CVE-2018-14040.yml"
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/bootstrap/CVE-2018-14042.yml"
 		},
 		{
-			"type": "WEB",
-			"url": "https://github.com/twbs/bootstrap/blob/v3.4.1/js/collapse.js#L140"
-		},
-		{
-			"type": "WEB",
-			"url": "https://github.com/twbs/bootstrap/blob/v3.4.1/js/scrollspy.js#L56"
-		},
-		{
-			"type": "WEB",
-			"url": "https://github.com/twbs/bootstrap/blob/v3.4.1/js/tooltip.js#L352"
+			"type": "PACKAGE",
+			"url": "https://github.com/twbs/bootstrap"
 		},
 		{
 			"type": "WEB",
@@ -188,10 +180,6 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.debian.org/debian-lts-announce/2018/08/msg00027.html"
-		},
-		{
-			"type": "WEB",
 			"url": "https://seclists.org/bugtraq/2019/May/18"
 		},
 		{
@@ -201,10 +189,6 @@
 		{
 			"type": "WEB",
 			"url": "https://www.tenable.com/security/tns-2021-14"
-		},
-		{
-			"type": "WEB",
-			"url": "http://packetstormsecurity.com/files/152787/dotCMS-5.1.1-Vulnerable-Dependencies.html"
 		},
 		{
 			"type": "WEB",
@@ -228,7 +212,7 @@
 			"CWE-79"
 		],
 		"github_reviewed": true,
-		"github_reviewed_at": "2022-09-15T19:41:21Z",
+		"github_reviewed_at": "2020-06-16T21:23:00Z",
 		"nvd_published_at": "2018-07-13T14:29:00Z",
 		"severity": "MODERATE"
 	}
