@@ -62,7 +62,7 @@
 							"introduced": "3.7.0"
 						},
 						{
-							"fixed": "4.17.20"
+							"fixed": "4.17.19"
 						}
 					]
 				}
@@ -75,6 +75,146 @@
 					"(lodash).update",
 					"(lodash).updateWith",
 					"(lodash).zipObjectDeep"
+				]
+			},
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2020/07/GHSA-p6mc-m468-83gw/GHSA-p6mc-m468-83gw.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "lodash.pick",
+				"purl": "pkg:npm/lodash.pick"
+			},
+			"ranges": [
+				{
+					"type": "SEMVER",
+					"events": [
+						{
+							"introduced": "3.7.0"
+						},
+						{
+							"fixed": "4.17.19"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"affected_functions": [
+					"(lodash.pick)"
+				]
+			},
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2020/07/GHSA-p6mc-m468-83gw/GHSA-p6mc-m468-83gw.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "lodash.set",
+				"purl": "pkg:npm/lodash.set"
+			},
+			"ranges": [
+				{
+					"type": "SEMVER",
+					"events": [
+						{
+							"introduced": "3.7.0"
+						},
+						{
+							"fixed": "4.17.19"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"affected_functions": [
+					"(lodash.set)"
+				]
+			},
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2020/07/GHSA-p6mc-m468-83gw/GHSA-p6mc-m468-83gw.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "lodash.setwith",
+				"purl": "pkg:npm/lodash.setwith"
+			},
+			"ranges": [
+				{
+					"type": "SEMVER",
+					"events": [
+						{
+							"introduced": "3.7.0"
+						},
+						{
+							"fixed": "4.17.19"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"affected_functions": [
+					"(lodash.setwith)"
+				]
+			},
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2020/07/GHSA-p6mc-m468-83gw/GHSA-p6mc-m468-83gw.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "lodash.update",
+				"purl": "pkg:npm/lodash.update"
+			},
+			"ranges": [
+				{
+					"type": "SEMVER",
+					"events": [
+						{
+							"introduced": "3.7.0"
+						},
+						{
+							"fixed": "4.17.19"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"affected_functions": [
+					"(lodash.update)"
+				]
+			},
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2020/07/GHSA-p6mc-m468-83gw/GHSA-p6mc-m468-83gw.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "lodash.updatewith",
+				"purl": "pkg:npm/lodash.updatewith"
+			},
+			"ranges": [
+				{
+					"type": "SEMVER",
+					"events": [
+						{
+							"introduced": "3.7.0"
+						},
+						{
+							"fixed": "4.17.19"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"affected_functions": [
+					"(lodash.updatewith)"
 				]
 			},
 			"database_specific": {
