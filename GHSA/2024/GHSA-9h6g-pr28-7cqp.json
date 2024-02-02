@@ -26,12 +26,13 @@
 							"introduced": "0"
 						},
 						{
-							"last_affected": "6.9.8"
+							"fixed": "6.9.9"
 						}
 					]
 				}
 			],
 			"database_specific": {
+				"last_known_affected_version_range": "<= 6.9.8",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/01/GHSA-9h6g-pr28-7cqp/GHSA-9h6g-pr28-7cqp.json"
 			}
 		}
@@ -40,6 +41,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/nodemailer/nodemailer/security/advisories/GHSA-9h6g-pr28-7cqp"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/nodemailer/nodemailer/commit/dd8f5e8a4ddc99992e31df76bcff9c590035cd4a"
 		},
 		{
 			"type": "WEB",
