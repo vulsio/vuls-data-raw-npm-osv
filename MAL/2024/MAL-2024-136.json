@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-136",
-	"modified": "2024-02-01T00:48:33Z",
+	"modified": "2024-02-03T11:04:39Z",
 	"published": "2024-01-21T13:19:02Z",
 	"summary": "Malicious code in librct (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (ee4eb706be5e5d4ed9e4712c19507938783ef9cecacc6c513181898c9fc762d6)\nThe OpenSSF Package Analysis project identified 'librct' @ 999.50.2 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -15,7 +15,10 @@
 			"versions": [
 				"5.999.0",
 				"999.50.2",
-				"999.50.3"
+				"999.50.3",
+				"999.50.8",
+				"999.50.7",
+				"999.50.9"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/librct/MAL-2024-136.json"
@@ -59,6 +62,33 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"999.50.3"
+				]
+			},
+			{
+				"import_time": "2024-02-03T09:34:25.917483634Z",
+				"modified_time": "2024-02-03T09:24:05Z",
+				"sha256": "918786bfcd8f974979edbd0371259150e99cbb44b580e11d2613749d073310cb",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"999.50.8"
+				]
+			},
+			{
+				"import_time": "2024-02-03T09:34:25.831576105Z",
+				"modified_time": "2024-02-03T09:20:24Z",
+				"sha256": "c9a5cc1b1009208ed3d0de56c2631016baa5cbf7f303f8c317f6ec23437fbec2",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"999.50.7"
+				]
+			},
+			{
+				"import_time": "2024-02-03T11:04:15.978278903Z",
+				"modified_time": "2024-02-03T10:47:52Z",
+				"sha256": "ed5e73e13176170eb064c5fb6f96bb063550624cb8de42e89d65fcf03d8a4734",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"999.50.9"
 				]
 			}
 		]
