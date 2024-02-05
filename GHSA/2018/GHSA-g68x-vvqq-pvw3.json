@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g68x-vvqq-pvw3",
-	"modified": "2023-11-08T04:00:04.694194Z",
+	"modified": "2024-02-05T15:50:01.702036Z",
 	"published": "2018-11-21T22:19:50Z",
 	"aliases": [
 		"CVE-2018-17960"
@@ -37,6 +37,178 @@
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2018/11/GHSA-g68x-vvqq-pvw3/GHSA-g68x-vvqq-pvw3.json"
 			}
+		},
+		{
+			"package": {
+				"ecosystem": "Packagist",
+				"name": "typo3/cms-core",
+				"purl": "pkg:composer/typo3/cms-core"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "8.0.0"
+						},
+						{
+							"fixed": "8.7.21"
+						}
+					]
+				}
+			],
+			"versions": [
+				"v8.7.10",
+				"v8.7.11",
+				"v8.7.12",
+				"v8.7.13",
+				"v8.7.14",
+				"v8.7.15",
+				"v8.7.16",
+				"v8.7.17",
+				"v8.7.18",
+				"v8.7.19",
+				"v8.7.20",
+				"v8.7.7",
+				"v8.7.8",
+				"v8.7.9"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2018/11/GHSA-g68x-vvqq-pvw3/GHSA-g68x-vvqq-pvw3.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Packagist",
+				"name": "typo3/cms-core",
+				"purl": "pkg:composer/typo3/cms-core"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "9.0.0"
+						},
+						{
+							"fixed": "9.5.2"
+						}
+					]
+				}
+			],
+			"versions": [
+				"v9.0.0",
+				"v9.1.0",
+				"v9.2.0",
+				"v9.2.1",
+				"v9.3.0",
+				"v9.3.1",
+				"v9.3.2",
+				"v9.3.3",
+				"v9.4.0",
+				"v9.5.0",
+				"v9.5.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2018/11/GHSA-g68x-vvqq-pvw3/GHSA-g68x-vvqq-pvw3.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Packagist",
+				"name": "typo3/cms",
+				"purl": "pkg:composer/typo3/cms"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "8.0.0"
+						},
+						{
+							"fixed": "8.7.21"
+						}
+					]
+				}
+			],
+			"versions": [
+				"8.0.0",
+				"8.0.1",
+				"8.1.0",
+				"8.1.1",
+				"8.1.2",
+				"8.2.0",
+				"8.2.1",
+				"8.3.0",
+				"8.3.1",
+				"8.4.0",
+				"8.4.1",
+				"8.5.0",
+				"8.5.1",
+				"8.6.0",
+				"8.6.1",
+				"8.7.0",
+				"8.7.1",
+				"8.7.2",
+				"v8.7.10",
+				"v8.7.11",
+				"v8.7.12",
+				"v8.7.13",
+				"v8.7.14",
+				"v8.7.15",
+				"v8.7.16",
+				"v8.7.17",
+				"v8.7.18",
+				"v8.7.19",
+				"v8.7.20",
+				"v8.7.3",
+				"v8.7.4",
+				"v8.7.5",
+				"v8.7.6",
+				"v8.7.7",
+				"v8.7.8",
+				"v8.7.9"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2018/11/GHSA-g68x-vvqq-pvw3/GHSA-g68x-vvqq-pvw3.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Packagist",
+				"name": "typo3/cms",
+				"purl": "pkg:composer/typo3/cms"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "9.0.0"
+						},
+						{
+							"fixed": "9.5.2"
+						}
+					]
+				}
+			],
+			"versions": [
+				"v9.0.0",
+				"v9.1.0",
+				"v9.2.0",
+				"v9.2.1",
+				"v9.3.0",
+				"v9.3.1",
+				"v9.3.2",
+				"v9.3.3",
+				"v9.4.0",
+				"v9.5.0",
+				"v9.5.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2018/11/GHSA-g68x-vvqq-pvw3/GHSA-g68x-vvqq-pvw3.json"
+			}
 		}
 	],
 	"references": [
@@ -53,8 +225,20 @@
 			"url": "https://ckeditor.com/cke4/release/CKEditor-4.11.0"
 		},
 		{
+			"type": "WEB",
+			"url": "https://github.com/FriendsOfPHP/security-advisories/blob/master/typo3/cms-core/CVE-2018-17960.yaml"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/FriendsOfPHP/security-advisories/blob/master/typo3/cms/CVE-2018-17960.yaml"
+		},
+		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-g68x-vvqq-pvw3"
+		},
+		{
+			"type": "WEB",
+			"url": "https://typo3.org/security/advisory/typo3-core-sa-2018-005"
 		},
 		{
 			"type": "WEB",
