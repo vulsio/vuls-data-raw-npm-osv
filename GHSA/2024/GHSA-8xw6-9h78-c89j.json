@@ -1,13 +1,19 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8xw6-9h78-c89j",
-	"modified": "2024-01-30T19:11:44.158305Z",
+	"modified": "2024-02-05T21:04:52Z",
 	"published": "2024-01-30T03:30:30Z",
 	"aliases": [
 		"CVE-2023-51837"
 	],
 	"summary": "Ylianst MeshCentral Missing SSL Certificate Validation",
 	"details": "Ylianst MeshCentral 1.1.16 is vulnerable to Missing SSL Certificate Validation.",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
+		}
+	],
 	"affected": [
 		{
 			"package": {
@@ -56,10 +62,12 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-295"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-01-30T18:44:28Z",
 		"nvd_published_at": "2024-01-30T01:15:58Z",
-		"severity": "MODERATE"
+		"severity": "CRITICAL"
 	}
 }
