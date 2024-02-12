@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-987",
+	"modified": "2024-02-10T17:09:19Z",
+	"published": "2024-02-10T17:09:19Z",
+	"summary": "Malicious code in @globalsearch/productstub (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (f42b4a47f84077d93ed3db4ff588357fa7d1e003001c7a4b79f398bdc86712a2)\nThe OpenSSF Package Analysis project identified '@globalsearch/productstub' @ 14.1.2 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "@globalsearch/productstub",
+				"purl": "pkg:npm/%40globalsearch/productstub"
+			},
+			"versions": [
+				"14.1.2"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@globalsearch/productstub/MAL-2024-987.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-02-10T17:33:25.498052373Z",
+				"modified_time": "2024-02-10T17:09:19Z",
+				"sha256": "f42b4a47f84077d93ed3db4ff588357fa7d1e003001c7a4b79f398bdc86712a2",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"14.1.2"
+				]
+			}
+		]
+	}
+}

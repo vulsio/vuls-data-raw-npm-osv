@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-986",
+	"modified": "2024-02-10T17:10:43Z",
+	"published": "2024-02-10T17:10:43Z",
+	"summary": "Malicious code in @globalsearch/abstraction (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (d10c9198c123e9cdf2906e3094969f1e76a3274a02d90f548b5ea0977a0d329c)\nThe OpenSSF Package Analysis project identified '@globalsearch/abstraction' @ 14.1.4 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "@globalsearch/abstraction",
+				"purl": "pkg:npm/%40globalsearch/abstraction"
+			},
+			"versions": [
+				"14.1.4"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@globalsearch/abstraction/MAL-2024-986.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-02-10T17:33:25.6255166Z",
+				"modified_time": "2024-02-10T17:10:43Z",
+				"sha256": "d10c9198c123e9cdf2906e3094969f1e76a3274a02d90f548b5ea0977a0d329c",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"14.1.4"
+				]
+			}
+		]
+	}
+}

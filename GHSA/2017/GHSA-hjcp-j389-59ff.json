@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hjcp-j389-59ff",
-	"modified": "2023-11-08T03:58:03.377961Z",
+	"modified": "2024-02-09T17:50:43Z",
 	"published": "2017-10-24T18:33:36Z",
 	"aliases": [
 		"CVE-2015-8854"
@@ -87,7 +87,7 @@
 		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2020-06-16T21:40:28Z",
-		"nvd_published_at": null,
+		"nvd_published_at": "2017-01-23T21:59:00Z",
 		"severity": "HIGH"
 	}
 }
