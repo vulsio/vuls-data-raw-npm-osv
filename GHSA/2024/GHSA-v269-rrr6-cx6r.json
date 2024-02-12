@@ -1,13 +1,19 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v269-rrr6-cx6r",
-	"modified": "2024-02-02T20:43:31.759318Z",
+	"modified": "2024-02-12T15:40:29Z",
 	"published": "2024-02-02T18:30:32Z",
 	"aliases": [
 		"CVE-2023-51838"
 	],
 	"summary": "Ylianst MeshCentral 1.1.16 suffers from Use of a Broken or Risky Cryptographic Algorithm.",
 	"details": "Ylianst MeshCentral 1.1.16 suffers from Use of a Broken or Risky Cryptographic Algorithm.",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N"
+		}
+	],
 	"affected": [
 		{
 			"package": {
@@ -56,10 +62,12 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-327"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-02-02T20:16:20Z",
 		"nvd_published_at": "2024-02-02T16:15:53Z",
-		"severity": "MODERATE"
+		"severity": "HIGH"
 	}
 }
