@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hrpp-h998-j3pp",
-	"modified": "2023-11-08T04:08:41.198439Z",
+	"modified": "2024-02-13T20:35:49Z",
 	"published": "2022-11-27T00:30:50Z",
 	"aliases": [
 		"CVE-2022-24999"

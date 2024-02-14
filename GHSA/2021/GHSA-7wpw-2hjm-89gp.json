@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7wpw-2hjm-89gp",
-	"modified": "2023-11-08T04:03:28.853104Z",
+	"modified": "2024-02-13T22:31:44Z",
 	"published": "2021-05-04T20:18:47Z",
 	"aliases": [
 		"CVE-2020-28499",
@@ -56,7 +56,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://github.com/yeikos/js.merge/blob/master/src/index.ts%23L64"
+			"url": "https://github.com/yeikos/js.merge/blob/master/src/index.ts#L64"
 		},
 		{
 			"type": "WEB",

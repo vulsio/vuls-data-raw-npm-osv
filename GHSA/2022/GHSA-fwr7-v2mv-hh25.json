@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fwr7-v2mv-hh25",
-	"modified": "2023-11-08T04:07:08.927492Z",
+	"modified": "2024-02-13T21:24:10Z",
 	"published": "2022-04-07T00:00:17Z",
 	"aliases": [
 		"CVE-2021-43138"
@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(async).mapValues"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/04/GHSA-fwr7-v2mv-hh25/GHSA-fwr7-v2mv-hh25.json"
 			}
@@ -62,11 +57,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(async).mapValues"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/04/GHSA-fwr7-v2mv-hh25/GHSA-fwr7-v2mv-hh25.json"
 			}
@@ -111,15 +101,15 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://jsfiddle.net/oz5twjd9/"
+			"url": "https://jsfiddle.net/oz5twjd9"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/MTEUUTNIEBHGKUKKLNUZSV7IEP6IP3Q3/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/MTEUUTNIEBHGKUKKLNUZSV7IEP6IP3Q3"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/UM6XJ73Q3NAM5KSGCOKJ2ZIA6GUWUJLK/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/UM6XJ73Q3NAM5KSGCOKJ2ZIA6GUWUJLK"
 		}
 	],
 	"database_specific": {
