@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c2qf-rxjj-qqgw",
-	"modified": "2023-11-08T04:08:50.648992Z",
+	"modified": "2024-02-14T14:58:48Z",
 	"published": "2023-06-21T06:30:28Z",
 	"aliases": [
 		"CVE-2022-25883"
@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(semver).Range"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/06/GHSA-c2qf-rxjj-qqgw/GHSA-c2qf-rxjj-qqgw.json"
 			}
