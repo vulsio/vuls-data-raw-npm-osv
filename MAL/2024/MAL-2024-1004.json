@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-1004",
+	"modified": "2024-02-15T09:34:59Z",
+	"published": "2024-02-15T09:34:59Z",
+	"summary": "Malicious code in evilcalendar (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (fdd2876aa3278b0e75a29a0a53827e5f3f288832ea24d334877e710935397f57)\nThe OpenSSF Package Analysis project identified 'evilcalendar' @ 2.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "evilcalendar",
+				"purl": "pkg:npm/evilcalendar"
+			},
+			"versions": [
+				"2.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/evilcalendar/MAL-2024-1004.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-02-15T10:05:07.713535481Z",
+				"modified_time": "2024-02-15T09:34:59Z",
+				"sha256": "fdd2876aa3278b0e75a29a0a53827e5f3f288832ea24d334877e710935397f57",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"2.0.0"
+				]
+			}
+		]
+	}
+}
