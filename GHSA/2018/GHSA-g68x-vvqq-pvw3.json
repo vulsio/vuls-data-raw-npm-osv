@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g68x-vvqq-pvw3",
-	"modified": "2024-02-05T15:50:01.702036Z",
+	"modified": "2024-02-15T05:26:48.339052Z",
 	"published": "2018-11-21T22:19:50Z",
 	"aliases": [
 		"CVE-2018-17960"
@@ -218,7 +218,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://ckeditor.com/blog/CKEditor-4.11-with-emoji-dropdown-and-auto-link-on-typing-released/"
+			"url": "https://ckeditor.com/blog/CKEditor-4.11-with-emoji-dropdown-and-auto-link-on-typing-released"
 		},
 		{
 			"type": "WEB",
