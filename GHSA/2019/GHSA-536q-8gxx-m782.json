@@ -132,7 +132,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://dojotoolkit.org/blog/post/dylan/2010/03/dojo-security-advisory/"
+			"url": "http://dojotoolkit.org/blog/post/dylan/2010/03/dojo-security-advisory"
 		},
 		{
 			"type": "WEB",
@@ -176,7 +176,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://www.gdssecurity.com/l/b/2010/03/12/multiple-dom-based-xss-in-dojo-toolkit-sdk/"
+			"url": "http://www.gdssecurity.com/l/b/2010/03/12/multiple-dom-based-xss-in-dojo-toolkit-sdk"
 		},
 		{
 			"type": "WEB",
