@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3x9f-74h4-2fqr",
-	"modified": "2023-11-08T04:05:51.945686Z",
+	"modified": "2024-02-17T05:21:26.590350Z",
 	"published": "2021-07-22T19:48:17Z",
 	"aliases": [
 		"CVE-2021-32012"
@@ -90,7 +90,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://floqast.com/engineering-blog/post/fuzzing-and-parsing-securely/"
+			"url": "https://floqast.com/engineering-blog/post/fuzzing-and-parsing-securely"
 		},
 		{
 			"type": "WEB",

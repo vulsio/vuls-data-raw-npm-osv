@@ -59,7 +59,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://blog.effectrenan.com/pwn2win-2021-illusion-web-challenge/"
+			"url": "https://blog.effectrenan.com/pwn2win-2021-illusion-web-challenge"
 		},
 		{
 			"type": "PACKAGE",
@@ -71,7 +71,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.huntr.dev/bounties/1-npm-fast-json-patch/"
+			"url": "https://www.huntr.dev/bounties/1-npm-fast-json-patch"
 		}
 	],
 	"database_specific": {
