@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4mv4-gmmf-q382",
-	"modified": "2024-02-16T08:21:25.310646Z",
+	"modified": "2024-02-18T05:32:54.714028Z",
 	"published": "2020-08-31T22:42:29Z",
 	"aliases": [
 		"CVE-2015-6584"
@@ -94,7 +94,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.netsparker.com/cve-2015-6384-xss-vulnerability-identified-in-datatables/"
+			"url": "https://www.netsparker.com/cve-2015-6384-xss-vulnerability-identified-in-datatables"
 		},
 		{
 			"type": "WEB",
