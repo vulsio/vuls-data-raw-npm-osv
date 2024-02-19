@@ -46,7 +46,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://fluidattacks.com/advisories/relsb/"
+			"url": "https://fluidattacks.com/advisories/relsb"
 		},
 		{
 			"type": "PACKAGE",
@@ -54,7 +54,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.npmjs.com/package/markdown-pdf/"
+			"url": "https://www.npmjs.com/package/markdown-pdf"
 		}
 	],
 	"database_specific": {
