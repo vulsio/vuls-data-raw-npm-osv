@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-970",
-	"modified": "2024-02-07T02:33:34Z",
+	"modified": "2024-02-21T04:33:54Z",
 	"published": "2024-02-03T15:13:19Z",
 	"summary": "Malicious code in discord.js-commandsv14 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (0552b95113f728a401629d22107eae7aa9479e0632b876f49e2558af8784f665)\nThe OpenSSF Package Analysis project identified 'discord.js-commandsv14' @ 1.0.4 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
@@ -15,7 +15,8 @@
 			"versions": [
 				"1.0.4",
 				"1.0.3",
-				"1.0.2"
+				"1.0.2",
+				"1.0.8"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/discord.js-commandsv14/MAL-2024-970.json"
@@ -59,6 +60,15 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"1.0.2"
+				]
+			},
+			{
+				"import_time": "2024-02-21T04:33:36.367188309Z",
+				"modified_time": "2024-02-18T16:47:26Z",
+				"sha256": "5be252796130bc99482cbc76c99031fbbba6156c303727f39d8c57c93b87ff5c",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.8"
 				]
 			}
 		]
