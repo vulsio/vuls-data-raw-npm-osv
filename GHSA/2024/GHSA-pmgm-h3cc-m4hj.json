@@ -1,14 +1,37 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pmgm-h3cc-m4hj",
-	"modified": "2024-02-16T23:56:49.230979Z",
+	"modified": "2024-02-20T20:33:10Z",
 	"published": "2024-02-16T09:30:26Z",
 	"aliases": [
 		"CVE-2024-25466"
 	],
 	"summary": "React Native Document Picker Directory Traversal vulnerability",
-	"details": "Directory Traversal vulnerability in React Native Document Picker before v.9.1.1 and fixed in v.9.1.1 allows a local attacker to execute arbitrary code via a crafted script to the Android library component.",
+	"details": "Directory Traversal vulnerability in React Native Document Picker before 8.2.2 and 9.x before 9.1.1 allows a local attacker to execute arbitrary code via a crafted script to the Android library component.",
 	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "react-native-document-picker",
+				"purl": "pkg:npm/react-native-document-picker"
+			},
+			"ranges": [
+				{
+					"type": "SEMVER",
+					"events": [
+						{
+							"introduced": "9.0.0"
+						},
+						{
+							"fixed": "9.1.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/02/GHSA-pmgm-h3cc-m4hj/GHSA-pmgm-h3cc-m4hj.json"
+			}
+		},
 		{
 			"package": {
 				"ecosystem": "npm",
@@ -23,7 +46,7 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "9.1.1"
+							"fixed": "8.2.2"
 						}
 					]
 				}
@@ -40,7 +63,15 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://github.com/rnmods/react-native-document-picker/pull/698"
+		},
+		{
+			"type": "WEB",
 			"url": "https://github.com/rnmods/react-native-document-picker/commit/1ae7cb217d23a551bff86ad10c7ae6f5e074490f"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rnmods/react-native-document-picker/commit/ad0b5e58252eba56a5a3b22311a66ffa5e65cffe"
 		},
 		{
 			"type": "WEB",
@@ -53,6 +84,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/rnmods/react-native-document-picker/blob/0be5a70c3b456e35c2454aaf4dc8c2d40eb2ab47/android/src/main/java/com/reactnativedocumentpicker/RNDocumentPickerModule.java"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rnmods/react-native-document-picker/releases/tag/v8.2.2"
 		}
 	],
 	"database_specific": {
