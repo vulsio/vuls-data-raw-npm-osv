@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m3f4-957x-m785",
-	"modified": "2024-02-12T22:56:47.892263Z",
+	"modified": "2024-03-01T14:41:48Z",
 	"published": "2024-02-12T21:30:55Z",
 	"aliases": [
 		"CVE-2021-4437"
@@ -55,6 +55,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/dbartholomae/lambda-middleware"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/dbartholomae/lambda-middleware/releases/tag/%40lambda-middleware%2Fframeguard_v1.1.0"
 		},
 		{
 			"type": "WEB",

@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-1048",
+	"modified": "2024-03-01T14:55:54Z",
+	"published": "2024-03-01T14:55:54Z",
+	"summary": "Malicious code in @apics/apps-ppp-web (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (69dfab3bed458cb7101c09908991f9538d3f114ee24ec01fb91ab7fb365a1265)\nThe OpenSSF Package Analysis project identified '@apics/apps-ppp-web' @ 9.34.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "@apics/apps-ppp-web",
+				"purl": "pkg:npm/%40apics/apps-ppp-web"
+			},
+			"versions": [
+				"9.34.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@apics/apps-ppp-web/MAL-2024-1048.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-03-01T15:04:49.653759625Z",
+				"modified_time": "2024-03-01T14:55:54Z",
+				"sha256": "69dfab3bed458cb7101c09908991f9538d3f114ee24ec01fb91ab7fb365a1265",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"9.34.0"
+				]
+			}
+		]
+	}
+}
