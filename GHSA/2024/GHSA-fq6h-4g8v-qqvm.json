@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fq6h-4g8v-qqvm",
-	"modified": "2024-02-20T16:25:57.218936Z",
+	"modified": "2024-03-06T15:46:48.175347Z",
 	"published": "2024-02-07T17:30:37Z",
 	"aliases": [
 		"CVE-2024-24815"
@@ -158,6 +158,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/ckeditor/ckeditor4"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.drupal.org/sa-contrib-2024-009"
 		}
 	],
 	"database_specific": {
