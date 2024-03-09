@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-1069",
+	"modified": "2024-03-09T09:07:45Z",
+	"published": "2024-03-09T09:07:45Z",
+	"summary": "Malicious code in ifl-css (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (544158777c40bf49ca4f0e07900b45928feffc06ad28919a86f80d207456b3ef)\nThe OpenSSF Package Analysis project identified 'ifl-css' @ 4.28.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "ifl-css",
+				"purl": "pkg:npm/ifl-css"
+			},
+			"versions": [
+				"4.28.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ifl-css/MAL-2024-1069.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-03-09T09:34:39.704263362Z",
+				"modified_time": "2024-03-09T09:07:45Z",
+				"sha256": "544158777c40bf49ca4f0e07900b45928feffc06ad28919a86f80d207456b3ef",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"4.28.1"
+				]
+			}
+		]
+	}
+}
