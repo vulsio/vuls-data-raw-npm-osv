@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-1076",
+	"modified": "2024-03-11T06:31:51Z",
+	"published": "2024-03-11T06:31:51Z",
+	"summary": "Malicious code in open-banking-reference-application (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (4dcdda89c6900abb683bf57bc630166930d1ff00d52fe2d2c2a03f522108ebc6)\nThe OpenSSF Package Analysis project identified 'open-banking-reference-application' @ 1.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "open-banking-reference-application",
+				"purl": "pkg:npm/open-banking-reference-application"
+			},
+			"versions": [
+				"1.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/open-banking-reference-application/MAL-2024-1076.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-03-11T06:35:18.532479525Z",
+				"modified_time": "2024-03-11T06:31:51Z",
+				"sha256": "4dcdda89c6900abb683bf57bc630166930d1ff00d52fe2d2c2a03f522108ebc6",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.0"
+				]
+			}
+		]
+	}
+}
