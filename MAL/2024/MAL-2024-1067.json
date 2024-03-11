@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1067",
-	"modified": "2024-03-09T07:04:55Z",
+	"modified": "2024-03-11T05:05:21Z",
 	"published": "2024-03-09T06:39:12Z",
 	"summary": "Malicious code in profectus-components (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (8601a87a24e4a6e64efe6520a305278f8d6ecda849755138629352244c51d38e)\nThe OpenSSF Package Analysis project identified 'profectus-components' @ 10.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -14,7 +14,8 @@
 			},
 			"versions": [
 				"10.0.0",
-				"9.9.9"
+				"9.9.9",
+				"10.1.2"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/profectus-components/MAL-2024-1067.json"
@@ -49,6 +50,15 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"9.9.9"
+				]
+			},
+			{
+				"import_time": "2024-03-11T05:05:02.036239305Z",
+				"modified_time": "2024-03-11T04:45:44Z",
+				"sha256": "5b00b5cf3386dc8d0deffb597fd9d66879638ea4570f9a98d66015da89b8ef34",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"10.1.2"
 				]
 			}
 		]
