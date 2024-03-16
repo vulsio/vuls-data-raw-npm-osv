@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1063",
-	"modified": "2024-03-15T10:04:53Z",
+	"modified": "2024-03-16T13:33:36Z",
 	"published": "2024-03-08T14:02:57Z",
 	"summary": "Malicious code in ycs (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (8fcf222dfcf6f0f36588b0c11a3e0fd28bac1b86cccc3eac8afb5f9243afffb7)\nThe OpenSSF Package Analysis project identified 'ycs' @ 3.9.9 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -14,7 +14,8 @@
 			},
 			"versions": [
 				"3.9.9",
-				"4.1.0"
+				"4.1.0",
+				"4.1.1"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ycs/MAL-2024-1063.json"
@@ -49,6 +50,15 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"4.1.0"
+				]
+			},
+			{
+				"import_time": "2024-03-16T13:33:13.961802316Z",
+				"modified_time": "2024-03-16T13:09:29Z",
+				"sha256": "edbbda6bb972b5dd9c246ecfa119b22ac52e4afc637a588a2c2126f17ff5e4da",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"4.1.1"
 				]
 			}
 		]
