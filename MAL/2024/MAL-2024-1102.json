@@ -1,10 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1102",
-	"modified": "2024-03-16T18:34:20Z",
+	"modified": "2024-03-17T07:05:03Z",
 	"published": "2024-03-16T18:05:04Z",
 	"summary": "Malicious code in r101-css (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (31c31477702ce5ac7138188874b34db17fb2c97117c05f5c0cd1a34720a7df05)\nThe OpenSSF Package Analysis project identified 'r101-css' @ 1.0.2 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (6b4988c3d73bedfb9af8684456302724f7d87fbdd800cf01ea448397012c2e1a)\nThe OpenSSF Package Analysis project identified 'r101-css' @ 1.0.3 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
 	"affected": [
 		{
 			"package": {
@@ -14,7 +14,10 @@
 			},
 			"versions": [
 				"1.0.2",
-				"1.0.1"
+				"1.0.1",
+				"1.0.3",
+				"1.0.6",
+				"1.0.7"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/r101-css/MAL-2024-1102.json"
@@ -49,6 +52,33 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"1.0.1"
+				]
+			},
+			{
+				"import_time": "2024-03-17T06:33:34.10967122Z",
+				"modified_time": "2024-03-17T06:27:45Z",
+				"sha256": "6b4988c3d73bedfb9af8684456302724f7d87fbdd800cf01ea448397012c2e1a",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.3"
+				]
+			},
+			{
+				"import_time": "2024-03-17T07:04:41.038042025Z",
+				"modified_time": "2024-03-17T06:50:40Z",
+				"sha256": "7e931c80e814b027ace21d79d342691ff0ece778fd5b6a7e1eda4d770b655f0f",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.6"
+				]
+			},
+			{
+				"import_time": "2024-03-17T07:04:40.727061827Z",
+				"modified_time": "2024-03-17T06:43:12Z",
+				"sha256": "82f12073a270bccf63d397c4ecf3814a318eb9cbaf2de3560b45b88dca28bd7c",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.7"
 				]
 			}
 		]
