@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6hh7-46r2-vf29",
-	"modified": "2024-03-19T22:15:09Z",
+	"modified": "2024-03-21T08:12:34.995717Z",
 	"published": "2024-03-19T20:07:35Z",
 	"aliases": [
+		"BIT-parse-2024-29027",
 		"CVE-2024-29027"
 	],
 	"summary": "Server crashes on invalid Cloud Function or Cloud Job name",
