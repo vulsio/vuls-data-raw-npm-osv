@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-86fc-f9gr-v533",
-	"modified": "2024-03-05T16:56:41.891644Z",
+	"modified": "2024-03-21T18:25:29Z",
 	"published": "2024-03-05T16:24:31Z",
 	"aliases": [
 		"CVE-2024-27922"
@@ -45,15 +45,21 @@
 			"url": "https://github.com/tomphttp/bare-server-node/security/advisories/GHSA-86fc-f9gr-v533"
 		},
 		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-27922"
+		},
+		{
 			"type": "PACKAGE",
 			"url": "https://github.com/tomphttp/bare-server-node"
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-444"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-03-05T16:24:31Z",
-		"nvd_published_at": null,
+		"nvd_published_at": "2024-03-21T02:52:21Z",
 		"severity": "CRITICAL"
 	}
 }
