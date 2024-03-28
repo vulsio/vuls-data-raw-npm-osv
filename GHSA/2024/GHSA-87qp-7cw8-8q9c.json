@@ -1,13 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-87qp-7cw8-8q9c",
-	"modified": "2024-03-25T19:58:32.356324Z",
+	"modified": "2024-03-27T21:57:36Z",
 	"published": "2024-03-25T06:30:24Z",
-	"aliases": [
-		"CVE-2024-21505"
-	],
-	"summary": "web3-utils Prototype Pollution vulnerability",
-	"details": "Versions of the package web3-utils before 4.2.1 are vulnerable to Prototype Pollution via the utility functions format and mergeDeep, due to insecure recursive merge.\nAn attacker can manipulate an object's prototype, potentially leading to the alteration of the behavior of all objects inheriting from the affected prototype by passing specially crafted input to these functions.",
+	"summary": "Duplicate Advisory: web3-utils Prototype Pollution vulnerability",
+	"details": "## Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of GHSA-2g4c-8fpm-c46v. This link is maintained to preserve external references.\n\n## Original Description\nVersions of the package web3-utils before 4.2.1 are vulnerable to Prototype Pollution via the utility functions format and mergeDeep, due to insecure recursive merge.\nAn attacker can manipulate an object's prototype, potentially leading to the alteration of the behavior of all objects inheriting from the affected prototype by passing specially crafted input to these functions.",
 	"severity": [
 		{
 			"type": "CVSS_V3",
