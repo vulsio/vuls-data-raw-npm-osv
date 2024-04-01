@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6927-3vr9-fxf2",
-	"modified": "2024-03-01T20:26:40.162059Z",
+	"modified": "2024-04-01T07:26:45.864663Z",
 	"published": "2024-03-01T20:08:23Z",
 	"aliases": [
+		"BIT-parse-2024-27298",
 		"CVE-2024-27298"
 	],
 	"summary": "ZDI-CAN-19105: Parse Server literalizeRegexPart SQL Injection",
