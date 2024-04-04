@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2022-499",
-	"modified": "2023-11-08T04:17:24.984077Z",
+	"modified": "2024-04-04T03:23:38Z",
 	"published": "2022-08-29T05:18:09Z",
 	"aliases": [
 		"GHSA-8m6q-xfx2-69c2"
@@ -21,6 +21,9 @@
 					"events": [
 						{
 							"introduced": "0"
+						},
+						{
+							"last_affected": "1.23.0"
 						}
 					]
 				}
@@ -60,6 +63,23 @@
 					}
 				],
 				"sha256": "fcbae16d4790950827caee7a83dbe8f5f1d01b06799240bf9855be6c14f12175",
+				"source": "ghsa-malware"
+			},
+			{
+				"id": "GHSA-8m6q-xfx2-69c2",
+				"import_time": "2024-04-04T00:25:18.214859835Z",
+				"modified_time": "2024-04-03T15:30:53Z",
+				"ranges": [
+					{
+						"events": [
+							{
+								"introduced": "0"
+							}
+						],
+						"type": "SEMVER"
+					}
+				],
+				"sha256": "284046797afc8bcf935263fb4c3d76ba835488ca28494c4a6037a89885ce9628",
 				"source": "ghsa-malware"
 			}
 		]
