@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2022-404",
-	"modified": "2023-11-08T04:18:53.961997Z",
+	"modified": "2024-04-05T06:35:53Z",
 	"published": "2022-08-05T08:31:20Z",
 	"aliases": [
 		"GHSA-f8fr-fv6x-rjcm"
@@ -24,6 +24,10 @@
 						}
 					]
 				}
+			],
+			"versions": [
+				"999.9.13",
+				"999.9.9"
 			],
 			"database_specific": {
 				"cwes": [
@@ -60,6 +64,23 @@
 					}
 				],
 				"sha256": "ca8b90e02efef666370b40f0b2ad1cda6842e1d703eae103f1b15988d40bd543",
+				"source": "ghsa-malware"
+			},
+			{
+				"id": "GHSA-f8fr-fv6x-rjcm",
+				"import_time": "2024-04-05T00:25:00.991741673Z",
+				"modified_time": "2024-04-04T21:28:22Z",
+				"ranges": [
+					{
+						"events": [
+							{
+								"introduced": "0"
+							}
+						],
+						"type": "SEMVER"
+					}
+				],
+				"sha256": "5a934a20fd08ce75786b578138c750b0c17f418be269d7c335644e489a17e9c3",
 				"source": "ghsa-malware"
 			}
 		]
