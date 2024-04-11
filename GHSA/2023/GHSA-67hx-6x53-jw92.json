@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-67hx-6x53-jw92",
-	"modified": "2023-11-08T04:13:36.893723Z",
+	"modified": "2024-04-04T14:26:10Z",
 	"published": "2023-10-16T13:55:36Z",
 	"aliases": [
 		"CVE-2023-45133"
@@ -58,6 +58,27 @@
 				}
 			],
 			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/10/GHSA-67hx-6x53-jw92/GHSA-67hx-6x53-jw92.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "babel-traverse",
+				"purl": "pkg:npm/babel-traverse"
+			},
+			"ranges": [
+				{
+					"type": "SEMVER",
+					"events": [
+						{
+							"introduced": "0"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"last_known_affected_version_range": "< 7.23.2",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/10/GHSA-67hx-6x53-jw92/GHSA-67hx-6x53-jw92.json"
 			}
 		}

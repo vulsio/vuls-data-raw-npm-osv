@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f5x3-32g6-xq36",
-	"modified": "2024-03-22T17:11:41.146574Z",
+	"modified": "2024-04-09T19:02:31Z",
 	"published": "2024-03-22T16:57:05Z",
 	"aliases": [
 		"CVE-2024-28863"
@@ -20,6 +20,29 @@
 				"ecosystem": "npm",
 				"name": "node-tar",
 				"purl": "pkg:npm/node-tar"
+			},
+			"ranges": [
+				{
+					"type": "SEMVER",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6.2.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/03/GHSA-f5x3-32g6-xq36/GHSA-f5x3-32g6-xq36.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "tar",
+				"purl": "pkg:npm/tar"
 			},
 			"ranges": [
 				{
