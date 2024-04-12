@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1203",
-	"modified": "2024-04-09T00:41:51.638230Z",
+	"modified": "2024-04-12T03:34:31Z",
 	"published": "2024-04-05T10:06:35Z",
 	"aliases": [
 		"GHSA-grxw-pg84-gj6j"
@@ -27,7 +27,10 @@
 			],
 			"versions": [
 				"199.999.0",
-				"3.999.0"
+				"3.999.0",
+				"3.4.99-9.0",
+				"3.6.99-9.0",
+				"3.3.99-9.0"
 			],
 			"database_specific": {
 				"cwes": [
@@ -93,6 +96,33 @@
 				],
 				"sha256": "7ecb1d1aad101d1cf5bdd8986e77fa20c75f039412cec1ebe03442f8fec9f939",
 				"source": "ghsa-malware"
+			},
+			{
+				"import_time": "2024-04-12T03:34:11.456083101Z",
+				"modified_time": "2024-04-05T10:41:03Z",
+				"sha256": "10bd10bb7f3c6b6ee9b3ddc3ad58a4f72e3906d1ac3c91a170d1378d3d053043",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"3.4.99-9.0"
+				]
+			},
+			{
+				"import_time": "2024-04-12T03:34:11.554810715Z",
+				"modified_time": "2024-04-05T10:44:20Z",
+				"sha256": "41a7589d059ec45270ace1120a0aa0c7863c707a80c63a0ffdb91f782957c7b2",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"3.6.99-9.0"
+				]
+			},
+			{
+				"import_time": "2024-04-12T03:34:11.362499262Z",
+				"modified_time": "2024-04-05T10:31:05Z",
+				"sha256": "d122563a5f681e8190c92ebe7a9fdf0a7dc64042b785dfc1206f04b02e99f3ba",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"3.3.99-9.0"
+				]
 			}
 		]
 	}
