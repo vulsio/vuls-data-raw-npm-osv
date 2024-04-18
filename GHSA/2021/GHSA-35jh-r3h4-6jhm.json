@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-35jh-r3h4-6jhm",
-	"modified": "2024-03-15T00:05:35.571266Z",
+	"modified": "2024-04-17T18:39:17Z",
 	"published": "2021-05-06T16:05:51Z",
 	"aliases": [
 		"CVE-2021-23337",
@@ -71,6 +71,62 @@
 			"ecosystem_specific": {
 				"affected_functions": [
 					"(lodash-es).template"
+				]
+			},
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/05/GHSA-35jh-r3h4-6jhm/GHSA-35jh-r3h4-6jhm.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "lodash.template",
+				"purl": "pkg:npm/lodash.template"
+			},
+			"ranges": [
+				{
+					"type": "SEMVER",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"last_affected": "4.5.0"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"affected_functions": [
+					"(lodash.template)"
+				]
+			},
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/05/GHSA-35jh-r3h4-6jhm/GHSA-35jh-r3h4-6jhm.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "lodash-template",
+				"purl": "pkg:npm/lodash-template"
+			},
+			"ranges": [
+				{
+					"type": "SEMVER",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"last_affected": "1.0.0"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"affected_functions": [
+					"(lodash-template)"
 				]
 			},
 			"database_specific": {
