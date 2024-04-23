@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-q22g-8fr4-qpj4",
-	"modified": "2023-11-08T04:01:02.646221Z",
+	"modified": "2024-04-22T19:45:28Z",
 	"published": "2019-06-06T15:32:15Z",
 	"aliases": [
 		"CVE-2019-12041"
@@ -63,6 +63,7 @@
 	],
 	"database_specific": {
 		"cwe_ids": [
+			"CWE-1333",
 			"CWE-400"
 		],
 		"github_reviewed": true,

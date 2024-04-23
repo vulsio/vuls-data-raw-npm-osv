@@ -173,7 +173,8 @@
 	"database_specific": {
 		"cwe_ids": [
 			"CWE-1287",
-			"CWE-20"
+			"CWE-20",
+			"CWE-89"
 		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2022-10-28T20:19:04Z",
