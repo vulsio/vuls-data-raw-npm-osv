@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1304",
-	"modified": "2024-04-29T18:00:55Z",
+	"modified": "2024-05-02T17:05:04Z",
 	"published": "2024-04-29T18:00:55Z",
 	"summary": "Malicious code in minecraft-net-core-services (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (4c845b16e857c2ac5f55bbe6944e5541b630ca1e1479b57930f9fd1e3f1c36ca)\nThe OpenSSF Package Analysis project identified 'minecraft-net-core-services' @ 1.0.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -13,7 +13,8 @@
 				"purl": "pkg:npm/minecraft-net-core-services"
 			},
 			"versions": [
-				"1.0.1"
+				"1.0.1",
+				"1.0.5"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/minecraft-net-core-services/MAL-2024-1304.json"
@@ -39,6 +40,15 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"1.0.1"
+				]
+			},
+			{
+				"import_time": "2024-05-02T17:04:37.203486246Z",
+				"modified_time": "2024-05-02T16:56:43Z",
+				"sha256": "44922cbc60ad08a766e1dfb0314bf7ecebab3df7fe241f48f9edb470a08687fe",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.5"
 				]
 			}
 		]
