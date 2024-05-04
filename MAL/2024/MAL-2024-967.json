@@ -1,10 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-967",
-	"modified": "2024-02-06T04:57:30Z",
+	"modified": "2024-05-04T03:06:11Z",
 	"published": "2024-02-06T04:57:30Z",
 	"summary": "Malicious code in @ssr-frontend/packages-analytics (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (d4c4dfe3116f10c0d76d351c620549d1fd72895aec5acf96d5f25afa42e572de)\nThe OpenSSF Package Analysis project identified '@ssr-frontend/packages-analytics' @ 62.2.3 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (2f84a8e29b6661cf945cb901561f3634eabdcb33e4579292916c82fe0062ae8a)\nThe OpenSSF Package Analysis project identified '@ssr-frontend/packages-analytics' @ 99.9.93 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
 	"affected": [
 		{
 			"package": {
@@ -13,7 +13,11 @@
 				"purl": "pkg:npm/%40ssr-frontend/packages-analytics"
 			},
 			"versions": [
-				"62.2.3"
+				"62.2.3",
+				"99.9.93",
+				"99.9.92",
+				"99.9.95",
+				"99.9.99"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ssr-frontend/packages-analytics/MAL-2024-967.json"
@@ -39,6 +43,42 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"62.2.3"
+				]
+			},
+			{
+				"import_time": "2024-05-04T02:11:43.771190328Z",
+				"modified_time": "2024-05-04T02:05:39Z",
+				"sha256": "2f84a8e29b6661cf945cb901561f3634eabdcb33e4579292916c82fe0062ae8a",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"99.9.93"
+				]
+			},
+			{
+				"import_time": "2024-05-04T02:11:43.586998308Z",
+				"modified_time": "2024-05-04T02:03:06Z",
+				"sha256": "c4201918c9ff7ca5c629326e403ffd9c44a0766a6dd32dc8590859df7fbe8218",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"99.9.92"
+				]
+			},
+			{
+				"import_time": "2024-05-04T02:34:20.907592746Z",
+				"modified_time": "2024-05-04T02:20:50Z",
+				"sha256": "f72c8c0c85f691a6c9d7292fbaaa1491dfe8b90dc44226858d30a34482b6c894",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"99.9.95"
+				]
+			},
+			{
+				"import_time": "2024-05-04T03:05:55.405844288Z",
+				"modified_time": "2024-05-04T02:46:35Z",
+				"sha256": "0f20efeae2a1ed239a800962b95dd6f9e7b9638d2ceec787c5b04afcdddc9c5e",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"99.9.99"
 				]
 			}
 		]
