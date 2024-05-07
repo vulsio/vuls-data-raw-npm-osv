@@ -1,10 +1,13 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1327",
-	"modified": "2024-05-06T02:38:12Z",
+	"modified": "2024-05-07T00:42:03.585563Z",
 	"published": "2024-05-02T19:05:55Z",
+	"aliases": [
+		"GHSA-97qc-67cg-3mf7"
+	],
 	"summary": "Malicious code in discord-color (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (0bbd7cc97bfa9d7839991a1297b4776571aef1ab4cfd5bb604f29c86ba46ed55)\nThe OpenSSF Package Analysis project identified 'discord-color' @ 1.0.5 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (fa73c73097c9d60979e46ffbf0ade4d42e388379ed02a0e7ffa10d2ce6ceaf61)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n\n## Source: ossf-package-analysis (0bbd7cc97bfa9d7839991a1297b4776571aef1ab4cfd5bb604f29c86ba46ed55)\nThe OpenSSF Package Analysis project identified 'discord-color' @ 1.0.5 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
 	"affected": [
 		{
 			"package": {
@@ -12,14 +15,37 @@
 				"name": "discord-color",
 				"purl": "pkg:npm/discord-color"
 			},
+			"ranges": [
+				{
+					"type": "SEMVER",
+					"events": [
+						{
+							"introduced": "0"
+						}
+					]
+				}
+			],
 			"versions": [
 				"1.0.5",
 				"1.0.6",
 				"1.0.8"
 			],
 			"database_specific": {
+				"cwes": [
+					{
+						"cweId": "CWE-506",
+						"description": "The product contains code that appears to be malicious in nature.",
+						"name": "Embedded Malicious Code"
+					}
+				],
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/discord-color/MAL-2024-1327.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://github.com/advisories/GHSA-97qc-67cg-3mf7"
 		}
 	],
 	"credits": [
@@ -60,6 +86,23 @@
 				"versions": [
 					"1.0.8"
 				]
+			},
+			{
+				"id": "GHSA-97qc-67cg-3mf7",
+				"import_time": "2024-05-07T00:25:35.170427846Z",
+				"modified_time": "2024-05-06T01:36:01Z",
+				"ranges": [
+					{
+						"events": [
+							{
+								"introduced": "0"
+							}
+						],
+						"type": "SEMVER"
+					}
+				],
+				"sha256": "fa73c73097c9d60979e46ffbf0ade4d42e388379ed02a0e7ffa10d2ce6ceaf61",
+				"source": "ghsa-malware"
 			}
 		]
 	}
