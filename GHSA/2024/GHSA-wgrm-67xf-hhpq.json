@@ -1,10 +1,12 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wgrm-67xf-hhpq",
-	"modified": "2024-05-07T10:42:02.118175Z",
+	"modified": "2024-05-08T02:28:25.236545Z",
 	"published": "2024-05-07T10:25:08Z",
 	"aliases": [
-		"CVE-2024-4367"
+		"CVE-2024-34342",
+		"CVE-2024-4367",
+		"GHSA-87hq-q4gp-9wr4"
 	],
 	"summary": "PDF.js vulnerable to arbitrary JavaScript execution upon opening a malicious PDF",
 	"details": "### Impact\nIf pdf.js is used to load a malicious PDF, and PDF.js is configured with `isEvalSupported` set to `true` (which is the default value), unrestricted attacker-controlled JavaScript will be executed in the context of the hosting domain.\n\n### Patches\nThe patch removes the use of `eval`:\nhttps://github.com/mozilla/pdf.js/pull/18015\n\n### Workarounds\nSet the option `isEvalSupported` to `false`. \n\n### References\nhttps://bugzilla.mozilla.org/show_bug.cgi?id=1893645",

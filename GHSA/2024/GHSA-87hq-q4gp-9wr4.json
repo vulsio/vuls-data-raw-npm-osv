@@ -1,10 +1,12 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-87hq-q4gp-9wr4",
-	"modified": "2024-05-07T17:11:46.474317Z",
+	"modified": "2024-05-08T02:28:25.236545Z",
 	"published": "2024-05-07T16:48:59Z",
 	"aliases": [
-		"CVE-2024-34342"
+		"CVE-2024-34342",
+		"CVE-2024-4367",
+		"GHSA-wgrm-67xf-hhpq"
 	],
 	"summary": "react-pdf vulnerable to arbitrary JavaScript execution upon opening a malicious PDF with PDF.js",
 	"details": "### Summary\n\nIf PDF.js is used to load a malicious PDF, and PDF.js is configured with `isEvalSupported` set to `true` (which is the default value), unrestricted attacker-controlled JavaScript will be executed in the context of the hosting domain.\n\n### Patches\n[This patch](https://github.com/wojtekmaj/react-pdf/commit/671e6eaa2e373e404040c13cc6b668fe39839cad) forces `isEvalSupported` to `false`, removing the attack vector.\n\n### Workarounds\nSet `options.isEvalSupported` to `false`, where `options` is `Document` component prop.\n\n### References\n- [GHSA-wgrm-67xf-hhpq](https://github.com/mozilla/pdf.js/security/advisories/GHSA-wgrm-67xf-hhpq)\n- https://github.com/mozilla/pdf.js/pull/18015\n- https://github.com/mozilla/pdf.js/commit/85e64b5c16c9aaef738f421733c12911a441cec6\n- https://bugzilla.mozilla.org/show_bug.cgi?id=1893645",
