@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v756-4whv-48vc",
-	"modified": "2023-11-08T04:04:04.099546Z",
+	"modified": "2024-05-19T02:23:55.274608Z",
 	"published": "2021-05-17T21:00:24Z",
 	"aliases": [
-		"CVE-2020-7675",
-		"SNYK-JS-CDMESSENGER-571493"
+		"CVE-2020-7675"
 	],
 	"summary": "Code Injection in cd-messenger",
 	"details": "cd-messenger through 2.7.26 is vulnerable to Arbitrary Code Execution. User input provided to the `color` argument executed by the `eval` function resulting in code execution.",

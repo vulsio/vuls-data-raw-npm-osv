@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-93pf-mrc8-4g3h",
-	"modified": "2024-05-14T21:47:53Z",
+	"modified": "2024-05-19T02:24:46.041564Z",
 	"published": "2024-05-14T18:31:01Z",
+	"aliases": [
+		"CVE-2024-34243"
+	],
 	"summary": "Konga is vulnerable to Cross Site Scripting (XSS) attacks",
 	"details": "Konga v0.14.9 is vulnerable to Cross Site Scripting (XSS) via the username parameter.",
 	"severity": [

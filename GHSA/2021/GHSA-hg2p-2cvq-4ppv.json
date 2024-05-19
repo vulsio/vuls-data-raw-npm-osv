@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hg2p-2cvq-4ppv",
-	"modified": "2023-11-08T04:04:02.267788Z",
+	"modified": "2024-05-19T02:24:08.850096Z",
 	"published": "2021-12-10T20:06:23Z",
 	"aliases": [
-		"CVE-2020-7642",
-		"SNYK-JS-LAZYSIZES-567144"
+		"CVE-2020-7642"
 	],
 	"summary": "Cross-site scripting in lazysizes",
 	"details": "lazysizes through 5.2.0 allows execution of malicious JavaScript. The following attributes are not sanitized by the video-embed plugin: `data-vimeo`, `data-vimeoparams`, `data-youtube` and `data-ytparams` which can be abused to inject malicious JavaScript.",

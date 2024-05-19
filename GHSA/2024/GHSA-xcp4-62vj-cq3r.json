@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xcp4-62vj-cq3r",
-	"modified": "2024-05-14T20:04:06Z",
+	"modified": "2024-05-19T02:24:46.593398Z",
 	"published": "2024-05-13T16:04:55Z",
+	"aliases": [
+		"CVE-2024-34706"
+	],
 	"summary": "@valtimo/components exposes access token to form.io",
 	"details": "### Impact\nWhen opening a form in Valtimo, the access token (JWT) of the user is exposed to `api.form.io` via the the `x-jwt-token` header. An attacker can retrieve personal information from this token, or use it to execute requests to the Valtimo REST API on behalf of the logged-in user.\n\nThis issue is caused by a misconfiguration of the Form.io component.\n\n### Attack requirements ###\nThe following conditions have to be met in order to perform this attack:\n- An attacker needs to have access to the network traffic on the `api.form.io` domain.\n- The content of the `x-jwt-token` header is logged or otherwise available to the attacker.\n- An attacker needs to have network access to the Valtimo API.\n- An attacker needs to act within the time-to-live of the access token. The default TTL in Keycloak is 5 minutes.\n\n### Patches\nVersions 10.8.4, 11.1.6 and 11.2.2 have been patched",
 	"severity": [

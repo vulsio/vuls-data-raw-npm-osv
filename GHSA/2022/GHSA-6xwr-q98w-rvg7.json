@@ -1,12 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6xwr-q98w-rvg7",
-	"modified": "2023-11-08T04:08:10.695295Z",
+	"modified": "2024-05-19T02:24:17.311015Z",
 	"published": "2022-04-13T00:00:30Z",
 	"aliases": [
-		"CVE-2022-21803",
-		"SNYK-JAVA-ORGWEBJARSNPM-2632450",
-		"SNYK-JS-NCONF-2395478"
+		"CVE-2022-21803"
 	],
 	"summary": "Prototype Pollution in nconf",
 	"details": "nconf before 0.11.4. When using the memory engine, it is possible to store a nested JSON representation of the configuration. The .set() function, that is responsible for setting the configuration properties, is vulnerable to Prototype Pollution. By providing a crafted property, it is possible to modify the properties on the Object.prototype.",

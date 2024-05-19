@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mgh5-4h95-qj4p",
-	"modified": "2023-11-08T04:04:02.997392Z",
+	"modified": "2024-05-19T02:24:21.639688Z",
 	"published": "2020-06-03T22:02:14Z",
 	"aliases": [
-		"CVE-2020-7654",
-		"SNYK-JS-SNYKBROKER-570613"
+		"CVE-2020-7654"
 	],
 	"summary": "Information Exposure in Snyk Broker",
 	"details": "All versions of snyk-broker before 4.73.1 are vulnerable to Information Exposure. It logs private keys if logging level is set to DEBUG.",

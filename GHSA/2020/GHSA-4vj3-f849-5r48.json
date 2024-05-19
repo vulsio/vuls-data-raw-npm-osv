@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4vj3-f849-5r48",
-	"modified": "2023-11-08T04:04:02.937403Z",
+	"modified": "2024-05-19T02:24:30.297726Z",
 	"published": "2020-06-03T22:02:21Z",
 	"aliases": [
-		"CVE-2020-7653",
-		"SNYK-JS-SNYKBROKER-570612"
+		"CVE-2020-7653"
 	],
 	"summary": "Arbitrary File Read in Snyk Broker",
 	"details": "All versions of snyk-broker before 4.80.0 are vulnerable to Arbitrary File Read. It allows arbitrary file reads for users with access to Snyk's internal network by creating symlinks to match whitelisted paths.",

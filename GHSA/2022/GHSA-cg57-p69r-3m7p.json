@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cg57-p69r-3m7p",
-	"modified": "2023-11-08T04:05:54.753031Z",
+	"modified": "2024-05-19T02:24:06.178334Z",
 	"published": "2022-02-10T23:46:51Z",
 	"aliases": [
-		"CVE-2021-32622",
-		"GHSA-8796-gc9j-63rv"
+		"CVE-2021-32622"
 	],
 	"summary": "Improper file handling in matrix-react-sdk",
 	"details": "Matrix-React-SDK is a react-based SDK for inserting a Matrix chat/voip client into a web page. Before version 3.21.0, when uploading a file, the local file preview can lead to execution of scripts embedded in the uploaded file. This can only occur after several user interactions to open the preview in a separate tab. This only impacts the local user while in the process of uploading. It cannot be exploited remotely or by other users. This vulnerability is patched in version 3.21.0.",

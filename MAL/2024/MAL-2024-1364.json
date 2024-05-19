@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1364",
-	"modified": "2024-05-13T00:58:04Z",
+	"modified": "2024-05-19T02:24:48.795542Z",
 	"published": "2024-05-13T00:58:03Z",
+	"aliases": [
+		"GHSA-gcfh-wqrg-67p9"
+	],
 	"summary": "Malicious code in qaqazzaaa (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (a988c24a93f210f746c8d5bb91cc35523ab4d02529f4e25e1a2dfd7714ab03c1)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
 	"affected": [
