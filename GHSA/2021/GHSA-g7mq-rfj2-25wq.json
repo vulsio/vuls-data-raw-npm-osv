@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g7mq-rfj2-25wq",
-	"modified": "2023-11-08T04:05:06.845960Z",
+	"modified": "2024-05-30T02:56:30.695586Z",
 	"published": "2021-12-10T17:26:33Z",
 	"aliases": [
-		"CVE-2021-23390"
+		"CVE-2021-23390",
+		"SNYK-JS-TOTAL4-1130527"
 	],
 	"summary": "Code Injection in total4",
 	"details": "The package total4 before 0.0.43 are vulnerable to Arbitrary Code Execution via the `U.set()` and `U.get()` functions.",
