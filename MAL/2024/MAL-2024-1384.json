@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1384",
-	"modified": "2024-05-26T21:34:47Z",
+	"modified": "2024-05-31T11:34:40Z",
 	"published": "2024-05-25T20:54:03Z",
 	"summary": "Malicious code in protonme (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (295b3103d7290c7c347d76b699dea56f4ddfdcf450ac1bfdddcf41ed4b37af0a)\nThe OpenSSF Package Analysis project identified 'protonme' @ 1200.1.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -14,7 +14,8 @@
 			},
 			"versions": [
 				"1200.1.1",
-				"1201.1.1"
+				"1201.1.1",
+				"1301.1.1"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/protonme/MAL-2024-1384.json"
@@ -49,6 +50,15 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"1201.1.1"
+				]
+			},
+			{
+				"import_time": "2024-05-31T11:34:15.947540975Z",
+				"modified_time": "2024-05-31T11:20:48Z",
+				"sha256": "14638d281748b1eacd71c4fc296449c4fc3cee3a6611f3b2240cfc2154e779ec",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1301.1.1"
 				]
 			}
 		]
