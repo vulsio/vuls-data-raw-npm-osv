@@ -1,0 +1,35 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-1394",
+	"modified": "2024-05-30T23:14:46Z",
+	"published": "2024-05-30T23:14:46Z",
+	"summary": "Malicious code in cedar-snippet (npm)",
+	"details": "This package is considered malicious because it communicates with a domain associated with malicious activity and the package executes one or more commands associated with malicious behavior.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "cedar-snippet",
+				"purl": "pkg:npm/cedar-snippet"
+			},
+			"versions": [
+				"99.1.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cedar-snippet/MAL-2024-1394.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "Stacklok: trustypkg.dev",
+			"contact": [
+				"https://discord.com/invite/RkzVuTp3WK"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}
