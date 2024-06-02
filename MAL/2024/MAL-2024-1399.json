@@ -1,0 +1,35 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-1399",
+	"modified": "2024-06-02T02:06:46Z",
+	"published": "2024-06-02T02:06:46Z",
+	"summary": "Malicious code in stablecoin-evm (npm)",
+	"details": "This package is considered malicious because it communicates with a domain associated with malicious activity and the package executes one or more commands associated with malicious behavior.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "stablecoin-evm",
+				"purl": "pkg:npm/stablecoin-evm"
+			},
+			"versions": [
+				"1.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/stablecoin-evm/MAL-2024-1399.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "Stacklok: trustypkg.dev",
+			"contact": [
+				"https://discord.com/invite/RkzVuTp3WK"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}
