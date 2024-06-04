@@ -1,0 +1,35 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-1529",
+	"modified": "2024-06-03T11:15:09Z",
+	"published": "2024-06-03T11:15:09Z",
+	"summary": "Malicious code in stw-tenant-library (npm)",
+	"details": "This package is considered malicious because it communicates with a domain associated with malicious activity and the package executes one or more commands associated with malicious behavior.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "stw-tenant-library",
+				"purl": "pkg:npm/stw-tenant-library"
+			},
+			"versions": [
+				"42.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/stw-tenant-library/MAL-2024-1529.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "Stacklok: trustypkg.dev",
+			"contact": [
+				"https://discord.com/invite/RkzVuTp3WK"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}
