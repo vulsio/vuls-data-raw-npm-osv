@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pmh2-wpjm-fj45",
-	"modified": "2024-05-30T18:56:50.583229Z",
+	"modified": "2024-06-06T16:49:01Z",
 	"published": "2024-05-30T18:34:32Z",
 	"aliases": [
 		"CVE-2024-21512"
@@ -59,6 +59,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/sidorares/node-mysql2"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.snyk.io/vuln/SNYK-JAVA-ORGWEBJARSNPM-7176010"
 		},
 		{
 			"type": "WEB",
