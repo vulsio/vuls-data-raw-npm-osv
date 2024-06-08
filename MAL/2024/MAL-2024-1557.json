@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-1557",
+	"modified": "2024-06-08T16:28:58Z",
+	"published": "2024-06-08T16:28:58Z",
+	"summary": "Malicious code in glamorous-codemods (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (5b62e89ba5d92de2d123869534c162af0ffca7aec9fef47c4a52412156a448f3)\nThe OpenSSF Package Analysis project identified 'glamorous-codemods' @ 1.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "glamorous-codemods",
+				"purl": "pkg:npm/glamorous-codemods"
+			},
+			"versions": [
+				"1.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/glamorous-codemods/MAL-2024-1557.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-06-08T16:35:43.858869545Z",
+				"modified_time": "2024-06-08T16:28:58Z",
+				"sha256": "5b62e89ba5d92de2d123869534c162af0ffca7aec9fef47c4a52412156a448f3",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.0"
+				]
+			}
+		]
+	}
+}

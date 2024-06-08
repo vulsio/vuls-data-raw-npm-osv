@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-1556",
+	"modified": "2024-06-08T12:00:56Z",
+	"published": "2024-06-08T12:00:56Z",
+	"summary": "Malicious code in rey-vue-smarttable (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (98a856f629a1b4854c5202dbdd7b0919ec1ad20cd28a8fa2b52591843913f112)\nThe OpenSSF Package Analysis project identified 'rey-vue-smarttable' @ 19.19.19 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "rey-vue-smarttable",
+				"purl": "pkg:npm/rey-vue-smarttable"
+			},
+			"versions": [
+				"19.19.19"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/rey-vue-smarttable/MAL-2024-1556.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-06-08T12:05:48.595411081Z",
+				"modified_time": "2024-06-08T12:00:56Z",
+				"sha256": "98a856f629a1b4854c5202dbdd7b0919ec1ad20cd28a8fa2b52591843913f112",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"19.19.19"
+				]
+			}
+		]
+	}
+}
