@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-1562",
+	"modified": "2024-06-10T16:56:07Z",
+	"published": "2024-06-10T16:56:07Z",
+	"summary": "Malicious code in aws-logs (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (7d5ecefe58c139de5c0cbc63147874cca141333e95129600497dacf401103f34)\nThe OpenSSF Package Analysis project identified 'aws-logs' @ 100.0.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "aws-logs",
+				"purl": "pkg:npm/aws-logs"
+			},
+			"versions": [
+				"100.0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/aws-logs/MAL-2024-1562.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-06-10T17:04:46.507735584Z",
+				"modified_time": "2024-06-10T16:56:07Z",
+				"sha256": "7d5ecefe58c139de5c0cbc63147874cca141333e95129600497dacf401103f34",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"100.0.1"
+				]
+			}
+		]
+	}
+}

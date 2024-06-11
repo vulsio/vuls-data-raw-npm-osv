@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-624g-8qjg-8qxf",
-	"modified": "2024-05-31T20:32:54Z",
+	"modified": "2024-06-10T20:12:58Z",
 	"published": "2024-04-23T21:15:55Z",
 	"aliases": [
 		"CVE-2024-32866"
@@ -26,7 +26,55 @@
 					"type": "SEMVER",
 					"events": [
 						{
-							"introduced": "0"
+							"introduced": "1.0.0"
+						},
+						{
+							"fixed": "1.1.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"last_known_affected_version_range": "<= 1.1.0",
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/04/GHSA-624g-8qjg-8qxf/GHSA-624g-8qjg-8qxf.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "@conform-to/zod",
+				"purl": "pkg:npm/%40conform-to/zod"
+			},
+			"ranges": [
+				{
+					"type": "SEMVER",
+					"events": [
+						{
+							"introduced": "1.0.0"
+						},
+						{
+							"fixed": "1.1.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"last_known_affected_version_range": "<= 1.1.0",
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/04/GHSA-624g-8qjg-8qxf/GHSA-624g-8qjg-8qxf.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "@conform-to/yup",
+				"purl": "pkg:npm/%40conform-to/yup"
+			},
+			"ranges": [
+				{
+					"type": "SEMVER",
+					"events": [
+						{
+							"introduced": "1.0.0"
 						},
 						{
 							"fixed": "1.1.1"
@@ -53,13 +101,12 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "1.1.1"
+							"fixed": "0.9.2"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"last_known_affected_version_range": "<= 1.1.0",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/04/GHSA-624g-8qjg-8qxf/GHSA-624g-8qjg-8qxf.json"
 			}
 		},
@@ -77,13 +124,35 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "1.1.1"
+							"fixed": "0.9.2"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"last_known_affected_version_range": "<= 1.1.0",
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/04/GHSA-624g-8qjg-8qxf/GHSA-624g-8qjg-8qxf.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "@conform-to/dom",
+				"purl": "pkg:npm/%40conform-to/dom"
+			},
+			"ranges": [
+				{
+					"type": "SEMVER",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.9.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/04/GHSA-624g-8qjg-8qxf/GHSA-624g-8qjg-8qxf.json"
 			}
 		}
@@ -100,6 +169,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/edmundhung/conform/commit/4819d51b5a53fd5486fc85c17cdc148eb160e3de"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/edmundhung/conform/commit/cb604dd58b99e2d12716d901a23bfca724e741ef"
 		},
 		{
 			"type": "PACKAGE",
