@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-1565",
+	"modified": "2024-06-11T06:48:14Z",
+	"published": "2024-06-11T06:48:14Z",
+	"summary": "Malicious code in aws-public (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (daffa6c8369145c9a1553548ecd33a6cf8c83104dd6f74a97450641cda7ce453)\nThe OpenSSF Package Analysis project identified 'aws-public' @ 105.0.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "aws-public",
+				"purl": "pkg:npm/aws-public"
+			},
+			"versions": [
+				"105.0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/aws-public/MAL-2024-1565.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-06-11T07:04:29.568152329Z",
+				"modified_time": "2024-06-11T06:48:14Z",
+				"sha256": "daffa6c8369145c9a1553548ecd33a6cf8c83104dd6f74a97450641cda7ce453",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"105.0.1"
+				]
+			}
+		]
+	}
+}
