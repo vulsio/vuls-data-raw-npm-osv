@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-grv7-fg5c-xmjg",
-	"modified": "2024-06-10T20:57:17.411637Z",
+	"modified": "2024-06-12T08:14:33.183055Z",
 	"published": "2024-05-14T18:30:54Z",
 	"aliases": [
+		"CGA-hq78-8245-675v",
 		"CVE-2024-4068"
 	],
 	"summary": "Uncontrolled resource consumption in braces",
