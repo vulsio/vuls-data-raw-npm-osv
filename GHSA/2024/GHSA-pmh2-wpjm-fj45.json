@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pmh2-wpjm-fj45",
-	"modified": "2024-06-06T16:49:01Z",
+	"modified": "2024-06-19T07:44:28.059615Z",
 	"published": "2024-05-30T18:34:32Z",
 	"aliases": [
+		"CGA-3mh2-3mv5-jfp3",
 		"CVE-2024-21512"
 	],
 	"summary": "mysql2 vulnerable to Prototype Pollution",
