@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v88g-cgmw-v5xw",
-	"modified": "2023-11-08T04:02:36.870990Z",
+	"modified": "2024-06-21T21:33:48Z",
 	"published": "2022-02-10T23:30:59Z",
 	"aliases": [
 		"CVE-2020-15366"
@@ -63,6 +63,10 @@
 		{
 			"type": "WEB",
 			"url": "https://hackerone.com/bugs?subject=user&report_id=894259"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20240621-0007"
 		}
 	],
 	"database_specific": {
