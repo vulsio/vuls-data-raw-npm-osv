@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-1661",
+	"modified": "2024-06-23T17:02:47Z",
+	"published": "2024-06-23T17:02:47Z",
+	"summary": "Malicious code in govgen-governance (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (fca4f887fd2a3cb6e834539a9d00ccedc2df2e97bcb4b09f99c0b397444774f4)\nThe OpenSSF Package Analysis project identified 'govgen-governance' @ 2.2.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package executes one or more commands associated with malicious behavior.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "govgen-governance",
+				"purl": "pkg:npm/govgen-governance"
+			},
+			"versions": [
+				"2.2.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/govgen-governance/MAL-2024-1661.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-06-23T22:04:31.499486035Z",
+				"modified_time": "2024-06-23T17:02:47Z",
+				"sha256": "fca4f887fd2a3cb6e834539a9d00ccedc2df2e97bcb4b09f99c0b397444774f4",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"2.2.0"
+				]
+			}
+		]
+	}
+}
