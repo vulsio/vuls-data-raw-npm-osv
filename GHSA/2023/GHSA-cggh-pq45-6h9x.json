@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cggh-pq45-6h9x",
-	"modified": "2023-12-06T01:02:59.922963Z",
+	"modified": "2024-06-24T21:25:02Z",
 	"published": "2023-07-01T00:30:46Z",
 	"aliases": [
 		"BIT-node-2023-30589",
@@ -84,6 +84,10 @@
 		{
 			"type": "WEB",
 			"url": "https://security.netapp.com/advisory/ntap-20230803-0009"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20240621-0006"
 		}
 	],
 	"database_specific": {
