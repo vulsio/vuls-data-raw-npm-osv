@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-2951",
+	"modified": "2024-06-25T12:58:22Z",
+	"published": "2024-06-25T12:58:22Z",
+	"summary": "Malicious code in regily (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "regily",
+				"purl": "pkg:npm/regily"
+			},
+			"versions": [
+				"1.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/regily/MAL-2024-2951.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-01672",
+				"import_time": "2024-06-28T02:44:35.682444563Z",
+				"modified_time": "2024-06-25T12:58:22Z",
+				"sha256": "df127ae168956ca7a33750ba0d37424cfd4571a2324c79d54d8e7625a68580d3",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.0"
+				]
+			}
+		]
+	}
+}

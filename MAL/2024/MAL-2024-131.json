@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-131",
-	"modified": "2024-01-18T07:05:22Z",
+	"modified": "2024-06-28T02:53:17Z",
 	"published": "2024-01-18T05:30:41Z",
 	"summary": "Malicious code in pd-ui-kit (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (b46ebcb2f76102916a1ab764b5af360b8c6cdd1dc56a269538132bcc4e307983)\nThe OpenSSF Package Analysis project identified 'pd-ui-kit' @ 1.5.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -17,7 +17,11 @@
 				"1.5.2",
 				"1.5.3",
 				"1.5.5",
-				"1.5.4"
+				"1.5.4",
+				"1.0.0",
+				"1.0.2",
+				"1.0.3",
+				"1.5.0"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/pd-ui-kit/MAL-2024-131.json"
@@ -30,6 +34,13 @@
 			"contact": [
 				"https://github.com/ossf/package-analysis",
 				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		},
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
 			],
 			"type": "FINDER"
 		}
@@ -79,6 +90,24 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"1.5.4"
+				]
+			},
+			{
+				"id": "RLMA-2024-01570",
+				"import_time": "2024-06-28T02:44:23.330089285Z",
+				"modified_time": "2024-06-25T12:55:35Z",
+				"sha256": "1dbf674ae9a1a0591e55377797c869e4bbf407d392e1fe5bc6af54c3796ee006",
+				"source": "reversing-labs",
+				"versions": [
+					"1.5.4",
+					"1.0.0",
+					"1.5.2",
+					"1.5.1",
+					"1.5.5",
+					"1.0.2",
+					"1.0.3",
+					"1.5.3",
+					"1.5.0"
 				]
 			}
 		]

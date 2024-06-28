@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-8185",
-	"modified": "2023-11-08T04:21:34.565195Z",
+	"modified": "2024-06-28T03:14:19.306306Z",
 	"published": "2023-09-20T05:35:35Z",
 	"aliases": [
-		"GHSA-p9ff-2qr7-4q9m"
+		"GHSA-p9ff-2qr7-4q9m",
+		"SNYK-JS-AGOPOWERYEA123-5906162"
 	],
 	"summary": "Malicious code in agopoweryea123 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (ca5c5e5ef3f588541558976ee86112900b01f69ca9fe775b740d12315b8ddd01)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,10 @@
 					]
 				}
 			],
+			"versions": [
+				"1.0.1",
+				"1.0.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +46,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-p9ff-2qr7-4q9m"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-AGOPOWERYEA123-5906162"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/agopoweryea123"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +83,17 @@
 				],
 				"sha256": "ca5c5e5ef3f588541558976ee86112900b01f69ca9fe775b740d12315b8ddd01",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-00312",
+				"import_time": "2024-06-28T02:41:50.511833257Z",
+				"modified_time": "2024-06-25T12:25:06Z",
+				"sha256": "ab7867ba008a7cf34fffbac374681b73cfa4ba844840ad912f5038aa0d1eee55",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.1",
+					"1.0.0"
+				]
 			}
 		]
 	}

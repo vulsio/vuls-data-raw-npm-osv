@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-2994",
+	"modified": "2024-06-25T12:19:19Z",
+	"published": "2024-06-25T12:19:19Z",
+	"summary": "Malicious code in sdx (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "sdx",
+				"purl": "pkg:npm/%40corproot/sdx"
+			},
+			"versions": [
+				"9999.0.100"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/sdx/MAL-2024-2994.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-00049",
+				"import_time": "2024-06-28T02:41:18.492734183Z",
+				"modified_time": "2024-06-25T12:19:19Z",
+				"sha256": "33c57b2cbb03da50bf12480d9f48aeca35090503a56729406175432823aeb065",
+				"source": "reversing-labs",
+				"versions": [
+					"9999.0.100"
+				]
+			}
+		]
+	}
+}

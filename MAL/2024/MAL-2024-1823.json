@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-1823",
+	"modified": "2024-06-25T12:29:48Z",
+	"published": "2024-06-25T12:29:48Z",
+	"summary": "Malicious code in bitcoin-inscript (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "bitcoin-inscript",
+				"purl": "pkg:npm/bitcoin-inscript"
+			},
+			"versions": [
+				"3.1.2"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bitcoin-inscript/MAL-2024-1823.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-00418",
+				"import_time": "2024-06-28T02:42:03.647668647Z",
+				"modified_time": "2024-06-25T12:29:48Z",
+				"sha256": "9857c0112299cb9ad8800bff09d15dd26917afda8d32f7b04423fc14e3c5ccee",
+				"source": "reversing-labs",
+				"versions": [
+					"3.1.2"
+				]
+			}
+		]
+	}
+}

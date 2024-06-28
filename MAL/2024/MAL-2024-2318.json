@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-2318",
+	"modified": "2024-06-25T12:41:38Z",
+	"published": "2024-06-25T12:41:38Z",
+	"summary": "Malicious code in eslint-config-bayzat (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "eslint-config-bayzat",
+				"purl": "pkg:npm/eslint-config-bayzat"
+			},
+			"versions": [
+				"50.1.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/eslint-config-bayzat/MAL-2024-2318.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-00960",
+				"import_time": "2024-06-28T02:43:08.666157272Z",
+				"modified_time": "2024-06-25T12:41:38Z",
+				"sha256": "fabdff73486448946ca664bc72e200cfc5b40dd561be6f18841fc6931da2795d",
+				"source": "reversing-labs",
+				"versions": [
+					"50.1.1"
+				]
+			}
+		]
+	}
+}

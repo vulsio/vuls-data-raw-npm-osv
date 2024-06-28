@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1064",
-	"modified": "2024-03-09T00:42:11.410916Z",
+	"modified": "2024-06-28T03:14:11.835426Z",
 	"published": "2024-03-08T10:27:40Z",
 	"aliases": [
-		"GHSA-qcfq-92h2-m5j6"
+		"GHSA-qcfq-92h2-m5j6",
+		"SNYK-JS-PETPROFILEMICROINTERACTION-6419322"
 	],
 	"summary": "Malicious code in pet-profile-micro-interaction (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (cd98e11aca525f441300cc29d3cebd96d52cee8d8620e951a805b48fe9305d33)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"99999.0.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-qcfq-92h2-m5j6"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-PETPROFILEMICROINTERACTION-6419322"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/pet-profile-micro-interaction"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +82,16 @@
 				],
 				"sha256": "cd98e11aca525f441300cc29d3cebd96d52cee8d8620e951a805b48fe9305d33",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-01582",
+				"import_time": "2024-06-28T02:44:24.688004425Z",
+				"modified_time": "2024-06-25T12:55:51Z",
+				"sha256": "65fccabd846dee1c871ca8621c4031ef277226d3f0ec41a5b2acab6088c40110",
+				"source": "reversing-labs",
+				"versions": [
+					"99999.0.0"
+				]
 			}
 		]
 	}

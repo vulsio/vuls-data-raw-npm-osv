@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-8190",
-	"modified": "2023-11-08T04:15:42.432048Z",
+	"modified": "2024-06-28T03:14:17.562937Z",
 	"published": "2023-09-21T01:38:24Z",
 	"aliases": [
-		"GHSA-5fr8-78fg-fr5r"
+		"GHSA-5fr8-78fg-fr5r",
+		"MAL-2024-1723"
 	],
 	"summary": "Malicious code in @zettle-bo/account-statement (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (9e421dbf9f81cc4fbfbcfb01be2a65fa8509eb33a2be27ee6aab920ca00359f3)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",

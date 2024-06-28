@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-2686",
+	"modified": "2024-06-25T12:51:09Z",
+	"published": "2024-06-25T12:51:09Z",
+	"summary": "Malicious code in mytardis-data-module (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "mytardis-data-module",
+				"purl": "pkg:npm/mytardis-data-module"
+			},
+			"versions": [
+				"1.1.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mytardis-data-module/MAL-2024-2686.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-01374",
+				"import_time": "2024-06-28T02:43:59.658877185Z",
+				"modified_time": "2024-06-25T12:51:09Z",
+				"sha256": "292fb48f424ea91ee3000a23973509546bac00ccf6df46b3c2b3e593584bc5c6",
+				"source": "reversing-labs",
+				"versions": [
+					"1.1.1"
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-3247",
+	"modified": "2024-06-25T13:06:49Z",
+	"published": "2024-06-25T13:06:49Z",
+	"summary": "Malicious code in u-workflow.components (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "u-workflow.components",
+				"purl": "pkg:npm/u-workflow.components"
+			},
+			"versions": [
+				"1.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/u-workflow.components/MAL-2024-3247.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-02010",
+				"import_time": "2024-06-28T02:45:15.473903011Z",
+				"modified_time": "2024-06-25T13:06:49Z",
+				"sha256": "0eae128ed3c873287c151e255bb2b976d3c24b85d762e6d6d8202d3e8d1f55e7",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.0"
+				]
+			}
+		]
+	}
+}

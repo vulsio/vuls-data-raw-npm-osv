@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-2452",
+	"modified": "2024-06-25T12:45:10Z",
+	"published": "2024-06-25T12:45:10Z",
+	"summary": "Malicious code in havas-worldwide (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "havas-worldwide",
+				"purl": "pkg:npm/havas-worldwide"
+			},
+			"versions": [
+				"1.0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/havas-worldwide/MAL-2024-2452.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-01115",
+				"import_time": "2024-06-28T02:43:27.136585119Z",
+				"modified_time": "2024-06-25T12:45:10Z",
+				"sha256": "5df90534ee1e2bdb1130fa0a1fda38ed145d5c7126ea036c51725a1be2641697",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.1"
+				]
+			}
+		]
+	}
+}

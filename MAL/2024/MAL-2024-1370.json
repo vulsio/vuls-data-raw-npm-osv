@@ -1,10 +1,12 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1370",
-	"modified": "2024-05-21T00:41:54.001667Z",
+	"modified": "2024-06-28T03:14:00.468692Z",
 	"published": "2024-05-20T00:44:50Z",
 	"aliases": [
-		"GHSA-v397-r6h2-3h38"
+		"GHSA-v397-r6h2-3h38",
+		"MAL-2024-2653",
+		"SNYK-JS-OZONFEMEDIAPLAYER-6913914"
 	],
 	"summary": "Malicious code in @ozon-fe/media-player (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (f83f6ec5a227a2759eaf3a0f63b52ed88c790c3af44ea8bf3a9fa132d746220e)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",

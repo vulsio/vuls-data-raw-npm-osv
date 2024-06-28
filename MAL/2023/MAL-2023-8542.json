@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-8542",
-	"modified": "2023-11-21T00:42:44.211918Z",
+	"modified": "2024-06-28T02:53:15Z",
 	"published": "2023-11-20T15:40:06Z",
 	"aliases": [
 		"GHSA-rj8m-7x3r-gpmm"
@@ -25,6 +25,9 @@
 					]
 				}
 			],
+			"versions": [
+				"9.9.9"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +44,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-rj8m-7x3r-gpmm"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +73,16 @@
 				],
 				"sha256": "cfe866d98bd76a71b60029f68eefcd3158b2870ec3cf49a37fda9efa17fd05bd",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-00603",
+				"import_time": "2024-06-28T02:42:25.527545555Z",
+				"modified_time": "2024-06-25T12:33:41Z",
+				"sha256": "3e520a5381c9d2cb7db6b8b85572795bac384cf3673fc3bbcdcc789eea3c174a",
+				"source": "reversing-labs",
+				"versions": [
+					"9.9.9"
+				]
 			}
 		]
 	}

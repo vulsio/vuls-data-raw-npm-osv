@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-1335",
-	"modified": "2023-08-10T06:17:50Z",
+	"modified": "2024-06-28T02:53:18Z",
 	"published": "2023-05-12T03:57:53Z",
 	"summary": "Malicious code in verycoolzpac2 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (50b609e8ebccac67716745b1447224238ae17c0a78499f90c48aa684d971cded)\nThe OpenSSF Package Analysis project identified 'verycoolzpac2' @ 0.0.3 (npm) as malicious.\n\nIt is considered malicious because:\n- The package communicates with a domain associated with malicious activity.\n",
@@ -15,7 +15,14 @@
 			"versions": [
 				"0.0.3",
 				"0.1.6",
-				"0.2.7"
+				"0.2.7",
+				"0.2.9",
+				"0.1.4",
+				"0.2.6",
+				"0.1.5",
+				"0.0.2",
+				"0.0.4",
+				"0.2.8"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/verycoolzpac2/MAL-2023-1335.json"
@@ -28,6 +35,13 @@
 			"contact": [
 				"https://github.com/ossf/package-analysis",
 				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		},
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
 			],
 			"type": "FINDER"
 		}
@@ -59,6 +73,25 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"0.2.7"
+				]
+			},
+			{
+				"id": "RLMA-2024-02592",
+				"import_time": "2024-06-28T02:46:23.062546731Z",
+				"modified_time": "2024-06-25T13:18:59Z",
+				"sha256": "9dd45c4f0d299830a11ea3617a610aa5b649fdce60713c87133606a7aa027506",
+				"source": "reversing-labs",
+				"versions": [
+					"0.2.9",
+					"0.0.3",
+					"0.1.4",
+					"0.1.6",
+					"0.2.6",
+					"0.2.7",
+					"0.1.5",
+					"0.0.2",
+					"0.0.4",
+					"0.2.8"
 				]
 			}
 		]

@@ -1,0 +1,60 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-2917",
+	"modified": "2024-06-28T03:14:15.925462Z",
+	"published": "2024-06-25T12:20:39Z",
+	"aliases": [
+		"GHSA-vw3v-52fj-6p2g",
+		"MAL-2023-8057"
+	],
+	"summary": "Malicious code in radar-error-collect (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "radar-error-collect",
+				"purl": "pkg:npm/%40ks-radar/radar-error-collect"
+			},
+			"versions": [
+				"9.1.10"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/radar-error-collect/MAL-2024-2917.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/%40ks-radar/radar-error-collect/MAL-2023-8057.json"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://github.com/advisories/GHSA-vw3v-52fj-6p2g"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-00114",
+				"import_time": "2024-06-28T02:41:26.489950742Z",
+				"modified_time": "2024-06-25T12:20:39Z",
+				"sha256": "faad577b12fc35c5c09875f8dc1b8eb41657bde51da3f5c5cddc8ceaaff4671d",
+				"source": "reversing-labs",
+				"versions": [
+					"9.1.10"
+				]
+			}
+		]
+	}
+}

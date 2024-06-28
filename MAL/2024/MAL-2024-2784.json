@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-2784",
+	"modified": "2024-06-25T12:53:50Z",
+	"published": "2024-06-25T12:53:50Z",
+	"summary": "Malicious code in odyssey-stylelint (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "odyssey-stylelint",
+				"purl": "pkg:npm/odyssey-stylelint"
+			},
+			"versions": [
+				"9.9.5"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/odyssey-stylelint/MAL-2024-2784.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-01490",
+				"import_time": "2024-06-28T02:44:13.609784695Z",
+				"modified_time": "2024-06-25T12:53:50Z",
+				"sha256": "464206feb202afd976f004ce8958d6719ab48a93f7aaa5978169deb0070108ec",
+				"source": "reversing-labs",
+				"versions": [
+					"9.9.5"
+				]
+			}
+		]
+	}
+}

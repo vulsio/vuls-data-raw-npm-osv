@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-75",
-	"modified": "2024-01-12T00:43:25.925599Z",
+	"modified": "2024-06-28T03:14:23.116512Z",
 	"published": "2024-01-11T05:08:35Z",
 	"aliases": [
-		"GHSA-pxmh-wcx9-8v8m"
+		"GHSA-pxmh-wcx9-8v8m",
+		"SNYK-JS-LWCJESTSERIALIZER-6150694"
 	],
 	"summary": "Malicious code in lwc-jest-serializer (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (c88fb0df21e3f633176d1aa6411b5fa4bb5175518fe00ea39ededf35bf8823de)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"99.99.99"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-pxmh-wcx9-8v8m"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-LWCJESTSERIALIZER-6150694"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/lwc-jest-serializer"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +82,16 @@
 				],
 				"sha256": "c88fb0df21e3f633176d1aa6411b5fa4bb5175518fe00ea39ededf35bf8823de",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-01319",
+				"import_time": "2024-06-28T02:43:52.719539627Z",
+				"modified_time": "2024-06-25T12:49:48Z",
+				"sha256": "9a503611e0c488e4860898df47c8a6289c43fcf8d89c2cf1cf4422ca09b7c682",
+				"source": "reversing-labs",
+				"versions": [
+					"99.99.99"
+				]
 			}
 		]
 	}

@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-3128",
+	"modified": "2024-06-25T13:04:09Z",
+	"published": "2024-06-25T13:04:09Z",
+	"summary": "Malicious code in tilled-exanples (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "tilled-exanples",
+				"purl": "pkg:npm/tilled-exanples"
+			},
+			"versions": [
+				"1.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tilled-exanples/MAL-2024-3128.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-01886",
+				"import_time": "2024-06-28T02:45:00.567915332Z",
+				"modified_time": "2024-06-25T13:04:09Z",
+				"sha256": "af0019d3cdf5d73e9924572c8ff94ecd33ac4944fd005baa65da16ea4ea1f18b",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.0"
+				]
+			}
+		]
+	}
+}

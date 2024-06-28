@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-184",
-	"modified": "2023-11-08T04:18:40.591103Z",
+	"modified": "2024-06-28T03:14:25.158907Z",
 	"published": "2023-02-02T19:41:45Z",
 	"aliases": [
-		"GHSA-cwf5-pqxx-pvf3"
+		"GHSA-cwf5-pqxx-pvf3",
+		"SNYK-JS-CLIMATEWAREHOUSE-3336042"
 	],
 	"summary": "Malicious code in climate-warehouse (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (cb03c4128835a9256b968cd63d617675ff8af803b43a908731d04f8b1b81151f)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"99.99.99"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,19 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-cwf5-pqxx-pvf3"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-CLIMATEWAREHOUSE-3336042"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +78,16 @@
 				],
 				"sha256": "cb03c4128835a9256b968cd63d617675ff8af803b43a908731d04f8b1b81151f",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-00587",
+				"import_time": "2024-06-28T02:42:23.610461819Z",
+				"modified_time": "2024-06-25T12:33:22Z",
+				"sha256": "53d71b473b70091bf9ef0db55549fca8e3542ca2243826242507d80b072bcb9e",
+				"source": "reversing-labs",
+				"versions": [
+					"99.99.99"
+				]
 			}
 		]
 	}

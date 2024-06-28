@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-2089",
+	"modified": "2024-06-25T12:36:05Z",
+	"published": "2024-06-25T12:36:05Z",
+	"summary": "Malicious code in deviceatlas-clientside (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "deviceatlas-clientside",
+				"purl": "pkg:npm/deviceatlas-clientside"
+			},
+			"versions": [
+				"14.2.4"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/deviceatlas-clientside/MAL-2024-2089.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-00709",
+				"import_time": "2024-06-28T02:42:38.142844588Z",
+				"modified_time": "2024-06-25T12:36:05Z",
+				"sha256": "f2573950109d071c24cee9609663fd8eb199be383de554c243f4a5c4e4b42cef",
+				"source": "reversing-labs",
+				"versions": [
+					"14.2.4"
+				]
+			}
+		]
+	}
+}

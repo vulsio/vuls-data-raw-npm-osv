@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-859",
-	"modified": "2023-11-08T04:19:29.346394Z",
+	"modified": "2024-06-28T03:13:54.256999Z",
 	"published": "2023-02-06T00:10:33Z",
 	"aliases": [
-		"GHSA-gfqh-258r-9c67"
+		"GHSA-gfqh-258r-9c67",
+		"SNYK-JS-TESTNEBB-3336046"
 	],
 	"summary": "Malicious code in testnebb (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (039da8055a699a92851f48d20facc4851a80857a4f8383e689298429a0883c34)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"1.0.1"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,19 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-gfqh-258r-9c67"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-TESTNEBB-3336046"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +78,16 @@
 				],
 				"sha256": "039da8055a699a92851f48d20facc4851a80857a4f8383e689298429a0883c34",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-01872",
+				"import_time": "2024-06-28T02:44:59.036822923Z",
+				"modified_time": "2024-06-25T13:03:51Z",
+				"sha256": "d18f3aa7dc018857fddc6dd74525cae522dca1ff5da799965f53271f295fa2b8",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.1"
+				]
 			}
 		]
 	}

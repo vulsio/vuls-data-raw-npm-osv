@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-8449",
-	"modified": "2023-11-08T04:14:56.173303Z",
+	"modified": "2024-06-28T03:27:19.095169Z",
 	"published": "2023-11-06T12:17:20Z",
 	"aliases": [
-		"GHSA-435g-878x-9524"
+		"GHSA-435g-878x-9524",
+		"SNYK-JS-AIRSLATEIMAGEUPLOADER-6048862"
 	],
 	"summary": "Malicious code in airslate-image-uploader (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (108a6e072252da4d719844c42ffb41e5a8fbb92cbfdd9305086a108dfc14233a)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"9.9.9"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-435g-878x-9524"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/airslate-image-uploader"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-AIRSLATEIMAGEUPLOADER-6048862"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +82,16 @@
 				],
 				"sha256": "108a6e072252da4d719844c42ffb41e5a8fbb92cbfdd9305086a108dfc14233a",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-00320",
+				"import_time": "2024-06-28T02:41:51.390357709Z",
+				"modified_time": "2024-06-25T12:25:23Z",
+				"sha256": "32460b7693e0357da1ed60a43341ddc89dab6ad8f4e53e0d79f3f756d548b25a",
+				"source": "reversing-labs",
+				"versions": [
+					"9.9.9"
+				]
 			}
 		]
 	}

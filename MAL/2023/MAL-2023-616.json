@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-616",
-	"modified": "2023-11-08T04:22:27.670548Z",
+	"modified": "2024-06-28T03:14:06.711316Z",
 	"published": "2023-02-02T19:41:45Z",
 	"aliases": [
-		"GHSA-qx34-wv76-34jr"
+		"GHSA-qx34-wv76-34jr",
+		"SNYK-JS-NAYDUCK-3336103"
 	],
 	"summary": "Malicious code in nayduck (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (cb0f8f1fb55d7c0ab3534b324088d7e45c50a528a69143855696fd38a053e03f)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n\n## Source: ossf-package-analysis (5f6b740f2dc921f89c0148c6ed9382a7e501b7b8b8f1e45cf08b4d03f8775b40)\nThe OpenSSF Package Analysis project identified 'nayduck' @ 99.99.96 (npm) as malicious.\n\nIt is considered malicious because:\n- The package communicates with a domain associated with malicious activity.\n",
@@ -46,6 +47,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-qx34-wv76-34jr"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-NAYDUCK-3336103"
 		}
 	],
 	"credits": [
@@ -54,6 +59,13 @@
 			"contact": [
 				"https://github.com/ossf/package-analysis",
 				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		},
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
 			],
 			"type": "FINDER"
 		}
@@ -101,6 +113,18 @@
 				"sha256": "b240f732a9d1232b0e0d6ccb7d417a083e74f7243974927fc8ff9430410eeaf2",
 				"source": "ossf-package-analysis",
 				"versions": [
+					"99.99.97"
+				]
+			},
+			{
+				"id": "RLMA-2024-01382",
+				"import_time": "2024-06-28T02:44:00.715623306Z",
+				"modified_time": "2024-06-25T12:51:22Z",
+				"sha256": "78d851aae18b86d59adbdc3cfa0abe053409936ca478030ab7c9a7f793349006",
+				"source": "reversing-labs",
+				"versions": [
+					"99.99.96",
+					"99.99.99",
 					"99.99.97"
 				]
 			}

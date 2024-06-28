@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-135",
-	"modified": "2023-11-08T04:24:26.242051Z",
+	"modified": "2024-06-28T02:53:15Z",
 	"published": "2023-04-12T02:54:43Z",
 	"aliases": [
 		"GHSA-xjx7-346h-hvmm"
@@ -27,7 +27,12 @@
 			],
 			"versions": [
 				"1.1.1",
-				"1.1.0"
+				"1.1.0",
+				"2.2.2",
+				"3.0.0",
+				"1.2.2",
+				"1.1.2",
+				"3.0.1"
 			],
 			"database_specific": {
 				"cwes": [
@@ -53,6 +58,13 @@
 			"contact": [
 				"https://github.com/ossf/package-analysis",
 				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		},
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
 			],
 			"type": "FINDER"
 		}
@@ -92,6 +104,22 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"1.1.0"
+				]
+			},
+			{
+				"id": "RLMA-2024-00420",
+				"import_time": "2024-06-28T02:42:03.86966233Z",
+				"modified_time": "2024-06-25T12:29:50Z",
+				"sha256": "011691005a841ef552433fe9ad9438fe42cba367df2a429a74be41fb6aee3a3c",
+				"source": "reversing-labs",
+				"versions": [
+					"2.2.2",
+					"1.1.1",
+					"1.1.0",
+					"3.0.0",
+					"1.2.2",
+					"1.1.2",
+					"3.0.1"
 				]
 			}
 		]

@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1306",
-	"modified": "2024-04-30T00:41:47.878484Z",
+	"modified": "2024-06-28T03:14:10.891057Z",
 	"published": "2024-04-29T08:37:44Z",
 	"aliases": [
-		"GHSA-25w2-979p-jpvr"
+		"GHSA-25w2-979p-jpvr",
+		"SNYK-JS-ETHERSTRANSACTIONS-6689535"
 	],
 	"summary": "Malicious code in ethers-transactions (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (31d30dcd73ba06a4962c3e3b0419d5864aa9f93f1dcf516e1830eafa40f44ab7)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,17 @@
 					]
 				}
 			],
+			"versions": [
+				"1.2.9",
+				"1.2.4",
+				"1.2.5",
+				"1.2.3",
+				"1.2.8",
+				"1.2.1",
+				"1.2.6",
+				"1.2.2",
+				"1.2.7"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +53,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-25w2-979p-jpvr"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/ethers-transactions"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-ETHERSTRANSACTIONS-6689535"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +90,24 @@
 				],
 				"sha256": "31d30dcd73ba06a4962c3e3b0419d5864aa9f93f1dcf516e1830eafa40f44ab7",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-00977",
+				"import_time": "2024-06-28T02:43:10.520390181Z",
+				"modified_time": "2024-06-25T12:42:03Z",
+				"sha256": "6de80927ba47046ce005e1aee2c8e044a7b13d8fc67d8d692acd3416ddf53b29",
+				"source": "reversing-labs",
+				"versions": [
+					"1.2.9",
+					"1.2.4",
+					"1.2.5",
+					"1.2.3",
+					"1.2.8",
+					"1.2.1",
+					"1.2.6",
+					"1.2.2",
+					"1.2.7"
+				]
 			}
 		]
 	}

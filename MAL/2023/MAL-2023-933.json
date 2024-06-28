@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-933",
-	"modified": "2023-11-08T04:18:19.136381Z",
+	"modified": "2024-06-28T03:14:23.183213Z",
 	"published": "2023-07-04T03:03:39Z",
 	"aliases": [
-		"GHSA-c86j-68rj-jg3c"
+		"GHSA-c86j-68rj-jg3c",
+		"SNYK-JS-VELOEXTERNALDATABASEADAPTER-5870991"
 	],
 	"summary": "Malicious code in velo-external-database-adapter (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (b9c7e720483399030f4aa6ca225732c8aab633f862302071086c02e3d990993a)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,10 @@
 					]
 				}
 			],
+			"versions": [
+				"47.47.48",
+				"48.47.48"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +46,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-c86j-68rj-jg3c"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/velo-external-database-adapter"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-VELOEXTERNALDATABASEADAPTER-5870991"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +83,17 @@
 				],
 				"sha256": "b9c7e720483399030f4aa6ca225732c8aab633f862302071086c02e3d990993a",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-02583",
+				"import_time": "2024-06-28T02:46:22.033260963Z",
+				"modified_time": "2024-06-25T13:18:49Z",
+				"sha256": "14f709ac352ab991a88397d955feb4690a63d69e587fa2f145ce6b3211a60ef3",
+				"source": "reversing-labs",
+				"versions": [
+					"47.47.48",
+					"48.47.48"
+				]
 			}
 		]
 	}

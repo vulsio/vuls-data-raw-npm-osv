@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-641",
-	"modified": "2023-11-08T04:17:07.230931Z",
+	"modified": "2024-06-28T03:27:18.193804Z",
 	"published": "2023-02-24T01:20:23Z",
 	"aliases": [
-		"GHSA-832w-mh2q-3745"
+		"GHSA-832w-mh2q-3745",
+		"SNYK-JS-NOTEBOOKLANGUAGESERVER-5870429"
 	],
 	"summary": "Malicious code in notebooklanguageserver (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (10d44ae2fa83d07ba50dafc11fe63ba5a774daa5f6968b01a3d5f44df8034f12)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,10 @@
 					]
 				}
 			],
+			"versions": [
+				"3.0.0",
+				"2.0.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +46,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-832w-mh2q-3745"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/notebooklanguageserver"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-NOTEBOOKLANGUAGESERVER-5870429"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +83,17 @@
 				],
 				"sha256": "10d44ae2fa83d07ba50dafc11fe63ba5a774daa5f6968b01a3d5f44df8034f12",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-01462",
+				"import_time": "2024-06-28T02:44:10.371664488Z",
+				"modified_time": "2024-06-25T12:53:10Z",
+				"sha256": "fa04f3775be7f5d1c657fdf9d4b0102a2471e726f8c09cc28bd06073154efda6",
+				"source": "reversing-labs",
+				"versions": [
+					"3.0.0",
+					"2.0.0"
+				]
 			}
 		]
 	}

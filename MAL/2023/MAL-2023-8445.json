@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-8445",
-	"modified": "2023-11-08T04:20:22.017438Z",
+	"modified": "2024-06-28T03:14:24.294174Z",
 	"published": "2023-11-06T15:13:15Z",
 	"aliases": [
-		"GHSA-j49r-qv84-rfxr"
+		"GHSA-j49r-qv84-rfxr",
+		"MAL-2024-3961"
 	],
 	"summary": "Malicious code in @inventashif/workspace-1 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (5fe4fedd5d11a10d847f74fc3fa803fcacb0f7484be032ee6b87bdb61e84ed31)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",

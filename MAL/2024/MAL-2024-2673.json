@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-2673",
+	"modified": "2024-06-25T12:19:57Z",
+	"published": "2024-06-25T12:19:57Z",
+	"summary": "Malicious code in mp-cashier (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "mp-cashier",
+				"purl": "pkg:npm/%40fdfe/mp-cashier"
+			},
+			"versions": [
+				"4.3.22"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mp-cashier/MAL-2024-2673.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-00080",
+				"import_time": "2024-06-28T02:41:22.190244153Z",
+				"modified_time": "2024-06-25T12:19:57Z",
+				"sha256": "2151e5306211ee1b16d6fa0bca178d55d1c29350daba208dfedede537cb51600",
+				"source": "reversing-labs",
+				"versions": [
+					"4.3.22"
+				]
+			}
+		]
+	}
+}

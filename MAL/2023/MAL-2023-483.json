@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-483",
-	"modified": "2023-11-08T04:19:18.631935Z",
+	"modified": "2024-06-28T02:53:16Z",
 	"published": "2023-05-09T01:12:23Z",
 	"aliases": [
 		"GHSA-g54p-jprm-hq75"
@@ -25,6 +25,9 @@
 					]
 				}
 			],
+			"versions": [
+				"1.1.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +44,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-g54p-jprm-hq75"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +73,16 @@
 				],
 				"sha256": "98f071169e7073d857574a9f99eee16a7fd1cbc82b9a8bcfc92c0303f2c9263a",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-01101",
+				"import_time": "2024-06-28T02:43:25.570575725Z",
+				"modified_time": "2024-06-25T12:44:45Z",
+				"sha256": "c818efbd1aac74bb8ee0c9eb1ae2a7ae90f25dc87cb01a4c03c2e846c1e195e0",
+				"source": "reversing-labs",
+				"versions": [
+					"1.1.0"
+				]
 			}
 		]
 	}

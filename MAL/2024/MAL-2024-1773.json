@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-1773",
+	"modified": "2024-06-25T12:28:24Z",
+	"published": "2024-06-25T12:28:24Z",
+	"summary": "Malicious code in areyoustillindexing3 (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "areyoustillindexing3",
+				"purl": "pkg:npm/areyoustillindexing3"
+			},
+			"versions": [
+				"69.2.22"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/areyoustillindexing3/MAL-2024-1773.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-00362",
+				"import_time": "2024-06-28T02:41:56.498086048Z",
+				"modified_time": "2024-06-25T12:28:24Z",
+				"sha256": "3217f58f56f16ae72f8224aea3ef333ab3574ea9294c02a27b03c10f00e71c43",
+				"source": "reversing-labs",
+				"versions": [
+					"69.2.22"
+				]
+			}
+		]
+	}
+}

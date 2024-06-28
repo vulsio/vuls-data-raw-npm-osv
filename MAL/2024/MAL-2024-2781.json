@@ -1,0 +1,60 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-2781",
+	"modified": "2024-06-28T03:14:12.041723Z",
+	"published": "2024-06-25T12:22:29Z",
+	"aliases": [
+		"GHSA-m52q-5wxm-4gjw",
+		"MAL-2024-67"
+	],
+	"summary": "Malicious code in ocore (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "ocore",
+				"purl": "pkg:npm/%40snip3rxd/ocore"
+			},
+			"versions": [
+				"1.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ocore/MAL-2024-2781.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://github.com/advisories/GHSA-m52q-5wxm-4gjw"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/%40snip3rxd/ocore/MAL-2024-67.json"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-00200",
+				"import_time": "2024-06-28T02:41:36.599012201Z",
+				"modified_time": "2024-06-25T12:22:29Z",
+				"sha256": "76ca17bcae05cfa1368f072f399a109c5a4037cec5d570c1441dc5a869ee03e9",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.0"
+				]
+			}
+		]
+	}
+}

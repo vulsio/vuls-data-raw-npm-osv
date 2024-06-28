@@ -1,0 +1,59 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-3137",
+	"modified": "2024-06-28T03:14:42.506154Z",
+	"published": "2024-06-25T13:04:21Z",
+	"aliases": [
+		"SNYK-JS-TOOLSACCESSEXPRESS-3326405"
+	],
+	"summary": "Malicious code in tools-access-express (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "tools-access-express",
+				"purl": "pkg:npm/tools-access-express"
+			},
+			"versions": [
+				"4.1.8",
+				"4.1.7",
+				"4.8.7"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tools-access-express/MAL-2024-3137.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-TOOLSACCESSEXPRESS-3326405"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-01895",
+				"import_time": "2024-06-28T02:45:01.562961963Z",
+				"modified_time": "2024-06-25T13:04:21Z",
+				"sha256": "b100ddb1eee212a5e53608774a6b98c4e3f3f3e99271654c7ad168bfb9c0cfd1",
+				"source": "reversing-labs",
+				"versions": [
+					"4.1.8",
+					"4.1.7",
+					"4.8.7"
+				]
+			}
+		]
+	}
+}

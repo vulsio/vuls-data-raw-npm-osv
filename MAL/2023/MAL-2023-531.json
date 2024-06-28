@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-531",
-	"modified": "2023-11-08T04:19:48.950030Z",
+	"modified": "2024-06-28T03:13:55.158542Z",
 	"published": "2023-03-29T00:01:17Z",
 	"aliases": [
-		"GHSA-h3xw-jpfw-wm4w"
+		"GHSA-h3xw-jpfw-wm4w",
+		"SNYK-JS-INTSTRIPESFRA-5291378"
 	],
 	"summary": "Malicious code in int_stripe_sfra (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (0e3383fb671928bf93e4fe1a3952d3619066b80732e1ce3a4450fd1be6b362cc)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"99.9.9"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,19 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-h3xw-jpfw-wm4w"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-INTSTRIPESFRA-5291378"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +78,16 @@
 				],
 				"sha256": "0e3383fb671928bf93e4fe1a3952d3619066b80732e1ce3a4450fd1be6b362cc",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-01198",
+				"import_time": "2024-06-28T02:43:37.332243003Z",
+				"modified_time": "2024-06-25T12:47:04Z",
+				"sha256": "ea4a1c8652078a0679c50437141ddb0b4c8f20ad787469b51d5308dc86eb15c7",
+				"source": "reversing-labs",
+				"versions": [
+					"99.9.9"
+				]
 			}
 		]
 	}

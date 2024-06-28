@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-2315",
+	"modified": "2024-06-25T12:20:10Z",
+	"published": "2024-06-25T12:20:10Z",
+	"summary": "Malicious code in es-header-footer (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "es-header-footer",
+				"purl": "pkg:npm/%40hkbn/es-header-footer"
+			},
+			"versions": [
+				"7.1.7",
+				"7.1.4",
+				"7.1.6",
+				"7.1.5"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/es-header-footer/MAL-2024-2315.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-00091",
+				"import_time": "2024-06-28T02:41:23.62637717Z",
+				"modified_time": "2024-06-25T12:20:10Z",
+				"sha256": "d43096b51d3853e2e858402233312ef992c8181142c4b782c4552bf24eae1cee",
+				"source": "reversing-labs",
+				"versions": [
+					"7.1.7",
+					"7.1.4",
+					"7.1.6",
+					"7.1.5"
+				]
+			}
+		]
+	}
+}

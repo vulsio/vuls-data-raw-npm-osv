@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-217",
-	"modified": "2023-11-08T04:19:48.704512Z",
+	"modified": "2024-06-28T03:14:26.574069Z",
 	"published": "2023-02-02T19:41:45Z",
 	"aliases": [
-		"GHSA-h3vh-jj68-c8fp"
+		"GHSA-h3vh-jj68-c8fp",
+		"SNYK-JS-CRYPTOTICKETS-3336119"
 	],
 	"summary": "Malicious code in cryptotickets (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (a1dc5532ae9f4b871ff1eb941c8f25adc913a1fe9d5ea089bcd486887b2a7c19)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"99.99.99"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,19 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-h3vh-jj68-c8fp"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-CRYPTOTICKETS-3336119"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +78,16 @@
 				],
 				"sha256": "a1dc5532ae9f4b871ff1eb941c8f25adc913a1fe9d5ea089bcd486887b2a7c19",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-00649",
+				"import_time": "2024-06-28T02:42:30.816333706Z",
+				"modified_time": "2024-06-25T12:34:39Z",
+				"sha256": "149eadb2f99fb3ba2363ed67d4203bf27af4663077e1a46dbb5eb57aaa4ec648",
+				"source": "reversing-labs",
+				"versions": [
+					"99.99.99"
+				]
 			}
 		]
 	}

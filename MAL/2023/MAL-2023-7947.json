@@ -1,10 +1,13 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-7947",
-	"modified": "2023-11-08T04:20:52.237638Z",
+	"modified": "2024-06-28T03:14:03.520161Z",
 	"published": "2023-08-29T05:11:53Z",
 	"aliases": [
-		"GHSA-m42c-8f94-fh9x"
+		"GHSA-327r-93j8-g8hc",
+		"GHSA-m42c-8f94-fh9x",
+		"MAL-2023-7953",
+		"SNYK-JS-BTLOTUSCICDESLINTCONFIGLOTUS-5864882"
 	],
 	"summary": "Malicious code in @bt-lotus-cicd/eslint-config-lotus (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (4d77f679c79d9699e68511d896addd3fddc773bc3f89c4a8f38c6f763f68a903)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",

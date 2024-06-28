@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1581",
-	"modified": "2024-06-12T00:42:28.885080Z",
+	"modified": "2024-06-28T02:53:16Z",
 	"published": "2024-06-11T11:47:01Z",
 	"aliases": [
 		"GHSA-jcp8-qcfj-h576"
@@ -25,6 +25,9 @@
 					]
 				}
 			],
+			"versions": [
+				"4.10.5"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +44,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-jcp8-qcfj-h576"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +73,16 @@
 				],
 				"sha256": "d714a330056d61b303e703615cd667da1871ff920b7563ed5d20d42d5b68c7be",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-01450",
+				"import_time": "2024-06-28T02:44:09.049325667Z",
+				"modified_time": "2024-06-25T12:52:55Z",
+				"sha256": "0c77037cd6a44350fb7c84fae33ab4bba6639363121db9362939f5ccd40baa06",
+				"source": "reversing-labs",
+				"versions": [
+					"4.10.5"
+				]
 			}
 		]
 	}

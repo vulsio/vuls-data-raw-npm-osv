@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1351",
-	"modified": "2024-05-09T00:42:48.817866Z",
+	"modified": "2024-06-28T03:14:22.695449Z",
 	"published": "2024-05-08T02:09:54Z",
 	"aliases": [
-		"GHSA-vqv9-qg4h-fq32"
+		"GHSA-vqv9-qg4h-fq32",
+		"SNYK-JS-SCCHIMERRA-6814368"
 	],
 	"summary": "Malicious code in sc-chimerra (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (3a106b927a97b76a0d2cbd0b8a5b6b03bd325ff075a0747b3d0f370b62f0d691)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"1.0.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-vqv9-qg4h-fq32"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-SCCHIMERRA-6814368"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/sc-chimerra"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +82,16 @@
 				],
 				"sha256": "3a106b927a97b76a0d2cbd0b8a5b6b03bd325ff075a0747b3d0f370b62f0d691",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-01713",
+				"import_time": "2024-06-28T02:44:40.483091108Z",
+				"modified_time": "2024-06-25T12:59:56Z",
+				"sha256": "187c6630d167b8332386cdfd36f53220e338104990f5f32ab887e21b13532465",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.0"
+				]
 			}
 		]
 	}

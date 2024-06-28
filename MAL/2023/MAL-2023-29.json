@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-29",
-	"modified": "2023-11-08T04:18:38.377650Z",
+	"modified": "2024-06-28T03:14:21.064766Z",
 	"published": "2023-05-29T01:20:00Z",
 	"aliases": [
-		"GHSA-cv2q-h4r4-rhcf"
+		"GHSA-cv2q-h4r4-rhcf",
+		"MAL-2024-2273"
 	],
 	"summary": "Malicious code in @brand_apps/easystart (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (2c717d46d6be03f627a5dd22496e0e0f20d6c159f0bf51e222789857061b0397)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",

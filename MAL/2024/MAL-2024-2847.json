@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-2847",
+	"modified": "2024-06-25T12:55:22Z",
+	"published": "2024-06-25T12:55:22Z",
+	"summary": "Malicious code in payload_package123 (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "payload_package123",
+				"purl": "pkg:npm/payload_package123"
+			},
+			"versions": [
+				"1.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/payload_package123/MAL-2024-2847.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-01560",
+				"import_time": "2024-06-28T02:44:22.132835557Z",
+				"modified_time": "2024-06-25T12:55:22Z",
+				"sha256": "1a20a81c715941e8903bcd3f7c256c5c9e608c88f4bf88bbfd970274fdd6d003",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.0"
+				]
+			}
+		]
+	}
+}

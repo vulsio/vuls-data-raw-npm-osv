@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-2638",
+	"modified": "2024-06-25T12:49:37Z",
+	"published": "2024-06-25T12:49:37Z",
+	"summary": "Malicious code in lookerbot (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "lookerbot",
+				"purl": "pkg:npm/lookerbot"
+			},
+			"versions": [
+				"2000.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/lookerbot/MAL-2024-2638.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-01314",
+				"import_time": "2024-06-28T02:43:52.107890928Z",
+				"modified_time": "2024-06-25T12:49:37Z",
+				"sha256": "8ed5e20bbf74be0ea66f22f4b53f73af2aa1b36d695fab111010be7b691cafbb",
+				"source": "reversing-labs",
+				"versions": [
+					"2000.0.0"
+				]
+			}
+		]
+	}
+}

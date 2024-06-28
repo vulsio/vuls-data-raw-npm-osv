@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1640",
-	"modified": "2024-06-19T00:42:23.665381Z",
+	"modified": "2024-06-28T02:53:18Z",
 	"published": "2024-06-18T06:50:34Z",
 	"aliases": [
 		"GHSA-5whm-866r-45x8"
@@ -25,6 +25,9 @@
 					]
 				}
 			],
+			"versions": [
+				"0.1.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +44,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-5whm-866r-45x8"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +73,16 @@
 				],
 				"sha256": "2010f8d2281230e81c4e7549be2af22ce8a41d11b5ae8d1920eb69b3aece581b",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-02604",
+				"import_time": "2024-06-28T02:46:24.598454069Z",
+				"modified_time": "2024-06-25T13:19:14Z",
+				"sha256": "50c5b84fd2e1f6e5542ecc1768ce38108772145326e050388747a86bd5a0d185",
+				"source": "reversing-labs",
+				"versions": [
+					"0.1.0"
+				]
 			}
 		]
 	}

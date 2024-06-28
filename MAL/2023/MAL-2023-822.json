@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-822",
-	"modified": "2023-11-08T04:19:41.734323Z",
+	"modified": "2024-06-28T03:13:56.511162Z",
 	"published": "2023-04-12T02:02:36Z",
 	"aliases": [
-		"GHSA-gw57-mhqw-7h96"
+		"GHSA-gw57-mhqw-7h96",
+		"SNYK-JS-SUSHIUIWEB-5870396"
 	],
 	"summary": "Malicious code in sushi-ui-web (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (f7a50a0fd5d6f388a06e577f41fac54acc3c95868cec0f773ff5ff5d7cb8c1da)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"68.2.2"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-gw57-mhqw-7h96"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/sushi-ui-web"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-SUSHIUIWEB-5870396"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +82,16 @@
 				],
 				"sha256": "f7a50a0fd5d6f388a06e577f41fac54acc3c95868cec0f773ff5ff5d7cb8c1da",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-01807",
+				"import_time": "2024-06-28T02:44:51.315874138Z",
+				"modified_time": "2024-06-25T13:02:25Z",
+				"sha256": "231544f58ec835c3c967a148274f4578c5f76afba2e0c11ffac1eb056b43a28e",
+				"source": "reversing-labs",
+				"versions": [
+					"68.2.2"
+				]
 			}
 		]
 	}

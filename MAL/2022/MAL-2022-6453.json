@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2022-6453",
-	"modified": "2023-11-08T04:17:40.836207Z",
+	"modified": "2024-06-28T02:53:17Z",
 	"published": "2022-06-20T20:24:38Z",
 	"aliases": [
 		"GHSA-942q-r9pq-xr4c"
@@ -25,6 +25,9 @@
 					]
 				}
 			],
+			"versions": [
+				"1.0.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +44,19 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-942q-r9pq-xr4c"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/groundhog-day-npm-package-caught-stealing-browser-passwords"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +77,16 @@
 				],
 				"sha256": "3c074d222e3d61a58cb0f939b2056f9ad1d3ccd4f320dddbf700889562789370",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-01840",
+				"import_time": "2024-06-28T02:44:55.259704592Z",
+				"modified_time": "2024-06-25T13:03:09Z",
+				"sha256": "0138bb997dd818724e87336104124f0cfb995fb3cd6cc48dcaf8c33c03b58ce0",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.0"
+				]
 			}
 		]
 	}

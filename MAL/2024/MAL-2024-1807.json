@@ -1,0 +1,61 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-1807",
+	"modified": "2024-06-28T03:14:36.041793Z",
+	"published": "2024-06-25T12:20:08Z",
+	"aliases": [
+		"SNYK-JS-HARRYSFORGEUIBADGE-5666399"
+	],
+	"summary": "Malicious code in badge (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "badge",
+				"purl": "pkg:npm/%40harrysforge-ui/badge"
+			},
+			"versions": [
+				"99.0.4",
+				"99.0.2",
+				"100.0.4",
+				"101.0.4"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/badge/MAL-2024-1807.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-HARRYSFORGEUIBADGE-5666399"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-00089",
+				"import_time": "2024-06-28T02:41:23.253018351Z",
+				"modified_time": "2024-06-25T12:20:08Z",
+				"sha256": "5d99c15d53208db3fbd12b9af156cdd1e961cfff5e5cc4ee8e0538c07c76b14b",
+				"source": "reversing-labs",
+				"versions": [
+					"99.0.4",
+					"99.0.2",
+					"100.0.4",
+					"101.0.4"
+				]
+			}
+		]
+	}
+}

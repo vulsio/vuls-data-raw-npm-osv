@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-289",
-	"modified": "2023-11-08T04:21:02.219070Z",
+	"modified": "2024-06-28T02:53:16Z",
 	"published": "2023-04-17T02:10:21Z",
 	"aliases": [
 		"GHSA-mcr8-7jcr-p4mw"
@@ -25,6 +25,9 @@
 					]
 				}
 			],
+			"versions": [
+				"68.2.2"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +44,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-mcr8-7jcr-p4mw"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +73,16 @@
 				],
 				"sha256": "f760fb2e0f1f22f54f8e0db3457dc3a9ca3d481b743d22df2ebefc64619b7284",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-00914",
+				"import_time": "2024-06-28T02:43:03.019666441Z",
+				"modified_time": "2024-06-25T12:40:37Z",
+				"sha256": "1c7a9f4ca65f5b09bd98ad755e3ee81c0ef3763fe58c9b97094cd02c67349c1f",
+				"source": "reversing-labs",
+				"versions": [
+					"68.2.2"
+				]
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-633",
-	"modified": "2023-11-08T04:18:10.667872Z",
+	"modified": "2024-06-28T02:53:16Z",
 	"published": "2023-05-09T06:46:27Z",
 	"aliases": [
 		"GHSA-c34x-7jfx-xp2w"
@@ -25,6 +25,9 @@
 					]
 				}
 			],
+			"versions": [
+				"0.0.1"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +44,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-c34x-7jfx-xp2w"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +73,16 @@
 				],
 				"sha256": "5ae6d965935a10741f1389a09905356a09e9d7358dc5e8d1e3b56fac4602c78d",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-01456",
+				"import_time": "2024-06-28T02:44:09.707420242Z",
+				"modified_time": "2024-06-25T12:53:04Z",
+				"sha256": "1d7045e63cd7f9dcd0b199f83c88110dd6c37e90a8fc1312b408b986c83e35f3",
+				"source": "reversing-labs",
+				"versions": [
+					"0.0.1"
+				]
 			}
 		]
 	}

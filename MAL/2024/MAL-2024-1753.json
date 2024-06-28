@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-1753",
+	"modified": "2024-06-25T12:23:11Z",
+	"published": "2024-06-25T12:23:11Z",
+	"summary": "Malicious code in analytics (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "analytics",
+				"purl": "pkg:npm/%40y9d-adobe/analytics"
+			},
+			"versions": [
+				"20.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/analytics/MAL-2024-1753.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-00227",
+				"import_time": "2024-06-28T02:41:39.71307795Z",
+				"modified_time": "2024-06-25T12:23:11Z",
+				"sha256": "aedfe8dc72f050a6b5e1132c31b8817903ae8b403f359bb3cebbe9593548be2c",
+				"source": "reversing-labs",
+				"versions": [
+					"20.0.0"
+				]
+			}
+		]
+	}
+}

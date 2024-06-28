@@ -1,0 +1,57 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-2785",
+	"modified": "2024-06-28T03:14:37.736026Z",
+	"published": "2024-06-25T12:53:51Z",
+	"aliases": [
+		"SNYK-JS-OFFICEFLUIDCONTAINER-3358910"
+	],
+	"summary": "Malicious code in office-fluid-container (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "office-fluid-container",
+				"purl": "pkg:npm/office-fluid-container"
+			},
+			"versions": [
+				"1.0.1",
+				"1.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/office-fluid-container/MAL-2024-2785.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-OFFICEFLUIDCONTAINER-3358910"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-01491",
+				"import_time": "2024-06-28T02:44:13.724918998Z",
+				"modified_time": "2024-06-25T12:53:51Z",
+				"sha256": "932adab4f300f7ede93d206e07e9f72be1a799921b8bc294977e5d77e585d423",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.1",
+					"1.0.0"
+				]
+			}
+		]
+	}
+}

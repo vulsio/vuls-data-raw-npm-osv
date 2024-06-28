@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-2886",
+	"modified": "2024-06-25T12:56:23Z",
+	"published": "2024-06-25T12:56:23Z",
+	"summary": "Malicious code in postman-labs-docs (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "postman-labs-docs",
+				"purl": "pkg:npm/postman-labs-docs"
+			},
+			"versions": [
+				"1.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/postman-labs-docs/MAL-2024-2886.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-01608",
+				"import_time": "2024-06-28T02:44:27.931909827Z",
+				"modified_time": "2024-06-25T12:56:23Z",
+				"sha256": "7f36115410e9edc7b98b0ebfca36f861eeaa0c46ba8cb7c8b57b52303f2807cc",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.0"
+				]
+			}
+		]
+	}
+}

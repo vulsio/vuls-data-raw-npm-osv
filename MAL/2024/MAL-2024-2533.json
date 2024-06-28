@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-2533",
+	"modified": "2024-06-25T12:47:19Z",
+	"published": "2024-06-25T12:47:19Z",
+	"summary": "Malicious code in ions-package (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "ions-package",
+				"purl": "pkg:npm/ions-package"
+			},
+			"versions": [
+				"3.2.7"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ions-package/MAL-2024-2533.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-01210",
+				"import_time": "2024-06-28T02:43:38.830528602Z",
+				"modified_time": "2024-06-25T12:47:19Z",
+				"sha256": "383cbe891497fec5f67baba888aa8b4419a769fc7ee4dc1b2ea00ac076968699",
+				"source": "reversing-labs",
+				"versions": [
+					"3.2.7"
+				]
+			}
+		]
+	}
+}

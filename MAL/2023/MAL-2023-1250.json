@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-1250",
-	"modified": "2023-11-08T04:21:55.181448Z",
+	"modified": "2024-06-28T03:14:05.959336Z",
 	"published": "2023-08-09T00:11:04Z",
 	"aliases": [
-		"GHSA-q29f-9g47-qqxq"
+		"GHSA-q29f-9g47-qqxq",
+		"SNYK-JS-NOBLOXJSSSH-5851221"
 	],
 	"summary": "Malicious code in noblox.js-ssh (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (54d256313b540a1d57c4e1113c411f1a40210f65c3737a5f68ea3b324e23b054)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n\n## Source: ossf-package-analysis (e4c8c2f7faff06e509d42cbc72f12455d8eeda39dba55a0c149255aa0ec49e1a)\nThe OpenSSF Package Analysis project identified 'noblox.js-ssh' @ 4.2.5 (npm) as malicious.\n\nIt is considered malicious because:\n- The package communicates with a domain associated with malicious activity.\n",
@@ -26,7 +27,9 @@
 				}
 			],
 			"versions": [
-				"4.2.5"
+				"4.2.5",
+				"4.2.3",
+				"4.2.4"
 			],
 			"database_specific": {
 				"cwes": [
@@ -44,6 +47,14 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-q29f-9g47-qqxq"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/fake-roblox-api-packages-luna-grabber-npm"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-NOBLOXJSSSH-5851221"
 		}
 	],
 	"credits": [
@@ -52,6 +63,13 @@
 			"contact": [
 				"https://github.com/ossf/package-analysis",
 				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		},
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
 			],
 			"type": "FINDER"
 		}
@@ -83,6 +101,18 @@
 				],
 				"sha256": "54d256313b540a1d57c4e1113c411f1a40210f65c3737a5f68ea3b324e23b054",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-01454",
+				"import_time": "2024-06-28T02:44:09.514169261Z",
+				"modified_time": "2024-06-25T12:52:58Z",
+				"sha256": "27b6ad4ac8fa07b4c69b18658ba174357a55b8305a59b39f5fede21efe105541",
+				"source": "reversing-labs",
+				"versions": [
+					"4.2.5",
+					"4.2.3",
+					"4.2.4"
+				]
 			}
 		]
 	}

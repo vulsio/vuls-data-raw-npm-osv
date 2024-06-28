@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-290",
-	"modified": "2023-11-08T04:15:01.503374Z",
+	"modified": "2024-06-28T02:53:16Z",
 	"published": "2023-04-17T02:10:20Z",
 	"aliases": [
 		"GHSA-472x-vppg-gvj5"
@@ -25,6 +25,9 @@
 					]
 				}
 			],
+			"versions": [
+				"68.2.2"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +44,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-472x-vppg-gvj5"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +73,16 @@
 				],
 				"sha256": "a3857cd535de263c6bc08caaf87b458f00b7c3c5f19032e63513a2656618c8e0",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-00915",
+				"import_time": "2024-06-28T02:43:03.172728512Z",
+				"modified_time": "2024-06-25T12:40:38Z",
+				"sha256": "bc3d29d6792bccfe6b0ecb48dd695be80d0c9a20d1991cc490cf0d69eb71f1c8",
+				"source": "reversing-labs",
+				"versions": [
+					"68.2.2"
+				]
 			}
 		]
 	}

@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2022-3100",
-	"modified": "2023-11-08T04:16:29.827635Z",
+	"modified": "2024-06-28T03:14:00.810197Z",
 	"published": "2022-08-19T02:03:26Z",
 	"aliases": [
-		"GHSA-6w7w-xfwg-995q"
+		"GHSA-6w7w-xfwg-995q",
+		"SNYK-JS-FOOTERICONFOOTERICON-5870450"
 	],
 	"summary": "Malicious code in footericonfootericon (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (a69fcc3eb5f93b78ee057aca7a0a48dd69378f169659852e02f99bf774bcb127)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"3.7.1"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,27 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-6w7w-xfwg-995q"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-FOOTERICONFOOTERICON-5870450"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/iconburst-npm-software-supply-chain-attack-grabs-data-from-apps-websites"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/footericonfootericon"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +86,16 @@
 				],
 				"sha256": "a69fcc3eb5f93b78ee057aca7a0a48dd69378f169659852e02f99bf774bcb127",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-01044",
+				"import_time": "2024-06-28T02:43:18.740111147Z",
+				"modified_time": "2024-06-25T12:43:25Z",
+				"sha256": "d3607fa95043f6e85bf45cc1f8c6ace5efe207be5f6f36f890a7c2b5c37bac90",
+				"source": "reversing-labs",
+				"versions": [
+					"3.7.1"
+				]
 			}
 		]
 	}

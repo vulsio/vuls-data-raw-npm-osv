@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-1149",
-	"modified": "2023-05-09T04:17:06Z",
+	"modified": "2024-06-28T03:14:33.167141Z",
 	"published": "2023-05-09T04:17:06Z",
+	"aliases": [
+		"SNYK-JS-CYCLOTRONSVC-3358802"
+	],
 	"summary": "Malicious code in cyclotron-svc (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (4f8b0a1aa798da64bb0b8fd50b7a301eb9c0bec31e520948a8b30275bcbe318b)\nThe OpenSSF Package Analysis project identified 'cyclotron-svc' @ 5.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n- The package communicates with a domain associated with malicious activity.\n",
 	"affected": [
@@ -20,12 +23,25 @@
 			}
 		}
 	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-CYCLOTRONSVC-3358802"
+		}
+	],
 	"credits": [
 		{
 			"name": "OpenSSF: Package Analysis",
 			"contact": [
 				"https://github.com/ossf/package-analysis",
 				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		},
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
 			],
 			"type": "FINDER"
 		}
@@ -37,6 +53,16 @@
 				"modified_time": "2023-05-09T04:17:06.883459656Z",
 				"sha256": "4f8b0a1aa798da64bb0b8fd50b7a301eb9c0bec31e520948a8b30275bcbe318b",
 				"source": "ossf-package-analysis",
+				"versions": [
+					"5.0.0"
+				]
+			},
+			{
+				"id": "RLMA-2024-00670",
+				"import_time": "2024-06-28T02:42:33.332178609Z",
+				"modified_time": "2024-06-25T12:35:09Z",
+				"sha256": "98c16f58e345914e4c395ddd3298d2c8cc632f8b83dcf43bda35872d594a78ab",
+				"source": "reversing-labs",
 				"versions": [
 					"5.0.0"
 				]

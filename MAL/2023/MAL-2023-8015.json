@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-8015",
-	"modified": "2023-09-01T20:12:58Z",
+	"modified": "2024-06-28T03:14:32.590218Z",
 	"published": "2023-07-26T00:00:00Z",
+	"aliases": [
+		"SNYK-JS-CNPALCORPFRONT-5876593"
+	],
 	"summary": "Malicious code in cnp_al_corp_front (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: checkmarx (ca87bb9f11572bb7178a087d94273972886a104b0d9f9b25ea8799b418f8c85c)\nMalicious packages campaign since 2021 targeting developers, steals source code and secrets\n",
 	"affected": [
@@ -22,6 +25,11 @@
 					]
 				}
 			],
+			"versions": [
+				"1.999.0",
+				"0.1.999",
+				"0.1.0"
+			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cnp_al_corp_front/MAL-2023-8015.json"
 			}
@@ -31,6 +39,10 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://medium.com/checkmarx-security/an-ongoing-open-source-attack-reveals-roots-dating-back-to-2021-4a511979fd98"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-CNPALCORPFRONT-5876593"
 		}
 	],
 	"credits": [
@@ -39,6 +51,13 @@
 			"contact": [
 				"supplychainsecurity@checkmarx.com",
 				"https://bit.ly/checkmarx-malicious-packages"
+			],
+			"type": "FINDER"
+		},
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
 			],
 			"type": "FINDER"
 		}
@@ -99,6 +118,18 @@
 				],
 				"sha256": "ca87bb9f11572bb7178a087d94273972886a104b0d9f9b25ea8799b418f8c85c",
 				"source": "checkmarx"
+			},
+			{
+				"id": "RLMA-2024-00602",
+				"import_time": "2024-06-28T02:42:25.43524751Z",
+				"modified_time": "2024-06-25T12:33:40Z",
+				"sha256": "f787119cbe674342773879f6c2e8668a6a6c8cbb71f7199f6ac3b5a5d4bbeb3b",
+				"source": "reversing-labs",
+				"versions": [
+					"1.999.0",
+					"0.1.999",
+					"0.1.0"
+				]
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-174",
-	"modified": "2023-11-08T04:19:41.796951Z",
+	"modified": "2024-06-28T02:53:15Z",
 	"published": "2023-04-12T02:02:36Z",
 	"aliases": [
 		"GHSA-gw59-r2cp-9qv4"
@@ -25,6 +25,9 @@
 					]
 				}
 			],
+			"versions": [
+				"68.5.2"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +44,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-gw59-r2cp-9qv4"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +73,16 @@
 				],
 				"sha256": "1b6c81ff2e93760eb7bdf531dd3932fcfeb0de068e99ab2d1910004c1b0ed884",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-00573",
+				"import_time": "2024-06-28T02:42:21.96104725Z",
+				"modified_time": "2024-06-25T12:33:05Z",
+				"sha256": "c334ba0041298466e4761fc5cf36eed54e2a68c1a7e496f2317363a63477579a",
+				"source": "reversing-labs",
+				"versions": [
+					"68.5.2"
+				]
 			}
 		]
 	}

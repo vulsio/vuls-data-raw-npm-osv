@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-3014",
+	"modified": "2024-06-25T13:00:42Z",
+	"published": "2024-06-25T13:00:42Z",
+	"summary": "Malicious code in shopify-app-template-php (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "shopify-app-template-php",
+				"purl": "pkg:npm/shopify-app-template-php"
+			},
+			"versions": [
+				"9.9.9"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/shopify-app-template-php/MAL-2024-3014.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-01741",
+				"import_time": "2024-06-28T02:44:43.756716188Z",
+				"modified_time": "2024-06-25T13:00:42Z",
+				"sha256": "4ae6ce23f17e47cd8aa58a06fae322d143316bed71a362790d3a196e83d1c21f",
+				"source": "reversing-labs",
+				"versions": [
+					"9.9.9"
+				]
+			}
+		]
+	}
+}

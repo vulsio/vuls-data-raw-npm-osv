@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-8199",
-	"modified": "2023-11-08T04:23:55.890314Z",
+	"modified": "2024-06-28T03:14:16.982045Z",
 	"published": "2023-09-21T01:42:05Z",
 	"aliases": [
-		"GHSA-wphm-q9gv-6hch"
+		"GHSA-wphm-q9gv-6hch",
+		"MAL-2024-2531"
 	],
 	"summary": "Malicious code in @zettle-bo/inventory (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (d6262bbe576936f351b23ae859a7a6109329ac53866ece0189c1a9feee444159)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",

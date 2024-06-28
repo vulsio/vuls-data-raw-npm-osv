@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2022-2512",
-	"modified": "2023-11-08T04:17:53.850135Z",
+	"modified": "2024-06-28T02:53:16Z",
 	"published": "2022-07-14T00:33:17Z",
 	"aliases": [
 		"GHSA-9fp2-r67f-f93r"
@@ -25,6 +25,10 @@
 					]
 				}
 			],
+			"versions": [
+				"3.0.5",
+				"2.0.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,19 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-9fp2-r67f-f93r"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://checkmarx.com/blog/lofygang-software-supply-chain-attackers-organized-persistent-and-operating-for-over-a-year/"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +78,17 @@
 				],
 				"sha256": "d1ea862e1247c0db67057d25b3765d9648b353aa808909a5faee62d64c657082",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-00731",
+				"import_time": "2024-06-28T02:42:40.58589133Z",
+				"modified_time": "2024-06-25T12:36:37Z",
+				"sha256": "88380e8f00275c8302939dc08853784f2ace621cd652de5565b55ad78e2bc0ce",
+				"source": "reversing-labs",
+				"versions": [
+					"3.0.5",
+					"2.0.0"
+				]
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-515",
-	"modified": "2023-11-08T04:20:37.531008Z",
+	"modified": "2024-06-28T02:53:16Z",
 	"published": "2023-06-05T04:00:37Z",
 	"aliases": [
 		"GHSA-jjph-pwhv-45w9"
@@ -25,6 +25,12 @@
 					]
 				}
 			],
+			"versions": [
+				"1.0.1",
+				"1.0.2",
+				"1.0.3",
+				"1.0.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +47,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-jjph-pwhv-45w9"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +76,19 @@
 				],
 				"sha256": "e21720cf9a4946dccc8cfaf2aeecb605fa378ec130a4c251054a6867ebd163ff",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-01170",
+				"import_time": "2024-06-28T02:43:33.689816565Z",
+				"modified_time": "2024-06-25T12:46:24Z",
+				"sha256": "850530c2e9bbd453ed2ab218b53a12ff12edcd02d4de4cd6d77193399fad2e58",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.1",
+					"1.0.2",
+					"1.0.3",
+					"1.0.0"
+				]
 			}
 		]
 	}

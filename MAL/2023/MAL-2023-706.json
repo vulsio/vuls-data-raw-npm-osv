@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-706",
-	"modified": "2023-11-08T04:16:08.140433Z",
+	"modified": "2024-06-28T02:53:17Z",
 	"published": "2023-06-05T04:00:37Z",
 	"aliases": [
 		"GHSA-67qg-mwx2-26rc"
@@ -25,6 +25,12 @@
 					]
 				}
 			],
+			"versions": [
+				"1.0.1",
+				"1.0.2",
+				"1.0.3",
+				"1.0.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +47,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-67qg-mwx2-26rc"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +76,19 @@
 				],
 				"sha256": "ee67ba2a4127a635013cb8ab79bc1d748c3756aeb2271056f1a97d70a21d4b2e",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-01621",
+				"import_time": "2024-06-28T02:44:29.475687612Z",
+				"modified_time": "2024-06-25T12:56:41Z",
+				"sha256": "26290b727df9e63290fc5c3c311f39830d2004e06e363cbf5b7a921f45310dfa",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.1",
+					"1.0.2",
+					"1.0.3",
+					"1.0.0"
+				]
 			}
 		]
 	}

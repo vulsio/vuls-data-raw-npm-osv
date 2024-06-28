@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-8447",
-	"modified": "2023-11-08T04:17:22.368190Z",
+	"modified": "2024-06-28T03:14:22.109500Z",
 	"published": "2023-11-06T12:17:20Z",
 	"aliases": [
-		"GHSA-8h2x-wq6g-fg6v"
+		"GHSA-8h2x-wq6g-fg6v",
+		"SNYK-JS-AIRSLATECONTROLS-6048867"
 	],
 	"summary": "Malicious code in airslate-controls (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (690f6f02456c41eb2e6abf2b8e2cac6a1480ef7107c64b0da3243848e4767365)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"9.9.9"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-8h2x-wq6g-fg6v"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-AIRSLATECONTROLS-6048867"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/airslate-controls"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +82,16 @@
 				],
 				"sha256": "690f6f02456c41eb2e6abf2b8e2cac6a1480ef7107c64b0da3243848e4767365",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-00318",
+				"import_time": "2024-06-28T02:41:51.193507328Z",
+				"modified_time": "2024-06-25T12:25:22Z",
+				"sha256": "4fbba93df3c90079e5b65072ac311320487a73278c61094a5a748c0b548b4517",
+				"source": "reversing-labs",
+				"versions": [
+					"9.9.9"
+				]
 			}
 		]
 	}

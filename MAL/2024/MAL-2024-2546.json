@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-2546",
+	"modified": "2024-06-25T12:47:36Z",
+	"published": "2024-06-25T12:47:36Z",
+	"summary": "Malicious code in jhgjgdfsdasvbrtyrdfwewqreyrfvbykuyoyosdsdfdhuytrxasdadadasdasdadasdasdasdasd (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "jhgjgdfsdasvbrtyrdfwewqreyrfvbykuyoyosdsdfdhuytrxasdadadasdasdadasdasdasdasd",
+				"purl": "pkg:npm/jhgjgdfsdasvbrtyrdfwewqreyrfvbykuyoyosdsdfdhuytrxasdadadasdasdadasdasdasdasd"
+			},
+			"versions": [
+				"8.7.9"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/jhgjgdfsdasvbrtyrdfwewqreyrfvbykuyoyosdsdfdhuytrxasdadadasdasdadasdasdasdasd/MAL-2024-2546.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-01224",
+				"import_time": "2024-06-28T02:43:40.64288022Z",
+				"modified_time": "2024-06-25T12:47:36Z",
+				"sha256": "85522ed2fb05c7409b681de35f7e89046cb70a70ebf2089e27d9dc538162fce4",
+				"source": "reversing-labs",
+				"versions": [
+					"8.7.9"
+				]
+			}
+		]
+	}
+}

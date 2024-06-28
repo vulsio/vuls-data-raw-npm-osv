@@ -1,0 +1,64 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-2971",
+	"modified": "2024-06-28T03:14:07.717211Z",
+	"published": "2024-06-25T12:23:38Z",
+	"aliases": [
+		"GHSA-g2qv-c7hp-pq3j",
+		"MAL-2023-8207"
+	],
+	"summary": "Malicious code in routes (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "routes",
+				"purl": "pkg:npm/%40zettle-bo/routes"
+			},
+			"versions": [
+				"35.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/routes/MAL-2024-2971.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.sonatype.com/new-npm-poc-packages-target-paypal-zettle-airbnb-developers"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://github.com/advisories/GHSA-g2qv-c7hp-pq3j"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/%40zettle-bo/routes/MAL-2023-8207.json"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-00250",
+				"import_time": "2024-06-28T02:41:42.658432194Z",
+				"modified_time": "2024-06-25T12:23:38Z",
+				"sha256": "852851d78e320ca244a766048e86dc389c403308121e88ee73ae97a145e97019",
+				"source": "reversing-labs",
+				"versions": [
+					"35.0.0"
+				]
+			}
+		]
+	}
+}

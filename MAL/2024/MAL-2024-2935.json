@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-2935",
+	"modified": "2024-06-25T12:20:12Z",
+	"published": "2024-06-25T12:20:12Z",
+	"summary": "Malicious code in react-me (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "react-me",
+				"purl": "pkg:npm/%40hotwire/react-me"
+			},
+			"versions": [
+				"100.100.100"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/react-me/MAL-2024-2935.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-00093",
+				"import_time": "2024-06-28T02:41:23.86169973Z",
+				"modified_time": "2024-06-25T12:20:12Z",
+				"sha256": "49c95785a8c66dec561af0fbc354f2bdde5d96991dda5b5ee2e74218ca90c400",
+				"source": "reversing-labs",
+				"versions": [
+					"100.100.100"
+				]
+			}
+		]
+	}
+}

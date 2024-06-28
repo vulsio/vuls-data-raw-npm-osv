@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-133",
-	"modified": "2023-11-08T04:18:46.266759Z",
+	"modified": "2024-06-28T03:27:19.969594Z",
 	"published": "2023-07-04T00:00:00Z",
 	"aliases": [
-		"GHSA-f46f-8p3c-c9jf"
+		"GHSA-f46f-8p3c-c9jf",
+		"SNYK-JS-BINANCEPRICES-5803119"
 	],
 	"summary": "Malicious code in binance-prices (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: checkmarx (4342ae24f59df91323155ce0522347b014b90b17d911aece62534aa4975cc006)\nLazarus Group targeting blockchain and cryptocurrency companies by exploiting software supply chains through malicious npm packages and social engineering tactics\n\n## Source: ghsa-malware (622ae7e658b31421da7e55e0129b75bb786b369a430017e6d3fbb45bfe87024d)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -24,6 +25,9 @@
 						}
 					]
 				}
+			],
+			"versions": [
+				"1.2.12"
 			],
 			"database_specific": {
 				"cwes": [
@@ -45,6 +49,14 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://medium.com/checkmarx-security/lazarus-group-launches-first-open-source-supply-chain-attacks-targeting-crypto-sector-cabc626e404e"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.phylum.io/junes-sophisticated-npm-attack-attributed-to-north-korea/"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-BINANCEPRICES-5803119"
 		}
 	],
 	"credits": [
@@ -53,6 +65,13 @@
 			"contact": [
 				"supplychainsecurity@checkmarx.com",
 				"https://bit.ly/checkmarx-malicious-packages"
+			],
+			"type": "FINDER"
+		},
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
 			],
 			"type": "FINDER"
 		}
@@ -104,6 +123,16 @@
 				],
 				"sha256": "4342ae24f59df91323155ce0522347b014b90b17d911aece62534aa4975cc006",
 				"source": "checkmarx"
+			},
+			{
+				"id": "RLMA-2024-00414",
+				"import_time": "2024-06-28T02:42:03.102401051Z",
+				"modified_time": "2024-06-25T12:29:39Z",
+				"sha256": "338202b25c96f8255c38f1759419b15d3151ad392296032f4d0bae718ebe2a42",
+				"source": "reversing-labs",
+				"versions": [
+					"1.2.12"
+				]
 			}
 		]
 	}

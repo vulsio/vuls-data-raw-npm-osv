@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1286",
-	"modified": "2024-04-23T00:41:48.325639Z",
+	"modified": "2024-06-28T03:14:10.184441Z",
 	"published": "2024-04-22T06:18:24Z",
 	"aliases": [
-		"GHSA-vcqw-gf2r-c39c"
+		"GHSA-vcqw-gf2r-c39c",
+		"SNYK-JS-DJSSTATUS-6670424"
 	],
 	"summary": "Malicious code in djs-status (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (63cea4fbbb1333188e78d11622c9b943608aea6770144dacf6e1184036a646b7)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,11 @@
 					]
 				}
 			],
+			"versions": [
+				"1.0.1",
+				"1.0.2",
+				"1.0.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +47,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-vcqw-gf2r-c39c"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-DJSSTATUS-6670424"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/djs-status"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +84,18 @@
 				],
 				"sha256": "63cea4fbbb1333188e78d11622c9b943608aea6770144dacf6e1184036a646b7",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-00747",
+				"import_time": "2024-06-28T02:42:42.429143466Z",
+				"modified_time": "2024-06-25T12:37:04Z",
+				"sha256": "822b1139d71c5dce05290a35cee32e88462a5576c2e716c5bacfb891ad682bb6",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.1",
+					"1.0.2",
+					"1.0.0"
+				]
 			}
 		]
 	}

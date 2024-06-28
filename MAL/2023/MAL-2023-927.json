@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-927",
-	"modified": "2023-11-08T04:22:16.438808Z",
+	"modified": "2024-06-28T03:14:03.067982Z",
 	"published": "2023-02-09T00:00:44Z",
 	"aliases": [
-		"GHSA-qjp2-jf2c-xrj2"
+		"GHSA-qjp2-jf2c-xrj2",
+		"SNYK-JS-USAMATURK-5870913"
 	],
 	"summary": "Malicious code in usamaturk (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (87d02f6bdc2aef87b1fe34c7c3d0e97fe812b9e1be74c7c06da4c0a05e276a45)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"1.0.1"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-qjp2-jf2c-xrj2"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-USAMATURK-5870913"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/usamaturk"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +82,16 @@
 				],
 				"sha256": "87d02f6bdc2aef87b1fe34c7c3d0e97fe812b9e1be74c7c06da4c0a05e276a45",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-02569",
+				"import_time": "2024-06-28T02:46:20.341040733Z",
+				"modified_time": "2024-06-25T13:18:29Z",
+				"sha256": "b6f8082b77612ca79799f181d75c11384ed1a477fac095ebbc9085b1ad5fbebc",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.1"
+				]
 			}
 		]
 	}

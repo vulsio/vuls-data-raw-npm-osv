@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-780",
-	"modified": "2023-11-08T04:14:02.873257Z",
+	"modified": "2024-06-28T02:53:17Z",
 	"published": "2023-04-12T02:31:05Z",
 	"aliases": [
 		"GHSA-2ff3-h6xw-8r9x"
@@ -25,6 +25,11 @@
 					]
 				}
 			],
+			"versions": [
+				"10.5.431",
+				"2.2.368",
+				"20.0.1"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +46,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-2ff3-h6xw-8r9x"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +75,18 @@
 				],
 				"sha256": "1c1206c11f41ef711a2a427150a0c5529e775123fa6d441e320f324388924604",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-01755",
+				"import_time": "2024-06-28T02:44:45.353946524Z",
+				"modified_time": "2024-06-25T13:00:59Z",
+				"sha256": "50cc1a7881376f45c5e4686abe12c7f9f8d2828be2cd539ab92e9bd6e8d3aa6c",
+				"source": "reversing-labs",
+				"versions": [
+					"10.5.431",
+					"2.2.368",
+					"20.0.1"
+				]
 			}
 		]
 	}

@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-2069",
+	"modified": "2024-06-25T12:35:24Z",
+	"published": "2024-06-25T12:35:24Z",
+	"summary": "Malicious code in dell_esg_theme (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "dell_esg_theme",
+				"purl": "pkg:npm/dell_esg_theme"
+			},
+			"versions": [
+				"1.0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dell_esg_theme/MAL-2024-2069.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-00681",
+				"import_time": "2024-06-28T02:42:34.567104922Z",
+				"modified_time": "2024-06-25T12:35:24Z",
+				"sha256": "e3ef4e1e15648234290593792e35e8e3ad422ea721c5cee6392aab43464d2d61",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.1"
+				]
+			}
+		]
+	}
+}

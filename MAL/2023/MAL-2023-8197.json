@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-8197",
-	"modified": "2023-11-08T04:19:21.407224Z",
+	"modified": "2024-06-28T03:13:53.367971Z",
 	"published": "2023-09-21T01:40:23Z",
 	"aliases": [
-		"GHSA-g6j8-jp22-h3x9"
+		"GHSA-g6j8-jp22-h3x9",
+		"MAL-2024-2093"
 	],
 	"summary": "Malicious code in @zettle-bo/direct-debit (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (6e6f4aa58a67054f3bd6830bfbfd2e23c6e7bfe7c7ef070fc3306b2513844832)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",

@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2022-5180",
-	"modified": "2023-11-08T04:17:15.135637Z",
+	"modified": "2024-06-28T03:14:13.946561Z",
 	"published": "2022-12-06T06:08:41Z",
 	"aliases": [
-		"GHSA-88fc-r6rj-98c8"
+		"GHSA-88fc-r6rj-98c8",
+		"SNYK-JS-PACKAGEIONS-3179403"
 	],
 	"summary": "Malicious code in package-ions (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (6e0094ac1543c12617313ae835b10879ec07d454e4d60930d6a8bd7589ca9f0c)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"2.1.4-Base"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-88fc-r6rj-98c8"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-PACKAGEIONS-3179403"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.sonatype.com/malware-monthly-november-2022"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +82,16 @@
 				],
 				"sha256": "6e0094ac1543c12617313ae835b10879ec07d454e4d60930d6a8bd7589ca9f0c",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-01541",
+				"import_time": "2024-06-28T02:44:19.927991744Z",
+				"modified_time": "2024-06-25T12:54:55Z",
+				"sha256": "e7f3bfbc97b0bffd4a13bec71fabbd21c7930376f7fe7ef1c36c016d596f91c3",
+				"source": "reversing-labs",
+				"versions": [
+					"2.1.4-Base"
+				]
 			}
 		]
 	}

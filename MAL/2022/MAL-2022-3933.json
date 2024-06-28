@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2022-3933",
-	"modified": "2023-11-08T04:20:39.473160Z",
+	"modified": "2024-06-28T02:53:16Z",
 	"published": "2022-07-06T19:02:31Z",
 	"aliases": [
 		"GHSA-jmpv-c3m3-8qw8"
@@ -25,6 +25,9 @@
 					]
 				}
 			],
+			"versions": [
+				"5.0.2"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +44,19 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-jmpv-c3m3-8qw8"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/iconburst-npm-software-supply-chain-attack-grabs-data-from-apps-websites"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +77,16 @@
 				],
 				"sha256": "9725c2ec0d19615a1adbf6262aa004b3b33803b68c6e24ff76a29f4d21a59d37",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-01205",
+				"import_time": "2024-06-28T02:43:38.238545707Z",
+				"modified_time": "2024-06-25T12:47:10Z",
+				"sha256": "d7e0349f903674aab2316c644ddc5be1ba72e2094fb991324fa2c917142f92ba",
+				"source": "reversing-labs",
+				"versions": [
+					"5.0.2"
+				]
 			}
 		]
 	}

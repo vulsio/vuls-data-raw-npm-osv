@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-942",
-	"modified": "2023-11-08T04:18:44.504621Z",
+	"modified": "2024-06-28T03:27:07.573929Z",
 	"published": "2023-05-25T23:02:40Z",
 	"aliases": [
-		"GHSA-f32r-gcf4-q4wp"
+		"GHSA-f32r-gcf4-q4wp",
+		"SNYK-JS-VPROBOOTSTRAP-5666440"
 	],
 	"summary": "Malicious code in vpro-bootstrap (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (7799537e27ebbb40c248b3be22aca53aaf7d03bb8caacec55ff74194ee411a66)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,13 @@
 					]
 				}
 			],
+			"versions": [
+				"4.9.9",
+				"1.9.9",
+				"9.9.9",
+				"2.9.9",
+				"3.9.9"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +49,19 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-f32r-gcf4-q4wp"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-VPROBOOTSTRAP-5666440"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +82,20 @@
 				],
 				"sha256": "7799537e27ebbb40c248b3be22aca53aaf7d03bb8caacec55ff74194ee411a66",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-02607",
+				"import_time": "2024-06-28T02:46:24.89033994Z",
+				"modified_time": "2024-06-25T13:19:21Z",
+				"sha256": "37bba7d6ba94a238d82f883b1bd1acef54fa445d5da29a92b5fb4286f31431a0",
+				"source": "reversing-labs",
+				"versions": [
+					"4.9.9",
+					"1.9.9",
+					"9.9.9",
+					"2.9.9",
+					"3.9.9"
+				]
 			}
 		]
 	}

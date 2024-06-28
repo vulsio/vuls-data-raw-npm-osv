@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-848",
-	"modified": "2023-11-08T04:21:27.525817Z",
+	"modified": "2024-06-28T03:27:09.106858Z",
 	"published": "2023-03-16T05:27:49Z",
 	"aliases": [
-		"GHSA-p4x2-qm9r-v3qw"
+		"GHSA-p4x2-qm9r-v3qw",
+		"SNYK-JS-TEAMSCALENDARWEBPART-3358914"
 	],
 	"summary": "Malicious code in teams-calendar-webpart (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (4407eeb60493ba69d7ef590b289a23d09231c321ce9840fe680bc0a0709be8a4)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"1.0.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,19 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-p4x2-qm9r-v3qw"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-TEAMSCALENDARWEBPART-3358914"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +78,16 @@
 				],
 				"sha256": "4407eeb60493ba69d7ef590b289a23d09231c321ce9840fe680bc0a0709be8a4",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-01829",
+				"import_time": "2024-06-28T02:44:53.931144492Z",
+				"modified_time": "2024-06-25T13:02:54Z",
+				"sha256": "6efb5ae132a2b0cb59bc33202281adfaaeeb30701a79cbab5c84cfa6e35ee890",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.0"
+				]
 			}
 		]
 	}

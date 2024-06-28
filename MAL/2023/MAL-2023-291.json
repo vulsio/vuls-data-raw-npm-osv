@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-291",
-	"modified": "2023-11-08T04:23:11.228282Z",
+	"modified": "2024-06-28T03:14:07.016068Z",
 	"published": "2023-04-17T02:10:20Z",
 	"aliases": [
-		"GHSA-v99r-ghqx-xfgq"
+		"GHSA-v99r-ghqx-xfgq",
+		"SNYK-JS-DREAMTEAM11GOOGLETECH-5871064"
 	],
 	"summary": "Malicious code in dreamteam11-google-tech (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (a7fa8233b2417c3495294e1fd0c5a031af4981dfcda1faa893025a52d760089e)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"68.2.2"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-v99r-ghqx-xfgq"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-DREAMTEAM11GOOGLETECH-5871064"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/dreamteam11-google-tech"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +82,16 @@
 				],
 				"sha256": "a7fa8233b2417c3495294e1fd0c5a031af4981dfcda1faa893025a52d760089e",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-00916",
+				"import_time": "2024-06-28T02:43:03.325407106Z",
+				"modified_time": "2024-06-25T12:40:38Z",
+				"sha256": "6c41c836ada5732d0a1369c8fb73fbb2a69f927fb77af1ba64a1d3bb190d3ff2",
+				"source": "reversing-labs",
+				"versions": [
+					"68.2.2"
+				]
 			}
 		]
 	}
