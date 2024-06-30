@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-7058",
+	"modified": "2024-06-29T17:55:15Z",
+	"published": "2024-06-29T17:55:15Z",
+	"summary": "Malicious code in kiln-desktop (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (ef3b624dee4eb3ef776b321ad28eddf3bc2d6cde2852fdcb47b0ef795047c6bf)\nThe OpenSSF Package Analysis project identified 'kiln-desktop' @ 2.2.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "kiln-desktop",
+				"purl": "pkg:npm/kiln-desktop"
+			},
+			"versions": [
+				"2.2.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/kiln-desktop/MAL-2024-7058.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-06-29T18:05:03.679883622Z",
+				"modified_time": "2024-06-29T17:55:15Z",
+				"sha256": "ef3b624dee4eb3ef776b321ad28eddf3bc2d6cde2852fdcb47b0ef795047c6bf",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"2.2.0"
+				]
+			}
+		]
+	}
+}
