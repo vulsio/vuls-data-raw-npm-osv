@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1667",
-	"modified": "2024-06-28T19:04:55Z",
+	"modified": "2024-06-30T12:41:41Z",
 	"published": "2024-06-26T12:41:06Z",
 	"summary": "Malicious code in @wdp-gov/lineage-component (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (d71a3c3672d613586050e5166426a68d0f5b4ab173d202c331b0259a3919c5a3)\nThe OpenSSF Package Analysis project identified '@wdp-gov/lineage-component' @ 1.0.33 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
@@ -15,7 +15,8 @@
 			"versions": [
 				"1.0.33",
 				"1.1.40",
-				"1.1.39"
+				"1.1.39",
+				"1.1.42"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@wdp-gov/lineage-component/MAL-2024-1667.json"
@@ -59,6 +60,15 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"1.1.39"
+				]
+			},
+			{
+				"import_time": "2024-06-30T12:41:23.327448659Z",
+				"modified_time": "2024-06-30T12:08:20Z",
+				"sha256": "ec9ecfce1f94ce2edc358b56f74dd3445d4adc2014de8f7b1efefa6e6cc31b47",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.1.42"
 				]
 			}
 		]
