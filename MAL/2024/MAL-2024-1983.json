@@ -9,7 +9,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "cicd_gulp-central-js-lib-v1",
+				"name": "@store-sfdcbt-net/cicd_gulp-central-js-lib-v1",
 				"purl": "pkg:npm/%40store-sfdcbt-net/cicd_gulp-central-js-lib-v1"
 			},
 			"versions": [
@@ -24,7 +24,7 @@
 				"1.8.4"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cicd_gulp-central-js-lib-v1/MAL-2024-1983.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@store-sfdcbt-net/cicd_gulp-central-js-lib-v1/MAL-2024-1983.json"
 			}
 		}
 	],

@@ -9,7 +9,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "template-engine",
+				"name": "@fnt-cmd/template-engine",
 				"purl": "pkg:npm/%40fnt-cmd/template-engine"
 			},
 			"versions": [
@@ -17,7 +17,7 @@
 				"2.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/template-engine/MAL-2024-3090.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@fnt-cmd/template-engine/MAL-2024-3090.json"
 			}
 		}
 	],

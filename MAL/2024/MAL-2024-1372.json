@@ -1,12 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1372",
-	"modified": "2024-06-28T03:14:14.087299Z",
+	"modified": "2024-07-01T06:57:16.304455Z",
 	"published": "2024-05-20T00:45:27Z",
 	"aliases": [
-		"GHSA-3628-f5qr-rhwm",
-		"MAL-2024-2342",
-		"SNYK-JS-OZONOBFOUNDATIONEVENTBUS-6913913"
+		"GHSA-3628-f5qr-rhwm"
 	],
 	"summary": "Malicious code in @ozon-ob-foundation/event-bus (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (c5d1a30ed3380955e93d6ee25ac05fd6a61c06bc20d670f0fd01e6a4565c82e4)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",

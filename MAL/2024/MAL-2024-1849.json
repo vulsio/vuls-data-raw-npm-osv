@@ -9,7 +9,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "bx-fe__video-player",
+				"name": "@ozon-shared-deps/bx-fe__video-player",
 				"purl": "pkg:npm/%40ozon-shared-deps/bx-fe__video-player"
 			},
 			"versions": [
@@ -17,7 +17,7 @@
 				"3.0.80"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bx-fe__video-player/MAL-2024-1849.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ozon-shared-deps/bx-fe__video-player/MAL-2024-1849.json"
 			}
 		}
 	],

@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "eslint-rule-svg-rrggbbaa-check",
+				"name": "@fdfe/eslint-rule-svg-rrggbbaa-check",
 				"purl": "pkg:npm/%40fdfe/eslint-rule-svg-rrggbbaa-check"
 			},
 			"versions": [
 				"0.0.8"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/eslint-rule-svg-rrggbbaa-check/MAL-2024-2333.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@fdfe/eslint-rule-svg-rrggbbaa-check/MAL-2024-2333.json"
 			}
 		}
 	],

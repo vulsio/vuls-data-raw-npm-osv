@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "dojox",
+				"name": "@elastic-internal/dojox",
 				"purl": "pkg:npm/%40elastic-internal/dojox"
 			},
 			"versions": [
 				"1.6.10"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dojox/MAL-2024-2112.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@elastic-internal/dojox/MAL-2024-2112.json"
 			}
 		}
 	],

@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "mini-program",
+				"name": "@ks-radar/mini-program",
 				"purl": "pkg:npm/%40ks-radar/mini-program"
 			},
 			"versions": [
 				"2.1.10"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mini-program/MAL-2024-2663.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ks-radar/mini-program/MAL-2024-2663.json"
 			}
 		}
 	],

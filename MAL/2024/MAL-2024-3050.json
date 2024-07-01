@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "sso-sdk",
+				"name": "@mosfe/sso-sdk",
 				"purl": "pkg:npm/%40mosfe/sso-sdk"
 			},
 			"versions": [
 				"0.0.6"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/sso-sdk/MAL-2024-3050.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@mosfe/sso-sdk/MAL-2024-3050.json"
 			}
 		}
 	],

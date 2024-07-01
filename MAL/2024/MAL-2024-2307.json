@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "epgu-constructor",
+				"name": "@epgu/epgu-constructor",
 				"purl": "pkg:npm/%40epgu/epgu-constructor"
 			},
 			"versions": [
 				"0.0.118028"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/epgu-constructor/MAL-2024-2307.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@epgu/epgu-constructor/MAL-2024-2307.json"
 			}
 		}
 	],

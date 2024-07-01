@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "webpack",
+				"name": "@expue/webpack",
 				"purl": "pkg:npm/%40expue/webpack"
 			},
 			"versions": [
 				"0.0.3-alpha.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/webpack/MAL-2024-3945.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@expue/webpack/MAL-2024-3945.json"
 			}
 		}
 	],

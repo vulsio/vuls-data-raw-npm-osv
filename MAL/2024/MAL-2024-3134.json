@@ -1,20 +1,16 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3134",
-	"modified": "2024-06-28T03:14:20.335531Z",
+	"modified": "2024-07-01T05:16:00Z",
 	"published": "2024-06-25T12:21:03Z",
-	"aliases": [
-		"GHSA-gx5v-m2fm-ww45",
-		"MAL-2023-7967"
-	],
 	"summary": "Malicious code in toolbox-pkg-components (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"details": "False positive caused by problematic ingestion.\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{
 			"package": {
 				"ecosystem": "npm",
 				"name": "toolbox-pkg-components",
-				"purl": "pkg:npm/%40manomano-internal/toolbox-pkg-components"
+				"purl": "pkg:npm/toolbox-pkg-components"
 			},
 			"versions": [
 				"0.0.9",
@@ -22,27 +18,8 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/toolbox-pkg-components/MAL-2024-3134.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/toolbox-pkg-components/MAL-2024-3134.json"
 			}
-		}
-	],
-	"references": [
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/advisories/GHSA-gx5v-m2fm-ww45"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/%40manomano-internal/toolbox-pkg-components/MAL-2023-7967.json"
-		}
-	],
-	"credits": [
-		{
-			"name": "ReversingLabs",
-			"contact": [
-				"https://www.reversinglabs.com"
-			],
-			"type": "FINDER"
 		}
 	],
 	"database_specific": {

@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-8212",
-	"modified": "2024-06-28T03:14:20.841160Z",
+	"modified": "2024-07-01T06:57:20.789555Z",
 	"published": "2023-09-21T01:40:57Z",
 	"aliases": [
-		"GHSA-4rm3-x7w8-crwf",
-		"MAL-2024-3823"
+		"GHSA-4rm3-x7w8-crwf"
 	],
 	"summary": "Malicious code in @zettle-bo/vertical-navigation (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (29df8a3283a276676a3afb1f56cc288ff4ceceb1d591ec934732ccdc9d109cad)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",

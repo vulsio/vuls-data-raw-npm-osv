@@ -1,46 +1,23 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2757",
-	"modified": "2024-06-28T03:14:13.538601Z",
+	"modified": "2024-07-01T05:16:00Z",
 	"published": "2024-06-25T12:20:28Z",
-	"aliases": [
-		"GHSA-xxrm-mcrf-4gv9",
-		"MAL-2023-7927"
-	],
 	"summary": "Malicious code in ngx-iceberg-links (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"details": "False positive caused by problematic ingestion.\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{
 			"package": {
 				"ecosystem": "npm",
 				"name": "ngx-iceberg-links",
-				"purl": "pkg:npm/%40intact-lab/ngx-iceberg-links"
+				"purl": "pkg:npm/ngx-iceberg-links"
 			},
 			"versions": [
 				"395.0.0-beta.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ngx-iceberg-links/MAL-2024-2757.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/ngx-iceberg-links/MAL-2024-2757.json"
 			}
-		}
-	],
-	"references": [
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/advisories/GHSA-xxrm-mcrf-4gv9"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/%40intact-lab/ngx-iceberg-links/MAL-2023-7927.json"
-		}
-	],
-	"credits": [
-		{
-			"name": "ReversingLabs",
-			"contact": [
-				"https://www.reversinglabs.com"
-			],
-			"type": "FINDER"
 		}
 	],
 	"database_specific": {

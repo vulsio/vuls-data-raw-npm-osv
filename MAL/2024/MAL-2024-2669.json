@@ -12,7 +12,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "models",
+				"name": "@clearing/models",
 				"purl": "pkg:npm/%40clearing/models"
 			},
 			"versions": [
@@ -20,7 +20,7 @@
 				"3.9.5"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/models/MAL-2024-2669.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@clearing/models/MAL-2024-2669.json"
 			}
 		}
 	],

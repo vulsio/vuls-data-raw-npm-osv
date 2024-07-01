@@ -1,21 +1,16 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3007",
-	"modified": "2024-06-28T03:14:25.513499Z",
+	"modified": "2024-07-01T03:32:00Z",
 	"published": "2024-06-25T12:19:39Z",
-	"aliases": [
-		"GHSA-p82h-8cjf-hh9r",
-		"MAL-2023-7929",
-		"SNYK-JS-EXPUESHARED-5920718"
-	],
 	"summary": "Malicious code in shared (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"details": "False positive caused by problematic ingestion.\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{
 			"package": {
 				"ecosystem": "npm",
 				"name": "shared",
-				"purl": "pkg:npm/%40webquote-ui/shared"
+				"purl": "pkg:npm/shared"
 			},
 			"versions": [
 				"395.0.0-beta.1",
@@ -28,35 +23,8 @@
 				"0.0.3-alpha.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/shared/MAL-2024-3007.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/shared/MAL-2024-3007.json"
 			}
-		}
-	],
-	"references": [
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/advisories/GHSA-p82h-8cjf-hh9r"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/%40webquote-ui/shared/MAL-2023-7929.json"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://security.snyk.io/vuln/SNYK-JS-EXPUESHARED-5920718"
-		}
-	],
-	"credits": [
-		{
-			"name": "ReversingLabs",
-			"contact": [
-				"https://www.reversinglabs.com"
-			],
-			"type": "FINDER"
 		}
 	],
 	"database_specific": {

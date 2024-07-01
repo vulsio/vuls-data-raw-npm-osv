@@ -1,20 +1,16 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2904",
-	"modified": "2024-06-28T03:14:27.163190Z",
+	"modified": "2024-07-01T05:16:00Z",
 	"published": "2024-06-25T12:20:07Z",
-	"aliases": [
-		"GHSA-fm2p-9mcm-9vm4",
-		"MAL-2023-8696"
-	],
 	"summary": "Malicious code in pwn (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"details": "False positive caused by problematic ingestion.\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{
 			"package": {
 				"ecosystem": "npm",
 				"name": "pwn",
-				"purl": "pkg:npm/%40gtfobar/pwn"
+				"purl": "pkg:npm/pwn"
 			},
 			"versions": [
 				"1.0.14",
@@ -35,27 +31,8 @@
 				"1.0.15"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/pwn/MAL-2024-2904.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/pwn/MAL-2024-2904.json"
 			}
-		}
-	],
-	"references": [
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/%40gtfobar/pwn/MAL-2023-8696.json"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/advisories/GHSA-fm2p-9mcm-9vm4"
-		}
-	],
-	"credits": [
-		{
-			"name": "ReversingLabs",
-			"contact": [
-				"https://www.reversinglabs.com"
-			],
-			"type": "FINDER"
 		}
 	],
 	"database_specific": {

@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "lib",
+				"name": "@ag-grid-react/lib",
 				"purl": "pkg:npm/%40ag-grid-react/lib"
 			},
 			"versions": [
 				"1.0.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/lib/MAL-2024-2606.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ag-grid-react/lib/MAL-2024-2606.json"
 			}
 		}
 	],

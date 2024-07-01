@@ -1,12 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-8340",
-	"modified": "2024-06-28T03:14:14.656815Z",
+	"modified": "2024-07-01T06:57:16.611057Z",
 	"published": "2023-10-12T04:31:28Z",
 	"aliases": [
-		"GHSA-9mgm-94rc-3r2p",
-		"GHSA-f38r-f238-5x8r",
-		"MAL-2023-8334"
+		"GHSA-9mgm-94rc-3r2p"
 	],
 	"summary": "Malicious code in fca-emon-bhai-api (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (a7597210d8449795cfeb232c861661dd973e59c2d8e561d96acadf84c6b773d2)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -27,9 +25,6 @@
 					]
 				}
 			],
-			"versions": [
-				"1.5.2"
-			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -46,23 +41,6 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-9mgm-94rc-3r2p"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/%40emon-bhai/fca-emon-bhai-api/MAL-2023-8334.json"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/advisories/GHSA-f38r-f238-5x8r"
-		}
-	],
-	"credits": [
-		{
-			"name": "ReversingLabs",
-			"contact": [
-				"https://www.reversinglabs.com"
-			],
-			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -83,16 +61,6 @@
 				],
 				"sha256": "a7597210d8449795cfeb232c861661dd973e59c2d8e561d96acadf84c6b773d2",
 				"source": "ghsa-malware"
-			},
-			{
-				"id": "RLMA-2024-00056",
-				"import_time": "2024-06-28T02:41:19.402036996Z",
-				"modified_time": "2024-06-25T12:19:27Z",
-				"sha256": "253a0214ef468c04d39d0b49840c4e3623821ccae222cc4db5ea7c5b78a05209",
-				"source": "reversing-labs",
-				"versions": [
-					"1.5.2"
-				]
 			}
 		]
 	}

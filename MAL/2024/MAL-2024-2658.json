@@ -1,20 +1,16 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2658",
-	"modified": "2024-06-28T03:14:23.755709Z",
+	"modified": "2024-07-01T05:16:00Z",
 	"published": "2024-06-25T12:20:58Z",
-	"aliases": [
-		"GHSA-gqjf-56pp-cqjp",
-		"MAL-2023-7964"
-	],
 	"summary": "Malicious code in mf-seller-xp-commons-error-handlers (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"details": "False positive caused by problematic ingestion.\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{
 			"package": {
 				"ecosystem": "npm",
 				"name": "mf-seller-xp-commons-error-handlers",
-				"purl": "pkg:npm/%40manomano-internal/mf-seller-xp-commons-error-handlers"
+				"purl": "pkg:npm/mf-seller-xp-commons-error-handlers"
 			},
 			"versions": [
 				"1.0.1",
@@ -22,27 +18,8 @@
 				"0.0.6"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mf-seller-xp-commons-error-handlers/MAL-2024-2658.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/mf-seller-xp-commons-error-handlers/MAL-2024-2658.json"
 			}
-		}
-	],
-	"references": [
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/%40manomano-internal/mf-seller-xp-commons-error-handlers/MAL-2023-7964.json"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/advisories/GHSA-gqjf-56pp-cqjp"
-		}
-	],
-	"credits": [
-		{
-			"name": "ReversingLabs",
-			"contact": [
-				"https://www.reversinglabs.com"
-			],
-			"type": "FINDER"
 		}
 	],
 	"database_specific": {

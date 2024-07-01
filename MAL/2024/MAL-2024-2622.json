@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "lion",
+				"name": "@mosfe/lion",
 				"purl": "pkg:npm/%40mosfe/lion"
 			},
 			"versions": [
 				"0.0.3"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/lion/MAL-2024-2622.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@mosfe/lion/MAL-2024-2622.json"
 			}
 		}
 	],

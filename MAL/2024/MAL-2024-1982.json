@@ -12,7 +12,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "ci-startrek",
+				"name": "@b2bgeo/ci-startrek",
 				"purl": "pkg:npm/%40b2bgeo/ci-startrek"
 			},
 			"versions": [
@@ -20,7 +20,7 @@
 				"13.3.8"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ci-startrek/MAL-2024-1982.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@b2bgeo/ci-startrek/MAL-2024-1982.json"
 			}
 		}
 	],

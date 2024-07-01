@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "beam-git-util",
+				"name": "@mosfe/beam-git-util",
 				"purl": "pkg:npm/%40mosfe/beam-git-util"
 			},
 			"versions": [
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/beam-git-util/MAL-2024-1817.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@mosfe/beam-git-util/MAL-2024-1817.json"
 			}
 		}
 	],

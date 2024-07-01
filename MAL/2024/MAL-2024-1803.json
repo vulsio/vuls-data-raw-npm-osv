@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "babel-web",
+				"name": "@golden-stack/babel-web",
 				"purl": "pkg:npm/%40golden-stack/babel-web"
 			},
 			"versions": [
 				"1.99.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/babel-web/MAL-2024-1803.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@golden-stack/babel-web/MAL-2024-1803.json"
 			}
 		}
 	],

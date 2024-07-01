@@ -1,12 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-67",
-	"modified": "2024-06-28T03:14:21.485325Z",
+	"modified": "2024-07-01T06:57:21.317714Z",
 	"published": "2023-02-05T23:26:27Z",
 	"aliases": [
-		"GHSA-h9xv-2g57-86jf",
-		"MAL-2024-1731",
-		"SNYK-JS-TANGOCHADDTWO-3336038"
+		"GHSA-h9xv-2g57-86jf"
 	],
 	"summary": "Malicious code in @tangoch/add-two (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (db14ce679d7f0dd262266021768200a695a57df3a2609fb5b98bd03ebca95d3b)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",

@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "gatsby-theme-husky",
+				"name": "@husky-x/gatsby-theme-husky",
 				"purl": "pkg:npm/%40husky-x/gatsby-theme-husky"
 			},
 			"versions": [
 				"2.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/gatsby-theme-husky/MAL-2024-2411.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@husky-x/gatsby-theme-husky/MAL-2024-2411.json"
 			}
 		}
 	],

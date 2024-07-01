@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3258",
-	"modified": "2024-06-28T02:53:17Z",
+	"modified": "2024-07-01T04:00:00Z",
 	"published": "2024-06-25T12:19:33Z",
 	"summary": "Malicious code in ui-kit (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -9,17 +9,15 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "ui-kit",
+				"name": "@esportal/ui-kit",
 				"purl": "pkg:npm/%40esportal/ui-kit"
 			},
 			"versions": [
 				"8.3.3",
-				"8.3.4",
-				"100.0.0",
-				"100.1.1"
+				"8.3.4"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ui-kit/MAL-2024-3258.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@esportal/ui-kit/MAL-2024-3258.json"
 			}
 		}
 	],
@@ -43,17 +41,6 @@
 				"versions": [
 					"8.3.3",
 					"8.3.4"
-				]
-			},
-			{
-				"id": "RLMA-2024-00228",
-				"import_time": "2024-06-28T02:41:39.815628158Z",
-				"modified_time": "2024-06-25T12:23:12Z",
-				"sha256": "ed7d968040af0bde22b8a1f7d587077e79370106142163355c97030a8624df99",
-				"source": "reversing-labs",
-				"versions": [
-					"100.0.0",
-					"100.1.1"
 				]
 			}
 		]

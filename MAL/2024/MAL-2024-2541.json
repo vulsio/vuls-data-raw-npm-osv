@@ -12,7 +12,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "jest-utils",
+				"name": "@realty-front/jest-utils",
 				"purl": "pkg:npm/%40realty-front/jest-utils"
 			},
 			"versions": [
@@ -22,7 +22,7 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/jest-utils/MAL-2024-2541.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@realty-front/jest-utils/MAL-2024-2541.json"
 			}
 		}
 	],

@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "gh-agent-syncer",
+				"name": "@terraform-aws-github-runner/gh-agent-syncer",
 				"purl": "pkg:npm/%40terraform-aws-github-runner/gh-agent-syncer"
 			},
 			"versions": [
 				"1.999.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/gh-agent-syncer/MAL-2024-2420.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@terraform-aws-github-runner/gh-agent-syncer/MAL-2024-2420.json"
 			}
 		}
 	],

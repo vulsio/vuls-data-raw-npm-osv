@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "e2e-test",
+				"name": "@m00kr4n3/e2e-test",
 				"purl": "pkg:npm/%40m00kr4n3/e2e-test"
 			},
 			"versions": [
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/e2e-test/MAL-2024-2270.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@m00kr4n3/e2e-test/MAL-2024-2270.json"
 			}
 		}
 	],

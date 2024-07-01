@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "page",
+				"name": "@locallife/page",
 				"purl": "pkg:npm/%40locallife/page"
 			},
 			"versions": [
 				"7.1.4"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/page/MAL-2024-2832.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@locallife/page/MAL-2024-2832.json"
 			}
 		}
 	],

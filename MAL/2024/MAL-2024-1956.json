@@ -1,50 +1,23 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1956",
-	"modified": "2024-06-28T03:13:54.664193Z",
+	"modified": "2024-07-01T05:16:00Z",
 	"published": "2024-06-25T12:23:23Z",
-	"aliases": [
-		"GHSA-g9gj-9496-j3v4",
-		"MAL-2023-8194"
-	],
 	"summary": "Malicious code in cash-register (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"details": "False positive caused by problematic ingestion.\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{
 			"package": {
 				"ecosystem": "npm",
 				"name": "cash-register",
-				"purl": "pkg:npm/%40zettle-bo/cash-register"
+				"purl": "pkg:npm/cash-register"
 			},
 			"versions": [
 				"35.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cash-register/MAL-2024-1956.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/cash-register/MAL-2024-1956.json"
 			}
-		}
-	],
-	"references": [
-		{
-			"type": "ARTICLE",
-			"url": "https://blog.sonatype.com/new-npm-poc-packages-target-paypal-zettle-airbnb-developers"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/%40zettle-bo/cash-register/MAL-2023-8194.json"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/advisories/GHSA-g9gj-9496-j3v4"
-		}
-	],
-	"credits": [
-		{
-			"name": "ReversingLabs",
-			"contact": [
-				"https://www.reversinglabs.com"
-			],
-			"type": "FINDER"
 		}
 	],
 	"database_specific": {

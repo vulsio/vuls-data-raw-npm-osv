@@ -12,14 +12,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "qaseio-playwright-reporter",
+				"name": "@tabby.ai/qaseio-playwright-reporter",
 				"purl": "pkg:npm/%40tabby.ai/qaseio-playwright-reporter"
 			},
 			"versions": [
 				"3.0.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/qaseio-playwright-reporter/MAL-2024-2906.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@tabby.ai/qaseio-playwright-reporter/MAL-2024-2906.json"
 			}
 		}
 	],

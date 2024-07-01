@@ -12,7 +12,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "search-experience",
+				"name": "@egds/search-experience",
 				"purl": "pkg:npm/%40egds/search-experience"
 			},
 			"versions": [
@@ -20,7 +20,7 @@
 				"2.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/search-experience/MAL-2024-2996.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@egds/search-experience/MAL-2024-2996.json"
 			}
 		}
 	],

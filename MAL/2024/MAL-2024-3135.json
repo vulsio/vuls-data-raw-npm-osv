@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "tools",
+				"name": "@betterbit-library/tools",
 				"purl": "pkg:npm/%40betterbit-library/tools"
 			},
 			"versions": [
 				"2000.0.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tools/MAL-2024-3135.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@betterbit-library/tools/MAL-2024-3135.json"
 			}
 		}
 	],

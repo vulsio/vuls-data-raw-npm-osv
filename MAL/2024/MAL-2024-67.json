@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-67",
-	"modified": "2024-06-28T03:14:12.041723Z",
+	"modified": "2024-07-01T06:57:15.350701Z",
 	"published": "2024-01-11T04:45:39Z",
 	"aliases": [
-		"GHSA-m52q-5wxm-4gjw",
-		"MAL-2024-2781"
+		"GHSA-m52q-5wxm-4gjw"
 	],
 	"summary": "Malicious code in @snip3rxd/ocore (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (5eed2b94e176531897a1d205f1a58b80faf47ba98e45b271c18a15e7a2ac714a)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",

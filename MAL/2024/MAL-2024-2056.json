@@ -9,7 +9,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "d11n-audit",
+				"name": "@vk-tech/d11n-audit",
 				"purl": "pkg:npm/%40vk-tech/d11n-audit"
 			},
 			"versions": [
@@ -18,7 +18,7 @@
 				"3.0.8"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/d11n-audit/MAL-2024-2056.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@vk-tech/d11n-audit/MAL-2024-2056.json"
 			}
 		}
 	],

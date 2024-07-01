@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "radar-seed",
+				"name": "@ks-radar/radar-seed",
 				"purl": "pkg:npm/%40ks-radar/radar-seed"
 			},
 			"versions": [
 				"9.1.10"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/radar-seed/MAL-2024-2918.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ks-radar/radar-seed/MAL-2024-2918.json"
 			}
 		}
 	],

@@ -12,7 +12,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "zookeeper",
+				"name": "@realty-front/zookeeper",
 				"purl": "pkg:npm/%40realty-front/zookeeper"
 			},
 			"versions": [
@@ -22,7 +22,7 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/zookeeper/MAL-2024-3989.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@realty-front/zookeeper/MAL-2024-3989.json"
 			}
 		}
 	],

@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "xbox-foundation",
+				"name": "@xbox-web/xbox-foundation",
 				"purl": "pkg:npm/%40xbox-web/xbox-foundation"
 			},
 			"versions": [
 				"14.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/xbox-foundation/MAL-2024-3967.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@xbox-web/xbox-foundation/MAL-2024-3967.json"
 			}
 		}
 	],

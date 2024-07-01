@@ -9,7 +9,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "qs",
+				"name": "@ozon-shared-deps/qs",
 				"purl": "pkg:npm/%40ozon-shared-deps/qs"
 			},
 			"versions": [
@@ -17,7 +17,7 @@
 				"6.5.4"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/qs/MAL-2024-2909.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ozon-shared-deps/qs/MAL-2024-2909.json"
 			}
 		}
 	],

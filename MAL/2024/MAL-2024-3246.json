@@ -12,14 +12,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "types",
+				"name": "@expue/types",
 				"purl": "pkg:npm/%40expue/types"
 			},
 			"versions": [
 				"0.0.3-alpha.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/types/MAL-2024-3246.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@expue/types/MAL-2024-3246.json"
 			}
 		}
 	],

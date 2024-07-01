@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "react-utilities",
+				"name": "@hotwire/react-utilities",
 				"purl": "pkg:npm/%40hotwire/react-utilities"
 			},
 			"versions": [
 				"100.100.100"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/react-utilities/MAL-2024-2943.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@hotwire/react-utilities/MAL-2024-2943.json"
 			}
 		}
 	],

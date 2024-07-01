@@ -9,7 +9,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "vuelidate",
+				"name": "@ozon-shared-deps/vuelidate",
 				"purl": "pkg:npm/%40ozon-shared-deps/vuelidate"
 			},
 			"versions": [
@@ -17,7 +17,7 @@
 				"20.1.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/vuelidate/MAL-2024-3842.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ozon-shared-deps/vuelidate/MAL-2024-3842.json"
 			}
 		}
 	],

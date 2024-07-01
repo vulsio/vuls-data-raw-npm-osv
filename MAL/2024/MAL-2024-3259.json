@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "ui-toolkit",
+				"name": "@caesars-digital/ui-toolkit",
 				"purl": "pkg:npm/%40caesars-digital/ui-toolkit"
 			},
 			"versions": [
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ui-toolkit/MAL-2024-3259.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@caesars-digital/ui-toolkit/MAL-2024-3259.json"
 			}
 		}
 	],

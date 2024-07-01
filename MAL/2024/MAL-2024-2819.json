@@ -9,7 +9,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "ozon-fe__media-player-super-lite",
+				"name": "@ozon-shared-deps/ozon-fe__media-player-super-lite",
 				"purl": "pkg:npm/%40ozon-shared-deps/ozon-fe__media-player-super-lite"
 			},
 			"versions": [
@@ -17,7 +17,7 @@
 				"0.0.80"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ozon-fe__media-player-super-lite/MAL-2024-2819.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ozon-shared-deps/ozon-fe__media-player-super-lite/MAL-2024-2819.json"
 			}
 		}
 	],

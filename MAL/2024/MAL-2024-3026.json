@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "smp-client-library-18.9",
+				"name": "@nokia-smp/smp-client-library-18.9",
 				"purl": "pkg:npm/%40nokia-smp/smp-client-library-18.9"
 			},
 			"versions": [
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/smp-client-library-18.9/MAL-2024-3026.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@nokia-smp/smp-client-library-18.9/MAL-2024-3026.json"
 			}
 		}
 	],

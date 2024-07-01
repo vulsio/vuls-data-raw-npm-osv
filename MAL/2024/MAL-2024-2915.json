@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "radar-component-collect",
+				"name": "@ks-radar/radar-component-collect",
 				"purl": "pkg:npm/%40ks-radar/radar-component-collect"
 			},
 			"versions": [
 				"9.1.10"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/radar-component-collect/MAL-2024-2915.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ks-radar/radar-component-collect/MAL-2024-2915.json"
 			}
 		}
 	],

@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "sdx",
+				"name": "@corproot/sdx",
 				"purl": "pkg:npm/%40corproot/sdx"
 			},
 			"versions": [
 				"9999.0.100"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/sdx/MAL-2024-2994.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@corproot/sdx/MAL-2024-2994.json"
 			}
 		}
 	],

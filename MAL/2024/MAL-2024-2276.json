@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "ecf-http-adapter",
+				"name": "@fdfe/ecf-http-adapter",
 				"purl": "pkg:npm/%40fdfe/ecf-http-adapter"
 			},
 			"versions": [
 				"1.1.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ecf-http-adapter/MAL-2024-2276.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@fdfe/ecf-http-adapter/MAL-2024-2276.json"
 			}
 		}
 	],

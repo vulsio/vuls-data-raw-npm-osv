@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "era-cloud-uploader",
+				"name": "@fdfe/era-cloud-uploader",
 				"purl": "pkg:npm/%40fdfe/era-cloud-uploader"
 			},
 			"versions": [
 				"0.12.2"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/era-cloud-uploader/MAL-2024-2313.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@fdfe/era-cloud-uploader/MAL-2024-2313.json"
 			}
 		}
 	],

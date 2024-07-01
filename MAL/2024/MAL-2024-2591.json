@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "language",
+				"name": "@region-lib/language",
 				"purl": "pkg:npm/%40region-lib/language"
 			},
 			"versions": [
 				"2000.0.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/language/MAL-2024-2591.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@region-lib/language/MAL-2024-2591.json"
 			}
 		}
 	],

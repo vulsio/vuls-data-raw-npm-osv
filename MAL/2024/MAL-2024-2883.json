@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "portal-proxy",
+				"name": "@mosfe/portal-proxy",
 				"purl": "pkg:npm/%40mosfe/portal-proxy"
 			},
 			"versions": [
 				"1.1.7"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/portal-proxy/MAL-2024-2883.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@mosfe/portal-proxy/MAL-2024-2883.json"
 			}
 		}
 	],

@@ -1,21 +1,16 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2374",
-	"modified": "2024-06-28T03:13:53.517457Z",
+	"modified": "2024-07-01T05:16:00Z",
 	"published": "2024-06-25T12:19:59Z",
-	"aliases": [
-		"GHSA-ccw5-xwmf-fg8f",
-		"MAL-2023-8165",
-		"SNYK-JS-FIXEDWIDTHTABLEFIXEDWIDTHTABLE-5907718"
-	],
 	"summary": "Malicious code in fixedwidthtable (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"details": "False positive caused by problematic ingestion.\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{
 			"package": {
 				"ecosystem": "npm",
 				"name": "fixedwidthtable",
-				"purl": "pkg:npm/%40fixedwidthtable/fixedwidthtable"
+				"purl": "pkg:npm/fixedwidthtable"
 			},
 			"versions": [
 				"0.0.1",
@@ -23,39 +18,8 @@
 				"0.0.3"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fixedwidthtable/MAL-2024-2374.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/fixedwidthtable/MAL-2024-2374.json"
 			}
-		}
-	],
-	"references": [
-		{
-			"type": "ARTICLE",
-			"url": "https://blog.sonatype.com/npm-packages-caught-exfiltrating-kubernetes-config-ssh-keys"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/advisories/GHSA-ccw5-xwmf-fg8f"
-		},
-		{
-			"type": "PACKAGE",
-			"url": "https://npmjs.com/package/@fixedwidthtable/fixedwidthtable"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://security.snyk.io/vuln/SNYK-JS-FIXEDWIDTHTABLEFIXEDWIDTHTABLE-5907718"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/%40fixedwidthtable/fixedwidthtable/MAL-2023-8165.json"
-		}
-	],
-	"credits": [
-		{
-			"name": "ReversingLabs",
-			"contact": [
-				"https://www.reversinglabs.com"
-			],
-			"type": "FINDER"
 		}
 	],
 	"database_specific": {

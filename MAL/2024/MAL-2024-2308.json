@@ -9,7 +9,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "epgu-constructor-types",
+				"name": "@epgu/epgu-constructor-types",
 				"purl": "pkg:npm/%40epgu/epgu-constructor-types"
 			},
 			"versions": [
@@ -18,7 +18,7 @@
 				"0.0.118028"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/epgu-constructor-types/MAL-2024-2308.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@epgu/epgu-constructor-types/MAL-2024-2308.json"
 			}
 		}
 	],

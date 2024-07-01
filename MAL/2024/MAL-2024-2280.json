@@ -1,20 +1,16 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2280",
-	"modified": "2024-06-28T03:14:28.951066Z",
+	"modified": "2024-07-01T05:55:00Z",
 	"published": "2024-06-25T12:23:06Z",
-	"aliases": [
-		"GHSA-2qq3-rrr3-72cx",
-		"MAL-2023-70"
-	],
 	"summary": "Malicious code in edge (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"details": "False positive caused by problematic ingestion.\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{
 			"package": {
 				"ecosystem": "npm",
 				"name": "edge",
-				"purl": "pkg:npm/%40xivart/edge"
+				"purl": "pkg:npm/edge"
 			},
 			"versions": [
 				"5.537.1",
@@ -26,27 +22,8 @@
 				"1.0.1-3ba"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/edge/MAL-2024-2280.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/edge/MAL-2024-2280.json"
 			}
-		}
-	],
-	"references": [
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/%40xivart/edge/MAL-2023-70.json"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/advisories/GHSA-2qq3-rrr3-72cx"
-		}
-	],
-	"credits": [
-		{
-			"name": "ReversingLabs",
-			"contact": [
-				"https://www.reversinglabs.com"
-			],
-			"type": "FINDER"
 		}
 	],
 	"database_specific": {

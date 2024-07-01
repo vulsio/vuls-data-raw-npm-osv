@@ -9,7 +9,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "locales",
+				"name": "@next-translate-root/locales",
 				"purl": "pkg:npm/%40next-translate-root/locales"
 			},
 			"versions": [
@@ -18,7 +18,7 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/locales/MAL-2024-2632.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@next-translate-root/locales/MAL-2024-2632.json"
 			}
 		}
 	],

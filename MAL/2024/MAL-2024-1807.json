@@ -12,7 +12,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "badge",
+				"name": "@harrysforge-ui/badge",
 				"purl": "pkg:npm/%40harrysforge-ui/badge"
 			},
 			"versions": [
@@ -22,7 +22,7 @@
 				"101.0.4"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/badge/MAL-2024-1807.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@harrysforge-ui/badge/MAL-2024-1807.json"
 			}
 		}
 	],

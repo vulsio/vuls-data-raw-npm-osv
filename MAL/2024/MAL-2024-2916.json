@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "radar-core-krn",
+				"name": "@ks-radar/radar-core-krn",
 				"purl": "pkg:npm/%40ks-radar/radar-core-krn"
 			},
 			"versions": [
 				"1.1.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/radar-core-krn/MAL-2024-2916.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ks-radar/radar-core-krn/MAL-2024-2916.json"
 			}
 		}
 	],

@@ -25,10 +25,6 @@
 					]
 				}
 			],
-			"versions": [
-				"1.999.1",
-				"1.999.2"
-			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -45,15 +41,6 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-vxw7-g46h-f9p4"
-		}
-	],
-	"credits": [
-		{
-			"name": "ReversingLabs",
-			"contact": [
-				"https://www.reversinglabs.com"
-			],
-			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -74,17 +61,6 @@
 				],
 				"sha256": "6ca53bdb06657a9cd39a9746b31d16a744e10fc843f033e4c726a6f6a2815641",
 				"source": "ghsa-malware"
-			},
-			{
-				"id": "RLMA-2024-00230",
-				"import_time": "2024-06-28T02:41:40.066292839Z",
-				"modified_time": "2024-06-25T12:23:15Z",
-				"sha256": "4525390b77fb8837cb24ea7d6937e6a0439d4765dbe6e55468315d217984328b",
-				"source": "reversing-labs",
-				"versions": [
-					"1.999.1",
-					"1.999.2"
-				]
 			}
 		]
 	}

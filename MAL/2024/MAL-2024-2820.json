@@ -9,7 +9,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "ozon-maps__map-sdk",
+				"name": "@ozon-shared-deps/ozon-maps__map-sdk",
 				"purl": "pkg:npm/%40ozon-shared-deps/ozon-maps__map-sdk"
 			},
 			"versions": [
@@ -17,7 +17,7 @@
 				"2.6.20"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ozon-maps__map-sdk/MAL-2024-2820.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ozon-shared-deps/ozon-maps__map-sdk/MAL-2024-2820.json"
 			}
 		}
 	],

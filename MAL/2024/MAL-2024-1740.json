@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "alexandria",
+				"name": "@bluekiri/alexandria",
 				"purl": "pkg:npm/%40bluekiri/alexandria"
 			},
 			"versions": [
 				"5.0.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/alexandria/MAL-2024-1740.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@bluekiri/alexandria/MAL-2024-1740.json"
 			}
 		}
 	],

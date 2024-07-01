@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "angular",
+				"name": "@maia-web/angular",
 				"purl": "pkg:npm/%40maia-web/angular"
 			},
 			"versions": [
 				"20.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/angular/MAL-2024-1755.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@maia-web/angular/MAL-2024-1755.json"
 			}
 		}
 	],

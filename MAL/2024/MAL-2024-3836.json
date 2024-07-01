@@ -9,7 +9,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "vue-clipboard2",
+				"name": "@ozon-shared-deps/vue-clipboard2",
 				"purl": "pkg:npm/%40ozon-shared-deps/vue-clipboard2"
 			},
 			"versions": [
@@ -17,7 +17,7 @@
 				"0.3.15"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/vue-clipboard2/MAL-2024-3836.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ozon-shared-deps/vue-clipboard2/MAL-2024-3836.json"
 			}
 		}
 	],

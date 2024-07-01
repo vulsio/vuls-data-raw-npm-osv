@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "chat-bot",
+				"name": "@y9c-login/chat-bot",
 				"purl": "pkg:npm/%40y9c-login/chat-bot"
 			},
 			"versions": [
 				"20.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/chat-bot/MAL-2024-1977.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@y9c-login/chat-bot/MAL-2024-1977.json"
 			}
 		}
 	],

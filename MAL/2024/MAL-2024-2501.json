@@ -12,7 +12,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "icons",
+				"name": "@realty-front/icons",
 				"purl": "pkg:npm/%40realty-front/icons"
 			},
 			"versions": [
@@ -22,7 +22,7 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/icons/MAL-2024-2501.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@realty-front/icons/MAL-2024-2501.json"
 			}
 		}
 	],

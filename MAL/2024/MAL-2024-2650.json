@@ -12,14 +12,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "map-icons",
+				"name": "@b2bgeo/map-icons",
 				"purl": "pkg:npm/%40b2bgeo/map-icons"
 			},
 			"versions": [
 				"13.3.7"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/map-icons/MAL-2024-2650.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@b2bgeo/map-icons/MAL-2024-2650.json"
 			}
 		}
 	],

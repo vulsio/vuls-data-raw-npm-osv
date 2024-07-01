@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "sdk-components",
+				"name": "@xbox-web/sdk-components",
 				"purl": "pkg:npm/%40xbox-web/sdk-components"
 			},
 			"versions": [
 				"14.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/sdk-components/MAL-2024-2993.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@xbox-web/sdk-components/MAL-2024-2993.json"
 			}
 		}
 	],

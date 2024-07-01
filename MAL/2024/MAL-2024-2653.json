@@ -1,55 +1,23 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2653",
-	"modified": "2024-06-28T03:14:00.468692Z",
+	"modified": "2024-07-01T05:16:00Z",
 	"published": "2024-06-25T12:21:30Z",
-	"aliases": [
-		"GHSA-v397-r6h2-3h38",
-		"MAL-2024-1370",
-		"SNYK-JS-OZONFEMEDIAPLAYER-6913914"
-	],
 	"summary": "Malicious code in media-player (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"details": "False positive caused by problematic ingestion.\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{
 			"package": {
 				"ecosystem": "npm",
 				"name": "media-player",
-				"purl": "pkg:npm/%40ozon-fe/media-player"
+				"purl": "pkg:npm/media-player"
 			},
 			"versions": [
 				"90.19.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/media-player/MAL-2024-2653.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/media-player/MAL-2024-2653.json"
 			}
-		}
-	],
-	"references": [
-		{
-			"type": "ADVISORY",
-			"url": "https://security.snyk.io/vuln/SNYK-JS-OZONFEMEDIAPLAYER-6913914"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/advisories/GHSA-v397-r6h2-3h38"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/%40ozon-fe/media-player/MAL-2024-1370.json"
-		},
-		{
-			"type": "PACKAGE",
-			"url": "https://npmjs.com/package/@ozon-fe/media-player"
-		}
-	],
-	"credits": [
-		{
-			"name": "ReversingLabs",
-			"contact": [
-				"https://www.reversinglabs.com"
-			],
-			"type": "FINDER"
 		}
 	],
 	"database_specific": {

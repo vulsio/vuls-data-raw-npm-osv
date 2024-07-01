@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "mqttjsclientextensions",
+				"name": "@mqttapplicationsamples/mqttjsclientextensions",
 				"purl": "pkg:npm/%40mqttapplicationsamples/mqttjsclientextensions"
 			},
 			"versions": [
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mqttjsclientextensions/MAL-2024-2675.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@mqttapplicationsamples/mqttjsclientextensions/MAL-2024-2675.json"
 			}
 		}
 	],

@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "search",
+				"name": "@ks-radar/search",
 				"purl": "pkg:npm/%40ks-radar/search"
 			},
 			"versions": [
 				"2.1.10"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/search/MAL-2024-2995.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ks-radar/search/MAL-2024-2995.json"
 			}
 		}
 	],

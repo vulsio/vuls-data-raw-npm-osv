@@ -12,14 +12,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "foo",
+				"name": "@li-test/foo",
 				"purl": "pkg:npm/%40li-test/foo"
 			},
 			"versions": [
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/foo/MAL-2024-2387.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@li-test/foo/MAL-2024-2387.json"
 			}
 		}
 	],

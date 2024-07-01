@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "flowcode-generator-types",
+				"name": "@dtx-company/flowcode-generator-types",
 				"purl": "pkg:npm/%40dtx-company/flowcode-generator-types"
 			},
 			"versions": [
 				"200000.0.2"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/flowcode-generator-types/MAL-2024-2380.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@dtx-company/flowcode-generator-types/MAL-2024-2380.json"
 			}
 		}
 	],

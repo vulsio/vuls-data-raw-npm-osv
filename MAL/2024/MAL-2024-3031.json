@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "sodalite",
+				"name": "@gds-web-ui/sodalite",
 				"purl": "pkg:npm/%40gds-web-ui/sodalite"
 			},
 			"versions": [
 				"0.23.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/sodalite/MAL-2024-3031.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@gds-web-ui/sodalite/MAL-2024-3031.json"
 			}
 		}
 	],

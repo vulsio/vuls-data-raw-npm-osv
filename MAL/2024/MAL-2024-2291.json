@@ -12,7 +12,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "emails",
+				"name": "@adminhub-page/emails",
 				"purl": "pkg:npm/%40adminhub-page/emails"
 			},
 			"versions": [
@@ -20,7 +20,7 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/emails/MAL-2024-2291.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@adminhub-page/emails/MAL-2024-2291.json"
 			}
 		}
 	],

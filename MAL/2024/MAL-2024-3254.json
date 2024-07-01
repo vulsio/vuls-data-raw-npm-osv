@@ -9,7 +9,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "ui",
+				"name": "@epgu/ui",
 				"purl": "pkg:npm/%40epgu/ui"
 			},
 			"versions": [
@@ -17,7 +17,7 @@
 				"4.428.4-frontv3"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ui/MAL-2024-3254.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@epgu/ui/MAL-2024-3254.json"
 			}
 		}
 	],

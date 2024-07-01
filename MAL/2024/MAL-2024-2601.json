@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "lbank-utils",
+				"name": "@lbank/lbank-utils",
 				"purl": "pkg:npm/%40lbank/lbank-utils"
 			},
 			"versions": [
 				"3000.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/lbank-utils/MAL-2024-2601.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@lbank/lbank-utils/MAL-2024-2601.json"
 			}
 		}
 	],

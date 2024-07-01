@@ -12,7 +12,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "configs",
+				"name": "@b2bgeo/configs",
 				"purl": "pkg:npm/%40b2bgeo/configs"
 			},
 			"versions": [
@@ -20,7 +20,7 @@
 				"13.3.8"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/configs/MAL-2024-2016.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@b2bgeo/configs/MAL-2024-2016.json"
 			}
 		}
 	],

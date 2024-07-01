@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "radar-blood-lineage-collect",
+				"name": "@ks-radar/radar-blood-lineage-collect",
 				"purl": "pkg:npm/%40ks-radar/radar-blood-lineage-collect"
 			},
 			"versions": [
 				"9.1.9"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/radar-blood-lineage-collect/MAL-2024-2914.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ks-radar/radar-blood-lineage-collect/MAL-2024-2914.json"
 			}
 		}
 	],

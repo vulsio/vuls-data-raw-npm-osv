@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "era-build",
+				"name": "@fdfe/era-build",
 				"purl": "pkg:npm/%40fdfe/era-build"
 			},
 			"versions": [
 				"1.0.15"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/era-build/MAL-2024-2310.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@fdfe/era-build/MAL-2024-2310.json"
 			}
 		}
 	],

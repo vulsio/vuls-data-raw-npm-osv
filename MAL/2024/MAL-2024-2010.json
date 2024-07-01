@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "component-library",
+				"name": "@the-platform-group/component-library",
 				"purl": "pkg:npm/%40the-platform-group/component-library"
 			},
 			"versions": [
 				"1.999.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/component-library/MAL-2024-2010.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@the-platform-group/component-library/MAL-2024-2010.json"
 			}
 		}
 	],

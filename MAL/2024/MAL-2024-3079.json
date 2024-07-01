@@ -12,7 +12,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "tanker",
+				"name": "@b2bgeo/tanker",
 				"purl": "pkg:npm/%40b2bgeo/tanker"
 			},
 			"versions": [
@@ -20,7 +20,7 @@
 				"13.3.8"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tanker/MAL-2024-3079.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@b2bgeo/tanker/MAL-2024-3079.json"
 			}
 		}
 	],

@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "partner-onboarding",
+				"name": "@xbox-web/partner-onboarding",
 				"purl": "pkg:npm/%40xbox-web/partner-onboarding"
 			},
 			"versions": [
 				"14.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/partner-onboarding/MAL-2024-2841.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@xbox-web/partner-onboarding/MAL-2024-2841.json"
 			}
 		}
 	],

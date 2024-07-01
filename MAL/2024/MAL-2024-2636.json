@@ -12,7 +12,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "lodging",
+				"name": "@egds/lodging",
 				"purl": "pkg:npm/%40egds/lodging"
 			},
 			"versions": [
@@ -22,7 +22,7 @@
 				"20.2.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/lodging/MAL-2024-2636.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@egds/lodging/MAL-2024-2636.json"
 			}
 		}
 	],

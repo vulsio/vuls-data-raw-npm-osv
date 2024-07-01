@@ -12,14 +12,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "sheinoutmobile",
+				"name": "@sheinoutmobile/sheinoutmobile",
 				"purl": "pkg:npm/%40sheinoutmobile/sheinoutmobile"
 			},
 			"versions": [
 				"1.6.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/sheinoutmobile/MAL-2024-3011.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@sheinoutmobile/sheinoutmobile/MAL-2024-3011.json"
 			}
 		}
 	],

@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "react-me",
+				"name": "@hotwire/react-me",
 				"purl": "pkg:npm/%40hotwire/react-me"
 			},
 			"versions": [
 				"100.100.100"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/react-me/MAL-2024-2935.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@hotwire/react-me/MAL-2024-2935.json"
 			}
 		}
 	],

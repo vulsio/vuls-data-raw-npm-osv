@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "apps",
+				"name": "@zettle-bo/apps",
 				"purl": "pkg:npm/%40zettle-bo/apps"
 			},
 			"versions": [
 				"35.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/apps/MAL-2024-1767.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@zettle-bo/apps/MAL-2024-1767.json"
 			}
 		}
 	],

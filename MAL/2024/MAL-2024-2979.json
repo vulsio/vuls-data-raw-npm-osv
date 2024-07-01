@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "s3plus",
+				"name": "@mosfe/s3plus",
 				"purl": "pkg:npm/%40mosfe/s3plus"
 			},
 			"versions": [
 				"0.1.7"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/s3plus/MAL-2024-2979.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@mosfe/s3plus/MAL-2024-2979.json"
 			}
 		}
 	],

@@ -1,11 +1,8 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-8007",
-	"modified": "2024-06-28T03:14:29.203887Z",
+	"modified": "2023-09-01T20:12:58Z",
 	"published": "2023-07-31T00:00:00Z",
-	"aliases": [
-		"MAL-2024-1733"
-	],
 	"summary": "Malicious code in @rocketrefer/admin-panel (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: checkmarx (cee4d7f564848bd4bb2a8a410f60f22ce1bce642072b14a97281130483c8c1a9)\nMalicious packages campaign since 2021 targeting developers, steals source code and secrets\n",
 	"affected": [

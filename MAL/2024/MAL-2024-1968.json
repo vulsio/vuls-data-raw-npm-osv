@@ -9,7 +9,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "cdn19-test",
+				"name": "@rc-mfe/cdn19-test",
 				"purl": "pkg:npm/%40rc-mfe/cdn19-test"
 			},
 			"versions": [
@@ -18,7 +18,7 @@
 				"1.992.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cdn19-test/MAL-2024-1968.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@rc-mfe/cdn19-test/MAL-2024-1968.json"
 			}
 		}
 	],

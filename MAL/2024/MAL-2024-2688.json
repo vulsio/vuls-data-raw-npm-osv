@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "mz-test",
+				"name": "@abdulmz/mz-test",
 				"purl": "pkg:npm/%40abdulmz/mz-test"
 			},
 			"versions": [
 				"1.1.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mz-test/MAL-2024-2688.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@abdulmz/mz-test/MAL-2024-2688.json"
 			}
 		}
 	],

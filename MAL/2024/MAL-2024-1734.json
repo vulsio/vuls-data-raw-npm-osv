@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "adobe",
+				"name": "@corp-shared/adobe",
 				"purl": "pkg:npm/%40corp-shared/adobe"
 			},
 			"versions": [
 				"20.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/adobe/MAL-2024-1734.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@corp-shared/adobe/MAL-2024-1734.json"
 			}
 		}
 	],

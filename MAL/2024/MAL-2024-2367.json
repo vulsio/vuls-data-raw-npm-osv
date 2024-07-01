@@ -1,32 +1,23 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2367",
-	"modified": "2024-06-25T12:23:13Z",
+	"modified": "2024-07-01T05:16:00Z",
 	"published": "2024-06-25T12:23:13Z",
 	"summary": "Malicious code in fetchs (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"details": "False positive caused by problematic ingestion.\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{
 			"package": {
 				"ecosystem": "npm",
 				"name": "fetchs",
-				"purl": "pkg:npm/%40yoimiiya/fetchs"
+				"purl": "pkg:npm/fetchs"
 			},
 			"versions": [
 				"1.4.2"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fetchs/MAL-2024-2367.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/fetchs/MAL-2024-2367.json"
 			}
-		}
-	],
-	"credits": [
-		{
-			"name": "ReversingLabs",
-			"contact": [
-				"https://www.reversinglabs.com"
-			],
-			"type": "FINDER"
 		}
 	],
 	"database_specific": {

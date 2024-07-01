@@ -1,46 +1,23 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3961",
-	"modified": "2024-06-28T03:14:24.294174Z",
+	"modified": "2024-07-01T05:16:00Z",
 	"published": "2024-06-25T12:20:29Z",
-	"aliases": [
-		"GHSA-j49r-qv84-rfxr",
-		"MAL-2023-8445"
-	],
 	"summary": "Malicious code in workspace-1 (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"details": "False positive caused by problematic ingestion.\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{
 			"package": {
 				"ecosystem": "npm",
 				"name": "workspace-1",
-				"purl": "pkg:npm/%40inventashif/workspace-1"
+				"purl": "pkg:npm/workspace-1"
 			},
 			"versions": [
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/workspace-1/MAL-2024-3961.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/workspace-1/MAL-2024-3961.json"
 			}
-		}
-	],
-	"references": [
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/advisories/GHSA-j49r-qv84-rfxr"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/%40inventashif/workspace-1/MAL-2023-8445.json"
-		}
-	],
-	"credits": [
-		{
-			"name": "ReversingLabs",
-			"contact": [
-				"https://www.reversinglabs.com"
-			],
-			"type": "FINDER"
 		}
 	],
 	"database_specific": {

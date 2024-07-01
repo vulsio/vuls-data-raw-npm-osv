@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "babel-preset-react-app",
+				"name": "@plangrid-private/babel-preset-react-app",
 				"purl": "pkg:npm/%40plangrid-private/babel-preset-react-app"
 			},
 			"versions": [
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/babel-preset-react-app/MAL-2024-1801.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@plangrid-private/babel-preset-react-app/MAL-2024-1801.json"
 			}
 		}
 	],

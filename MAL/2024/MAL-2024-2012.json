@@ -9,7 +9,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "component-popover",
+				"name": "@ikea-aoa/component-popover",
 				"purl": "pkg:npm/%40ikea-aoa/component-popover"
 			},
 			"versions": [
@@ -17,7 +17,7 @@
 				"99.0.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/component-popover/MAL-2024-2012.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ikea-aoa/component-popover/MAL-2024-2012.json"
 			}
 		}
 	],

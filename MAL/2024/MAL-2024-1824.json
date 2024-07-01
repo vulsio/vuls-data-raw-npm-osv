@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "bitkubx-wallet",
+				"name": "@bitkub-moonshot/bitkubx-wallet",
 				"purl": "pkg:npm/%40bitkub-moonshot/bitkubx-wallet"
 			},
 			"versions": [
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bitkubx-wallet/MAL-2024-1824.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@bitkub-moonshot/bitkubx-wallet/MAL-2024-1824.json"
 			}
 		}
 	],

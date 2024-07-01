@@ -1,21 +1,16 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2394",
-	"modified": "2024-06-28T03:14:17.914542Z",
+	"modified": "2024-07-01T05:16:00Z",
 	"published": "2024-06-25T12:18:24Z",
-	"aliases": [
-		"GHSA-24j7-h2mv-wfxg",
-		"MAL-2023-8517",
-		"SNYK-JS-AIRSLATEFRONTLOCALES-6057539"
-	],
 	"summary": "Malicious code in front-locales (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"details": "False positive caused by problematic ingestion.\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{
 			"package": {
 				"ecosystem": "npm",
 				"name": "front-locales",
-				"purl": "pkg:npm/%40airslate/front-locales"
+				"purl": "pkg:npm/front-locales"
 			},
 			"versions": [
 				"9.9.11",
@@ -23,35 +18,8 @@
 				"9.9.8"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/front-locales/MAL-2024-2394.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/front-locales/MAL-2024-2394.json"
 			}
-		}
-	],
-	"references": [
-		{
-			"type": "ADVISORY",
-			"url": "https://security.snyk.io/vuln/SNYK-JS-AIRSLATEFRONTLOCALES-6057539"
-		},
-		{
-			"type": "PACKAGE",
-			"url": "https://npmjs.com/package/@airslate/front-locales"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/advisories/GHSA-24j7-h2mv-wfxg"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/%40airslate/front-locales/MAL-2023-8517.json"
-		}
-	],
-	"credits": [
-		{
-			"name": "ReversingLabs",
-			"contact": [
-				"https://www.reversinglabs.com"
-			],
-			"type": "FINDER"
 		}
 	],
 	"database_specific": {

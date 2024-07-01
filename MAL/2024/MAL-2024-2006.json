@@ -1,55 +1,23 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2006",
-	"modified": "2024-06-28T03:14:13.404344Z",
+	"modified": "2024-07-01T05:16:00Z",
 	"published": "2024-06-25T12:21:31Z",
-	"aliases": [
-		"GHSA-5j3r-vgv9-v5fp",
-		"MAL-2024-1371",
-		"SNYK-JS-OZONOBFOUNDATIONCOMMUNICATION-6913916"
-	],
 	"summary": "Malicious code in communication (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"details": "False positive caused by problematic ingestion.\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{
 			"package": {
 				"ecosystem": "npm",
 				"name": "communication",
-				"purl": "pkg:npm/%40ozon-ob-foundation/communication"
+				"purl": "pkg:npm/communication"
 			},
 			"versions": [
 				"90.1.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/communication/MAL-2024-2006.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/communication/MAL-2024-2006.json"
 			}
-		}
-	],
-	"references": [
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/advisories/GHSA-5j3r-vgv9-v5fp"
-		},
-		{
-			"type": "PACKAGE",
-			"url": "https://npmjs.com/package/@ozon-ob-foundation/communication"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://security.snyk.io/vuln/SNYK-JS-OZONOBFOUNDATIONCOMMUNICATION-6913916"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/%40ozon-ob-foundation/communication/MAL-2024-1371.json"
-		}
-	],
-	"credits": [
-		{
-			"name": "ReversingLabs",
-			"contact": [
-				"https://www.reversinglabs.com"
-			],
-			"type": "FINDER"
 		}
 	],
 	"database_specific": {

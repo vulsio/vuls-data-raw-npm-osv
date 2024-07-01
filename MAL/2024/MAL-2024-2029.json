@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2029",
-	"modified": "2024-06-28T02:53:15Z",
+	"modified": "2024-07-01T04:00:00Z",
 	"published": "2024-06-25T12:21:57Z",
 	"summary": "Malicious code in crm-components (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -9,19 +9,17 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "crm-components",
+				"name": "@pwndz/crm-components",
 				"purl": "pkg:npm/%40pwndz/crm-components"
 			},
 			"versions": [
 				"2.9.7",
 				"2.17.0",
 				"3.18.0",
-				"99.99.99",
-				"3.23.0",
-				"3.22.0"
+				"99.99.99"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/crm-components/MAL-2024-2029.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@pwndz/crm-components/MAL-2024-2029.json"
 			}
 		}
 	],
@@ -47,17 +45,6 @@
 					"2.17.0",
 					"3.18.0",
 					"99.99.99"
-				]
-			},
-			{
-				"id": "RLMA-2024-00174",
-				"import_time": "2024-06-28T02:41:33.409450728Z",
-				"modified_time": "2024-06-25T12:21:57Z",
-				"sha256": "40078cda6096cc030080921771c524b31b0d171e6db525ca7666e6116cfb8a88",
-				"source": "reversing-labs",
-				"versions": [
-					"3.23.0",
-					"3.22.0"
 				]
 			}
 		]

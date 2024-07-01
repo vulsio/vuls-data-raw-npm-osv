@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "init",
+				"name": "@locallife/init",
 				"purl": "pkg:npm/%40locallife/init"
 			},
 			"versions": [
 				"19.7.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/init/MAL-2024-2514.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@locallife/init/MAL-2024-2514.json"
 			}
 		}
 	],

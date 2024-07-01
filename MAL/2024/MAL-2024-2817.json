@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "owl-config",
+				"name": "@mosfe/owl-config",
 				"purl": "pkg:npm/%40mosfe/owl-config"
 			},
 			"versions": [
 				"1.0.8"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/owl-config/MAL-2024-2817.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@mosfe/owl-config/MAL-2024-2817.json"
 			}
 		}
 	],

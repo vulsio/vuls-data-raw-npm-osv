@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "alexandria-logitravel",
+				"name": "@bluekiri/alexandria-logitravel",
 				"purl": "pkg:npm/%40bluekiri/alexandria-logitravel"
 			},
 			"versions": [
 				"6.0.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/alexandria-logitravel/MAL-2024-1741.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@bluekiri/alexandria-logitravel/MAL-2024-1741.json"
 			}
 		}
 	],

@@ -9,7 +9,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "aws-powertools-util",
+				"name": "@terraform-aws-github-runner/aws-powertools-util",
 				"purl": "pkg:npm/%40terraform-aws-github-runner/aws-powertools-util"
 			},
 			"versions": [
@@ -17,7 +17,7 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/aws-powertools-util/MAL-2024-1792.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@terraform-aws-github-runner/aws-powertools-util/MAL-2024-1792.json"
 			}
 		}
 	],

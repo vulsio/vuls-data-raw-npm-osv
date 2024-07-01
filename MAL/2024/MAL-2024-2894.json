@@ -12,14 +12,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "prettier_config",
+				"name": "@bizone/prettier_config",
 				"purl": "pkg:npm/%40bizone/prettier_config"
 			},
 			"versions": [
 				"2.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/prettier_config/MAL-2024-2894.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@bizone/prettier_config/MAL-2024-2894.json"
 			}
 		}
 	],

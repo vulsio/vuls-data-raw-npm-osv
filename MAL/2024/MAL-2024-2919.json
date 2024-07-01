@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "radar-send-web-log-collect",
+				"name": "@ks-radar/radar-send-web-log-collect",
 				"purl": "pkg:npm/%40ks-radar/radar-send-web-log-collect"
 			},
 			"versions": [
 				"1.1.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/radar-send-web-log-collect/MAL-2024-2919.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ks-radar/radar-send-web-log-collect/MAL-2024-2919.json"
 			}
 		}
 	],

@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "component-store-selector",
+				"name": "@ikea-aoa/component-store-selector",
 				"purl": "pkg:npm/%40ikea-aoa/component-store-selector"
 			},
 			"versions": [
 				"99.0.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/component-store-selector/MAL-2024-2013.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ikea-aoa/component-store-selector/MAL-2024-2013.json"
 			}
 		}
 	],

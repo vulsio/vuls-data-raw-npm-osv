@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "notification-subscription-v7",
+				"name": "@ccw-order/notification-subscription-v7",
 				"purl": "pkg:npm/%40ccw-order/notification-subscription-v7"
 			},
 			"versions": [
 				"13.3.7"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/notification-subscription-v7/MAL-2024-2764.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ccw-order/notification-subscription-v7/MAL-2024-2764.json"
 			}
 		}
 	],

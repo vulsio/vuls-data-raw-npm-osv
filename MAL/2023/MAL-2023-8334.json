@@ -1,12 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-8334",
-	"modified": "2024-06-28T03:14:14.656815Z",
+	"modified": "2024-07-01T06:57:26.786212Z",
 	"published": "2023-10-12T04:31:28Z",
 	"aliases": [
-		"GHSA-9mgm-94rc-3r2p",
-		"GHSA-f38r-f238-5x8r",
-		"MAL-2023-8340"
+		"GHSA-f38r-f238-5x8r"
 	],
 	"summary": "Malicious code in @emon-bhai/fca-emon-bhai-api (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (1dda8cf587fd89dbb973a1ad2d9121439dd65185b74c76fe48d5425e2967f400)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",

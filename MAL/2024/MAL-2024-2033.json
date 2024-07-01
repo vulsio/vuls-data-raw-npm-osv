@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "crypto-js",
+				"name": "@ably-forks/crypto-js",
 				"purl": "pkg:npm/%40ably-forks/crypto-js"
 			},
 			"versions": [
 				"3.999.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/crypto-js/MAL-2024-2033.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ably-forks/crypto-js/MAL-2024-2033.json"
 			}
 		}
 	],

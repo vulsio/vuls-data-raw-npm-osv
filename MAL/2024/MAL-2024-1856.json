@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "caesars-ui",
+				"name": "@caesars-digital/caesars-ui",
 				"purl": "pkg:npm/%40caesars-digital/caesars-ui"
 			},
 			"versions": [
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/caesars-ui/MAL-2024-1856.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@caesars-digital/caesars-ui/MAL-2024-1856.json"
 			}
 		}
 	],

@@ -1,50 +1,23 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2531",
-	"modified": "2024-06-28T03:14:16.982045Z",
+	"modified": "2024-07-01T05:16:00Z",
 	"published": "2024-06-25T12:23:28Z",
-	"aliases": [
-		"GHSA-wphm-q9gv-6hch",
-		"MAL-2023-8199"
-	],
 	"summary": "Malicious code in inventory (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"details": "False positive caused by problematic ingestion.\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{
 			"package": {
 				"ecosystem": "npm",
 				"name": "inventory",
-				"purl": "pkg:npm/%40zettle-bo/inventory"
+				"purl": "pkg:npm/inventory"
 			},
 			"versions": [
 				"35.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/inventory/MAL-2024-2531.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/inventory/MAL-2024-2531.json"
 			}
-		}
-	],
-	"references": [
-		{
-			"type": "ARTICLE",
-			"url": "https://blog.sonatype.com/new-npm-poc-packages-target-paypal-zettle-airbnb-developers"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/%40zettle-bo/inventory/MAL-2023-8199.json"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/advisories/GHSA-wphm-q9gv-6hch"
-		}
-	],
-	"credits": [
-		{
-			"name": "ReversingLabs",
-			"contact": [
-				"https://www.reversinglabs.com"
-			],
-			"type": "FINDER"
 		}
 	],
 	"database_specific": {

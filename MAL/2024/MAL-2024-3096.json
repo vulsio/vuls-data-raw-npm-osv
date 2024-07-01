@@ -9,7 +9,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "temporal",
+				"name": "@plangrid-private/temporal",
 				"purl": "pkg:npm/%40plangrid-private/temporal"
 			},
 			"versions": [
@@ -17,7 +17,7 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/temporal/MAL-2024-3096.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@plangrid-private/temporal/MAL-2024-3096.json"
 			}
 		}
 	],

@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "demo-components",
+				"name": "@plangrid-private/demo-components",
 				"purl": "pkg:npm/%40plangrid-private/demo-components"
 			},
 			"versions": [
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/demo-components/MAL-2024-2071.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@plangrid-private/demo-components/MAL-2024-2071.json"
 			}
 		}
 	],

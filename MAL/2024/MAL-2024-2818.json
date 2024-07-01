@@ -9,7 +9,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "ozon-fe__media-player-standard",
+				"name": "@ozon-shared-deps/ozon-fe__media-player-standard",
 				"purl": "pkg:npm/%40ozon-shared-deps/ozon-fe__media-player-standard"
 			},
 			"versions": [
@@ -17,7 +17,7 @@
 				"0.0.56"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ozon-fe__media-player-standard/MAL-2024-2818.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ozon-shared-deps/ozon-fe__media-player-standard/MAL-2024-2818.json"
 			}
 		}
 	],

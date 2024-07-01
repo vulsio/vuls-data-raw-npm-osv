@@ -9,7 +9,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "d11n-preparer",
+				"name": "@vk-tech/d11n-preparer",
 				"purl": "pkg:npm/%40vk-tech/d11n-preparer"
 			},
 			"versions": [
@@ -19,7 +19,7 @@
 				"3.0.8"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/d11n-preparer/MAL-2024-2058.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@vk-tech/d11n-preparer/MAL-2024-2058.json"
 			}
 		}
 	],

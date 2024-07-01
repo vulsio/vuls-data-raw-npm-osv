@@ -12,7 +12,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "ydb",
+				"name": "@realty-front/ydb",
 				"purl": "pkg:npm/%40realty-front/ydb"
 			},
 			"versions": [
@@ -22,7 +22,7 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ydb/MAL-2024-3979.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@realty-front/ydb/MAL-2024-3979.json"
 			}
 		}
 	],

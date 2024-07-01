@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "layout",
+				"name": "@panel-layout/layout",
 				"purl": "pkg:npm/%40panel-layout/layout"
 			},
 			"versions": [
 				"6.21.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/layout/MAL-2024-2597.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@panel-layout/layout/MAL-2024-2597.json"
 			}
 		}
 	],

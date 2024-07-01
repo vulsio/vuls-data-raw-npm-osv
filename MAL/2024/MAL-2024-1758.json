@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "angular-utilities",
+				"name": "@abb-americas/angular-utilities",
 				"purl": "pkg:npm/%40abb-americas/angular-utilities"
 			},
 			"versions": [
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/angular-utilities/MAL-2024-1758.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@abb-americas/angular-utilities/MAL-2024-1758.json"
 			}
 		}
 	],

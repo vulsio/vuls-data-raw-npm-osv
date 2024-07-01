@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "trim-right",
+				"name": "@pragatib20/trim-right",
 				"purl": "pkg:npm/%40pragatib20/trim-right"
 			},
 			"versions": [
 				"1.0.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/trim-right/MAL-2024-3239.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@pragatib20/trim-right/MAL-2024-3239.json"
 			}
 		}
 	],

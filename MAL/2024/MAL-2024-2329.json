@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "eslint-plugin-ins-common",
+				"name": "@fdfe/eslint-plugin-ins-common",
 				"purl": "pkg:npm/%40fdfe/eslint-plugin-ins-common"
 			},
 			"versions": [
 				"0.0.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/eslint-plugin-ins-common/MAL-2024-2329.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@fdfe/eslint-plugin-ins-common/MAL-2024-2329.json"
 			}
 		}
 	],

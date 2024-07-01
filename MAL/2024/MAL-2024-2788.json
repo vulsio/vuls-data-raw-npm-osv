@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "olap-auth",
+				"name": "@ks-radar/olap-auth",
 				"purl": "pkg:npm/%40ks-radar/olap-auth"
 			},
 			"versions": [
 				"999.999.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/olap-auth/MAL-2024-2788.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ks-radar/olap-auth/MAL-2024-2788.json"
 			}
 		}
 	],

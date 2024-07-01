@@ -1,46 +1,23 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2917",
-	"modified": "2024-06-28T03:14:15.925462Z",
+	"modified": "2024-07-01T05:16:00Z",
 	"published": "2024-06-25T12:20:39Z",
-	"aliases": [
-		"GHSA-vw3v-52fj-6p2g",
-		"MAL-2023-8057"
-	],
 	"summary": "Malicious code in radar-error-collect (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"details": "False positive caused by problematic ingestion.\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{
 			"package": {
 				"ecosystem": "npm",
 				"name": "radar-error-collect",
-				"purl": "pkg:npm/%40ks-radar/radar-error-collect"
+				"purl": "pkg:npm/radar-error-collect"
 			},
 			"versions": [
 				"9.1.10"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/radar-error-collect/MAL-2024-2917.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/radar-error-collect/MAL-2024-2917.json"
 			}
-		}
-	],
-	"references": [
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/%40ks-radar/radar-error-collect/MAL-2023-8057.json"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/advisories/GHSA-vw3v-52fj-6p2g"
-		}
-	],
-	"credits": [
-		{
-			"name": "ReversingLabs",
-			"contact": [
-				"https://www.reversinglabs.com"
-			],
-			"type": "FINDER"
 		}
 	],
 	"database_specific": {

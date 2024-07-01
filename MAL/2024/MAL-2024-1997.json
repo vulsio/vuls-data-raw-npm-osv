@@ -12,7 +12,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "codegen",
+				"name": "@realty-front/codegen",
 				"purl": "pkg:npm/%40realty-front/codegen"
 			},
 			"versions": [
@@ -22,7 +22,7 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/codegen/MAL-2024-1997.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@realty-front/codegen/MAL-2024-1997.json"
 			}
 		}
 	],

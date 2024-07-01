@@ -1,50 +1,23 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2980",
-	"modified": "2024-06-28T03:13:53.298482Z",
+	"modified": "2024-07-01T05:16:00Z",
 	"published": "2024-06-25T12:23:40Z",
-	"aliases": [
-		"GHSA-cqhg-pq6p-mxmm",
-		"MAL-2023-8208"
-	],
 	"summary": "Malicious code in sales-trends (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"details": "False positive caused by problematic ingestion.\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{
 			"package": {
 				"ecosystem": "npm",
 				"name": "sales-trends",
-				"purl": "pkg:npm/%40zettle-bo/sales-trends"
+				"purl": "pkg:npm/sales-trends"
 			},
 			"versions": [
 				"35.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/sales-trends/MAL-2024-2980.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/sales-trends/MAL-2024-2980.json"
 			}
-		}
-	],
-	"references": [
-		{
-			"type": "ARTICLE",
-			"url": "https://blog.sonatype.com/new-npm-poc-packages-target-paypal-zettle-airbnb-developers"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/%40zettle-bo/sales-trends/MAL-2023-8208.json"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/advisories/GHSA-cqhg-pq6p-mxmm"
-		}
-	],
-	"credits": [
-		{
-			"name": "ReversingLabs",
-			"contact": [
-				"https://www.reversinglabs.com"
-			],
-			"type": "FINDER"
 		}
 	],
 	"database_specific": {

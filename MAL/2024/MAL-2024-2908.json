@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "qlik-sense",
+				"name": "@vipulsahu/qlik-sense",
 				"purl": "pkg:npm/%40vipulsahu/qlik-sense"
 			},
 			"versions": [
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/qlik-sense/MAL-2024-2908.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@vipulsahu/qlik-sense/MAL-2024-2908.json"
 			}
 		}
 	],

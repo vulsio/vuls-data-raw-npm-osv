@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "log",
+				"name": "@locallife/log",
 				"purl": "pkg:npm/%40locallife/log"
 			},
 			"versions": [
 				"999.1.4"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/log/MAL-2024-2637.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@locallife/log/MAL-2024-2637.json"
 			}
 		}
 	],

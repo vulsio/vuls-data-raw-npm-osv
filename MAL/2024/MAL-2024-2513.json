@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "iniconfig",
+				"name": "@shamim12_12/iniconfig",
 				"purl": "pkg:npm/%40shamim12_12/iniconfig"
 			},
 			"versions": [
 				"2.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/iniconfig/MAL-2024-2513.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@shamim12_12/iniconfig/MAL-2024-2513.json"
 			}
 		}
 	],

@@ -9,7 +9,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "widget-interaction",
+				"name": "@klapp-support/widget-interaction",
 				"purl": "pkg:npm/%40klapp-support/widget-interaction"
 			},
 			"versions": [
@@ -18,7 +18,7 @@
 				"48.47.48"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/widget-interaction/MAL-2024-3957.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@klapp-support/widget-interaction/MAL-2024-3957.json"
 			}
 		}
 	],

@@ -9,14 +9,14 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "alignerfit",
+				"name": "@aligntech-cw/alignerfit",
 				"purl": "pkg:npm/%40aligntech-cw/alignerfit"
 			},
 			"versions": [
 				"9.999.2"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/alignerfit/MAL-2024-1743.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@aligntech-cw/alignerfit/MAL-2024-1743.json"
 			}
 		}
 	],

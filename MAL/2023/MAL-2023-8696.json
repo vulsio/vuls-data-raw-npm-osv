@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-8696",
-	"modified": "2024-06-28T03:14:27.163190Z",
+	"modified": "2024-07-01T06:57:25.146125Z",
 	"published": "2023-12-14T01:03:07Z",
 	"aliases": [
-		"GHSA-fm2p-9mcm-9vm4",
-		"MAL-2024-2904"
+		"GHSA-fm2p-9mcm-9vm4"
 	],
 	"summary": "Malicious code in @gtfobar/pwn (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (29393b755fc68b86e17f968b750991f19288e7bd3b74adc485ba0ad947aac5ae)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",

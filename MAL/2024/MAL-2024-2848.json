@@ -12,7 +12,7 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "payment-cards",
+				"name": "@realty-front/payment-cards",
 				"purl": "pkg:npm/%40realty-front/payment-cards"
 			},
 			"versions": [
@@ -22,7 +22,7 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/payment-cards/MAL-2024-2848.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@realty-front/payment-cards/MAL-2024-2848.json"
 			}
 		}
 	],
