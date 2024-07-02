@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1617",
-	"modified": "2024-06-17T00:18:56Z",
+	"modified": "2024-07-02T07:34:23Z",
 	"published": "2024-06-09T18:00:33Z",
 	"summary": "Malicious code in test-pkg-blabla (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (3bfaca810c52dc5570fa40d75892333e31b5783eb2daa0f64c6db415c0e4ef79)\nThe OpenSSF Package Analysis project identified 'test-pkg-blabla' @ 1.0.11 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
@@ -24,7 +24,9 @@
 				"1.0.12",
 				"1.0.1",
 				"1.0.10",
-				"1.0.9"
+				"1.0.9",
+				"1.0.15",
+				"1.0.16"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/test-pkg-blabla/MAL-2024-1617.json"
@@ -149,6 +151,24 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"1.0.9"
+				]
+			},
+			{
+				"import_time": "2024-07-02T07:33:58.955623066Z",
+				"modified_time": "2024-06-29T20:07:09Z",
+				"sha256": "bfec936a9db4feb9eba65049fa047675493142b6e2ba6092f8af8e67d234181d",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.15"
+				]
+			},
+			{
+				"import_time": "2024-07-02T07:33:59.037748063Z",
+				"modified_time": "2024-06-29T20:15:47Z",
+				"sha256": "eccb1bd59fff3747744c3844461a4203fc9d05533b4bfaeb9ccb7957249f66d7",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.16"
 				]
 			}
 		]
