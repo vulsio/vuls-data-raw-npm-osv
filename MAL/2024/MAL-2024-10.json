@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-10",
-	"modified": "2024-07-01T06:57:06.516840Z",
+	"modified": "2024-07-02T03:29:13.330906Z",
 	"published": "2024-01-02T03:24:52Z",
 	"aliases": [
-		"GHSA-9qmj-4phx-2v5v"
+		"GHSA-9qmj-4phx-2v5v",
+		"SNYK-JS-MSMGMONEYVUEDATADOG-6141140"
 	],
 	"summary": "Malicious code in @msmg-money/vue-datadog (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (1afb2963e775c73460d75d193db4105cc50b30e6856ec840c7a9bd4d77fee96a)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,10 @@
 					]
 				}
 			],
+			"versions": [
+				"99.99.99",
+				"2.0.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +46,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-9qmj-4phx-2v5v"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-MSMGMONEYVUEDATADOG-6141140"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/@msmg-money/vue-datadog"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +83,17 @@
 				],
 				"sha256": "1afb2963e775c73460d75d193db4105cc50b30e6856ec840c7a9bd4d77fee96a",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-00145",
+				"import_time": "2024-07-02T00:26:36.690672Z",
+				"modified_time": "2024-06-25T12:21:20Z",
+				"sha256": "21315dfb5d5cbc34ad84f2123f7d20ac7e6a91d002efc8ac37f95b0bedfbcdf4",
+				"source": "reversing-labs",
+				"versions": [
+					"99.99.99",
+					"2.0.0"
+				]
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-7927",
-	"modified": "2024-07-01T06:57:16.057618Z",
+	"modified": "2024-07-02T03:10:33Z",
 	"published": "2023-08-28T02:04:47Z",
 	"aliases": [
 		"GHSA-xxrm-mcrf-4gv9"
@@ -25,6 +25,9 @@
 					]
 				}
 			],
+			"versions": [
+				"395.0.0-beta.1"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +44,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-xxrm-mcrf-4gv9"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +73,16 @@
 				],
 				"sha256": "55d4c2e5564fb8d843d5672f7952d370ab93e26d7c031567fc4db522c21ce0b5",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-00105",
+				"import_time": "2024-07-02T00:26:36.644594Z",
+				"modified_time": "2024-06-25T12:20:28Z",
+				"sha256": "5d37846117146be4d82c9af2a71610d133dfe95aad32428c207489252d6d35ef",
+				"source": "reversing-labs",
+				"versions": [
+					"395.0.0-beta.1"
+				]
 			}
 		]
 	}

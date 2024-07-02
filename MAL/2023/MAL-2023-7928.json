@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-7928",
-	"modified": "2024-07-01T06:57:20.134435Z",
+	"modified": "2024-07-02T03:10:33Z",
 	"published": "2023-08-28T02:08:23Z",
 	"aliases": [
 		"GHSA-w46x-qp2g-r2rc"
@@ -25,6 +25,10 @@
 					]
 				}
 			],
+			"versions": [
+				"394.0.0-beta.1",
+				"395.0.0-beta.1"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-w46x-qp2g-r2rc"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +74,17 @@
 				],
 				"sha256": "8020f294471f2ae9d52d11a800530c0fa88579565b79ab86f36f6d3ea6df93e7",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-00217",
+				"import_time": "2024-07-02T00:26:36.775845Z",
+				"modified_time": "2024-06-25T12:22:55Z",
+				"sha256": "c02df570200358dcda98d83adab5dbaf5b7a6ea63d50120800a9791b5c0c0a04",
+				"source": "reversing-labs",
+				"versions": [
+					"394.0.0-beta.1",
+					"395.0.0-beta.1"
+				]
 			}
 		]
 	}

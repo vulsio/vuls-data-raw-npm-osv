@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-7070",
+	"modified": "2024-06-25T12:19:10Z",
+	"published": "2024-06-25T12:19:10Z",
+	"summary": "Malicious code in @chewyy/ccl-utils-belt (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "@chewyy/ccl-utils-belt",
+				"purl": "pkg:npm/%40chewyy/ccl-utils-belt"
+			},
+			"versions": [
+				"999999.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@chewyy/ccl-utils-belt/MAL-2024-7070.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-00042",
+				"import_time": "2024-07-02T00:26:36.580659Z",
+				"modified_time": "2024-06-25T12:19:10Z",
+				"sha256": "a3fcfabfb3f107cd4a47ac4f5482cc96b97560a91d42eaa95271acdb947b6409",
+				"source": "reversing-labs",
+				"versions": [
+					"999999.0.0"
+				]
+			}
+		]
+	}
+}

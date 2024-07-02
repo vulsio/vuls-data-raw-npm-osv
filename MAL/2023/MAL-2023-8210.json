@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-8210",
-	"modified": "2024-07-01T06:57:21.080352Z",
+	"modified": "2024-07-02T03:10:33Z",
 	"published": "2023-09-21T01:42:22Z",
 	"aliases": [
 		"GHSA-m9cq-wq8c-vq32"
@@ -25,6 +25,9 @@
 					]
 				}
 			],
+			"versions": [
+				"35.0.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +44,19 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-m9cq-wq8c-vq32"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.sonatype.com/new-npm-poc-packages-target-paypal-zettle-airbnb-developers"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +77,16 @@
 				],
 				"sha256": "1cb00dc072140e917d264fbf48cb87d56628674e7f6207a92f7bd7b72bde9780",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-00253",
+				"import_time": "2024-07-02T00:26:36.928794Z",
+				"modified_time": "2024-06-25T12:23:41Z",
+				"sha256": "a569cd197e90f80479c29bbc339bb36ed443e10d263bc7ec686d5e9cf59f58be",
+				"source": "reversing-labs",
+				"versions": [
+					"35.0.0"
+				]
 			}
 		]
 	}

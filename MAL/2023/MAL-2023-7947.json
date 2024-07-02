@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-7947",
-	"modified": "2024-07-01T06:57:26.866665Z",
+	"modified": "2024-07-02T03:29:15.676711Z",
 	"published": "2023-08-29T05:11:53Z",
 	"aliases": [
-		"GHSA-m42c-8f94-fh9x"
+		"GHSA-m42c-8f94-fh9x",
+		"SNYK-JS-BTLOTUSCICDESLINTCONFIGLOTUS-5864882"
 	],
 	"summary": "Malicious code in @bt-lotus-cicd/eslint-config-lotus (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (4d77f679c79d9699e68511d896addd3fddc773bc3f89c4a8f38c6f763f68a903)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,12 @@
 					]
 				}
 			],
+			"versions": [
+				"2.0.1",
+				"2.0.2",
+				"2.0.0",
+				"1.0.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +48,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-m42c-8f94-fh9x"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-BTLOTUSCICDESLINTCONFIGLOTUS-5864882"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://www.npmjs.com/package/@bt-lotus-cicd/eslint-config-lotus"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +85,19 @@
 				],
 				"sha256": "4d77f679c79d9699e68511d896addd3fddc773bc3f89c4a8f38c6f763f68a903",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-00036",
+				"import_time": "2024-07-02T00:26:36.576638Z",
+				"modified_time": "2024-06-25T12:19:04Z",
+				"sha256": "fa12a9b37eafce23bd1f24c5a798e3af057314a87ed3b1e3b2d4b4539220443b",
+				"source": "reversing-labs",
+				"versions": [
+					"2.0.1",
+					"2.0.2",
+					"2.0.0",
+					"1.0.0"
+				]
 			}
 		]
 	}

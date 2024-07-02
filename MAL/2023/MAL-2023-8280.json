@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-8280",
-	"modified": "2024-07-01T06:57:10.454005Z",
+	"modified": "2024-07-02T03:10:33Z",
 	"published": "2023-10-03T01:21:09Z",
 	"aliases": [
 		"GHSA-w85p-8p54-wrfx"
@@ -25,6 +25,9 @@
 					]
 				}
 			],
+			"versions": [
+				"1.5.2"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +44,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-w85p-8p54-wrfx"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +73,16 @@
 				],
 				"sha256": "436ac692985a2fae4a79ec7010810f6a2b4d617ea932fab96f222989b578f74b",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-00026",
+				"import_time": "2024-07-02T00:26:36.564951Z",
+				"modified_time": "2024-06-25T12:18:49Z",
+				"sha256": "6fc6308cc3df6e9a1d6a21e12852fad8603dc1f9e0d10c928e8437a6b0723936",
+				"source": "reversing-labs",
+				"versions": [
+					"1.5.2"
+				]
 			}
 		]
 	}
