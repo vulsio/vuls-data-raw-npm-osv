@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c2hr-cqg6-8j6r",
-	"modified": "2024-07-02T02:40:41Z",
+	"modified": "2024-07-03T08:12:27.108570Z",
 	"published": "2024-07-01T18:35:04Z",
 	"aliases": [
+		"BIT-parse-2024-39309",
 		"CVE-2024-39309"
 	],
 	"summary": "ZDI-CAN-23894: Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability",
