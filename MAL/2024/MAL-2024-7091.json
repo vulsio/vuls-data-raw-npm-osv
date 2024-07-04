@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-7091",
-	"modified": "2024-07-03T23:06:08Z",
+	"modified": "2024-07-04T00:18:10Z",
 	"published": "2024-07-03T20:10:48Z",
 	"summary": "Malicious code in parser-7.0.0 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (99ace32a9b913ac4a00ad574ac934c4eb6274d7c0cf3b948ced6b8191f511b68)\nThe OpenSSF Package Analysis project identified 'parser-7.0.0' @ 4.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -15,7 +15,8 @@
 			"versions": [
 				"4.0.0",
 				"4.0.1",
-				"4.0.2"
+				"4.0.2",
+				"4.0.6"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/parser-7.0.0/MAL-2024-7091.json"
@@ -59,6 +60,15 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"4.0.2"
+				]
+			},
+			{
+				"import_time": "2024-07-04T00:17:44.359655882Z",
+				"modified_time": "2024-07-03T23:40:54Z",
+				"sha256": "362e7d5c9bc5ee6f8637073dc42e7e215fe76d1b8e53ac01e67f6d46ce63a188",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"4.0.6"
 				]
 			}
 		]
