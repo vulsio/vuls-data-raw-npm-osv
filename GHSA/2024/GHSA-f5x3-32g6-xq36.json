@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f5x3-32g6-xq36",
-	"modified": "2024-06-10T18:30:53Z",
+	"modified": "2024-07-05T00:44:37.267488Z",
 	"published": "2024-03-22T16:57:05Z",
 	"aliases": [
+		"CGA-83pg-cr39-5m4j",
 		"CVE-2024-28863"
 	],
 	"summary": "Denial of service while parsing a tar file due to lack of folders count validation",
