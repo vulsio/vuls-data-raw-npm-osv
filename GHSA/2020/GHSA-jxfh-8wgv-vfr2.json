@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jxfh-8wgv-vfr2",
-	"modified": "2023-11-08T04:03:53.273800Z",
+	"modified": "2024-07-04T22:14:31.096319Z",
 	"published": "2020-03-10T18:03:14Z",
 	"aliases": [
+		"CGA-v4hc-xjpr-jp5r",
 		"CVE-2020-5258"
 	],
 	"summary": "Prototype pollution in dojo",
