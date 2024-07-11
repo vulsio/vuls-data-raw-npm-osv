@@ -3,7 +3,7 @@
 	"id": "MAL-2024-3258",
 	"modified": "2024-07-01T04:00:00Z",
 	"published": "2024-06-25T12:19:33Z",
-	"summary": "Malicious code in ui-kit (npm)",
+	"summary": "Malicious code in @esportal/ui-kit (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{

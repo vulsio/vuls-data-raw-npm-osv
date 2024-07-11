@@ -3,7 +3,7 @@
 	"id": "MAL-2024-3254",
 	"modified": "2024-06-25T12:19:31Z",
 	"published": "2024-06-25T12:19:31Z",
-	"summary": "Malicious code in ui (npm)",
+	"summary": "Malicious code in @epgu/ui (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{

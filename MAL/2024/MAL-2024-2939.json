@@ -3,7 +3,7 @@
 	"id": "MAL-2024-2939",
 	"modified": "2024-06-25T12:21:54Z",
 	"published": "2024-06-25T12:21:54Z",
-	"summary": "Malicious code in react-scripts (npm)",
+	"summary": "Malicious code in @plangrid-private/react-scripts (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{

@@ -3,7 +3,7 @@
 	"id": "MAL-2024-2591",
 	"modified": "2024-06-25T12:22:19Z",
 	"published": "2024-06-25T12:22:19Z",
-	"summary": "Malicious code in language (npm)",
+	"summary": "Malicious code in @region-lib/language (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{

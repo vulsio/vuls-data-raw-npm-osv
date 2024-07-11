@@ -3,7 +3,7 @@
 	"id": "MAL-2024-2895",
 	"modified": "2024-06-25T12:22:25Z",
 	"published": "2024-06-25T12:22:25Z",
-	"summary": "Malicious code in prime-ui-kit (npm)",
+	"summary": "Malicious code in @sber-sberx-prime/prime-ui-kit (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{

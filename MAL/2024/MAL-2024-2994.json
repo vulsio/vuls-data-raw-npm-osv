@@ -3,7 +3,7 @@
 	"id": "MAL-2024-2994",
 	"modified": "2024-06-25T12:19:19Z",
 	"published": "2024-06-25T12:19:19Z",
-	"summary": "Malicious code in sdx (npm)",
+	"summary": "Malicious code in @corproot/sdx (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{

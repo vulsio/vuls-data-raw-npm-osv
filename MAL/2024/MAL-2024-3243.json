@@ -3,7 +3,7 @@
 	"id": "MAL-2024-3243",
 	"modified": "2024-06-25T12:21:37Z",
 	"published": "2024-06-25T12:21:37Z",
-	"summary": "Malicious code in twitch (npm)",
+	"summary": "Malicious code in @ozon-ob/twitch (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{

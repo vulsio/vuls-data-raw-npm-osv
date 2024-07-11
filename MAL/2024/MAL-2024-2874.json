@@ -3,7 +3,7 @@
 	"id": "MAL-2024-2874",
 	"modified": "2024-06-25T12:19:38Z",
 	"published": "2024-06-25T12:19:38Z",
-	"summary": "Malicious code in plugin-express (npm)",
+	"summary": "Malicious code in @expue/plugin-express (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{

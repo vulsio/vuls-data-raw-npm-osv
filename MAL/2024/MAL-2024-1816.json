@@ -3,7 +3,7 @@
 	"id": "MAL-2024-1816",
 	"modified": "2024-06-25T12:21:05Z",
 	"published": "2024-06-25T12:21:05Z",
-	"summary": "Malicious code in beam (npm)",
+	"summary": "Malicious code in @mosfe/beam (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{

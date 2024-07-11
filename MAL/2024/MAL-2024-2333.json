@@ -3,7 +3,7 @@
 	"id": "MAL-2024-2333",
 	"modified": "2024-06-25T12:19:56Z",
 	"published": "2024-06-25T12:19:56Z",
-	"summary": "Malicious code in eslint-rule-svg-rrggbbaa-check (npm)",
+	"summary": "Malicious code in @fdfe/eslint-rule-svg-rrggbbaa-check (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{

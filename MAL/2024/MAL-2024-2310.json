@@ -3,7 +3,7 @@
 	"id": "MAL-2024-2310",
 	"modified": "2024-06-25T12:19:50Z",
 	"published": "2024-06-25T12:19:50Z",
-	"summary": "Malicious code in era-build (npm)",
+	"summary": "Malicious code in @fdfe/era-build (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{

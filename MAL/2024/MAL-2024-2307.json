@@ -3,7 +3,7 @@
 	"id": "MAL-2024-2307",
 	"modified": "2024-06-25T12:19:29Z",
 	"published": "2024-06-25T12:19:29Z",
-	"summary": "Malicious code in epgu-constructor (npm)",
+	"summary": "Malicious code in @epgu/epgu-constructor (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{

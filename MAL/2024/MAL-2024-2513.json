@@ -3,7 +3,7 @@
 	"id": "MAL-2024-2513",
 	"modified": "2024-06-25T12:22:28Z",
 	"published": "2024-06-25T12:22:28Z",
-	"summary": "Malicious code in iniconfig (npm)",
+	"summary": "Malicious code in @shamim12_12/iniconfig (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{

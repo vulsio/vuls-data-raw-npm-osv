@@ -3,7 +3,7 @@
 	"id": "MAL-2024-1756",
 	"modified": "2024-06-25T12:18:17Z",
 	"published": "2024-06-25T12:18:17Z",
-	"summary": "Malicious code in angular-components (npm)",
+	"summary": "Malicious code in @abb-americas/angular-components (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{

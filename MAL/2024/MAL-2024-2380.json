@@ -3,7 +3,7 @@
 	"id": "MAL-2024-2380",
 	"modified": "2024-06-25T12:19:23Z",
 	"published": "2024-06-25T12:19:23Z",
-	"summary": "Malicious code in flowcode-generator-types (npm)",
+	"summary": "Malicious code in @dtx-company/flowcode-generator-types (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{

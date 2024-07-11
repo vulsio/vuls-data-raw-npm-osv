@@ -3,7 +3,7 @@
 	"id": "MAL-2024-3090",
 	"modified": "2024-06-25T12:20:03Z",
 	"published": "2024-06-25T12:20:03Z",
-	"summary": "Malicious code in template-engine (npm)",
+	"summary": "Malicious code in @fnt-cmd/template-engine (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{

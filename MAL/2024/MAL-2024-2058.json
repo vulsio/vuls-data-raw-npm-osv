@@ -3,7 +3,7 @@
 	"id": "MAL-2024-2058",
 	"modified": "2024-06-25T12:22:53Z",
 	"published": "2024-06-25T12:22:53Z",
-	"summary": "Malicious code in d11n-preparer (npm)",
+	"summary": "Malicious code in @vk-tech/d11n-preparer (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{

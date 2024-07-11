@@ -3,7 +3,7 @@
 	"id": "MAL-2024-1803",
 	"modified": "2024-06-25T12:20:06Z",
 	"published": "2024-06-25T12:20:06Z",
-	"summary": "Malicious code in babel-web (npm)",
+	"summary": "Malicious code in @golden-stack/babel-web (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{

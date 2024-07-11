@@ -3,7 +3,7 @@
 	"id": "MAL-2024-2841",
 	"modified": "2024-06-25T12:23:02Z",
 	"published": "2024-06-25T12:23:02Z",
-	"summary": "Malicious code in partner-onboarding (npm)",
+	"summary": "Malicious code in @xbox-web/partner-onboarding (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{

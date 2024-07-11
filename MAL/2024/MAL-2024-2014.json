@@ -3,7 +3,7 @@
 	"id": "MAL-2024-2014",
 	"modified": "2024-06-25T12:19:36Z",
 	"published": "2024-06-25T12:19:36Z",
-	"summary": "Malicious code in config (npm)",
+	"summary": "Malicious code in @expue/config (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{

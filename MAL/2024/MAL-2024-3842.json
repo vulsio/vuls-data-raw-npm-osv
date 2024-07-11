@@ -3,7 +3,7 @@
 	"id": "MAL-2024-3842",
 	"modified": "2024-06-25T12:21:48Z",
 	"published": "2024-06-25T12:21:48Z",
-	"summary": "Malicious code in vuelidate (npm)",
+	"summary": "Malicious code in @ozon-shared-deps/vuelidate (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{
