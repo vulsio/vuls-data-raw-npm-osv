@@ -1,11 +1,8 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4wm9-3qmv-gvxj",
-	"modified": "2024-07-05T17:46:56Z",
+	"modified": "2024-07-12T19:08:25Z",
 	"published": "2024-07-01T15:32:13Z",
-	"aliases": [
-		"CVE-2024-38993"
-	],
 	"summary": "jsonic was discovered to contain a prototype pollution via the function empty.",
 	"details": "rjrodger jsonic-next v2.12.1 was discovered to contain a prototype pollution via the function empty. This vulnerability allows attackers to execute arbitrary code or cause a Denial of Service (DoS) via injecting arbitrary properties.",
 	"severity": [
