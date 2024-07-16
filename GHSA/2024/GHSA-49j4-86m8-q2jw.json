@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-21509"
 	],
+	"related": [
+		"CGA-c29j-944x-2v7x"
+	],
 	"summary": "mysql2 vulnerable to Prototype Poisoning",
 	"details": "Versions of the package mysql2 before 3.9.4 are vulnerable to Prototype Poisoning due to insecure results object creation and improper user input sanitization passed through `parserFn` in `text_parser.js` and `binary_parser.js`.",
 	"severity": [

@@ -6,6 +6,10 @@
 	"aliases": [
 		"CVE-2023-45857"
 	],
+	"related": [
+		"CGA-353m-v97c-f639",
+		"CGA-vgwv-2q7q-27h5"
+	],
 	"summary": "Axios Cross-Site Request Forgery Vulnerability",
 	"details": "An issue discovered in Axios 0.8.1 through 1.5.1 inadvertently reveals the confidential XSRF-TOKEN stored in cookies by including it in the HTTP header X-XSRF-TOKEN for every request made to any host allowing attackers to view sensitive information.",
 	"severity": [

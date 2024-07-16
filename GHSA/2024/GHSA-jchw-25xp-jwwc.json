@@ -6,6 +6,14 @@
 	"aliases": [
 		"CVE-2023-26159"
 	],
+	"related": [
+		"CGA-65j6-vpjf-wmcw",
+		"CGA-mxrc-77h6-935c",
+		"CGA-q66j-qggf-9r53",
+		"CGA-qhpw-vxjv-g4hr",
+		"CGA-rcv5-pp4p-xq9g",
+		"CGA-whm7-gm9q-6v85"
+	],
 	"summary": "Follow Redirects improperly handles URLs in the url.parse() function",
 	"details": "Versions of the package follow-redirects before 1.15.4 are vulnerable to Improper Input Validation due to the improper handling of URLs by the url.parse() function. When new URL() throws an error, it can be manipulated to misinterpret the hostname. An attacker could exploit this weakness to redirect traffic to a malicious site, potentially leading to information disclosure, phishing attacks, or other security breaches.",
 	"severity": [

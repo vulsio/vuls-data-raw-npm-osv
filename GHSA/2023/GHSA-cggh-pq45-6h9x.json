@@ -7,6 +7,11 @@
 		"BIT-node-2023-30589",
 		"CVE-2023-30589"
 	],
+	"related": [
+		"CGA-22h6-36xc-f6jc",
+		"CGA-pvmr-f89h-p2hh",
+		"CGA-vxm5-g5px-h6xx"
+	],
 	"summary": "llhttp vulnerable to HTTP request smuggling",
 	"details": "The llhttp parser in the http module in Node v20.2.0 does not strictly use the CRLF sequence to delimit HTTP requests. This can lead to HTTP Request Smuggling (HRS).\n\nThe CR character (without LF) is sufficient to delimit HTTP header fields in the llhttp parser. According to RFC7230 section 3, only the CRLF sequence should delimit each header-field. This impacts all Node.js active versions: v16, v18, and, v20\n",
 	"severity": [

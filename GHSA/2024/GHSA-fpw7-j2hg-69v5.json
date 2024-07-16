@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-21508"
 	],
+	"related": [
+		"CGA-9p5m-2fmv-28g4"
+	],
 	"summary": "mysql2 Remote Code Execution (RCE) via the readCodeFor function",
 	"details": "Versions of the package mysql2 before 3.9.4 are vulnerable to Remote Code Execution (RCE) via the `readCodeFor` function due to improper validation of the `supportBigNumbers` and `bigNumberStrings` values.",
 	"severity": [

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w7rc-rwvf-8q5r",
-	"modified": "2023-11-08T04:02:31.860784Z",
+	"modified": "2024-07-15T19:46:22Z",
 	"published": "2020-09-10T17:46:21Z",
 	"aliases": [
 		"CVE-2020-15168"
@@ -26,7 +26,7 @@
 					"type": "SEMVER",
 					"events": [
 						{
-							"introduced": "0"
+							"introduced": "2.0.0"
 						},
 						{
 							"fixed": "2.6.1"

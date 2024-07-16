@@ -6,6 +6,10 @@
 	"aliases": [
 		"CVE-2020-36604"
 	],
+	"related": [
+		"CGA-659h-6c6w-34c8",
+		"CGA-gx4m-962g-vxjh"
+	],
 	"summary": "hoek subject to prototype pollution via the clone function.",
 	"details": "hoek versions prior to 8.5.1, and 9.x prior to 9.0.3 are vulnerable to prototype pollution in the clone function. If an object with the __proto__ key is passed to clone() the key is converted to a prototype. This issue has been patched in version 9.0.3, and backported to 8.5.1. ",
 	"severity": [

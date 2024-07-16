@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2022-33987"
 	],
+	"related": [
+		"CGA-jrmv-cgwg-hvwx"
+	],
 	"summary": "Got allows a redirect to a UNIX socket",
 	"details": "The got package before 11.8.5 and 12.1.0 for Node.js allows a redirect to a UNIX socket.",
 	"severity": [

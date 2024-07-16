@@ -6,6 +6,14 @@
 	"aliases": [
 		"CVE-2023-42282"
 	],
+	"related": [
+		"CGA-f5wr-mc55-fv79",
+		"CGA-ff5p-6mq6-jqwc",
+		"CGA-h2vc-754j-xjqh",
+		"CGA-rjf6-jvph-7436",
+		"CGA-rjph-mh5h-gjxh",
+		"CGA-wmrg-c2f3-3mxp"
+	],
 	"summary": "NPM IP package incorrectly identifies some private IP addresses as public",
 	"details": "The `isPublic()` function in the NPM package `ip` doesn't correctly identify certain private IP addresses in uncommon formats such as `0x7F.1` as private. Instead, it reports them as public by returning `true`. This can lead to security issues such as Server-Side Request Forgery (SSRF) if `isPublic()` is used to protect sensitive code paths when passed user input. Versions 1.1.9 and 2.0.1 fix the issue.",
 	"affected": [
