@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-7774",
+	"modified": "2024-07-19T14:52:38Z",
+	"published": "2024-07-19T14:52:38Z",
+	"summary": "Malicious code in fe-bootstrap (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (f10193d263c551e806779906e66b796c66043d73893719ea555b3c822b27adc4)\nThe OpenSSF Package Analysis project identified 'fe-bootstrap' @ 70.69.69 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "fe-bootstrap",
+				"purl": "pkg:npm/fe-bootstrap"
+			},
+			"versions": [
+				"70.69.69"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fe-bootstrap/MAL-2024-7774.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-07-19T15:05:30.05192521Z",
+				"modified_time": "2024-07-19T14:52:38Z",
+				"sha256": "f10193d263c551e806779906e66b796c66043d73893719ea555b3c822b27adc4",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"70.69.69"
+				]
+			}
+		]
+	}
+}
