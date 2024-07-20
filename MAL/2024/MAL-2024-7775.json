@@ -1,0 +1,35 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-7775",
+	"modified": "2024-07-19T16:27:26Z",
+	"published": "2024-07-19T16:27:26Z",
+	"summary": "Malicious code in fireauth.args (npm)",
+	"details": "The package exfiltrates data to an oastify domain.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "fireauth.args",
+				"purl": "pkg:npm/fireauth.args"
+			},
+			"versions": [
+				"69.69.69"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fireauth.args/MAL-2024-7775.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "Stacklok: trustypkg.dev",
+			"contact": [
+				"https://discord.com/invite/RkzVuTp3WK"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}
