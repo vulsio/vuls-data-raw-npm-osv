@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-7746",
-	"modified": "2024-07-15T19:41:23Z",
+	"modified": "2024-07-23T14:05:21Z",
 	"published": "2024-07-15T19:41:23Z",
 	"summary": "Malicious code in inline-icons (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (f9b4dc3b900cda7b3ddba48442ae448f1af310a11854f024134f391baafb62d8)\nThe OpenSSF Package Analysis project identified 'inline-icons' @ 70.69.69 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
@@ -13,7 +13,8 @@
 				"purl": "pkg:npm/inline-icons"
 			},
 			"versions": [
-				"70.69.69"
+				"70.69.69",
+				"71.69.69"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/inline-icons/MAL-2024-7746.json"
@@ -39,6 +40,15 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"70.69.69"
+				]
+			},
+			{
+				"import_time": "2024-07-23T14:04:51.866546514Z",
+				"modified_time": "2024-07-23T13:38:58Z",
+				"sha256": "73337237768310ac85c3743769a2fd04c56b5a75919cdbec7151b629174ddd2b",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"71.69.69"
 				]
 			}
 		]
