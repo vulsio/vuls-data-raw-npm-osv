@@ -1,0 +1,35 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-7792",
+	"modified": "2024-07-22T14:35:32Z",
+	"published": "2024-07-22T14:35:32Z",
+	"summary": "Malicious code in roblox-ts-core (npm)",
+	"details": "This package contains a malicious postinstall script which downloads further payloads and delivers QuasarRAT.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "roblox-ts-core",
+				"purl": "pkg:npm/roblox-ts-core"
+			},
+			"versions": [
+				"4.6.8"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/roblox-ts-core/MAL-2024-7792.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "Stacklok: trustypkg.dev",
+			"contact": [
+				"https://discord.com/invite/RkzVuTp3WK"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}
