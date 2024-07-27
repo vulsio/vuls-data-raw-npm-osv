@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-7815",
+	"modified": "2024-07-27T02:47:13Z",
+	"published": "2024-07-27T02:47:13Z",
+	"summary": "Malicious code in ent-widget-itin (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (559c5c391ca4ad459b09d6f2dc13667dc5287bc757e96bceecae62c7e6951a92)\nThe OpenSSF Package Analysis project identified 'ent-widget-itin' @ 2.9.9 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "ent-widget-itin",
+				"purl": "pkg:npm/ent-widget-itin"
+			},
+			"versions": [
+				"2.9.9"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ent-widget-itin/MAL-2024-7815.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-07-27T03:06:00.086560231Z",
+				"modified_time": "2024-07-27T02:47:13Z",
+				"sha256": "559c5c391ca4ad459b09d6f2dc13667dc5287bc757e96bceecae62c7e6951a92",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"2.9.9"
+				]
+			}
+		]
+	}
+}

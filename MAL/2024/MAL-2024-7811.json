@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-7811",
+	"modified": "2024-07-27T02:52:23Z",
+	"published": "2024-07-27T02:52:23Z",
+	"summary": "Malicious code in ent-file-upload-widget (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (527bcc7d01403bbab93176d9840a15deb2f7fdf97d64557e12d3f3f9b3b01fdc)\nThe OpenSSF Package Analysis project identified 'ent-file-upload-widget' @ 1.9.9 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "ent-file-upload-widget",
+				"purl": "pkg:npm/ent-file-upload-widget"
+			},
+			"versions": [
+				"1.9.9"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ent-file-upload-widget/MAL-2024-7811.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-07-27T03:06:00.434032362Z",
+				"modified_time": "2024-07-27T02:52:23Z",
+				"sha256": "527bcc7d01403bbab93176d9840a15deb2f7fdf97d64557e12d3f3f9b3b01fdc",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.9.9"
+				]
+			}
+		]
+	}
+}

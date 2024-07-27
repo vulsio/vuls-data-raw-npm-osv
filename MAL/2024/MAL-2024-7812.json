@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-7812",
+	"modified": "2024-07-27T02:45:54Z",
+	"published": "2024-07-27T02:45:54Z",
+	"summary": "Malicious code in ent-widget-addcap (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (82a55206a1f7b93a7ae76150e011ae0d61f6481da8d0703a590140e8d8cdb0ae)\nThe OpenSSF Package Analysis project identified 'ent-widget-addcap' @ 1.9.9 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "ent-widget-addcap",
+				"purl": "pkg:npm/ent-widget-addcap"
+			},
+			"versions": [
+				"1.9.9"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ent-widget-addcap/MAL-2024-7812.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-07-27T03:05:59.991450532Z",
+				"modified_time": "2024-07-27T02:45:54Z",
+				"sha256": "82a55206a1f7b93a7ae76150e011ae0d61f6481da8d0703a590140e8d8cdb0ae",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.9.9"
+				]
+			}
+		]
+	}
+}
