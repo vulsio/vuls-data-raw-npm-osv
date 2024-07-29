@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-7829",
-	"modified": "2024-07-28T05:34:54Z",
+	"modified": "2024-07-29T01:32:21Z",
 	"published": "2024-07-28T05:09:16Z",
 	"summary": "Malicious code in ml-keyframer (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (3211b3633e7b9cfe4179c85e62b70b940a02b12d08eec1613418b2dd4fc3bba5)\nThe OpenSSF Package Analysis project identified 'ml-keyframer' @ 9.9.10 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -14,7 +14,8 @@
 			},
 			"versions": [
 				"9.9.10",
-				"9.9.9"
+				"9.9.9",
+				"9.9.11"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ml-keyframer/MAL-2024-7829.json"
@@ -49,6 +50,15 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"9.9.9"
+				]
+			},
+			{
+				"import_time": "2024-07-29T01:31:58.471123007Z",
+				"modified_time": "2024-07-29T01:25:45Z",
+				"sha256": "f137f997d093ceff85e279fe4810ebc6aadb5d5faa281a9d8357cd79d3a9a39d",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"9.9.11"
 				]
 			}
 		]

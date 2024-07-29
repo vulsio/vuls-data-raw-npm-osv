@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-7828",
-	"modified": "2024-07-28T06:06:16Z",
+	"modified": "2024-07-29T02:20:13Z",
 	"published": "2024-07-28T04:28:10Z",
 	"summary": "Malicious code in pkl-vscode (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (5e904d7cbcbe37a62d3d7190e7928a072a37fa19a76169ee335d993161c987fd)\nThe OpenSSF Package Analysis project identified 'pkl-vscode' @ 9.9.10 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -15,7 +15,10 @@
 			"versions": [
 				"9.9.9",
 				"9.9.10",
-				"9.9.11"
+				"9.9.11",
+				"9.9.12",
+				"9.9.14",
+				"9.9.13"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/pkl-vscode/MAL-2024-7828.json"
@@ -59,6 +62,33 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"9.9.11"
+				]
+			},
+			{
+				"import_time": "2024-07-29T01:31:58.39749884Z",
+				"modified_time": "2024-07-29T01:20:40Z",
+				"sha256": "3240967d8e74d4240c8df34cf7cac69c20577105cd6a64d2bd577a9dbbfd612e",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"9.9.12"
+				]
+			},
+			{
+				"import_time": "2024-07-29T02:19:50.105226597Z",
+				"modified_time": "2024-07-29T01:45:16Z",
+				"sha256": "0e51a479266a951abeb35a8b19f33072ee80cee6a7cbdffce8322b05756489f9",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"9.9.14"
+				]
+			},
+			{
+				"import_time": "2024-07-29T02:19:49.912794421Z",
+				"modified_time": "2024-07-29T01:35:30Z",
+				"sha256": "e741290a447a2d57d4c66d416ccf45b8165bcbbd6bfbe836eecc4b7f7c245c30",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"9.9.13"
 				]
 			}
 		]
