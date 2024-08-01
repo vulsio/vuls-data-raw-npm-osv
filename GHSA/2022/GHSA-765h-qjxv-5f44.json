@@ -1,10 +1,14 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-765h-qjxv-5f44",
-	"modified": "2024-07-31T19:41:55.941702Z",
+	"modified": "2024-08-01T07:13:08.522446Z",
 	"published": "2022-02-10T23:51:42Z",
 	"aliases": [
-		"CVE-2021-23383"
+		"CVE-2021-23383",
+		"SNYK-JAVA-ORGWEBJARS-1279031",
+		"SNYK-JAVA-ORGWEBJARSBOWER-1279032",
+		"SNYK-JAVA-ORGWEBJARSNPM-1279030",
+		"SNYK-JS-HANDLEBARS-1279029"
 	],
 	"summary": "Prototype Pollution in handlebars",
 	"details": "The package handlebars before 4.7.7 are vulnerable to Prototype Pollution when selecting certain compiling options to compile templates coming from an untrusted source.",

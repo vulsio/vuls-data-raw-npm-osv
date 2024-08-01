@@ -1,10 +1,14 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h4j5-c7cj-74xg",
-	"modified": "2024-07-31T19:42:08.494518Z",
+	"modified": "2024-08-01T09:11:52.702874Z",
 	"published": "2021-05-04T18:02:34Z",
 	"aliases": [
-		"CVE-2020-28502"
+		"CVE-2020-28502",
+		"SNYK-JAVA-ORGWEBJARSNPM-1082937",
+		"SNYK-JAVA-ORGWEBJARSNPM-1082938",
+		"SNYK-JS-XMLHTTPREQUEST-1082935",
+		"SNYK-JS-XMLHTTPREQUESTSSL-1082936"
 	],
 	"summary": "xmlhttprequest and xmlhttprequest-ssl vulnerable to Arbitrary Code Injection",
 	"details": "This affects the package xmlhttprequest before 1.7.0; all versions of package xmlhttprequest-ssl. Provided requests are sent synchronously (`async=False` on `xhr.open`), malicious user input flowing into `xhr.send` could result in arbitrary code being injected and run.",

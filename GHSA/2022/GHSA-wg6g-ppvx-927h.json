@@ -1,10 +1,12 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wg6g-ppvx-927h",
-	"modified": "2024-07-31T19:42:10.069982Z",
+	"modified": "2024-08-01T07:26:50.327217Z",
 	"published": "2022-01-27T14:27:53Z",
 	"aliases": [
-		"CVE-2021-23518"
+		"CVE-2021-23518",
+		"SNYK-JAVA-ORGWEBJARSNPM-2348246",
+		"SNYK-JS-CACHEDPATHRELATIVE-2342653"
 	],
 	"summary": "Prototype Pollution in cached-path-relative",
 	"details": "The package cached-path-relative before 1.1.0 is vulnerable to Prototype Pollution via the cache variable that is set as {} instead of Object.create(null) in the cachedPathRelative function, which allows access to the parent prototype properties when the object is used to create the cached relative path. When using the origin path as __proto__, the attribute of the object is accessed instead of a path. **Note:** This vulnerability derives from an incomplete fix in https://security.snyk.io/vuln/SNYK-JS-CACHEDPATHRELATIVE-72573",

@@ -1,10 +1,12 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qrpm-p2h7-hrv2",
-	"modified": "2024-07-31T19:41:51.255427Z",
+	"modified": "2024-08-01T07:26:41.333360Z",
 	"published": "2022-01-21T23:57:06Z",
 	"aliases": [
-		"CVE-2021-23566"
+		"CVE-2021-23566",
+		"SNYK-JAVA-ORGWEBJARSNPM-2332550",
+		"SNYK-JS-NANOID-2332193"
 	],
 	"summary": "Exposure of Sensitive Information to an Unauthorized Actor in nanoid",
 	"details": "The package nanoid from 3.0.0, before 3.1.31, are vulnerable to Information Exposure via the valueOf() function which allows to reproduce the last id generated.",

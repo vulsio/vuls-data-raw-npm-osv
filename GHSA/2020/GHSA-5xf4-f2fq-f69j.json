@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5xf4-f2fq-f69j",
-	"modified": "2024-07-31T19:42:09.213797Z",
+	"modified": "2024-08-01T07:56:53.358154Z",
 	"published": "2020-02-14T23:10:16Z",
 	"aliases": [
-		"CVE-2019-10773"
+		"CVE-2019-10773",
+		"SNYK-JS-YARN-537806,"
 	],
 	"summary": "Yarn Improper link resolution before file access (Link Following)",
 	"details": "In Yarn before 1.21.1, the package install functionality can be abused to generate arbitrary symlinks on the host filesystem by using specially crafted \"bin\" keys. Existing files could be overwritten depending on the current user permission set.",

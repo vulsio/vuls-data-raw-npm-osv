@@ -1,10 +1,12 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-43f8-2h32-f4cj",
-	"modified": "2024-07-31T19:27:16.184979Z",
+	"modified": "2024-08-01T07:26:50.589815Z",
 	"published": "2021-05-06T16:10:39Z",
 	"aliases": [
-		"CVE-2021-23362"
+		"CVE-2021-23362",
+		"SNYK-JAVA-ORGWEBJARSNPM-1088356",
+		"SNYK-JS-HOSTEDGITINFO-1088355"
 	],
 	"summary": "Regular Expression Denial of Service in hosted-git-info",
 	"details": "The npm package `hosted-git-info` before 3.0.8 are vulnerable to Regular Expression Denial of Service (ReDoS) via regular expression shortcutMatch in the fromUrl function in index.js. The affected regular expression exhibits polynomial worst-case time complexity",

@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v923-w3x8-wh69",
-	"modified": "2024-07-31T19:27:20.857169Z",
+	"modified": "2024-08-01T07:56:56.758285Z",
 	"published": "2022-07-02T00:00:19Z",
 	"aliases": [
-		"CVE-2022-25896"
+		"CVE-2022-25896",
+		"SNYK-JS-PASSPORT-2840631"
 	],
 	"summary": "Passport vulnerable to session regeneration when a users logs in or out",
 	"details": "This affects the package passport before 0.6.0. When a user logs in or logs out, the session is regenerated instead of being closed.",

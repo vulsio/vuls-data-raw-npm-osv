@@ -1,10 +1,12 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c4w7-xm78-47vh",
-	"modified": "2024-07-31T19:41:40.827832Z",
+	"modified": "2024-08-01T09:26:40.260805Z",
 	"published": "2021-03-29T16:05:12Z",
 	"aliases": [
-		"CVE-2020-7774"
+		"CVE-2020-7774",
+		"SNYK-JAVA-ORGWEBJARSNPM-1038306",
+		"SNYK-JS-Y18N-1021887"
 	],
 	"summary": "Prototype Pollution in y18n",
 	"details": "### Overview\n\nThe npm package `y18n` before versions 3.2.2, 4.0.1, and 5.0.5 is vulnerable to Prototype Pollution. \n\n### POC\n\n```js\nconst y18n = require('y18n')();\n\ny18n.setLocale('__proto__');\ny18n.updateLocale({polluted: true});\n\nconsole.log(polluted); // true\n```\n\n### Recommendation\n\nUpgrade to version 3.2.2, 4.0.1, 5.0.5 or later.",

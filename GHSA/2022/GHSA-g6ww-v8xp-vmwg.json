@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g6ww-v8xp-vmwg",
-	"modified": "2024-07-31T19:27:26.274236Z",
+	"modified": "2024-08-01T09:27:00.598706Z",
 	"published": "2022-02-10T20:21:24Z",
 	"aliases": [
-		"CVE-2020-7751"
+		"CVE-2020-7751",
+		"SNYK-JS-PATHVAL-596926"
 	],
 	"summary": "Prototype pollution in pathval",
 	"details": "A prototype pollution vulnerability affects all versions of package pathval under 1.1.1.",

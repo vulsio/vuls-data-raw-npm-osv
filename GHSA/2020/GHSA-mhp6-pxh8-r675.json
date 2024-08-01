@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mhp6-pxh8-r675",
-	"modified": "2024-07-31T19:41:42.254122Z",
+	"modified": "2024-08-01T09:26:41.206215Z",
 	"published": "2020-06-18T14:19:58Z",
 	"aliases": [
-		"CVE-2020-7676"
+		"CVE-2020-7676",
+		"SNYK-JS-ANGULAR-570058"
 	],
 	"summary": "Cross site scripting in Angular",
 	"details": "angular.js prior to 1.8.0 allows cross site scripting. The regex-based input HTML replacement may turn sanitized code into unsanitized one. Wrapping `<option>` elements in `<select>` ones changes parsing behavior, leading to possibly unsanitizing code.",

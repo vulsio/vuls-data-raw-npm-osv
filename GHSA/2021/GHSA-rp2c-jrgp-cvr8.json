@@ -1,10 +1,14 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rp2c-jrgp-cvr8",
-	"modified": "2024-07-31T19:26:57.696655Z",
+	"modified": "2024-08-01T07:26:40.721098Z",
 	"published": "2021-12-16T15:32:31Z",
 	"aliases": [
-		"CVE-2021-23562"
+		"CVE-2021-23562",
+		"SNYK-JAVA-ORGWEBJARS-2306665",
+		"SNYK-JAVA-ORGWEBJARSBOWER-2306663",
+		"SNYK-JAVA-ORGWEBJARSBOWERGITHUBMOXIECODE-2306664",
+		"SNYK-JS-PLUPLOAD-1583909"
 	],
 	"summary": "Code injection in plupload",
 	"details": "This affects the package plupload before 2.3.9. A file name containing JavaScript code could be uploaded and run. An attacker would need to trick a user to upload this kind of file.",

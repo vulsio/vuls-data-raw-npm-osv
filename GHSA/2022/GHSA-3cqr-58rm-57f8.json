@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3cqr-58rm-57f8",
-	"modified": "2024-07-31T19:27:04.849759Z",
+	"modified": "2024-08-01T09:11:47.615922Z",
 	"published": "2022-02-10T20:38:19Z",
 	"aliases": [
-		"CVE-2019-20920"
+		"CVE-2019-20920",
+		"SNYK-JS-HANDLEBARS-534478"
 	],
 	"summary": "Arbitrary Code Execution in Handlebars",
 	"details": "Handlebars before 3.0.8 and 4.x before 4.5.3 is vulnerable to Arbitrary Code Execution. The lookup helper fails to properly validate templates, allowing attackers to submit templates that execute arbitrary JavaScript. This can be used to run arbitrary code on a server processing Handlebars templates or in a victim's browser (effectively serving as XSS).",

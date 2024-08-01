@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-7870",
+	"modified": "2024-08-01T05:43:40Z",
+	"published": "2024-08-01T05:43:40Z",
+	"summary": "Malicious code in persona-tool (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (bf6391336ce40af524b43542ae327ca5d899a0a05d178e4adda0226c0fd40f2c)\nThe OpenSSF Package Analysis project identified 'persona-tool' @ 8.8.8 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "persona-tool",
+				"purl": "pkg:npm/persona-tool"
+			},
+			"versions": [
+				"8.8.8"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/persona-tool/MAL-2024-7870.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-08-01T06:06:32.354407809Z",
+				"modified_time": "2024-08-01T05:43:40Z",
+				"sha256": "bf6391336ce40af524b43542ae327ca5d899a0a05d178e4adda0226c0fd40f2c",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"8.8.8"
+				]
+			}
+		]
+	}
+}

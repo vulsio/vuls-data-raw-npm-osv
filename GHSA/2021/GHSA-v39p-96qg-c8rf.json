@@ -1,10 +1,12 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v39p-96qg-c8rf",
-	"modified": "2024-07-31T19:41:39.083918Z",
+	"modified": "2024-08-01T07:26:35.058Z",
 	"published": "2021-09-01T18:37:11Z",
 	"aliases": [
-		"CVE-2021-23434"
+		"CVE-2021-23434",
+		"SNYK-JAVA-ORGWEBJARSNPM-1570423",
+		"SNYK-JS-OBJECTPATH-1569453"
 	],
 	"summary": "Prototype Pollution in object-path",
 	"details": "This affects the package object-path before 0.11.6. A type confusion vulnerability can lead to a bypass of CVE-2020-15256 when the path components used in the path parameter are arrays. In particular, the condition `currentPath === '__proto__'` returns false if `currentPath` is `['__proto__']`. This is because the `===` operator returns always false when the type of the operands is different.",

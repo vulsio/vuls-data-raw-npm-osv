@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jf85-cpcp-j695",
-	"modified": "2024-07-31T19:11:50.079686Z",
+	"modified": "2024-08-01T07:56:44.452232Z",
 	"published": "2019-07-10T19:45:23Z",
 	"aliases": [
-		"CVE-2019-10744"
+		"CVE-2019-10744",
+		"SNYK-JS-LODASH-450202"
 	],
 	"summary": "Prototype Pollution in lodash",
 	"details": "Versions of `lodash` before 4.17.12 are vulnerable to Prototype Pollution.  The function `defaultsDeep` allows a malicious user to modify the prototype of `Object` via `{constructor: {prototype: {...}}}` causing the addition or modification of an existing property that will exist on all objects.\n\n## Recommendation\n\nUpdate to version 4.17.12 or later.",
