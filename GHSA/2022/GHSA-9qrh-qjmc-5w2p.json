@@ -1,12 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9qrh-qjmc-5w2p",
-	"modified": "2023-11-08T04:08:05.271776Z",
+	"modified": "2024-07-31T19:41:49.701198Z",
 	"published": "2022-04-28T20:25:23Z",
 	"aliases": [
-		"CVE-2022-21227",
-		"SNYK-JAVA-ORGWEBJARSNPM-2805470",
-		"SNYK-JS-SQLITE3-2388645"
+		"CVE-2022-21227"
 	],
 	"summary": "Denial-of-Service when binding invalid parameters in sqlite3",
 	"details": "Affected versions of sqlite3 will experience a fatal error when supplying a specific object in the parameter array. This error causes the application to crash and could not be caught. Users of `sqlite3` v5.0.0, v5.0.1 and v5.0.2 are affected by this. This issue is fixed in v5.0.3. All users are recommended to upgrade to v5.0.3 or later. Ensure there is sufficient sanitization in the parent application to protect against invalid values being supplied to binding parameters as a workaround.\n",

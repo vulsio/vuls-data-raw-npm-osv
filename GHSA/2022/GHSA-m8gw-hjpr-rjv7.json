@@ -1,15 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m8gw-hjpr-rjv7",
-	"modified": "2023-11-08T04:05:10.396565Z",
+	"modified": "2024-07-31T19:27:11.280645Z",
 	"published": "2022-01-05T15:01:46Z",
 	"aliases": [
-		"CVE-2021-23450",
-		"SNYK-JAVA-ORGWEBJARS-2313036",
-		"SNYK-JAVA-ORGWEBJARSBOWER-2313035",
-		"SNYK-JAVA-ORGWEBJARSBOWERGITHUBDOJO-2313034",
-		"SNYK-JAVA-ORGWEBJARSNPM-2313033",
-		"SNYK-JS-DOJO-1535223"
+		"CVE-2021-23450"
 	],
 	"summary": "Prototype Pollution in dojo",
 	"details": "All versions of package dojo are vulnerable to Prototype Pollution via the setObject function.",

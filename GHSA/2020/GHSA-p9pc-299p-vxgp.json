@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-p9pc-299p-vxgp",
-	"modified": "2023-11-08T04:04:00.246098Z",
+	"modified": "2024-07-31T19:41:53.999396Z",
 	"published": "2020-09-04T18:00:54Z",
 	"aliases": [
-		"CVE-2020-7608",
-		"SNYK-JS-YARGSPARSER-560381"
+		"CVE-2020-7608"
 	],
 	"summary": "yargs-parser Vulnerable to Prototype Pollution",
 	"details": "Affected versions of `yargs-parser` are vulnerable to prototype pollution. Arguments are not properly sanitized, allowing an attacker to modify the prototype of `Object`, causing the addition or modification of an existing property that will exist on all objects.  \nParsing the argument `--foo.__proto__.bar baz'` adds a `bar` property with value `baz` to all objects. This is only exploitable if attackers have control over the arguments being passed to `yargs-parser`.\n\n\n\n## Recommendation\n\nUpgrade to versions 13.1.2, 15.0.1, 18.1.1 or later.",
