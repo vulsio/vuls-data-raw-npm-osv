@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-28mc-g557-92m7",
-	"modified": "2024-07-31T16:11:55.973952Z",
+	"modified": "2024-08-06T23:14:46Z",
 	"published": "2024-07-30T21:31:28Z",
 	"aliases": [
 		"CVE-2024-38986"
@@ -33,12 +33,13 @@
 							"introduced": "0"
 						},
 						{
-							"last_affected": "1.1.1"
+							"fixed": "1.1.2"
 						}
 					]
 				}
 			],
 			"database_specific": {
+				"last_known_affected_version_range": "<= 1.1.1",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/07/GHSA-28mc-g557-92m7/GHSA-28mc-g557-92m7.json"
 			}
 		}
@@ -51,6 +52,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/75lb/deep-merge/issues/1"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/75lb/deep-merge/commit/a68541fac3c2372f1ca67effad825990ad8046e1"
 		},
 		{
 			"type": "WEB",
