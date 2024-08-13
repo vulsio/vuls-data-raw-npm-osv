@@ -7,6 +7,7 @@
 		"CVE-2024-41818"
 	],
 	"related": [
+		"CGA-69jr-f6mf-38rf",
 		"CGA-cr5v-98hj-38hr"
 	],
 	"summary": "fast-xml-parser vulnerable to ReDOS at currency parsing",
