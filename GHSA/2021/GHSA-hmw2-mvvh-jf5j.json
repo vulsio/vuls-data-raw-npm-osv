@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hmw2-mvvh-jf5j",
-	"modified": "2023-11-08T04:00:57.707685Z",
+	"modified": "2024-08-15T06:44:15.549260Z",
 	"published": "2021-04-13T15:22:47Z",
 	"aliases": [
-		"CVE-2019-10801",
-		"SNYK-JS-ENPEEM-559007"
+		"CVE-2019-10801"
 	],
 	"summary": "OS Command Injection in enpeem",
 	"details": "enpeem through 2.2.0 allows execution of arbitrary commands. The &quot;options.dir&quot; argument is provided to the &quot;exec&quot; function without any sanitization.",

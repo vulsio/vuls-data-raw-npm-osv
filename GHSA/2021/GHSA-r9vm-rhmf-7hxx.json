@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r9vm-rhmf-7hxx",
-	"modified": "2024-05-23T01:28:38.065277Z",
+	"modified": "2024-08-15T06:44:05.820871Z",
 	"published": "2021-04-13T15:17:06Z",
 	"aliases": [
-		"CVE-2019-10787",
-		"SNYK-JS-IMRESIZE-544183"
+		"CVE-2019-10787"
 	],
 	"summary": "OS Command Injection in im-resize",
 	"details": "im-resize through 2.3.2 allows remote attackers to execute arbitrary commands via the \"exec\" argument. The cmd argument used within index.js, can be controlled by user without any sanitization.",

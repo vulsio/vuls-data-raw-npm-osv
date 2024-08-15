@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pmpr-vc5q-h3jw",
-	"modified": "2023-11-08T04:00:57.966456Z",
+	"modified": "2024-08-15T06:43:56.136077Z",
 	"published": "2021-04-13T15:21:59Z",
 	"aliases": [
-		"CVE-2019-10805",
-		"SNYK-JS-VALIB-559015"
+		"CVE-2019-10805"
 	],
 	"summary": "Exposure of Resource to Wrong Sphere in valib",
 	"details": "valib through 2.0.0 allows Internal Property Tampering. A maliciously crafted JavaScript object can bypass several inspection functions provided by valib. Valib uses a built-in function (hasOwnProperty) from the unsafe user-input to examine an object. It is possible for a crafted payload to overwrite this function to manipulate the inspection results to bypass security checks.",
