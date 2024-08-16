@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f7q4-pwc6-w24p",
-	"modified": "2024-08-05T13:56:55.996317Z",
+	"modified": "2024-08-15T17:53:38Z",
 	"published": "2024-08-02T09:31:35Z",
 	"aliases": [
 		"CVE-2024-42459"
@@ -33,12 +33,13 @@
 							"introduced": "4.0.0"
 						},
 						{
-							"last_affected": "6.5.6"
+							"fixed": "6.5.7"
 						}
 					]
 				}
 			],
 			"database_specific": {
+				"last_known_affected_version_range": "<= 6.5.6",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/08/GHSA-f7q4-pwc6-w24p/GHSA-f7q4-pwc6-w24p.json"
 			}
 		}
@@ -51,6 +52,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/indutny/elliptic/pull/317"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/indutny/elliptic/commit/accb61e9c1a005e5c8ff96a8b33893100bb42d11"
 		},
 		{
 			"type": "WEB",
