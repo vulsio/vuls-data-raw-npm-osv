@@ -7,6 +7,7 @@
 		"CVE-2024-39338"
 	],
 	"related": [
+		"CGA-58f9-jc24-h5ch",
 		"CGA-cvr7-x2g5-2f3j"
 	],
 	"summary": "Server-Side Request Forgery in axios",

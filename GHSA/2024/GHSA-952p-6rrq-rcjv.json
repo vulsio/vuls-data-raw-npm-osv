@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-952p-6rrq-rcjv",
-	"modified": "2024-08-21T23:27:32.849249Z",
+	"modified": "2024-08-23T17:27:31Z",
 	"published": "2024-05-14T18:30:54Z",
 	"aliases": [
 		"CVE-2024-4067"
@@ -23,7 +23,7 @@
 							"introduced": "0"
 						},
 						{
-							"last_affected": "4.0.7"
+							"fixed": "4.0.8"
 						}
 					]
 				}
@@ -48,7 +48,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://github.com/micromatch/micromatch/commit/d1641baf261e42ea437f3750c44f20cec0b33e1b"
+			"url": "https://github.com/micromatch/micromatch/commit/500d5d6f42f0e8dfa1cb5464c6cb420b1b6aaaa0"
 		},
 		{
 			"type": "WEB",
