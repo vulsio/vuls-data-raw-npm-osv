@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-39338"
 	],
+	"related": [
+		"CGA-cvr7-x2g5-2f3j"
+	],
 	"summary": "Server-Side Request Forgery in axios",
 	"details": "axios 1.7.2 allows SSRF via unexpected behavior where requests for path relative URLs get processed as protocol relative URLs.",
 	"affected": [
