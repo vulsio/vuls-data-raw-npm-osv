@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2q4w-x8h2-2fvh",
-	"modified": "2024-08-27T22:12:09.865980Z",
+	"modified": "2024-08-30T15:46:21Z",
 	"published": "2024-08-27T15:32:49Z",
 	"aliases": [
 		"CVE-2024-8181"
@@ -59,7 +59,8 @@
 	],
 	"database_specific": {
 		"cwe_ids": [
-			"CWE-285"
+			"CWE-285",
+			"CWE-287"
 		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-08-27T21:47:12Z",
