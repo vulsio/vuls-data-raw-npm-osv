@@ -22,8 +22,8 @@
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "ckeditor4-dev",
-				"purl": "pkg:npm/ckeditor4-dev"
+				"name": "ckeditor4",
+				"purl": "pkg:npm/ckeditor4"
 			},
 			"ranges": [
 				{
@@ -33,7 +33,7 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "4.25.0-lts"
+							"fixed": "4.25.0"
 						}
 					]
 				}
