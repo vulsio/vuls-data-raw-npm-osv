@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hgpf-97c5-74fc",
-	"modified": "2023-11-08T22:13:21.632809Z",
+	"modified": "2024-09-03T02:26:48.302488Z",
 	"published": "2021-05-10T19:08:29Z",
 	"aliases": [
-		"CVE-2020-7761",
-		"SNYK-JS-ABSOLUNETKAFE-1017403"
+		"CVE-2020-7761"
 	],
 	"summary": "Regular expression denial of service in @absolunet/kafe",
 	"details": "This affects the package @absolunet/kafe before 3.2.10. It allows cause a denial of service when validating crafted invalid emails.",
