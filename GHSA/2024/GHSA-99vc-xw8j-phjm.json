@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-99vc-xw8j-phjm",
-	"modified": "2024-09-05T16:14:25Z",
+	"modified": "2024-09-06T08:12:00.005994Z",
 	"published": "2024-02-11T03:30:17Z",
 	"aliases": [
+		"BIT-ghost-2024-23724",
 		"CVE-2024-23724"
 	],
 	"summary": "Ghost has possible Cross-site Scripting issue",
