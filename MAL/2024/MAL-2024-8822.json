@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-8822",
+	"modified": "2024-09-05T21:10:41Z",
+	"published": "2024-09-05T21:10:41Z",
+	"summary": "Malicious code in tappp-tv-ui-lib (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (e8a8c58b8f0ae09f782979d48f7c7ec924ed8fa2e50aef2e98ea4d72e679ecc5)\nThe OpenSSF Package Analysis project identified 'tappp-tv-ui-lib' @ 9.9.9 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "tappp-tv-ui-lib",
+				"purl": "pkg:npm/tappp-tv-ui-lib"
+			},
+			"versions": [
+				"9.9.9"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tappp-tv-ui-lib/MAL-2024-8822.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-09-06T00:19:38.987913546Z",
+				"modified_time": "2024-09-05T21:10:41Z",
+				"sha256": "e8a8c58b8f0ae09f782979d48f7c7ec924ed8fa2e50aef2e98ea4d72e679ecc5",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"9.9.9"
+				]
+			}
+		]
+	}
+}
