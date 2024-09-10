@@ -1,8 +1,8 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-8848",
-	"modified": "2024-09-09T05:06:17Z",
-	"published": "2024-09-09T04:32:11Z",
+	"modified": "2024-09-10T00:49:29Z",
+	"published": "2024-09-09T04:23:38Z",
 	"summary": "Malicious code in balvant-chavda (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (2a4352948540614eef450d227df439f2f1c0d1da030df382e59831548767f473)\nThe OpenSSF Package Analysis project identified 'balvant-chavda' @ 1.8.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
 	"affected": [
@@ -16,7 +16,8 @@
 				"1.8.0",
 				"1.9.0",
 				"1.7.0",
-				"1.4.0"
+				"1.4.0",
+				"1.6.0"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/balvant-chavda/MAL-2024-8848.json"
@@ -69,6 +70,15 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"1.4.0"
+				]
+			},
+			{
+				"import_time": "2024-09-10T00:49:00.659862457Z",
+				"modified_time": "2024-09-09T04:23:38Z",
+				"sha256": "99711e61ae80bb62846580f78fe0a24a478a2856a281e66658f1e6b4acd1905f",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.6.0"
 				]
 			}
 		]
