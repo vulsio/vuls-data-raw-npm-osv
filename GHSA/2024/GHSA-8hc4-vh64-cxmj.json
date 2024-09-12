@@ -8,6 +8,7 @@
 	],
 	"related": [
 		"CGA-58f9-jc24-h5ch",
+		"CGA-8mxr-gwwc-5gvh",
 		"CGA-cvr7-x2g5-2f3j"
 	],
 	"summary": "Server-Side Request Forgery in axios",
