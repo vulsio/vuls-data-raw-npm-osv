@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-8874",
+	"modified": "2024-09-16T05:30:36Z",
+	"published": "2024-09-16T05:30:36Z",
+	"summary": "Malicious code in events_pkg (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (abd1e01e9cbc4490213b62c02e10c228da903006792aa638e1d5ffa99c7ead7a)\nThe OpenSSF Package Analysis project identified 'events_pkg' @ 100.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "events_pkg",
+				"purl": "pkg:npm/events_pkg"
+			},
+			"versions": [
+				"100.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/events_pkg/MAL-2024-8874.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-09-16T05:36:48.200578067Z",
+				"modified_time": "2024-09-16T05:30:36Z",
+				"sha256": "abd1e01e9cbc4490213b62c02e10c228da903006792aa638e1d5ffa99c7ead7a",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"100.0.0"
+				]
+			}
+		]
+	}
+}
