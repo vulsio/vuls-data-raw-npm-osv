@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xgq9-7gw6-jr5r",
-	"modified": "2024-09-16T20:42:41.726826Z",
+	"modified": "2024-09-18T08:12:19.037918Z",
 	"published": "2024-09-16T15:32:46Z",
 	"aliases": [
+		"BIT-mattermost-2024-45835",
 		"CVE-2024-45835"
 	],
 	"summary": "Mattermost Desktop App fails to sufficiently configure Electron Fuses",
