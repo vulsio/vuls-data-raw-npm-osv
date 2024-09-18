@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-8895",
+	"modified": "2024-09-18T04:58:36Z",
+	"published": "2024-09-18T04:58:36Z",
+	"summary": "Malicious code in bamoe-standalone-dmn-editor (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (962cdcd96ae4be6357f1277dbfd49a289938637cb70b2a7d364ad91ddc995789)\nThe OpenSSF Package Analysis project identified 'bamoe-standalone-dmn-editor' @ 100.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "bamoe-standalone-dmn-editor",
+				"purl": "pkg:npm/bamoe-standalone-dmn-editor"
+			},
+			"versions": [
+				"100.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bamoe-standalone-dmn-editor/MAL-2024-8895.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-09-18T05:05:17.317644324Z",
+				"modified_time": "2024-09-18T04:58:36Z",
+				"sha256": "962cdcd96ae4be6357f1277dbfd49a289938637cb70b2a7d364ad91ddc995789",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"100.0.0"
+				]
+			}
+		]
+	}
+}
