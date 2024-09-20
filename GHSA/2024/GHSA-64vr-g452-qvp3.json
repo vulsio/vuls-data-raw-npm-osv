@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-64vr-g452-qvp3",
-	"modified": "2024-09-19T00:56:53.915008Z",
+	"modified": "2024-09-19T18:33:21Z",
 	"published": "2024-09-17T19:28:01Z",
 	"aliases": [
 		"CVE-2024-43788",
@@ -43,7 +43,6 @@
 				}
 			],
 			"database_specific": {
-				"last_known_affected_version_range": "<= 5.4.5",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/09/GHSA-64vr-g452-qvp3/GHSA-64vr-g452-qvp3.json"
 			}
 		},
@@ -67,7 +66,6 @@
 				}
 			],
 			"database_specific": {
-				"last_known_affected_version_range": "<= 5.3.5",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/09/GHSA-64vr-g452-qvp3/GHSA-64vr-g452-qvp3.json"
 			}
 		},
@@ -82,7 +80,7 @@
 					"type": "SEMVER",
 					"events": [
 						{
-							"introduced": "5.0.0"
+							"introduced": "5.2.0"
 						},
 						{
 							"fixed": "5.2.14"
@@ -137,7 +135,29 @@
 				}
 			],
 			"database_specific": {
-				"last_known_affected_version_range": "<= 3.2.10",
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/09/GHSA-64vr-g452-qvp3/GHSA-64vr-g452-qvp3.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "vite",
+				"purl": "pkg:npm/vite"
+			},
+			"ranges": [
+				{
+					"type": "SEMVER",
+					"events": [
+						{
+							"introduced": "5.0.0"
+						},
+						{
+							"fixed": "5.1.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/09/GHSA-64vr-g452-qvp3/GHSA-64vr-g452-qvp3.json"
 			}
 		}
