@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-8924",
+	"modified": "2024-09-20T23:26:00Z",
+	"published": "2024-09-20T23:26:00Z",
+	"summary": "Malicious code in randompackage-notreal (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (229a9cae088911a0650425b3e1b0bb618c5361850e5404cd0407bde885172cfa)\nThe OpenSSF Package Analysis project identified 'randompackage-notreal' @ 1.0.3 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "randompackage-notreal",
+				"purl": "pkg:npm/randompackage-notreal"
+			},
+			"versions": [
+				"1.0.3"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/randompackage-notreal/MAL-2024-8924.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-09-20T23:33:55.134826409Z",
+				"modified_time": "2024-09-20T23:26:00Z",
+				"sha256": "229a9cae088911a0650425b3e1b0bb618c5361850e5404cd0407bde885172cfa",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.3"
+				]
+			}
+		]
+	}
+}
