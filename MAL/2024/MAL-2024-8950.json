@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-8950",
+	"modified": "2024-09-23T01:25:57Z",
+	"published": "2024-09-23T01:25:57Z",
+	"summary": "Malicious code in dotnet-runtime (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (d4a8d978d71fbadf312376ea3409eacf2ab364dd8fc94053494d89742ec290c9)\nThe OpenSSF Package Analysis project identified 'dotnet-runtime' @ 991.9.9 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package executes one or more commands associated with malicious behavior.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "dotnet-runtime",
+				"purl": "pkg:npm/dotnet-runtime"
+			},
+			"versions": [
+				"991.9.9"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dotnet-runtime/MAL-2024-8950.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-09-23T23:34:10.727984375Z",
+				"modified_time": "2024-09-23T01:25:57Z",
+				"sha256": "d4a8d978d71fbadf312376ea3409eacf2ab364dd8fc94053494d89742ec290c9",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"991.9.9"
+				]
+			}
+		]
+	}
+}
