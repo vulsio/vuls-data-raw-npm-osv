@@ -10,6 +10,10 @@
 		"SNYK-JAVA-ORGWEBJARSNPM-1074952",
 		"SNYK-JS-HANDLEBARS-1056767"
 	],
+	"related": [
+		"CGA-2fmf-wwvq-6h59",
+		"CGA-5h6j-66g8-3g72"
+	],
 	"summary": "Remote code execution in handlebars when compiling templates",
 	"details": "The package handlebars before 4.7.7 are vulnerable to Remote Code Execution (RCE) when selecting certain compiling options to compile templates coming from an untrusted source.",
 	"severity": [

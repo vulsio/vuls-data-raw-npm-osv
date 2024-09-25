@@ -7,6 +7,7 @@
 		"CVE-2024-43799"
 	],
 	"related": [
+		"CGA-4g7r-gq6m-3fjw",
 		"CGA-9cw3-8w4j-827w"
 	],
 	"summary": "send vulnerable to template injection that can lead to XSS",

@@ -7,6 +7,7 @@
 		"CVE-2024-38996"
 	],
 	"related": [
+		"CGA-5wmv-m4xj-8q28",
 		"CGA-mgpf-w98g-mq5p"
 	],
 	"summary": "Prototype pollution in ag-grid-community via the _.mergeDeep function",

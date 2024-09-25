@@ -6,6 +6,10 @@
 	"aliases": [
 		"CVE-2020-15095"
 	],
+	"related": [
+		"CGA-23r5-3j95-frx5",
+		"CGA-5v4m-h7wv-6856"
+	],
 	"summary": "npm CLI exposing sensitive information through logs",
 	"details": "Versions of the npm CLI prior to 6.14.6 are vulnerable to an information exposure vulnerability through log files. The CLI supports URLs like `<protocol>://[<user>[:<password>]@]<hostname>[:<port>][:][/]<path>`. The password value is not redacted and is printed to stdout and also to any generated log files.",
 	"severity": [

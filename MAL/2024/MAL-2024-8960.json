@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-8960",
+	"modified": "2024-09-25T00:33:56Z",
+	"published": "2024-09-25T00:33:56Z",
+	"summary": "Malicious code in wpdesigndev.wp.agoda.com (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (85f362ca1a25dbb0c9b2ed5e09fd071e1ac8ada24fafc9cb15bb3f9115d0de9a)\nThe OpenSSF Package Analysis project identified 'wpdesigndev.wp.agoda.com' @ 100.0.5 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "wpdesigndev.wp.agoda.com",
+				"purl": "pkg:npm/wpdesigndev.wp.agoda.com"
+			},
+			"versions": [
+				"100.0.5"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/wpdesigndev.wp.agoda.com/MAL-2024-8960.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-09-25T00:49:11.321315974Z",
+				"modified_time": "2024-09-25T00:33:56Z",
+				"sha256": "85f362ca1a25dbb0c9b2ed5e09fd071e1ac8ada24fafc9cb15bb3f9115d0de9a",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"100.0.5"
+				]
+			}
+		]
+	}
+}

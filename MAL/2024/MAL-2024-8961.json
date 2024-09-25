@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-8961",
+	"modified": "2024-09-25T04:26:01Z",
+	"published": "2024-09-25T04:26:01Z",
+	"summary": "Malicious code in k0m3g4-test (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (e5b31577b8ef2e748732790fdf42931ad295306f31c825701ab5051f0562fb8c)\nThe OpenSSF Package Analysis project identified 'k0m3g4-test' @ 4.999.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "k0m3g4-test",
+				"purl": "pkg:npm/k0m3g4-test"
+			},
+			"versions": [
+				"4.999.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/k0m3g4-test/MAL-2024-8961.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-09-25T04:37:02.564554824Z",
+				"modified_time": "2024-09-25T04:26:01Z",
+				"sha256": "e5b31577b8ef2e748732790fdf42931ad295306f31c825701ab5051f0562fb8c",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"4.999.0"
+				]
+			}
+		]
+	}
+}

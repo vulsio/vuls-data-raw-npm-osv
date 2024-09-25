@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-36361"
 	],
+	"related": [
+		"CGA-2prx-pvq4-j22v"
+	],
 	"summary": "Pug allows JavaScript code execution if an application accepts untrusted input",
 	"details": "Pug through 3.0.2 allows JavaScript code execution if an application accepts untrusted input for the name option of the `compileClient`, `compileFileClient`, or `compileClientWithDependenciesTracked` function. NOTE: these functions are for compiling Pug templates into JavaScript, and there would typically be no reason to allow untrusted callers.",
 	"severity": [
