@@ -7,7 +7,8 @@
 		"CVE-2024-39001"
 	],
 	"related": [
-		"CGA-3mpq-gffq-cxpw"
+		"CGA-3mpq-gffq-cxpw",
+		"CGA-w4p5-9585-6f4g"
 	],
 	"summary": "ag-grid packages vulnerable to Prototype Pollution",
 	"details": "ag-grid-enterprise v31.3.2 was discovered to contain a prototype pollution via the component _ModuleSupport.jsonApply. This vulnerability allows attackers to execute arbitrary code or cause a Denial of Service (DoS) via injecting arbitrary properties.",

@@ -9,6 +9,14 @@
 		"SNYK-JAVA-ORGWEBJARSNPM-608931",
 		"SNYK-JS-JSON-597481"
 	],
+	"related": [
+		"CGA-345v-hqm5-8xrc",
+		"CGA-8x6f-5w3r-h5hx",
+		"CGA-96gq-cggr-xh2v",
+		"CGA-c2h3-p9mm-56pm",
+		"CGA-pjc4-r353-rg95",
+		"CGA-wqqg-fvhq-hcg7"
+	],
 	"summary": "trentm/json vulnerable to command injection",
 	"details": "This affects the package json before 10.0.0. It is possible to inject arbritary commands using the parseLookup function.",
 	"severity": [

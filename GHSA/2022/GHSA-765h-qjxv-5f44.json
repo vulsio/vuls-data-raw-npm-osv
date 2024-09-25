@@ -13,7 +13,12 @@
 	"related": [
 		"CGA-2cg2-8m24-9v59",
 		"CGA-3h62-wh7r-4jxc",
-		"CGA-522j-73h3-6f4m"
+		"CGA-522j-73h3-6f4m",
+		"CGA-8xxh-98gp-rfxf",
+		"CGA-c3r7-5r9m-rxjf",
+		"CGA-gmf2-68r8-3ggf",
+		"CGA-h394-5gmp-8wfr",
+		"CGA-rp6g-6jr6-7r2f"
 	],
 	"summary": "Prototype Pollution in handlebars",
 	"details": "The package handlebars before 4.7.7 are vulnerable to Prototype Pollution when selecting certain compiling options to compile templates coming from an untrusted source.",

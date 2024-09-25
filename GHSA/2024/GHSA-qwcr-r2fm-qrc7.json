@@ -6,6 +6,10 @@
 	"aliases": [
 		"CVE-2024-45590"
 	],
+	"related": [
+		"CGA-fh9q-m32j-c356",
+		"CGA-wr33-h89w-rmmm"
+	],
 	"summary": "body-parser vulnerable to denial of service when url encoding is enabled",
 	"details": "### Impact\n\nbody-parser <1.20.3 is vulnerable to denial of service when url encoding is enabled. A malicious actor using a specially crafted payload could flood the server with a large number of requests, resulting in denial of service.\n\n### Patches\n\nthis issue is patched in 1.20.3\n\n### References\n",
 	"severity": [

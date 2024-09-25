@@ -9,7 +9,9 @@
 	"related": [
 		"CGA-58f9-jc24-h5ch",
 		"CGA-8mxr-gwwc-5gvh",
-		"CGA-cvr7-x2g5-2f3j"
+		"CGA-9ph2-9r6m-2j4q",
+		"CGA-cvr7-x2g5-2f3j",
+		"CGA-rhv9-vcr9-v8hr"
 	],
 	"summary": "Server-Side Request Forgery in axios",
 	"details": "axios 1.7.2 allows SSRF via unexpected behavior where requests for path relative URLs get processed as protocol relative URLs.",

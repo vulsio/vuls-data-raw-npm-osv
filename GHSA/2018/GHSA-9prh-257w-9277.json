@@ -7,7 +7,12 @@
 		"CVE-2015-8861"
 	],
 	"related": [
-		"CGA-2r66-p99c-p42c"
+		"CGA-2r66-p99c-p42c",
+		"CGA-ghmm-pcr8-2g6w",
+		"CGA-h5fv-hr9h-h8c2",
+		"CGA-jwp9-f8g8-qrw3",
+		"CGA-p485-676m-hf3g",
+		"CGA-vmgx-57fp-cjf7"
 	],
 	"summary": "Cross-Site Scripting in handlebars",
 	"details": "Versions of `handlebars` prior to 4.0.0 are affected by a cross-site scripting vulnerability when attributes in handlebar templates are not quoted.\n\n\n## Proof of Concept\nTemplate:\n```<a href={{foo}}/>```\n\nInput:\n```{ 'foo' : 'test.com onload=alert(1)'}```\n\nRendered result:\n```<a href=test.com onload=alert(1)/>```\n\n\n## Recommendation\n\nUpdate to version 4.0.0 or later.\nAlternatively, ensure that all attributes in handlebars templates are encapsulated with quotes.",

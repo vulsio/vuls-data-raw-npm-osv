@@ -7,7 +7,8 @@
 		"CVE-2024-4067"
 	],
 	"related": [
-		"CGA-6q83-777j-gp5r"
+		"CGA-6q83-777j-gp5r",
+		"CGA-9qj8-ph43-6pq5"
 	],
 	"summary": "Regular Expression Denial of Service (ReDoS) in micromatch",
 	"details": "The NPM package `micromatch` prior to version 4.0.8 is vulnerable to Regular Expression Denial of Service (ReDoS). The vulnerability occurs in `micromatch.braces()` in `index.js` because the pattern `.*` will greedily match anything. By passing a malicious payload, the pattern matching will keep backtracking to the input while it doesn't find the closing bracket. As the input size increases, the consumption time will also increase until it causes the application to hang or slow down. There was a merged fix but further testing shows the issue persisted prior to https://github.com/micromatch/micromatch/pull/266. This issue should be mitigated by using a safe pattern that won't start backtracking the regular expression due to greedy matching.\n",

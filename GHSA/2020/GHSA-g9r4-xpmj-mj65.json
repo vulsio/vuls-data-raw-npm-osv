@@ -5,7 +5,11 @@
 	"published": "2020-09-04T15:06:32Z",
 	"related": [
 		"CGA-3hrf-pq45-wfgx",
-		"CGA-4624-4r82-xrmq"
+		"CGA-4624-4r82-xrmq",
+		"CGA-q984-mpf6-wjh2",
+		"CGA-rq4m-m6gf-p7rc",
+		"CGA-vqp3-hh32-vv85",
+		"CGA-w7rr-pj4g-fjw7"
 	],
 	"summary": "Prototype Pollution in handlebars",
 	"details": "Versions of `handlebars` prior to 3.0.8 or 4.5.3 are vulnerable to prototype pollution. It is possible to add or modify properties to the Object prototype through a malicious template. This may allow attackers to crash the application or execute Arbitrary Code in specific conditions.\n\n\n## Recommendation\n\nUpgrade to version 3.0.8, 4.5.3 or later.",

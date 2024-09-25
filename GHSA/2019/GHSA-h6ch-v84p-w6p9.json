@@ -5,7 +5,11 @@
 	"published": "2019-06-13T18:58:54Z",
 	"related": [
 		"CGA-5cqv-mm6m-mf38",
-		"CGA-5mc2-7mmg-hm4f"
+		"CGA-5mc2-7mmg-hm4f",
+		"CGA-c4qh-jfrh-49m7",
+		"CGA-f5r7-qrx9-rxrx",
+		"CGA-v24c-cq4m-759w",
+		"CGA-v9cq-gwgg-6x89"
 	],
 	"summary": "Regular Expression Denial of Service (ReDoS)",
 	"details": "A vulnerability was found in diff before v3.5.0, the affected versions of this package are vulnerable to Regular Expression Denial of Service (ReDoS) attacks.",
