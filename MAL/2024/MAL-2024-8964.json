@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-8964",
+	"modified": "2024-09-25T17:56:19Z",
+	"published": "2024-09-25T17:56:19Z",
+	"summary": "Malicious code in b2b-buyer-portal (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (e247ff9ca9991b2949be5c3e9600d1bb28702ddc1afbbe3a266f7d165aa54327)\nThe OpenSSF Package Analysis project identified 'b2b-buyer-portal' @ 55.55.56 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "b2b-buyer-portal",
+				"purl": "pkg:npm/b2b-buyer-portal"
+			},
+			"versions": [
+				"55.55.56"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/b2b-buyer-portal/MAL-2024-8964.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-09-25T18:06:26.705500571Z",
+				"modified_time": "2024-09-25T17:56:19Z",
+				"sha256": "e247ff9ca9991b2949be5c3e9600d1bb28702ddc1afbbe3a266f7d165aa54327",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"55.55.56"
+				]
+			}
+		]
+	}
+}
