@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-8981",
-	"modified": "2024-09-26T16:25:46Z",
+	"modified": "2024-09-26T17:06:13Z",
 	"published": "2024-09-26T16:25:46Z",
 	"summary": "Malicious code in csm-installation-wizard (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (f74e2c0217049ba17849876522c9ffb74cb9e4f3a1673a5f0f6105a6be2d29bc)\nThe OpenSSF Package Analysis project identified 'csm-installation-wizard' @ 1.1.3 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
@@ -13,7 +13,9 @@
 				"purl": "pkg:npm/csm-installation-wizard"
 			},
 			"versions": [
-				"1.1.3"
+				"1.1.3",
+				"1.1.4",
+				"2.1.5"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/csm-installation-wizard/MAL-2024-8981.json"
@@ -39,6 +41,24 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"1.1.3"
+				]
+			},
+			{
+				"import_time": "2024-09-26T17:05:47.29208761Z",
+				"modified_time": "2024-09-26T16:42:32Z",
+				"sha256": "0470a25d99d966e530e3d57fb83765f787e0761abc55e35fdbfe5b8810546bb4",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.1.4"
+				]
+			},
+			{
+				"import_time": "2024-09-26T17:05:47.408792503Z",
+				"modified_time": "2024-09-26T16:51:01Z",
+				"sha256": "5fd4b6189dc76d86c8ac1c358275300e05e983ddb28c3512d3ed1a6be9d0b792",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"2.1.5"
 				]
 			}
 		]
