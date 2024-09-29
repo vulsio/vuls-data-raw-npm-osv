@@ -1,0 +1,56 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-9039",
+	"modified": "2024-09-29T07:34:30Z",
+	"published": "2024-09-29T06:31:30Z",
+	"summary": "Malicious code in ds-home (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (563d701fb5fa40aa2a468928f556448cca0c00f7ef278ff0a586ab58a31a74ff)\nThe OpenSSF Package Analysis project identified 'ds-home' @ 0.1.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "ds-home",
+				"purl": "pkg:npm/ds-home"
+			},
+			"versions": [
+				"0.1.0",
+				"9.1.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ds-home/MAL-2024-9039.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-09-29T06:38:02.421345379Z",
+				"modified_time": "2024-09-29T06:31:30Z",
+				"sha256": "563d701fb5fa40aa2a468928f556448cca0c00f7ef278ff0a586ab58a31a74ff",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"0.1.0"
+				]
+			},
+			{
+				"import_time": "2024-09-29T07:34:06.415455011Z",
+				"modified_time": "2024-09-29T07:34:03Z",
+				"sha256": "0eb0641a96c933dbee950e08c059b5264b93bc43d8f93d51eb021fac625dde4a",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"9.1.0"
+				]
+			}
+		]
+	}
+}

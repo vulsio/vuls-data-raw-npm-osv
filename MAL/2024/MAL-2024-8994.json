@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-8994",
-	"modified": "2024-09-28T18:06:23Z",
+	"modified": "2024-09-29T11:34:32Z",
 	"published": "2024-09-27T11:15:53Z",
 	"summary": "Malicious code in assistants-nextjs (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (c10c3644ddfddaea1f99febb45a4fef51748f658f83feea64590169965878de3)\nThe OpenSSF Package Analysis project identified 'assistants-nextjs' @ 9.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -14,7 +14,8 @@
 			},
 			"versions": [
 				"9.0.0",
-				"9.9.5"
+				"9.9.5",
+				"9.9.6"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/assistants-nextjs/MAL-2024-8994.json"
@@ -49,6 +50,15 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"9.9.5"
+				]
+			},
+			{
+				"import_time": "2024-09-29T11:34:09.140751432Z",
+				"modified_time": "2024-09-29T11:32:22Z",
+				"sha256": "c3fe42fb04eb32580b0dbaad3d6375d645336cc6dceaee09a3d71e77c044a1fc",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"9.9.6"
 				]
 			}
 		]
