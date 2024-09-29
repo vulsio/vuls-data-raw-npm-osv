@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-9040",
+	"modified": "2024-09-29T16:55:48Z",
+	"published": "2024-09-29T16:55:48Z",
+	"summary": "Malicious code in peb_portal (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (ef19f255e3f4b6e8a3d6372336d32110772aae64795f828ab1a5c8a6f579f950)\nThe OpenSSF Package Analysis project identified 'peb_portal' @ 100.0.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "peb_portal",
+				"purl": "pkg:npm/peb_portal"
+			},
+			"versions": [
+				"100.0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/peb_portal/MAL-2024-9040.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-09-29T17:05:04.681411292Z",
+				"modified_time": "2024-09-29T16:55:48Z",
+				"sha256": "ef19f255e3f4b6e8a3d6372336d32110772aae64795f828ab1a5c8a6f579f950",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"100.0.1"
+				]
+			}
+		]
+	}
+}
