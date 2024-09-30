@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-8995",
-	"modified": "2024-09-27T15:35:37Z",
+	"modified": "2024-09-29T20:05:49Z",
 	"published": "2024-09-27T13:25:42Z",
 	"summary": "Malicious code in @helvetia-italia/ng-selly-components (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (b24b115b5edf195eb734c3605f40d9c1b9edc8c955136b9c4409b5dd1e9d7275)\nThe OpenSSF Package Analysis project identified '@helvetia-italia/ng-selly-components' @ 10.20.20 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -15,7 +15,8 @@
 			"versions": [
 				"10.20.20",
 				"10.20.22",
-				"10.20.39"
+				"10.20.39",
+				"10.30.40"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@helvetia-italia/ng-selly-components/MAL-2024-8995.json"
@@ -59,6 +60,15 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"10.20.39"
+				]
+			},
+			{
+				"import_time": "2024-09-29T20:05:25.404286179Z",
+				"modified_time": "2024-09-29T19:35:52Z",
+				"sha256": "920e001c0a2a86352f114d283b8dce5986f6776b1e75beea5c42dcfbb7ff6ad7",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"10.30.40"
 				]
 			}
 		]
