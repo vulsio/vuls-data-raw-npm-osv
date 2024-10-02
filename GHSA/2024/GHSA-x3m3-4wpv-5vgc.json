@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-38999"
 	],
+	"related": [
+		"CGA-phxw-qhp9-c3m7"
+	],
 	"summary": "jrburke requirejs vulnerable to prototype pollution",
 	"details": "jrburke requirejs v2.3.6 was discovered to contain a prototype pollution via the function `s.contexts._.configure`. This vulnerability allows attackers to execute arbitrary code or cause a Denial of Service (DoS) via injecting arbitrary properties.",
 	"severity": [
