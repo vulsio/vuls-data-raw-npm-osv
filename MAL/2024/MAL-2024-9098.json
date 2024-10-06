@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-9098",
-	"modified": "2024-10-05T23:05:40Z",
+	"modified": "2024-10-06T10:05:48Z",
 	"published": "2024-10-05T21:53:42Z",
 	"summary": "Malicious code in m-typescript (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (12e553a8f364ac952ab88200184ad5a972d42493e5d6c5997b446b3f4ec7cc99)\nThe OpenSSF Package Analysis project identified 'm-typescript' @ 1.999.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
@@ -14,7 +14,8 @@
 			},
 			"versions": [
 				"1.0.0",
-				"1.999.0"
+				"1.999.0",
+				"6.0.0"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/m-typescript/MAL-2024-9098.json"
@@ -49,6 +50,15 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"1.999.0"
+				]
+			},
+			{
+				"import_time": "2024-10-06T10:05:26.232663873Z",
+				"modified_time": "2024-10-06T09:40:32Z",
+				"sha256": "bdf15bfbffc5df6ad10f787f2259498c0d8c1c82362895af9059fa37fe553695",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"6.0.0"
 				]
 			}
 		]
