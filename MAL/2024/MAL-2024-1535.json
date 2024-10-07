@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1535",
-	"modified": "2024-06-05T11:25:49Z",
+	"modified": "2024-10-07T08:38:51Z",
 	"published": "2024-06-05T11:25:49Z",
 	"summary": "Malicious code in fccui (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (96b94ae4d96858364fe9eb30f6ab548e6d628e24e68a89aa1e53680ff435e8b2)\nThe OpenSSF Package Analysis project identified 'fccui' @ 5.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
@@ -13,7 +13,8 @@
 				"purl": "pkg:npm/fccui"
 			},
 			"versions": [
-				"5.0.0"
+				"5.0.0",
+				"7.0.0"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fccui/MAL-2024-1535.json"
@@ -39,6 +40,15 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"5.0.0"
+				]
+			},
+			{
+				"import_time": "2024-10-07T08:38:24.082037597Z",
+				"modified_time": "2024-10-07T08:27:13Z",
+				"sha256": "c234f83c49bda70c612859279eab99f5d151e41a46a318cd38b44fdc2734fb62",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"7.0.0"
 				]
 			}
 		]

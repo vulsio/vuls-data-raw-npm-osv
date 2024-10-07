@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-9088",
-	"modified": "2024-10-04T12:46:26Z",
+	"modified": "2024-10-07T08:07:38Z",
 	"published": "2024-10-04T07:17:51Z",
 	"summary": "Malicious code in @test3.svt/first-npm-package-test-2 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (c5d0ddb406420abe4a1e74b157a237b13abf8b3b0753309cc30b2d10ceb7de42)\nThe OpenSSF Package Analysis project identified '@test3.svt/first-npm-package-test-2' @ 1.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -19,7 +19,9 @@
 				"1.1.0",
 				"1.1.1",
 				"1.1.4",
-				"1.1.7"
+				"1.1.7",
+				"1.2.3",
+				"1.2.1"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@test3.svt/first-npm-package-test-2/MAL-2024-9088.json"
@@ -99,6 +101,24 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"1.1.7"
+				]
+			},
+			{
+				"import_time": "2024-10-07T08:07:13.866308339Z",
+				"modified_time": "2024-10-07T07:45:54Z",
+				"sha256": "03d3de6b6c31932c98e9bc82b47b8f2219fa54e301f35cfcabd2a7fdb96cbec6",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.2.3"
+				]
+			},
+			{
+				"import_time": "2024-10-07T08:07:13.729272005Z",
+				"modified_time": "2024-10-07T07:45:48Z",
+				"sha256": "d5b57966cf922eb12776d69c8cacd2721cd6ed4f1cea30c97307a3e78898f656",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.2.1"
 				]
 			}
 		]
