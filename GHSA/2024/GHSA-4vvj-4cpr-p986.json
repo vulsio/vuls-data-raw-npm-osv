@@ -1,10 +1,14 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4vvj-4cpr-p986",
-	"modified": "2024-10-02T01:29:34.390571Z",
+	"modified": "2024-10-08T04:26:56.966638Z",
 	"published": "2024-08-27T19:50:40Z",
 	"aliases": [
-		"CVE-2024-43788"
+		"CVE-2024-43788",
+		"CVE-2024-45389",
+		"CVE-2024-45812",
+		"GHSA-64vr-g452-qvp3",
+		"GHSA-gprj-6m2f-j9hx"
 	],
 	"related": [
 		"CGA-9rjf-f92q-2cm7",
