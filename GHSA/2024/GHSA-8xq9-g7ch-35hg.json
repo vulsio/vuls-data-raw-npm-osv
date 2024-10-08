@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8xq9-g7ch-35hg",
-	"modified": "2024-10-04T19:27:03.144240Z",
+	"modified": "2024-10-08T08:12:09.784629Z",
 	"published": "2024-10-04T18:50:56Z",
 	"aliases": [
+		"BIT-parse-2024-47183",
 		"CVE-2024-47183"
 	],
 	"summary": "Parse Server's custom object ID allows to acquire role privileges",

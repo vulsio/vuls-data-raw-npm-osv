@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-9088",
-	"modified": "2024-10-07T08:07:38Z",
+	"modified": "2024-10-08T07:34:44Z",
 	"published": "2024-10-04T07:17:51Z",
 	"summary": "Malicious code in @test3.svt/first-npm-package-test-2 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (c5d0ddb406420abe4a1e74b157a237b13abf8b3b0753309cc30b2d10ceb7de42)\nThe OpenSSF Package Analysis project identified '@test3.svt/first-npm-package-test-2' @ 1.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -21,7 +21,11 @@
 				"1.1.4",
 				"1.1.7",
 				"1.2.3",
-				"1.2.1"
+				"1.2.1",
+				"1.2.6",
+				"1.2.5",
+				"1.3.3",
+				"1.3.0"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@test3.svt/first-npm-package-test-2/MAL-2024-9088.json"
@@ -119,6 +123,42 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"1.2.1"
+				]
+			},
+			{
+				"import_time": "2024-10-08T07:05:35.315044947Z",
+				"modified_time": "2024-10-08T07:00:38Z",
+				"sha256": "ac3245be55da129f3efd53f9a7f6b563de5545039abde08a6e6ed0246e2abd24",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.2.6"
+				]
+			},
+			{
+				"import_time": "2024-10-08T07:05:35.166508696Z",
+				"modified_time": "2024-10-08T06:59:03Z",
+				"sha256": "b8894b6f0747b7700211aa0d62406f402f29a9b868647677bda90865d8395260",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.2.5"
+				]
+			},
+			{
+				"import_time": "2024-10-08T07:34:17.7192587Z",
+				"modified_time": "2024-10-08T07:30:44Z",
+				"sha256": "0d6527e273dea75eb65c006896c6440bdfd9dc629117b19a447421c829528c1a",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.3.3"
+				]
+			},
+			{
+				"import_time": "2024-10-08T07:34:17.54415248Z",
+				"modified_time": "2024-10-08T07:10:55Z",
+				"sha256": "8244ce1a8c1656999d0c39d38714fce4e6fa8b9d5430961ca4cdd9544f5369b5",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.3.0"
 				]
 			}
 		]
