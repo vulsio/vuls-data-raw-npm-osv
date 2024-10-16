@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-9300",
+	"modified": "2024-10-15T20:36:43Z",
+	"published": "2024-10-15T20:36:43Z",
+	"summary": "Malicious code in aspera-ui (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (08fd6d4f7925df27897e932356116970a71933951d3713d24fba16e4375e7249)\nThe OpenSSF Package Analysis project identified 'aspera-ui' @ 1.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "aspera-ui",
+				"purl": "pkg:npm/aspera-ui"
+			},
+			"versions": [
+				"1.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/aspera-ui/MAL-2024-9300.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-10-15T21:04:58.489650435Z",
+				"modified_time": "2024-10-15T20:36:43Z",
+				"sha256": "08fd6d4f7925df27897e932356116970a71933951d3713d24fba16e4375e7249",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.0"
+				]
+			}
+		]
+	}
+}
