@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-9302",
+	"modified": "2024-10-16T08:31:00Z",
+	"published": "2024-10-16T08:31:00Z",
+	"summary": "Malicious code in ship_sleepnpm-tool (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (ed055caa4a967dff7b49acd37f86f85844dd111aeb5233917c1228c1b0b2bde8)\nThe OpenSSF Package Analysis project identified 'ship_sleepnpm-tool' @ 1.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "ship_sleepnpm-tool",
+				"purl": "pkg:npm/ship_sleepnpm-tool"
+			},
+			"versions": [
+				"1.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ship_sleepnpm-tool/MAL-2024-9302.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-10-16T08:38:07.179734783Z",
+				"modified_time": "2024-10-16T08:31:00Z",
+				"sha256": "ed055caa4a967dff7b49acd37f86f85844dd111aeb5233917c1228c1b0b2bde8",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.0"
+				]
+			}
+		]
+	}
+}
