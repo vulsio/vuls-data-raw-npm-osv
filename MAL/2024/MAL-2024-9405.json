@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-9405",
+	"modified": "2024-10-17T09:24:07Z",
+	"published": "2024-10-17T09:24:07Z",
+	"summary": "Malicious code in module-with-prebuild (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (62f198faeaf28bc6d2ea18a67637efe374a33954727af057a2c22400344d5e67)\nThe OpenSSF Package Analysis project identified 'module-with-prebuild' @ 2.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "module-with-prebuild",
+				"purl": "pkg:npm/module-with-prebuild"
+			},
+			"versions": [
+				"2.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/module-with-prebuild/MAL-2024-9405.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-10-17T09:35:10.467152631Z",
+				"modified_time": "2024-10-17T09:24:07Z",
+				"sha256": "62f198faeaf28bc6d2ea18a67637efe374a33954727af057a2c22400344d5e67",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"2.0.0"
+				]
+			}
+		]
+	}
+}
