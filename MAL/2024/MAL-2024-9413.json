@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-9413",
+	"modified": "2024-10-17T14:01:04Z",
+	"published": "2024-10-17T14:01:04Z",
+	"summary": "Malicious code in nimiq-validators-score (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (55bf3722daa25d7fa27910707b173c729f1bdd0351510bcafe41321ae7e0501c)\nThe OpenSSF Package Analysis project identified 'nimiq-validators-score' @ 1.0.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "nimiq-validators-score",
+				"purl": "pkg:npm/nimiq-validators-score"
+			},
+			"versions": [
+				"1.0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/nimiq-validators-score/MAL-2024-9413.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-10-17T14:05:24.333973707Z",
+				"modified_time": "2024-10-17T14:01:04Z",
+				"sha256": "55bf3722daa25d7fa27910707b173c729f1bdd0351510bcafe41321ae7e0501c",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.1"
+				]
+			}
+		]
+	}
+}
