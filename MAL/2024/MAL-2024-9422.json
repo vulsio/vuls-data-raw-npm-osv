@@ -1,0 +1,35 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-9422",
+	"modified": "2024-10-16T17:36:18Z",
+	"published": "2024-10-16T17:36:18Z",
+	"summary": "Malicious code in ethers-aaa (npm)",
+	"details": "The package contains additional code to exfiltrate user private keys to an attack-controlled server.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "ethers-aaa",
+				"purl": "pkg:npm/ethers-aaa"
+			},
+			"versions": [
+				"6.13.23"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ethers-aaa/MAL-2024-9422.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "Stacklok: trustypkg.dev",
+			"contact": [
+				"https://discord.com/invite/RkzVuTp3WK"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}

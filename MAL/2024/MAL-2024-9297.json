@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-9297",
-	"modified": "2024-10-15T12:46:36Z",
+	"modified": "2024-10-17T18:38:50Z",
 	"published": "2024-10-15T12:03:22Z",
 	"summary": "Malicious code in viajemos (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (c3c4d645ed093ab6f955d6ac3b4afd29498abb9dd3bce410b2b3efb1cbf7d327)\nThe OpenSSF Package Analysis project identified 'viajemos' @ 2.0.7 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -14,7 +14,8 @@
 			},
 			"versions": [
 				"2.0.7",
-				"2.0.8"
+				"2.0.8",
+				"2.1.1"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/viajemos/MAL-2024-9297.json"
@@ -49,6 +50,15 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"2.0.8"
+				]
+			},
+			{
+				"import_time": "2024-10-17T18:38:26.528418059Z",
+				"modified_time": "2024-10-17T18:25:46Z",
+				"sha256": "73c0c75ce051bdcad40241a2d4ba6de1ce89798aff74740993fa9d51d7651558",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"2.1.1"
 				]
 			}
 		]
