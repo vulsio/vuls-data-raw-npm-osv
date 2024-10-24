@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1708",
-	"modified": "2024-06-25T12:24:26Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:24:26Z",
 	"summary": "Malicious code in a-constructor.js (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"99999999.99.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-06095",
+				"import_time": "2024-10-24T00:57:28.609650372Z",
+				"modified_time": "2024-10-16T12:27:36Z",
+				"sha256": "8c859c3ec6064cd3b486f0388669544e049b5ede1f1c02050016f8a6ea7bc0bf",
+				"source": "reversing-labs"
 			}
 		]
 	}

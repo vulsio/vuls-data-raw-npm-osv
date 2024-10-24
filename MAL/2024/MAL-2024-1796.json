@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1796",
-	"modified": "2024-06-25T12:29:07Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:29:07Z",
 	"summary": "Malicious code in ayp-tool (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06197",
+				"import_time": "2024-10-24T00:57:33.94466471Z",
+				"modified_time": "2024-10-16T12:34:23Z",
+				"sha256": "feddb8e2ec6af6185851a03d11b64ebccd6b0e5bf2c26ba38ba02d69a7b5ac65",
+				"source": "reversing-labs"
 			}
 		]
 	}

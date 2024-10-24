@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1821",
-	"modified": "2024-06-25T12:29:38Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:29:38Z",
 	"summary": "Malicious code in bifrost-calculator (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06213",
+				"import_time": "2024-10-24T00:57:34.953804218Z",
+				"modified_time": "2024-10-16T12:35:03Z",
+				"sha256": "e0b3a5dd950cb44185754b16be80e7aa8f68651dab66e142426768c999eff592",
+				"source": "reversing-labs"
 			}
 		]
 	}

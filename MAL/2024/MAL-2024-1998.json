@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1998",
-	"modified": "2024-06-25T12:33:53Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:33:53Z",
 	"summary": "Malicious code in colors-devs (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06330",
+				"import_time": "2024-10-24T00:57:39.314843933Z",
+				"modified_time": "2024-10-16T12:40:39Z",
+				"sha256": "3fc9224ea1d42f1a81c26b502bc13750e48b738dcd6bf076031e9ca7b7ddb18c",
+				"source": "reversing-labs"
 			}
 		]
 	}

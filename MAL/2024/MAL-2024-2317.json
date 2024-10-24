@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2317",
-	"modified": "2024-06-25T12:41:37Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:41:37Z",
 	"summary": "Malicious code in es7.symbol.async-iterator (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"49.6.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06504",
+				"import_time": "2024-10-24T00:57:47.388162605Z",
+				"modified_time": "2024-10-16T12:50:36Z",
+				"sha256": "0c715517348a7f31b73fc28040dd025fc6eb02a5c995faee708227321277efdb",
+				"source": "reversing-labs"
 			}
 		]
 	}

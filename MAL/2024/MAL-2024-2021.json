@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2021",
-	"modified": "2024-06-25T12:34:22Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:34:22Z",
 	"summary": "Malicious code in consul-nspaces (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"99.99.99"
 				]
+			},
+			{
+				"id": "RLUA-2024-06353",
+				"import_time": "2024-10-24T00:57:40.054110596Z",
+				"modified_time": "2024-10-16T12:41:22Z",
+				"sha256": "c68fef61dcfd6bdcf80de7da5db272184906279bec78fe9070fa8c3911ba6406",
+				"source": "reversing-labs"
 			}
 		]
 	}

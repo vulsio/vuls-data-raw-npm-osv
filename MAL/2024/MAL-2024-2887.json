@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2887",
-	"modified": "2024-06-25T12:56:24Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:56:24Z",
 	"summary": "Malicious code in power1 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"9.8.5"
 				]
+			},
+			{
+				"id": "RLUA-2024-07130",
+				"import_time": "2024-10-24T00:58:14.737715261Z",
+				"modified_time": "2024-10-16T13:12:24Z",
+				"sha256": "b448442e200f0fc7147a5aafffdbb81ef65ae47d5dfa0e85c6abb1032e35e96b",
+				"source": "reversing-labs"
 			}
 		]
 	}

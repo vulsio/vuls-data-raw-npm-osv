@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1851",
-	"modified": "2024-06-25T12:30:26Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:30:26Z",
 	"summary": "Malicious code in by-gtm (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 					"12.5.1",
 					"12.6.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06259",
+				"import_time": "2024-10-24T00:57:36.677120603Z",
+				"modified_time": "2024-10-16T12:36:21Z",
+				"sha256": "05e01737f4f079aed4468155e388ffe74de754fbf1a04ed5578913327d48c579",
+				"source": "reversing-labs"
 			}
 		]
 	}

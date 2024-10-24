@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3092",
-	"modified": "2024-06-28T03:14:41.816467Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:03:10Z",
 	"aliases": [
 		"SNYK-JS-TEMPOMATIOMEGA5EMCUF2-3336040"
@@ -49,6 +49,13 @@
 				"versions": [
 					"1.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-07407",
+				"import_time": "2024-10-24T00:58:24.647424818Z",
+				"modified_time": "2024-10-16T13:22:33Z",
+				"sha256": "b6992b818e899d3650fc10d3aa77484cc034ac6f92ad2ef6318352dab94bd949",
+				"source": "reversing-labs"
 			}
 		]
 	}

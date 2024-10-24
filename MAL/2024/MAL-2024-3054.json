@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3054",
-	"modified": "2024-06-25T13:02:01Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:02:01Z",
 	"summary": "Malicious code in starter-assets-sass (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07361",
+				"import_time": "2024-10-24T00:58:22.672042512Z",
+				"modified_time": "2024-10-16T13:20:48Z",
+				"sha256": "2a904e97365a975fa5306578c7e474fce52dd1eaebb6564dc1dfba9881e2a865",
+				"source": "reversing-labs"
 			}
 		]
 	}

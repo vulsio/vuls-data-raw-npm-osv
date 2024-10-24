@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2661",
-	"modified": "2024-06-25T12:50:11Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:50:11Z",
 	"summary": "Malicious code in mh-web-hardware (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.7.3"
 				]
+			},
+			{
+				"id": "RLUA-2024-06892",
+				"import_time": "2024-10-24T00:58:04.903409315Z",
+				"modified_time": "2024-10-16T13:03:42Z",
+				"sha256": "386d88c91e177f6422a371a5ef9413dc6cf45496e96dff24a1ca0bc1f380dac5",
+				"source": "reversing-labs"
 			}
 		]
 	}

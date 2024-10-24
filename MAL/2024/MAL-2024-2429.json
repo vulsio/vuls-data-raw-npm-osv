@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2429",
-	"modified": "2024-06-25T12:44:33Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:44:33Z",
 	"summary": "Malicious code in gp-assets (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06647",
+				"import_time": "2024-10-24T00:57:53.716258402Z",
+				"modified_time": "2024-10-16T12:55:05Z",
+				"sha256": "e617a749aac6acdb73b8126305a143bc532ff1241ef88abc185bb91e30d8e8dc",
+				"source": "reversing-labs"
 			}
 		]
 	}

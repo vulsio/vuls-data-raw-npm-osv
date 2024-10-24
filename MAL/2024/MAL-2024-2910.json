@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2910",
-	"modified": "2024-06-25T12:56:51Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T12:56:51Z",
 	"summary": "Malicious code in qubit-placement-callbacks (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"2.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-07157",
+				"import_time": "2024-10-24T00:58:15.511214332Z",
+				"modified_time": "2024-10-16T13:13:22Z",
+				"sha256": "d2ef0b668545fc5785c726c10537101d48cf39dc4c4cd07a0327c6a1a338acfe",
+				"source": "reversing-labs"
 			}
 		]
 	}

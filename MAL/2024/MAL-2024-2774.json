@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2774",
-	"modified": "2024-06-25T12:53:33Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:53:33Z",
 	"summary": "Malicious code in ntm001-module (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 					"3.0.3",
 					"3.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06996",
+				"import_time": "2024-10-24T00:58:08.440562352Z",
+				"modified_time": "2024-10-16T13:08:19Z",
+				"sha256": "1f6a667024d0da546cf8893f9f2f69e8ba2dcb08097709e230a10d3da53f8fb8",
+				"source": "reversing-labs"
 			}
 		]
 	}

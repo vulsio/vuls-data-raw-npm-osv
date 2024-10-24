@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3258",
-	"modified": "2024-07-01T04:00:00Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:19:33Z",
 	"summary": "Malicious code in @esportal/ui-kit (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,24 @@
 					"8.3.3",
 					"8.3.4"
 				]
+			},
+			{
+				"id": "RLMA-2024-00060",
+				"import_time": "2024-10-24T00:49:15.784267466Z",
+				"modified_time": "2024-06-25T12:19:33Z",
+				"sha256": "7918da8205752971400d3fa09118fecc1e17b4db8a0a9219c0d64d8ac9fda19a",
+				"source": "reversing-labs",
+				"versions": [
+					"8.3.3",
+					"8.3.4"
+				]
+			},
+			{
+				"id": "RLUA-2024-05910",
+				"import_time": "2024-10-24T00:57:17.462350776Z",
+				"modified_time": "2024-10-16T12:21:49Z",
+				"sha256": "faef2a8e1a8741a53e5819f8a0fbda6a5e4e0c2df8e64ef50465bb18d3fc6d0a",
+				"source": "reversing-labs"
 			}
 		]
 	}

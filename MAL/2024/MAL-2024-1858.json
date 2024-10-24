@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1858",
-	"modified": "2024-06-25T12:30:36Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:30:36Z",
 	"summary": "Malicious code in cameo-react-native-share-story (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"2.9.0",
 					"2.9.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06265",
+				"import_time": "2024-10-24T00:57:37.14223178Z",
+				"modified_time": "2024-10-16T12:36:26Z",
+				"sha256": "c12b1b99628c427cc52ebda13c130b6ad57142b142fee277fa0109613f36dd6c",
+				"source": "reversing-labs"
 			}
 		]
 	}

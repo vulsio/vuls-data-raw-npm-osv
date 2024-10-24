@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2533",
-	"modified": "2024-06-25T12:47:19Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:47:19Z",
 	"summary": "Malicious code in ions-package (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"3.2.7"
 				]
+			},
+			{
+				"id": "RLUA-2024-06754",
+				"import_time": "2024-10-24T00:57:58.369676631Z",
+				"modified_time": "2024-10-16T12:59:05Z",
+				"sha256": "9cce72692796572a9d42425dc17e589952a86a6b265bbeac2bb021504bd07119",
+				"source": "reversing-labs"
 			}
 		]
 	}

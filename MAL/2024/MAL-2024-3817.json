@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3817",
-	"modified": "2024-06-25T13:18:51Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:18:51Z",
 	"summary": "Malicious code in vendored-a (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1999.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-07529",
+				"import_time": "2024-10-24T00:58:30.857555442Z",
+				"modified_time": "2024-10-16T13:41:39Z",
+				"sha256": "9106c0c37df6d726003f04dec4e3bd41708ef6b2c55347ec49159fdb1dbf29fa",
+				"source": "reversing-labs"
 			}
 		]
 	}

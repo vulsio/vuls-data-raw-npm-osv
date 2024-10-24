@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2923",
-	"modified": "2024-06-25T12:57:04Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T12:57:04Z",
 	"summary": "Malicious code in raushan (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07166",
+				"import_time": "2024-10-24T00:58:16.023715614Z",
+				"modified_time": "2024-10-16T13:13:39Z",
+				"sha256": "be48dc7000ef4030a93a51affdad510435bca6df59c0f909af9214846011cbbc",
+				"source": "reversing-labs"
 			}
 		]
 	}

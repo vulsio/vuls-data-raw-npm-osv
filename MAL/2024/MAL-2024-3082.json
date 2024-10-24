@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3082",
-	"modified": "2024-06-25T13:02:51Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:02:51Z",
 	"summary": "Malicious code in taxes-experience (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"1.1.0",
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07398",
+				"import_time": "2024-10-24T00:58:24.110915674Z",
+				"modified_time": "2024-10-16T13:22:07Z",
+				"sha256": "a37595221b06ecf8f97f14aca333dde4ddc0bd7d0bcda8638f70e4f6600471d8",
+				"source": "reversing-labs"
 			}
 		]
 	}

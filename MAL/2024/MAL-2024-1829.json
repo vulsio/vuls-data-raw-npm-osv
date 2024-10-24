@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1829",
-	"modified": "2024-06-25T12:29:55Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:29:55Z",
 	"summary": "Malicious code in bolt-repo (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06228",
+				"import_time": "2024-10-24T00:57:35.377274744Z",
+				"modified_time": "2024-10-16T12:35:24Z",
+				"sha256": "13765ebd2c76c27e6409aa6dc97bc1ed24a161415a6d115a136249707698c71e",
+				"source": "reversing-labs"
 			}
 		]
 	}

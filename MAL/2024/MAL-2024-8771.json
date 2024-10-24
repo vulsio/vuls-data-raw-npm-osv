@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-8771",
-	"modified": "2024-09-05T00:42:32.479205Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-09-04T09:08:28Z",
 	"aliases": [
 		"GHSA-4hx2-48vr-xmfq"
@@ -25,6 +25,9 @@
 					]
 				}
 			],
+			"versions": [
+				"12.12.12"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +44,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-4hx2-48vr-xmfq"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +73,16 @@
 				],
 				"sha256": "8fc0a4c45cc830a7151b688c058b945f36100df53a7f66c505be30025dfcf391",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-06687",
+				"import_time": "2024-10-24T00:56:26.024499635Z",
+				"modified_time": "2024-10-16T12:56:23Z",
+				"sha256": "6d2682153e339fa6ef92c222c01ca3c7032f28b837fb92a287feae7f633adc98",
+				"source": "reversing-labs",
+				"versions": [
+					"12.12.12"
+				]
 			}
 		]
 	}

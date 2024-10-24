@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2446",
-	"modified": "2024-06-25T12:44:57Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:44:57Z",
 	"summary": "Malicious code in hackboysoso (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"6.6.6"
 				]
+			},
+			{
+				"id": "RLUA-2024-06668",
+				"import_time": "2024-10-24T00:57:55.03850254Z",
+				"modified_time": "2024-10-16T12:55:41Z",
+				"sha256": "d27d678966974d2f16d1613122289e9a43fdebceaf1fc0467ed2ff960eba5f06",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1839",
-	"modified": "2024-06-25T12:30:09Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:30:09Z",
 	"summary": "Malicious code in brand-positioning-block (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06240",
+				"import_time": "2024-10-24T00:57:36.072572022Z",
+				"modified_time": "2024-10-16T12:35:47Z",
+				"sha256": "749f931ddde41a93a5886d0104187014802f43b697c648043b6310c616229b3b",
+				"source": "reversing-labs"
 			}
 		]
 	}

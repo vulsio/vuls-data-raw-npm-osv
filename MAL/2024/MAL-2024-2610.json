@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2610",
-	"modified": "2024-06-25T12:48:57Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:48:57Z",
 	"summary": "Malicious code in lifetime-agent (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"1.73.3",
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06832",
+				"import_time": "2024-10-24T00:58:01.960176543Z",
+				"modified_time": "2024-10-16T13:01:40Z",
+				"sha256": "df0b6d1b408e2ebb4bf540407387107ea7abbfab71aa5057d1ea3923ed7762dc",
+				"source": "reversing-labs"
 			}
 		]
 	}

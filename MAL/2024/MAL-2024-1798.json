@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1798",
-	"modified": "2024-06-25T12:29:08Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:29:08Z",
 	"summary": "Malicious code in azure-rest-api-specs-eng-tools (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"9.3.4",
 					"99.99.99"
 				]
+			},
+			{
+				"id": "RLUA-2024-06198",
+				"import_time": "2024-10-24T00:57:34.042474829Z",
+				"modified_time": "2024-10-16T12:34:24Z",
+				"sha256": "c95e268bf10818a4db280e860e4ca73d77774aa1afc6755199d41225b569df46",
+				"source": "reversing-labs"
 			}
 		]
 	}

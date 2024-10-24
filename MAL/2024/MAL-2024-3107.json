@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3107",
-	"modified": "2024-06-25T13:03:37Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:03:37Z",
 	"summary": "Malicious code in test-nodeconfusion (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.29.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-07422",
+				"import_time": "2024-10-24T00:58:25.899437132Z",
+				"modified_time": "2024-10-16T13:22:55Z",
+				"sha256": "872cc303cb67f3d8f4df4e907a7fa315509ff6d0438dcd0959f7d5850ffbb1fe",
+				"source": "reversing-labs"
 			}
 		]
 	}

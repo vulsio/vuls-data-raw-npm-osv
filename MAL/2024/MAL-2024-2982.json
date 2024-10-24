@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2982",
-	"modified": "2024-06-25T12:59:49Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T12:59:49Z",
 	"summary": "Malicious code in sap.ui.layout (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.52.5"
 				]
+			},
+			{
+				"id": "RLUA-2024-07254",
+				"import_time": "2024-10-24T00:58:19.095912841Z",
+				"modified_time": "2024-10-16T13:17:27Z",
+				"sha256": "339e99dd970d65a1c9ac9b34bb5e59f81a637ad83fbfb07ba3fc05b3b037950d",
+				"source": "reversing-labs"
 			}
 		]
 	}

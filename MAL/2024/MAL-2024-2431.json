@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2431",
-	"modified": "2024-06-25T12:44:35Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:44:35Z",
 	"summary": "Malicious code in gp-comps (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06649",
+				"import_time": "2024-10-24T00:57:53.93257094Z",
+				"modified_time": "2024-10-16T12:55:07Z",
+				"sha256": "9b6836b1b04431da217fbe15d8fd73d89182e8f86905685e71efef9a754e4bea",
+				"source": "reversing-labs"
 			}
 		]
 	}

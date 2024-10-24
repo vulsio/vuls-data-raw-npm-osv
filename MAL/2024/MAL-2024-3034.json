@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3034",
-	"modified": "2024-06-25T13:01:34Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:01:34Z",
 	"summary": "Malicious code in source-map-sync-tool (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07336",
+				"import_time": "2024-10-24T00:58:21.647786132Z",
+				"modified_time": "2024-10-16T13:20:05Z",
+				"sha256": "c3b71abd87d149672c5a82b3c2da06821fa16e8b3e06f02fdde780dd589cdcec",
+				"source": "reversing-labs"
 			}
 		]
 	}

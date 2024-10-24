@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2885",
-	"modified": "2024-06-25T12:56:23Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:56:23Z",
 	"summary": "Malicious code in portm-agent (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.5"
 				]
+			},
+			{
+				"id": "RLUA-2024-07128",
+				"import_time": "2024-10-24T00:58:14.603646832Z",
+				"modified_time": "2024-10-16T13:12:22Z",
+				"sha256": "8b65684c071afa8969924576c703bd2a16ed227ffcfe2b9618e7325fb3e49d4c",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2871",
-	"modified": "2024-06-28T03:14:38.224964Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:56:03Z",
 	"aliases": [
 		"SNYK-JS-PINODEPLOY-3326422"
@@ -53,6 +53,13 @@
 					"0.0.2",
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07094",
+				"import_time": "2024-10-24T00:58:13.869211354Z",
+				"modified_time": "2024-10-16T13:11:25Z",
+				"sha256": "aab96bad072f091d9b86b5b60b7efa2c3ee894215ac199950dcd1b757eece5e6",
+				"source": "reversing-labs"
 			}
 		]
 	}

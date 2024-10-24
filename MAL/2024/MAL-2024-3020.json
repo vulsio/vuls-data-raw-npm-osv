@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3020",
-	"modified": "2024-06-25T13:00:53Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:00:53Z",
 	"summary": "Malicious code in skinport-rest-docs (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"0.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-07309",
+				"import_time": "2024-10-24T00:58:20.952360002Z",
+				"modified_time": "2024-10-16T13:19:18Z",
+				"sha256": "f7837b91845de2acc5a309bc0b8c231a5d4d5ac70ba2845ba025b85b225ed4c2",
+				"source": "reversing-labs"
 			}
 		]
 	}

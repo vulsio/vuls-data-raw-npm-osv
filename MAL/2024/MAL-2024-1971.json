@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1971",
-	"modified": "2024-06-28T03:14:30.293523Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:18:29Z",
 	"aliases": [
 		"SNYK-JS-B2BGEOCERTS-3326411"
@@ -51,6 +51,24 @@
 					"13.3.7",
 					"13.3.8"
 				]
+			},
+			{
+				"id": "RLMA-2024-00012",
+				"import_time": "2024-10-24T00:49:12.400665988Z",
+				"modified_time": "2024-06-25T12:18:29Z",
+				"sha256": "902b4a71d79cb2a414d93ffdd8fdd1296680871fd0c497b05f4b17e1a73647ac",
+				"source": "reversing-labs",
+				"versions": [
+					"13.3.7",
+					"13.3.8"
+				]
+			},
+			{
+				"id": "RLUA-2024-05863",
+				"import_time": "2024-10-24T00:57:14.441111312Z",
+				"modified_time": "2024-10-16T12:20:32Z",
+				"sha256": "f2cd785cde5a0f330e4fd4dff9a7e118459fb84891eb9ad33262d82b7f7c5ea8",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3044",
-	"modified": "2024-06-25T13:01:50Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:01:50Z",
 	"summary": "Malicious code in sq-shared (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"9999.0.99"
 				]
+			},
+			{
+				"id": "RLUA-2024-07349",
+				"import_time": "2024-10-24T00:58:22.16376921Z",
+				"modified_time": "2024-10-16T13:20:24Z",
+				"sha256": "b0062e322ce13489bf964b5a22722a08836f60615f7a8a10adcfda5cb7437c3d",
+				"source": "reversing-labs"
 			}
 		]
 	}

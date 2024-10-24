@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2635",
-	"modified": "2024-06-25T12:49:34Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:49:34Z",
 	"summary": "Malicious code in lodashinc (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"8.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06860",
+				"import_time": "2024-10-24T00:58:03.519835583Z",
+				"modified_time": "2024-10-16T13:02:34Z",
+				"sha256": "3fe1dea468d60bdb31896073ce3e6d9f5185af9e9625395a48378cbe18fbe722",
+				"source": "reversing-labs"
 			}
 		]
 	}

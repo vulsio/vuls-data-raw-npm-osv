@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1735",
-	"modified": "2024-06-25T12:25:07Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:25:07Z",
 	"summary": "Malicious code in agora-daily-conversion (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"2.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06117",
+				"import_time": "2024-10-24T00:57:30.104130027Z",
+				"modified_time": "2024-10-16T12:28:23Z",
+				"sha256": "01015bcd52270a314c9d96cfdbd37b9eb311294862d07886b2d4dfcd51ce95a9",
+				"source": "reversing-labs"
 			}
 		]
 	}

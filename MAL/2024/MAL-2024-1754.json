@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1754",
-	"modified": "2024-06-25T12:25:55Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:25:55Z",
 	"summary": "Malicious code in anandakshya (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06137",
+				"import_time": "2024-10-24T00:57:31.272564619Z",
+				"modified_time": "2024-10-16T12:29:18Z",
+				"sha256": "9b24a1ef852f667462bef02e084ea5103c4ac56e018f3c30bf0eb48d3d24bd06",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2423",
-	"modified": "2024-06-25T12:44:21Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:44:21Z",
 	"summary": "Malicious code in glob10 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"10.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-06640",
+				"import_time": "2024-10-24T00:57:53.268689013Z",
+				"modified_time": "2024-10-16T12:54:50Z",
+				"sha256": "d9fa9ce4f5d6bd1f4b05e648fb2908e8f4d684af50aa92ff0520491234d250a0",
+				"source": "reversing-labs"
 			}
 		]
 	}

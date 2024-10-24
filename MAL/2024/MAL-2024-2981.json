@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2981",
-	"modified": "2024-06-28T03:14:39.873975Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T12:59:44Z",
 	"aliases": [
 		"SNYK-JS-SAPIOTSDK-5406420"
@@ -53,6 +53,13 @@
 					"1.0.2",
 					"99.99.99"
 				]
+			},
+			{
+				"id": "RLUA-2024-07253",
+				"import_time": "2024-10-24T00:58:19.000882049Z",
+				"modified_time": "2024-10-16T13:17:26Z",
+				"sha256": "0e68fb98bc05d053d2db5e7a9f40bfc66bea0074471cd8db02087518366915d4",
+				"source": "reversing-labs"
 			}
 		]
 	}

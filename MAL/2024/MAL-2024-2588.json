@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2588",
-	"modified": "2024-06-25T12:48:37Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:48:37Z",
 	"summary": "Malicious code in kwaishop-radar (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"99.9.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06808",
+				"import_time": "2024-10-24T00:58:00.899449907Z",
+				"modified_time": "2024-10-16T13:01:03Z",
+				"sha256": "ed60881c66f85c443475cfe0eff42e3df55cd325ec6e4ce372885331de0f472b",
+				"source": "reversing-labs"
 			}
 		]
 	}

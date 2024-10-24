@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1763",
-	"modified": "2024-06-25T12:28:10Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:28:10Z",
 	"summary": "Malicious code in apollo-federation-integration-testsuite (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"0.20.4"
 				]
+			},
+			{
+				"id": "RLUA-2024-06148",
+				"import_time": "2024-10-24T00:57:31.810716537Z",
+				"modified_time": "2024-10-16T12:31:55Z",
+				"sha256": "e13a8febaf1c8ac175c7ff91d0dd6fdf6edf8d11edce7adbe9941650d3757284",
+				"source": "reversing-labs"
 			}
 		]
 	}

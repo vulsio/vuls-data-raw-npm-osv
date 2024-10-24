@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2985",
-	"modified": "2024-06-25T12:59:52Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T12:59:52Z",
 	"summary": "Malicious code in sber-sberx-prime (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"689.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07259",
+				"import_time": "2024-10-24T00:58:19.262422439Z",
+				"modified_time": "2024-10-16T13:17:38Z",
+				"sha256": "77fdf2635623fbdb1f26b0f6dadc0a6f96d8e42769a204c19b96886ddba7e18f",
+				"source": "reversing-labs"
 			}
 		]
 	}

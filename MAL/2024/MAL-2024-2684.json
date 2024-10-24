@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2684",
-	"modified": "2024-06-25T12:51:06Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:51:06Z",
 	"summary": "Malicious code in my_super_private_library (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"0.0.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-06933",
+				"import_time": "2024-10-24T00:58:06.129831451Z",
+				"modified_time": "2024-10-16T13:04:59Z",
+				"sha256": "708e3385585eb1d73d3f5a446977e63d01209820c54e73ea62eeff548dd8e835",
+				"source": "reversing-labs"
 			}
 		]
 	}

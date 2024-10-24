@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2034",
-	"modified": "2024-06-25T12:34:40Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:34:40Z",
 	"summary": "Malicious code in csino-slots (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"2.999.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06369",
+				"import_time": "2024-10-24T00:57:40.57847855Z",
+				"modified_time": "2024-10-16T12:41:55Z",
+				"sha256": "defbb8f35951c0f8d4a290aee9710f622cdd93e6e14458cfe813d3759013e42c",
+				"source": "reversing-labs"
 			}
 		]
 	}

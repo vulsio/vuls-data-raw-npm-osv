@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3940",
-	"modified": "2024-06-25T13:21:36Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:21:36Z",
 	"summary": "Malicious code in web.dom.iterable (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 					"82.2.0",
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07565",
+				"import_time": "2024-10-24T00:58:32.617284693Z",
+				"modified_time": "2024-10-16T13:45:08Z",
+				"sha256": "df9ea9daea04aa58feeb8a2a99021e7172ff9ff3d79f379459acafe1b33a2b42",
+				"source": "reversing-labs"
 			}
 		]
 	}

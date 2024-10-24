@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3105",
-	"modified": "2024-06-25T13:03:35Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:03:35Z",
 	"summary": "Malicious code in test-dependency-confusion (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -44,6 +44,13 @@
 					"1.0.2",
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07420",
+				"import_time": "2024-10-24T00:58:25.494036677Z",
+				"modified_time": "2024-10-16T13:22:53Z",
+				"sha256": "41e05a884f010e074fd3a9db0cbd8dfed9c75350e304e4c853276e21096c945f",
+				"source": "reversing-labs"
 			}
 		]
 	}

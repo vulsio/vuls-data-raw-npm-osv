@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2619",
-	"modified": "2024-08-30T00:44:24.576611Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:49:10Z",
 	"aliases": [
 		"GHSA-qr22-69j6-277r"
@@ -83,6 +83,13 @@
 				],
 				"sha256": "28541dde064ce827aa42de7b0d3eaf2cb56923d6ed1e0d6e4b54dc2e8dfcf3f3",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLUA-2024-06843",
+				"import_time": "2024-10-24T00:58:02.500465185Z",
+				"modified_time": "2024-10-16T13:02:02Z",
+				"sha256": "881591e4feef4cd35dfb578cebe61f00a071f779589ec4c2cb116e15bf3d404e",
+				"source": "reversing-labs"
 			}
 		]
 	}

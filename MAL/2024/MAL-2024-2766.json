@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2766",
-	"modified": "2024-06-25T12:53:18Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:53:18Z",
 	"summary": "Malicious code in npm-package-test-deadbeef (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06986",
+				"import_time": "2024-10-24T00:58:07.894799143Z",
+				"modified_time": "2024-10-16T13:08:03Z",
+				"sha256": "1654bdcd68f80d0e5ad3131101ce77cb54a71044c156cf4928ac26803578c185",
+				"source": "reversing-labs"
 			}
 		]
 	}

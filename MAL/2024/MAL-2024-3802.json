@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3802",
-	"modified": "2024-06-25T13:18:27Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:18:27Z",
 	"summary": "Malicious code in usaa-native-bridge (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -54,6 +54,13 @@
 					"1.1.2",
 					"10.2.4"
 				]
+			},
+			{
+				"id": "RLUA-2024-07511",
+				"import_time": "2024-10-24T00:58:30.322608482Z",
+				"modified_time": "2024-10-16T13:41:03Z",
+				"sha256": "053394cce8532fff7d7b7749b635121a5a6d05fcfad764f2ab863351abfe9fe8",
+				"source": "reversing-labs"
 			}
 		]
 	}

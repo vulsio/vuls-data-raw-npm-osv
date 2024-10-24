@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3098",
-	"modified": "2024-06-25T13:03:22Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:03:22Z",
 	"summary": "Malicious code in tendable (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"99.0.0",
 					"99.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-07413",
+				"import_time": "2024-10-24T00:58:25.084680298Z",
+				"modified_time": "2024-10-16T13:22:41Z",
+				"sha256": "9d0e7070e8bfcf0a3473cdb937319e281b2a939e72b7e33b83992c8cab8f8963",
+				"source": "reversing-labs"
 			}
 		]
 	}

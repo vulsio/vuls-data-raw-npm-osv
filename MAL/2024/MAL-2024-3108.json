@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3108",
-	"modified": "2024-06-25T13:03:37Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:03:37Z",
 	"summary": "Malicious code in test-package101 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"4.3.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-07423",
+				"import_time": "2024-10-24T00:58:25.958299228Z",
+				"modified_time": "2024-10-16T13:22:56Z",
+				"sha256": "7c4aa9e4b95c8ca5a93d2c49088b3983b70bd2dfb22cebed36e0798e1064bc89",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1788",
-	"modified": "2024-06-25T12:28:54Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:28:54Z",
 	"summary": "Malicious code in avx-javascript-testing (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1000.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06186",
+				"import_time": "2024-10-24T00:57:33.439988277Z",
+				"modified_time": "2024-10-16T12:33:04Z",
+				"sha256": "db3528d7b883bde974f05f346077489e42a7d6840bb150d53ad815b1c8daa209",
+				"source": "reversing-labs"
 			}
 		]
 	}

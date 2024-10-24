@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2888",
-	"modified": "2024-06-25T12:56:25Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:56:25Z",
 	"summary": "Malicious code in powpeg-details (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"6.4.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-07131",
+				"import_time": "2024-10-24T00:58:14.834780494Z",
+				"modified_time": "2024-10-16T13:12:25Z",
+				"sha256": "efbaba8e673ef9ad3ca036a1d669ff871742a9e5ff756387f3ea7b6f53945260",
+				"source": "reversing-labs"
 			}
 		]
 	}

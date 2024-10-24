@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2055",
-	"modified": "2024-06-25T12:35:11Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:35:11Z",
 	"summary": "Malicious code in d11-foo (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06382",
+				"import_time": "2024-10-24T00:57:41.328317168Z",
+				"modified_time": "2024-10-16T12:42:38Z",
+				"sha256": "c12dfe5c6c7eb34479e1e58e0cdf9ace8c53fae341997610ddd79e12ae907802",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2500",
-	"modified": "2024-06-25T12:46:13Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:46:13Z",
 	"summary": "Malicious code in icomm-mobile (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06716",
+				"import_time": "2024-10-24T00:57:57.096743191Z",
+				"modified_time": "2024-10-16T12:57:40Z",
+				"sha256": "3970e183ee724e57c90143c6d6e0a2babc3f7ce263a7373485aca67e13d3998e",
+				"source": "reversing-labs"
 			}
 		]
 	}

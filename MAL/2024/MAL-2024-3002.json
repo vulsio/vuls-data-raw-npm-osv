@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3002",
-	"modified": "2024-06-28T03:14:40.207914Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:00:28Z",
 	"aliases": [
 		"SNYK-JS-SEQUELIZEORM-6044694"
@@ -53,6 +53,13 @@
 				"versions": [
 					"6.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-07286",
+				"import_time": "2024-10-24T00:58:20.156900703Z",
+				"modified_time": "2024-10-16T13:18:28Z",
+				"sha256": "83d3d4e5127ab95b8184bfda5c0b762b9c1375bc4fc7a9a17ddba2dfba301c17",
+				"source": "reversing-labs"
 			}
 		]
 	}

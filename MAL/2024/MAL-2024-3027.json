@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3027",
-	"modified": "2024-06-25T13:01:04Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:01:04Z",
 	"summary": "Malicious code in sn-canvas-common (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -50,6 +50,13 @@
 					"23.0.16",
 					"23.1.17"
 				]
+			},
+			{
+				"id": "RLUA-2024-07316",
+				"import_time": "2024-10-24T00:58:21.299371242Z",
+				"modified_time": "2024-10-16T13:19:28Z",
+				"sha256": "17212234d5ac407c8d3a9246d7f55824017eb50e14e9c189de35e92ff870e422",
+				"source": "reversing-labs"
 			}
 		]
 	}

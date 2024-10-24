@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2646",
-	"modified": "2024-06-25T12:49:52Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:49:52Z",
 	"summary": "Malicious code in malicious-pkg-demo (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -54,6 +54,13 @@
 					"1.0.6",
 					"1.0.3"
 				]
+			},
+			{
+				"id": "RLUA-2024-06872",
+				"import_time": "2024-10-24T00:58:04.023634584Z",
+				"modified_time": "2024-10-16T13:03:05Z",
+				"sha256": "162c6dc3cf93d13db74f64b2956650984b1f6216941a65306e8b868e82e8e3b7",
+				"source": "reversing-labs"
 			}
 		]
 	}

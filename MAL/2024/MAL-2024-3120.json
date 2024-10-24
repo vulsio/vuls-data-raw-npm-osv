@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3120",
-	"modified": "2024-06-25T13:03:58Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:03:58Z",
 	"summary": "Malicious code in theme-transpiler (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07444",
+				"import_time": "2024-10-24T00:58:26.799257238Z",
+				"modified_time": "2024-10-16T13:23:33Z",
+				"sha256": "a9764b2d5211956864f2f47f9f440d7df0a4780d8f123206892527505a3739f0",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1728",
-	"modified": "2024-06-25T12:24:57Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:24:57Z",
 	"summary": "Malicious code in adal-mac (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"9.9.7"
 				]
+			},
+			{
+				"id": "RLUA-2024-06112",
+				"import_time": "2024-10-24T00:57:29.868811398Z",
+				"modified_time": "2024-10-16T12:28:11Z",
+				"sha256": "7c8445072c6218937c8531937ec3bdd4392f016a19a937fbbb9db000238814c0",
+				"source": "reversing-labs"
 			}
 		]
 	}

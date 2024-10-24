@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2002",
-	"modified": "2024-07-01T04:00:00Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:18:53Z",
 	"summary": "Malicious code in @bitkub-moonshot/common (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,23 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLMA-2024-00029",
+				"import_time": "2024-10-24T00:49:13.5629041Z",
+				"modified_time": "2024-06-25T12:18:53Z",
+				"sha256": "506276266af2d5a4fabbf91fef223cf9c3ba3f2e2b3c2ea01937d4a768a348f6",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.0"
+				]
+			},
+			{
+				"id": "RLUA-2024-05879",
+				"import_time": "2024-10-24T00:57:15.553324265Z",
+				"modified_time": "2024-10-16T12:20:56Z",
+				"sha256": "7d96b7e92ea6306d06e11d336851eb970f59e0fccdb1ec8f9f7eda05a6c41521",
+				"source": "reversing-labs"
 			}
 		]
 	}

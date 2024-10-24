@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2952",
-	"modified": "2024-06-25T12:58:23Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T12:58:23Z",
 	"summary": "Malicious code in register-uitspraken (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"0.132.5"
 				]
+			},
+			{
+				"id": "RLUA-2024-07197",
+				"import_time": "2024-10-24T00:58:17.333183881Z",
+				"modified_time": "2024-10-16T13:15:05Z",
+				"sha256": "7fbd3148f134a7e6a82c0ac4ee949f96bef27b64afa347d6e0f653c0ac63d576",
+				"source": "reversing-labs"
 			}
 		]
 	}

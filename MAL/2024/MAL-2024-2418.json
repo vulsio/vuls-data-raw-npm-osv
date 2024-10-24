@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2418",
-	"modified": "2024-06-25T12:44:10Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:44:10Z",
 	"summary": "Malicious code in gew7-client-framework (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"9.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06632",
+				"import_time": "2024-10-24T00:57:52.926664724Z",
+				"modified_time": "2024-10-16T12:54:35Z",
+				"sha256": "9916b41cfca03843b724ca79e698fac4fd69bbcfd9662e63e7403db16813607e",
+				"source": "reversing-labs"
 			}
 		]
 	}

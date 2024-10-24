@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2456",
-	"modified": "2024-06-25T12:45:15Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:45:15Z",
 	"summary": "Malicious code in hearsay-design-system (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -44,6 +44,13 @@
 					"1.1.0",
 					"1.2.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06680",
+				"import_time": "2024-10-24T00:57:55.514097556Z",
+				"modified_time": "2024-10-16T12:56:10Z",
+				"sha256": "2087b320536c2859ad0cc85e5608995ad369dfb1c2527801afd7269f139e5bbf",
+				"source": "reversing-labs"
 			}
 		]
 	}

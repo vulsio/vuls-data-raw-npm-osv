@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2896",
-	"modified": "2024-06-25T12:56:34Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:56:34Z",
 	"summary": "Malicious code in primeng-iow (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07138",
+				"import_time": "2024-10-24T00:58:15.046527327Z",
+				"modified_time": "2024-10-16T13:12:37Z",
+				"sha256": "6ef18294319ac6b491c07229afe16b80cf5c3c166f9ebc0363647ca1eef92b1b",
+				"source": "reversing-labs"
 			}
 		]
 	}

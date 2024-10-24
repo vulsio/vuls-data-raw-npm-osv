@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1776",
-	"modified": "2024-06-25T12:28:28Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:28:28Z",
 	"summary": "Malicious code in asc-deps (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"0.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06162",
+				"import_time": "2024-10-24T00:57:32.524287093Z",
+				"modified_time": "2024-10-16T12:32:21Z",
+				"sha256": "d352c2ddbecfd1e384c220e062f23d4efb092a5b2170895717a22a90dbd2c518",
+				"source": "reversing-labs"
 			}
 		]
 	}

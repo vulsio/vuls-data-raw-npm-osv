@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2067",
-	"modified": "2024-06-25T12:35:23Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:35:23Z",
 	"summary": "Malicious code in decode-2021-fe (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"0.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-06389",
+				"import_time": "2024-10-24T00:57:41.734347338Z",
+				"modified_time": "2024-10-16T12:42:54Z",
+				"sha256": "6660ecedd76d1bc137b8623220ac5df7dca37e806864ba17f6c425a754df4b18",
+				"source": "reversing-labs"
 			}
 		]
 	}

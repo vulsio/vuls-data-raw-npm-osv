@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1717",
-	"modified": "2024-06-25T12:24:41Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:24:41Z",
 	"summary": "Malicious code in abundance-token (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06105",
+				"import_time": "2024-10-24T00:57:29.206920105Z",
+				"modified_time": "2024-10-16T12:27:56Z",
+				"sha256": "541c768c98d83ef08330d353f912ce24cdfcf1e38b168519d2073cd688c32af6",
+				"source": "reversing-labs"
 			}
 		]
 	}

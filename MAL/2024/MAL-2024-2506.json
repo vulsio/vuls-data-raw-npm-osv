@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2506",
-	"modified": "2024-06-25T12:46:31Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:46:31Z",
 	"summary": "Malicious code in importlib-metadata (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06728",
+				"import_time": "2024-10-24T00:57:57.419820128Z",
+				"modified_time": "2024-10-16T12:58:05Z",
+				"sha256": "4420bfda836bd0e620a16387d5e069229bf7ea25dbd05f18e50fc1b7400c364e",
+				"source": "reversing-labs"
 			}
 		]
 	}

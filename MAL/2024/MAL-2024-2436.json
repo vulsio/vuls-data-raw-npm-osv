@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2436",
-	"modified": "2024-06-25T12:44:42Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:44:42Z",
 	"summary": "Malicious code in grammarly-desktop (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"10.5.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06655",
+				"import_time": "2024-10-24T00:57:54.28287357Z",
+				"modified_time": "2024-10-16T12:55:18Z",
+				"sha256": "dbd2b07ebe7ac4a18e895ff090fd96a0497f9d898135d5a47efd5bc763124949",
+				"source": "reversing-labs"
 			}
 		]
 	}

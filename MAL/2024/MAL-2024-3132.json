@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3132",
-	"modified": "2024-06-25T13:04:12Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:04:12Z",
 	"summary": "Malicious code in tofu-widgets (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -44,6 +44,13 @@
 					"11.9.9",
 					"10.9.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-07459",
+				"import_time": "2024-10-24T00:58:27.501365097Z",
+				"modified_time": "2024-10-16T13:23:57Z",
+				"sha256": "4617ee9d7ebf9cbbc79146ef3ada48f319619b36461ea22788c9c6a91dcab41b",
+				"source": "reversing-labs"
 			}
 		]
 	}

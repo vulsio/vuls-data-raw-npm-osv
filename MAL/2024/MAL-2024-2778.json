@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2778",
-	"modified": "2024-06-25T12:53:36Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:53:36Z",
 	"summary": "Malicious code in nxtport (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"0.0.2",
 					"0.0.3"
 				]
+			},
+			{
+				"id": "RLUA-2024-07003",
+				"import_time": "2024-10-24T00:58:08.652785994Z",
+				"modified_time": "2024-10-16T13:08:34Z",
+				"sha256": "684f42eac4fbfde2670eeb473d42500290a11ee0d92a1c9c222a9b189bb87011",
+				"source": "reversing-labs"
 			}
 		]
 	}

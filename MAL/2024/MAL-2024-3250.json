@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3250",
-	"modified": "2024-06-25T13:06:52Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:06:52Z",
 	"summary": "Malicious code in u-workflow.module.common.fraud-protection (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07490",
+				"import_time": "2024-10-24T00:58:28.999026075Z",
+				"modified_time": "2024-10-16T13:27:04Z",
+				"sha256": "1f9aa50a166e3d7a23f73111a6be95edf165935252b0c3dc9476fcca2f9158c1",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2018",
-	"modified": "2024-06-25T12:34:20Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:34:20Z",
 	"summary": "Malicious code in consent-page (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06349",
+				"import_time": "2024-10-24T00:57:39.899577387Z",
+				"modified_time": "2024-10-16T12:41:19Z",
+				"sha256": "96f949fb2e126e4c70221cd0546abecdd78fee2ca355f0664853c8165de02361",
+				"source": "reversing-labs"
 			}
 		]
 	}

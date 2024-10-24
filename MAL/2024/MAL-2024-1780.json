@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1780",
-	"modified": "2024-06-28T02:53:15Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:19:21Z",
 	"summary": "Malicious code in atlas-ng (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"9999.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06171",
+				"import_time": "2024-10-24T00:57:32.774435893Z",
+				"modified_time": "2024-10-16T12:32:36Z",
+				"sha256": "2fa052abcd53414dd5158c3e326dc8dc8eba2fb0492fdaf0deb4c6b9e5510f8f",
+				"source": "reversing-labs"
 			}
 		]
 	}

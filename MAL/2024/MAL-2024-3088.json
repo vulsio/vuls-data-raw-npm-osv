@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3088",
-	"modified": "2024-06-25T13:03:04Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:03:04Z",
 	"summary": "Malicious code in techghoshal144 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -48,6 +48,13 @@
 					"1.2.0",
 					"1.4.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07404",
+				"import_time": "2024-10-24T00:58:24.481622224Z",
+				"modified_time": "2024-10-16T13:22:25Z",
+				"sha256": "e02b55f68bbbb9ae6c12fd9fc48b6a0e2de3d359c0a7a601fc44d9a099e2a247",
+				"source": "reversing-labs"
 			}
 		]
 	}

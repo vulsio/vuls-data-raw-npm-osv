@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2798",
-	"modified": "2024-06-25T12:54:11Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:54:11Z",
 	"summary": "Malicious code in ontology-starter-react-app (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"7.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07016",
+				"import_time": "2024-10-24T00:58:09.740098387Z",
+				"modified_time": "2024-10-16T13:09:06Z",
+				"sha256": "d3e11a9e8243d7719fd6b00dbd805c18af79c5d7f32a68e1236dc5db790904a6",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1974",
-	"modified": "2024-06-25T12:33:03Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:33:03Z",
 	"summary": "Malicious code in chart_type_multi_monitor (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06290",
+				"import_time": "2024-10-24T00:57:38.508857963Z",
+				"modified_time": "2024-10-16T12:39:32Z",
+				"sha256": "97d13ca26a7f0c5a4eb3d31e57ba04fa0024374a889359b0e3016abee37d6311",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2441",
-	"modified": "2024-06-25T12:44:50Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:44:50Z",
 	"summary": "Malicious code in grunt-frontend-packager (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"9.9.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-06662",
+				"import_time": "2024-10-24T00:57:54.666642248Z",
+				"modified_time": "2024-10-16T12:55:32Z",
+				"sha256": "f91b30093de1c0dd9be3ea9b8d24d77431e631dfd0a2a7941e639121a291d897",
+				"source": "reversing-labs"
 			}
 		]
 	}

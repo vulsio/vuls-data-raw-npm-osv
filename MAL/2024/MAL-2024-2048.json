@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2048",
-	"modified": "2024-06-25T12:35:04Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:35:04Z",
 	"summary": "Malicious code in custom-proxy (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06376",
+				"import_time": "2024-10-24T00:57:40.896371945Z",
+				"modified_time": "2024-10-16T12:42:32Z",
+				"sha256": "0547f05fd8d68be2663767a394b8eebc537f77c2b29d8e7a6c609a0642b64e49",
+				"source": "reversing-labs"
 			}
 		]
 	}

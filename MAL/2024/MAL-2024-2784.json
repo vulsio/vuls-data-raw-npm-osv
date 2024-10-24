@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2784",
-	"modified": "2024-06-25T12:53:50Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:53:50Z",
 	"summary": "Malicious code in odyssey-stylelint (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"9.9.5"
 				]
+			},
+			{
+				"id": "RLUA-2024-07008",
+				"import_time": "2024-10-24T00:58:09.275365178Z",
+				"modified_time": "2024-10-16T13:08:41Z",
+				"sha256": "b8dd47c50389412f80237b56dd0519093ad636323789547751d5d59d8080745d",
+				"source": "reversing-labs"
 			}
 		]
 	}

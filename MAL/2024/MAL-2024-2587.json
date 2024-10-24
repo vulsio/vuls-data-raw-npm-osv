@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2587",
-	"modified": "2024-06-25T12:48:36Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:48:36Z",
 	"summary": "Malicious code in kwai-pymk (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06807",
+				"import_time": "2024-10-24T00:58:00.848890309Z",
+				"modified_time": "2024-10-16T13:01:02Z",
+				"sha256": "57a914de43ba3c3908fd1bc5a7e9c13a5bda041bcfc13e1bb52ae732d9c75833",
+				"source": "reversing-labs"
 			}
 		]
 	}

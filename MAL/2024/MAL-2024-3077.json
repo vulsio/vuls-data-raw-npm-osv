@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3077",
-	"modified": "2024-06-28T03:14:41.415661Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:02:42Z",
 	"aliases": [
 		"SNYK-JS-SYSTEMROBOTASSISTANT-5920706"
@@ -53,6 +53,13 @@
 				"versions": [
 					"3.0.8"
 				]
+			},
+			{
+				"id": "RLUA-2024-07395",
+				"import_time": "2024-10-24T00:58:23.945607947Z",
+				"modified_time": "2024-10-16T13:22:03Z",
+				"sha256": "44b63372b10cfd7f79c7373922a610f81b914180df847b5b99889d1273af75a3",
+				"source": "reversing-labs"
 			}
 		]
 	}

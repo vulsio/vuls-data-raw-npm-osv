@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-8069",
-	"modified": "2024-08-30T00:44:24.239584Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-08-29T07:38:20Z",
 	"aliases": [
 		"GHSA-p9j5-m936-xpj2"
@@ -25,6 +25,9 @@
 					]
 				}
 			],
+			"versions": [
+				"2.999.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +44,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-p9j5-m936-xpj2"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +73,16 @@
 				],
 				"sha256": "431afa7ee4d10247cf7f7edd1418175dba46fbeec39ae38364f91a497432891d",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-06160",
+				"import_time": "2024-10-24T00:56:11.177359626Z",
+				"modified_time": "2024-10-16T12:32:19Z",
+				"sha256": "31de9f34f5abe9248731f66f5ce72172d5f06cbc0e302a9cd6c06fb504eb6816",
+				"source": "reversing-labs",
+				"versions": [
+					"2.999.0"
+				]
 			}
 		]
 	}

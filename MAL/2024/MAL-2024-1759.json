@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1759",
-	"modified": "2024-06-25T12:27:59Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:27:59Z",
 	"summary": "Malicious code in anyone-deps (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06142",
+				"import_time": "2024-10-24T00:57:31.522562238Z",
+				"modified_time": "2024-10-16T12:31:47Z",
+				"sha256": "2cbbec9c920a1667c07d59393858ee3c9ee032e7b7f4422dee390b2f66586629",
+				"source": "reversing-labs"
 			}
 		]
 	}

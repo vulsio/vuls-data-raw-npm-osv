@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2279",
-	"modified": "2024-06-25T12:40:54Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:40:54Z",
 	"summary": "Malicious code in eckoplugin (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"4.7.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06471",
+				"import_time": "2024-10-24T00:57:45.705589174Z",
+				"modified_time": "2024-10-16T12:49:24Z",
+				"sha256": "b46f78389d3baa6736fe7fd2b908718d49f398cc5647ce669ae08d668ecb6d8a",
+				"source": "reversing-labs"
 			}
 		]
 	}

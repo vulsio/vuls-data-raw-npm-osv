@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2595",
-	"modified": "2024-06-25T12:48:48Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:48:48Z",
 	"summary": "Malicious code in launchdarkly-cpp-internal (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"9.9.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-06816",
+				"import_time": "2024-10-24T00:58:01.357619052Z",
+				"modified_time": "2024-10-16T13:01:17Z",
+				"sha256": "04de0d9362e1c2fb237453f1b9b4ea79064095c579817676eb24137dcffa5d30",
+				"source": "reversing-labs"
 			}
 		]
 	}

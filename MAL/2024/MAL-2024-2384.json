@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2384",
-	"modified": "2024-06-25T12:43:20Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:43:20Z",
 	"summary": "Malicious code in flux_dev_tools (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"0.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06599",
+				"import_time": "2024-10-24T00:57:51.465058757Z",
+				"modified_time": "2024-10-16T12:53:22Z",
+				"sha256": "08e1e854d6bf2b2c6040703c70bc3cacdc0243275f7995dc470caa724a747117",
+				"source": "reversing-labs"
 			}
 		]
 	}

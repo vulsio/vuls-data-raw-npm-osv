@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3807",
-	"modified": "2024-06-25T13:18:37Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:18:37Z",
 	"summary": "Malicious code in useridentity (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"9.4.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-07516",
+				"import_time": "2024-10-24T00:58:30.631890002Z",
+				"modified_time": "2024-10-16T13:41:09Z",
+				"sha256": "7887cfd1809327cd0bc3284eb3c161b1292f1416fa3a0ce595d0b5c07df27ec5",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2626",
-	"modified": "2024-06-25T12:49:20Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:49:20Z",
 	"summary": "Malicious code in living-on-the-edge (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"5.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-06851",
+				"import_time": "2024-10-24T00:58:03.109240262Z",
+				"modified_time": "2024-10-16T13:02:17Z",
+				"sha256": "e156761285ca068361bab38c0724c4e48b17be9e301c08cac1c323332a1a20b7",
+				"source": "reversing-labs"
 			}
 		]
 	}

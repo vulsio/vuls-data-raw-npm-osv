@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2689",
-	"modified": "2024-06-25T12:51:13Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:51:13Z",
 	"summary": "Malicious code in namebench (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06939",
+				"import_time": "2024-10-24T00:58:06.37544702Z",
+				"modified_time": "2024-10-16T13:05:12Z",
+				"sha256": "300cca1c965b5cff3bdfaca636073de8111866905bc3cced691403c9eedde893",
+				"source": "reversing-labs"
 			}
 		]
 	}

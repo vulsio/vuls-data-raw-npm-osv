@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2037",
-	"modified": "2024-06-25T12:34:49Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:34:49Z",
 	"summary": "Malicious code in cuenta-ahorro (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06373",
+				"import_time": "2024-10-24T00:57:40.689809359Z",
+				"modified_time": "2024-10-16T12:42:09Z",
+				"sha256": "75c5b92066b75c80634e19b164d340cbd217e3bffdf31d118b4bf80fc5d53cb1",
+				"source": "reversing-labs"
 			}
 		]
 	}

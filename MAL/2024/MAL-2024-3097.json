@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3097",
-	"modified": "2024-06-25T13:03:21Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:03:21Z",
 	"summary": "Malicious code in tenant.web (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-07412",
+				"import_time": "2024-10-24T00:58:24.99427566Z",
+				"modified_time": "2024-10-16T13:22:40Z",
+				"sha256": "ae5f3f0dc7b1d7fe2e35a25c2b21d3d89b55f26dbdd61e0a332ae01046c642ba",
+				"source": "reversing-labs"
 			}
 		]
 	}

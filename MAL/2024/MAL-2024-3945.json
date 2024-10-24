@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3945",
-	"modified": "2024-06-25T12:19:45Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:19:45Z",
 	"summary": "Malicious code in @expue/webpack (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,23 @@
 				"versions": [
 					"0.0.3-alpha.0"
 				]
+			},
+			{
+				"id": "RLMA-2024-00071",
+				"import_time": "2024-10-24T00:49:16.685531234Z",
+				"modified_time": "2024-06-25T12:19:45Z",
+				"sha256": "f57ec482bc2b68a6106a54bde826fae69774ea61d65c37c178cee65c17add258",
+				"source": "reversing-labs",
+				"versions": [
+					"0.0.3-alpha.0"
+				]
+			},
+			{
+				"id": "RLUA-2024-05921",
+				"import_time": "2024-10-24T00:57:18.181917428Z",
+				"modified_time": "2024-10-16T12:22:05Z",
+				"sha256": "f9c8c0a1c60eba82448380723107ae3aa0af351a4a6d72df20d28b95483cb77f",
+				"source": "reversing-labs"
 			}
 		]
 	}

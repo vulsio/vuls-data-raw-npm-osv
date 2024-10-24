@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3089",
-	"modified": "2024-06-25T13:03:04Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:03:04Z",
 	"summary": "Malicious code in techtrans (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07405",
+				"import_time": "2024-10-24T00:58:24.539874721Z",
+				"modified_time": "2024-10-16T13:22:26Z",
+				"sha256": "022f42a8928380e6dcf28c8d25b4982e92b3eb672cffe34950ac7b91d23991d3",
+				"source": "reversing-labs"
 			}
 		]
 	}

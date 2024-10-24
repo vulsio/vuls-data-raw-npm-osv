@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2077",
-	"modified": "2024-06-25T12:35:36Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:35:36Z",
 	"summary": "Malicious code in dependabot-updater-action (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"2.99.99"
 				]
+			},
+			{
+				"id": "RLUA-2024-06398",
+				"import_time": "2024-10-24T00:57:42.122001996Z",
+				"modified_time": "2024-10-16T12:43:20Z",
+				"sha256": "ebf5297ccb567a7ac55cde1cb9e06a4fd765469b365694861538b73affb76ba4",
+				"source": "reversing-labs"
 			}
 		]
 	}

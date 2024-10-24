@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3974",
-	"modified": "2024-06-28T03:14:44.263378Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:22:34Z",
 	"aliases": [
 		"SNYK-JS-YDOT-3336130"
@@ -61,6 +61,13 @@
 					"1.8.8",
 					"1.8.17"
 				]
+			},
+			{
+				"id": "RLUA-2024-07605",
+				"import_time": "2024-10-24T00:58:34.326853839Z",
+				"modified_time": "2024-10-16T13:46:35Z",
+				"sha256": "6c79549a6db0ba8721d0986d30f7913d33137d9ebb69ccb704e875babdbb2143",
+				"source": "reversing-labs"
 			}
 		]
 	}

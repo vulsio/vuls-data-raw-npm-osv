@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1732",
-	"modified": "2024-06-25T12:25:03Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:25:03Z",
 	"summary": "Malicious code in addin-fuel-transaction-import (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"3.1.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06115",
+				"import_time": "2024-10-24T00:57:30.031198159Z",
+				"modified_time": "2024-10-16T12:28:18Z",
+				"sha256": "48cf234afe8120f6a7865688d57df86a7b8269d132044fa8da5aaf72cf16fd0e",
+				"source": "reversing-labs"
 			}
 		]
 	}

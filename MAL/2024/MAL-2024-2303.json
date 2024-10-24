@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2303",
-	"modified": "2024-06-25T12:41:26Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:41:26Z",
 	"summary": "Malicious code in epc-menu-header-poc (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"66.6.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06498",
+				"import_time": "2024-10-24T00:57:46.996954391Z",
+				"modified_time": "2024-10-16T12:50:21Z",
+				"sha256": "f4128611397929396734aa5089650525495dc6fa47145743b0dfe761a78d1337",
+				"source": "reversing-labs"
 			}
 		]
 	}

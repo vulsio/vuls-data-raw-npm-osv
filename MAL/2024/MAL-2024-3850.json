@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3850",
-	"modified": "2024-06-25T13:19:40Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:19:40Z",
 	"summary": "Malicious code in w_session_legacy_membership_preferences (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"8.0.0",
 					"7.1.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-07557",
+				"import_time": "2024-10-24T00:58:32.173506051Z",
+				"modified_time": "2024-10-16T13:42:49Z",
+				"sha256": "17c7dcee7dc533753a31e551249a6b2ffd3965b04be05e7d4f6f091c20b3beb7",
+				"source": "reversing-labs"
 			}
 		]
 	}

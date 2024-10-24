@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2457",
-	"modified": "2024-06-25T12:45:16Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:45:16Z",
 	"summary": "Malicious code in heliotrope (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 					"99.9.9",
 					"9.9.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-06682",
+				"import_time": "2024-10-24T00:57:55.567170883Z",
+				"modified_time": "2024-10-16T12:56:17Z",
+				"sha256": "22fa202e9a00d2da8a29e3cef384650d91930efccb86bcdc9656e10b951f480e",
+				"source": "reversing-labs"
 			}
 		]
 	}

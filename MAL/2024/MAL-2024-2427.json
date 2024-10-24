@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2427",
-	"modified": "2024-06-25T12:44:31Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:44:31Z",
 	"summary": "Malicious code in googlechecktcp12 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"17.2.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-06644",
+				"import_time": "2024-10-24T00:57:53.592095673Z",
+				"modified_time": "2024-10-16T12:55:02Z",
+				"sha256": "c529c7fd08dd2134ba839af14f1edc47695a70477386dfffd661a49f7bc9348d",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1835",
-	"modified": "2024-06-28T03:14:31.923285Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:30:06Z",
 	"aliases": [
 		"SNYK-JS-BOUNCYCASTLE-5666404"
@@ -49,6 +49,13 @@
 				"versions": [
 					"2.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06236",
+				"import_time": "2024-10-24T00:57:35.72700617Z",
+				"modified_time": "2024-10-16T12:35:37Z",
+				"sha256": "1679999ba46f515ad2ae2d562eaf548a91deefaa8a9fcb3c13356826f2d275d7",
+				"source": "reversing-labs"
 			}
 		]
 	}

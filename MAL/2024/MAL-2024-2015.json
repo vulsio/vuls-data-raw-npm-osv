@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2015",
-	"modified": "2024-06-28T03:27:23.090650Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:34:12Z",
 	"aliases": [
 		"SNYK-JS-CONFIGSTORAGES-6146031"
@@ -53,6 +53,13 @@
 				"versions": [
 					"3.41.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-06344",
+				"import_time": "2024-10-24T00:57:39.804945493Z",
+				"modified_time": "2024-10-16T12:41:09Z",
+				"sha256": "8b922ea4efbac55a9c2a87d337f322db1c54e883ee459ccc714abbb320df20ef",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3977",
-	"modified": "2024-06-25T13:22:36Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:22:36Z",
 	"summary": "Malicious code in yashprv (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07609",
+				"import_time": "2024-10-24T00:58:34.462507309Z",
+				"modified_time": "2024-10-16T13:46:40Z",
+				"sha256": "32a180cef7ca92685e3855bb40b983ed7d80b91249599c354195111a0e81be93",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2290",
-	"modified": "2024-06-25T12:41:09Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:41:09Z",
 	"summary": "Malicious code in electron-meeting-sdk-test (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"1.0.4",
 					"1.0.3"
 				]
+			},
+			{
+				"id": "RLUA-2024-06481",
+				"import_time": "2024-10-24T00:57:46.182191643Z",
+				"modified_time": "2024-10-16T12:49:50Z",
+				"sha256": "8da02064f62b145a95cbb7f2160c1128f41fad4b311127759c93f9284ff4deac",
+				"source": "reversing-labs"
 			}
 		]
 	}

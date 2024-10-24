@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2624",
-	"modified": "2024-06-25T12:49:19Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:49:19Z",
 	"summary": "Malicious code in livebos-bridge (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"11.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06849",
+				"import_time": "2024-10-24T00:58:03.000098123Z",
+				"modified_time": "2024-10-16T13:02:10Z",
+				"sha256": "685b7a6dfa345bb40c6c88a7ffea7629d7e850bb2876e7026944ca6ab70f5bdc",
+				"source": "reversing-labs"
 			}
 		]
 	}

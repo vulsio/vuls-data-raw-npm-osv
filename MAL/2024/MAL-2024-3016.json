@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3016",
-	"modified": "2024-06-25T13:00:49Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:00:49Z",
 	"summary": "Malicious code in sift-web-sdk (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"100.0.0",
 					"101.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07300",
+				"import_time": "2024-10-24T00:58:20.622912355Z",
+				"modified_time": "2024-10-16T13:19:03Z",
+				"sha256": "551ab00742c4f41d3e867cc56ab3c5021eaa547a71606f11178a543877de078a",
+				"source": "reversing-labs"
 			}
 		]
 	}

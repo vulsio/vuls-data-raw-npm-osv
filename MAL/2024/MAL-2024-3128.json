@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3128",
-	"modified": "2024-06-25T13:04:09Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:04:09Z",
 	"summary": "Malicious code in tilled-exanples (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07454",
+				"import_time": "2024-10-24T00:58:27.320936716Z",
+				"modified_time": "2024-10-16T13:23:50Z",
+				"sha256": "f8085730b491956d3ff5e1e71d59c50955bec45303e8c2e99f9f9ba9e02e6340",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2869",
-	"modified": "2024-06-28T03:14:38.158599Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:55:56Z",
 	"aliases": [
 		"SNYK-JS-PIERCINGLIBRARY-3336069"
@@ -49,6 +49,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07092",
+				"import_time": "2024-10-24T00:58:13.731891941Z",
+				"modified_time": "2024-10-16T13:11:23Z",
+				"sha256": "ed7247b6e289e56b6ecd045403d0feb7f1a2547e714f04be2e1d2fa87b280697",
+				"source": "reversing-labs"
 			}
 		]
 	}

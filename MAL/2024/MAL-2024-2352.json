@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2352",
-	"modified": "2024-06-25T12:42:24Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:42:24Z",
 	"summary": "Malicious code in ext-dom (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06549",
+				"import_time": "2024-10-24T00:57:49.314103934Z",
+				"modified_time": "2024-10-16T12:51:55Z",
+				"sha256": "dfc43885de1560d789fea55cc07f45f6ac8318953d46ad7c3aea5d5d40a9b426",
+				"source": "reversing-labs"
 			}
 		]
 	}

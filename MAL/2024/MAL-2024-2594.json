@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2594",
-	"modified": "2024-06-25T12:48:42Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:48:42Z",
 	"summary": "Malicious code in lastlasttrialllll (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"10.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06814",
+				"import_time": "2024-10-24T00:58:01.305585026Z",
+				"modified_time": "2024-10-16T13:01:10Z",
+				"sha256": "f2b351c9689896bd06431bdc265b33708deaed8cad459d802228a65e42152f40",
+				"source": "reversing-labs"
 			}
 		]
 	}

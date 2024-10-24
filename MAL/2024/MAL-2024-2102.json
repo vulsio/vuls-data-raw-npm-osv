@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2102",
-	"modified": "2024-06-25T12:36:36Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:36:36Z",
 	"summary": "Malicious code in discord.js-seflbot-v13 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -44,6 +44,13 @@
 					"1.1.0",
 					"1.1.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06427",
+				"import_time": "2024-10-24T00:57:43.730078936Z",
+				"modified_time": "2024-10-16T12:44:17Z",
+				"sha256": "b66fd9a89bfd5c64acc4d9f7408364c5dd189f538d8af4f3ce5127dc120effdc",
+				"source": "reversing-labs"
 			}
 		]
 	}

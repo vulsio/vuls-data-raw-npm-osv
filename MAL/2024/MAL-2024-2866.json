@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2866",
-	"modified": "2024-06-25T12:55:54Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:55:54Z",
 	"summary": "Malicious code in pichincha (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.32"
 				]
+			},
+			{
+				"id": "RLUA-2024-07089",
+				"import_time": "2024-10-24T00:58:13.529962039Z",
+				"modified_time": "2024-10-16T13:11:21Z",
+				"sha256": "ffeb4825942d651292aeec5395ab7d9bdcf4bd3f0395baa6c03a52db594e998a",
+				"source": "reversing-labs"
 			}
 		]
 	}

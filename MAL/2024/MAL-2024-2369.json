@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2369",
-	"modified": "2024-06-25T12:42:58Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:42:58Z",
 	"summary": "Malicious code in financialforce (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -13,7 +13,8 @@
 				"purl": "pkg:npm/financialforce"
 			},
 			"versions": [
-				"3.0.0"
+				"3.0.0",
+				"10.99.0"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/financialforce/MAL-2024-2369.json"
@@ -39,6 +40,16 @@
 				"source": "reversing-labs",
 				"versions": [
 					"3.0.0"
+				]
+			},
+			{
+				"id": "RLUA-2024-06583",
+				"import_time": "2024-10-24T00:57:50.471189644Z",
+				"modified_time": "2024-10-16T12:52:52Z",
+				"sha256": "9378f5f4a660f1afec45355ca34ef810918f9f96fdab95a4a6785159999199a8",
+				"source": "reversing-labs",
+				"versions": [
+					"10.99.0"
 				]
 			}
 		]

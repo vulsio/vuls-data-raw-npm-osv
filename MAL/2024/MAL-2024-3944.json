@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3944",
-	"modified": "2024-06-25T13:21:40Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:21:40Z",
 	"summary": "Malicious code in webauthn-sdzdzte-poc (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"99.99.99"
 				]
+			},
+			{
+				"id": "RLUA-2024-07569",
+				"import_time": "2024-10-24T00:58:32.970399165Z",
+				"modified_time": "2024-10-16T13:45:12Z",
+				"sha256": "dad56202547af0f9754cea8fe9b8db24b8805dcdf6a630bb901330354ca17608",
+				"source": "reversing-labs"
 			}
 		]
 	}

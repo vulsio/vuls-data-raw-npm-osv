@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2645",
-	"modified": "2024-06-25T12:49:50Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:49:50Z",
 	"summary": "Malicious code in macnative (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 					"99.9.9",
 					"9.9.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-06871",
+				"import_time": "2024-10-24T00:58:03.975689288Z",
+				"modified_time": "2024-10-16T13:03:04Z",
+				"sha256": "c7048c22d9530744aa3d00fc0efd85852608893c469735316fe3bb8fe5b1fd71",
+				"source": "reversing-labs"
 			}
 		]
 	}

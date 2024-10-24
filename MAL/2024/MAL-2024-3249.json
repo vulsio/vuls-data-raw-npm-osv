@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3249",
-	"modified": "2024-06-25T13:06:51Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:06:51Z",
 	"summary": "Malicious code in u-workflow.module.common.creative-size (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07489",
+				"import_time": "2024-10-24T00:58:28.950720674Z",
+				"modified_time": "2024-10-16T13:27:03Z",
+				"sha256": "f3f17d60e727db41819053ac26d7530ef2161651588b19c3b0e4a8ede983e963",
+				"source": "reversing-labs"
 			}
 		]
 	}

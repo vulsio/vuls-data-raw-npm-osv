@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2694",
-	"modified": "2024-06-25T12:51:25Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:51:25Z",
 	"summary": "Malicious code in neogov (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.1.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06949",
+				"import_time": "2024-10-24T00:58:06.712176036Z",
+				"modified_time": "2024-10-16T13:05:34Z",
+				"sha256": "3886d526f7b0b88f219203b56a96f21a07701810aa969aed52d385cbc67c6a1d",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1729",
-	"modified": "2024-06-25T12:24:58Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:24:58Z",
 	"summary": "Malicious code in adamandstore (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"2.2.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06113",
+				"import_time": "2024-10-24T00:57:29.923743098Z",
+				"modified_time": "2024-10-16T12:28:12Z",
+				"sha256": "c4feb18ba5df90c5b75c64340eda3984744b334bc86eb69394b678ae8b635a35",
+				"source": "reversing-labs"
 			}
 		]
 	}

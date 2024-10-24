@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2873",
-	"modified": "2024-06-25T12:56:06Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:56:06Z",
 	"summary": "Malicious code in platformdirs (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"3.10.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-07096",
+				"import_time": "2024-10-24T00:58:14.02585202Z",
+				"modified_time": "2024-10-16T13:11:34Z",
+				"sha256": "14c71b88fe12b890eb28495837535884f304ce8d9dd17febd61a197217948385",
+				"source": "reversing-labs"
 			}
 		]
 	}

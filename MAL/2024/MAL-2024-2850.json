@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2850",
-	"modified": "2024-06-25T12:55:25Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:55:25Z",
 	"summary": "Malicious code in paysecure (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"9.0.3"
 				]
+			},
+			{
+				"id": "RLUA-2024-07081",
+				"import_time": "2024-10-24T00:58:13.122910234Z",
+				"modified_time": "2024-10-16T13:10:51Z",
+				"sha256": "4bb688b29f317f892e7943e37b3d5fb185e79c3c0773253285ebd17ca8d6e5fa",
+				"source": "reversing-labs"
 			}
 		]
 	}

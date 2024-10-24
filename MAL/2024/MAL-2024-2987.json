@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2987",
-	"modified": "2024-06-25T13:00:06Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:00:06Z",
 	"summary": "Malicious code in scenepic (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07267",
+				"import_time": "2024-10-24T00:58:19.37378095Z",
+				"modified_time": "2024-10-16T13:17:53Z",
+				"sha256": "80d71d35d5057b6a967e70386fad040d6e8e1d23f8a5e00fc86ef65b5b856322",
+				"source": "reversing-labs"
 			}
 		]
 	}

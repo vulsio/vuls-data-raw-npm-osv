@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3257",
-	"modified": "2024-06-25T13:06:57Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:06:57Z",
 	"summary": "Malicious code in ui-footer (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07496",
+				"import_time": "2024-10-24T00:58:29.431284607Z",
+				"modified_time": "2024-10-16T13:27:14Z",
+				"sha256": "11d02316849068bbbe902489201ca8cb4f866c3da74080d62f4bc9f968142ae4",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2407",
-	"modified": "2024-06-25T12:43:55Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:43:55Z",
 	"summary": "Malicious code in gaaid (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06617",
+				"import_time": "2024-10-24T00:57:52.103226119Z",
+				"modified_time": "2024-10-16T12:54:08Z",
+				"sha256": "d74649a8b2def09b197ca817316117dae2eaf7c6c75a06214fda683f822f88b8",
+				"source": "reversing-labs"
 			}
 		]
 	}

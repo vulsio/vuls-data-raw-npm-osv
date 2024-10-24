@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2460",
-	"modified": "2024-06-25T12:45:21Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:45:21Z",
 	"summary": "Malicious code in hellodependency01 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06685",
+				"import_time": "2024-10-24T00:57:55.860956211Z",
+				"modified_time": "2024-10-16T12:56:21Z",
+				"sha256": "8cc389d4b1cee904bc742264d589acb81ff3646b3460cd19de7868eb06c69ef6",
+				"source": "reversing-labs"
 			}
 		]
 	}

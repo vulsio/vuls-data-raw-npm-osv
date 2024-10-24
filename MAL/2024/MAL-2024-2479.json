@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2479",
-	"modified": "2024-06-25T12:45:45Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:45:45Z",
 	"summary": "Malicious code in historic-rates-line-chart (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"2.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06696",
+				"import_time": "2024-10-24T00:57:56.466429805Z",
+				"modified_time": "2024-10-16T12:56:53Z",
+				"sha256": "eb5791e44475437f3ad2e85766580b7c8c9c277050d5bd6c6d841302bb90cc1f",
+				"source": "reversing-labs"
 			}
 		]
 	}

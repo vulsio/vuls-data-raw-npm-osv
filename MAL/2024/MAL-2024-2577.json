@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2577",
-	"modified": "2024-06-25T12:48:20Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:48:20Z",
 	"summary": "Malicious code in karma-console-reporter (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06790",
+				"import_time": "2024-10-24T00:58:00.250370205Z",
+				"modified_time": "2024-10-16T13:00:26Z",
+				"sha256": "7d45286c80b6fb55c9052995924ccf347d5433b7ca985556ad0e0f6cf15fb127",
+				"source": "reversing-labs"
 			}
 		]
 	}

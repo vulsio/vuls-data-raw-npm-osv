@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2032",
-	"modified": "2024-06-25T12:34:38Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:34:38Z",
 	"summary": "Malicious code in crowdfund-contract (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06367",
+				"import_time": "2024-10-24T00:57:40.494978696Z",
+				"modified_time": "2024-10-16T12:41:52Z",
+				"sha256": "47dd02ea21126565f611e86a5a5c5ac885d194ce20a05a7e3794185155b21d2f",
+				"source": "reversing-labs"
 			}
 		]
 	}

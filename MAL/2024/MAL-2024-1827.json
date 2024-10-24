@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1827",
-	"modified": "2024-06-25T12:29:52Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:29:52Z",
 	"summary": "Malicious code in bloggerprem (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06223",
+				"import_time": "2024-10-24T00:57:35.234509398Z",
+				"modified_time": "2024-10-16T12:35:18Z",
+				"sha256": "2cad28c647a83611f206cec38b9ae11fa0d0886f89b56df5d4f0ebc0d4adc7e0",
+				"source": "reversing-labs"
 			}
 		]
 	}

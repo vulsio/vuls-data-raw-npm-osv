@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2538",
-	"modified": "2024-06-25T12:47:25Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:47:25Z",
 	"summary": "Malicious code in j4-test (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"1.0.4",
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06759",
+				"import_time": "2024-10-24T00:57:58.708266529Z",
+				"modified_time": "2024-10-16T12:59:17Z",
+				"sha256": "fb1553f1813c7330441fdd81f676bf43397334ce461d4f2ba62ffe02c1524733",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1805",
-	"modified": "2024-06-25T12:29:21Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:29:21Z",
 	"summary": "Malicious code in backbone.picky (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06203",
+				"import_time": "2024-10-24T00:57:34.334159686Z",
+				"modified_time": "2024-10-16T12:34:36Z",
+				"sha256": "2a9caf9775b0f57c8416b790ee35e75124fa350d143f3076eb185f5dd2accf73",
+				"source": "reversing-labs"
 			}
 		]
 	}

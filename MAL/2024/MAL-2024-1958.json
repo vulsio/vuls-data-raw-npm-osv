@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1958",
-	"modified": "2024-06-25T12:32:39Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:32:39Z",
 	"summary": "Malicious code in cc-libraries-js (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06274",
+				"import_time": "2024-10-24T00:57:37.534495287Z",
+				"modified_time": "2024-10-16T12:39:02Z",
+				"sha256": "00a314ed8bd372e5ce86ac82bd535ca8839daa8334adc5a224744ceab770c8a4",
+				"source": "reversing-labs"
 			}
 		]
 	}

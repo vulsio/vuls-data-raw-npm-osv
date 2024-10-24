@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2267",
-	"modified": "2024-06-25T12:40:39Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:40:39Z",
 	"summary": "Malicious code in driver1-testingbluehk-01 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"0.0.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-06451",
+				"import_time": "2024-10-24T00:57:45.118012988Z",
+				"modified_time": "2024-10-16T12:48:50Z",
+				"sha256": "faf0e79faace898b91633e93a3d9896ea0a42dbf59b8ea8ccb45f34464a41128",
+				"source": "reversing-labs"
 			}
 		]
 	}

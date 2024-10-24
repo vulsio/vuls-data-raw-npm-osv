@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1749",
-	"modified": "2024-06-25T12:25:51Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:25:51Z",
 	"summary": "Malicious code in am-ui-app-dashboards-mc (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06133",
+				"import_time": "2024-10-24T00:57:31.053491927Z",
+				"modified_time": "2024-10-16T12:29:09Z",
+				"sha256": "af5c531dfe1940be8521cbdfde7280453c2f7d1d60e260f9c44d62058cc10720",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3943",
-	"modified": "2024-06-25T13:21:39Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:21:39Z",
 	"summary": "Malicious code in web3-unleashed-demo (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07568",
+				"import_time": "2024-10-24T00:58:32.92601553Z",
+				"modified_time": "2024-10-16T13:45:11Z",
+				"sha256": "99c6335a8358ca6238e685bdbf4b7ed5f71b1a017c06ab38a9c1770a49ea0d8b",
+				"source": "reversing-labs"
 			}
 		]
 	}

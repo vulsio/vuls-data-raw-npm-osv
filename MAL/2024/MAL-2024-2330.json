@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2330",
-	"modified": "2024-06-25T12:41:53Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:41:53Z",
 	"summary": "Malicious code in eslint-plugin-plentific (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"19.0.0",
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06517",
+				"import_time": "2024-10-24T00:57:48.203626457Z",
+				"modified_time": "2024-10-16T12:50:54Z",
+				"sha256": "a604b4f61b79866af9d7ea26a1ac20fee10523921353f9bec00846eeb9ad7997",
+				"source": "reversing-labs"
 			}
 		]
 	}

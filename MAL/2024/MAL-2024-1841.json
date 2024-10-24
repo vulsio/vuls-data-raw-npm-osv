@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1841",
-	"modified": "2024-06-25T12:30:11Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:30:11Z",
 	"summary": "Malicious code in brkr-lib-components-react (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"100.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06242",
+				"import_time": "2024-10-24T00:57:36.200960498Z",
+				"modified_time": "2024-10-16T12:35:53Z",
+				"sha256": "f6e2405b0a8b64a5352b6dc04be52d1752dd10fbf1b0df048ab47759180c4fd7",
+				"source": "reversing-labs"
 			}
 		]
 	}

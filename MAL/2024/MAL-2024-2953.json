@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2953",
-	"modified": "2024-06-25T12:58:25Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T12:58:25Z",
 	"summary": "Malicious code in relativity123rf (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"5.98.99"
 				]
+			},
+			{
+				"id": "RLUA-2024-07199",
+				"import_time": "2024-10-24T00:58:17.436771177Z",
+				"modified_time": "2024-10-16T13:15:10Z",
+				"sha256": "f5333a01a41d66a83a88b1e61684ed435d4c1569dedb9d26c006b12ec7086011",
+				"source": "reversing-labs"
 			}
 		]
 	}

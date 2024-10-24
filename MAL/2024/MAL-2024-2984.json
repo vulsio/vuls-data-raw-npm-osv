@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2984",
-	"modified": "2024-06-25T12:59:51Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T12:59:51Z",
 	"summary": "Malicious code in sarkar-koja (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"10.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-07257",
+				"import_time": "2024-10-24T00:58:19.21459498Z",
+				"modified_time": "2024-10-16T13:17:34Z",
+				"sha256": "affc8fe7f05dde2d9b335c57755f56d19d358d8354f3afbeb51234022dbaa3ff",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2276",
-	"modified": "2024-06-25T12:19:48Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:19:48Z",
 	"summary": "Malicious code in @fdfe/ecf-http-adapter (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,23 @@
 				"versions": [
 					"1.1.1"
 				]
+			},
+			{
+				"id": "RLMA-2024-00072",
+				"import_time": "2024-10-24T00:49:16.896939806Z",
+				"modified_time": "2024-06-25T12:19:48Z",
+				"sha256": "b23c8b7ac60462eff0c860c9e0071c1e551e658490f4e35781ee1a9e3cf4bd99",
+				"source": "reversing-labs",
+				"versions": [
+					"1.1.1"
+				]
+			},
+			{
+				"id": "RLUA-2024-05922",
+				"import_time": "2024-10-24T00:57:18.244407443Z",
+				"modified_time": "2024-10-16T12:22:07Z",
+				"sha256": "ecd23298b62f38ac1c0818bee6dd851da32b7459b09231a2e7ae8fb5457b1ea3",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2272",
-	"modified": "2024-06-25T12:40:50Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:40:50Z",
 	"summary": "Malicious code in easyfetchgoogle (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"7.2.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-06466",
+				"import_time": "2024-10-24T00:57:45.378798996Z",
+				"modified_time": "2024-10-16T12:49:20Z",
+				"sha256": "a7f779a6bd59eaccc3c29b07de020c441f36b42bcd59094e5b3b5f87dd0d8c04",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3956",
-	"modified": "2024-06-25T13:21:57Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:21:57Z",
 	"summary": "Malicious code in who_ask (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"3.0.0",
 					"2.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07578",
+				"import_time": "2024-10-24T00:58:33.248795551Z",
+				"modified_time": "2024-10-16T13:45:37Z",
+				"sha256": "6ba5970667d3752010e728233c149f847e8e3a6cd8a8edfbe4edd0048cc93247",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2422",
-	"modified": "2024-06-25T12:44:20Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:44:20Z",
 	"summary": "Malicious code in github-runner-lambda-syncer (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"2.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06637",
+				"import_time": "2024-10-24T00:57:53.225253573Z",
+				"modified_time": "2024-10-16T12:54:40Z",
+				"sha256": "47f1688dfc3a29d95ce3423c9bcc744b8ae9f50b2ef77501bbd8dba081dc88b9",
+				"source": "reversing-labs"
 			}
 		]
 	}

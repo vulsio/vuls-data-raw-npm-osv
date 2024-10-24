@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3827",
-	"modified": "2024-06-25T13:19:08Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:19:08Z",
 	"summary": "Malicious code in videosdk (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"47.47.48"
 				]
+			},
+			{
+				"id": "RLUA-2024-07534",
+				"import_time": "2024-10-24T00:58:31.275040977Z",
+				"modified_time": "2024-10-16T13:41:56Z",
+				"sha256": "6558a2bb4af0cef86f62952d386a62457a80053b183d3c5aab5884f6974c7eab",
+				"source": "reversing-labs"
 			}
 		]
 	}

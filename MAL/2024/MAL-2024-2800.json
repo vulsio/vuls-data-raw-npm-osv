@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2800",
-	"modified": "2024-06-25T12:54:12Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:54:12Z",
 	"summary": "Malicious code in openapi-to-graphql-root (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"23.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07019",
+				"import_time": "2024-10-24T00:58:09.862127596Z",
+				"modified_time": "2024-10-16T13:09:12Z",
+				"sha256": "f468fa17e1cb8571a6b17fa4a0326706b561de0df9a76e91afcb8d334f2e3c57",
+				"source": "reversing-labs"
 			}
 		]
 	}

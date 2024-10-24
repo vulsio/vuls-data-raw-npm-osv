@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3818",
-	"modified": "2024-06-25T13:18:52Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:18:52Z",
 	"summary": "Malicious code in venomemon (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.999.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07530",
+				"import_time": "2024-10-24T00:58:30.940493721Z",
+				"modified_time": "2024-10-16T13:41:41Z",
+				"sha256": "02ed6185efa52fd981b7b5af2990b468e9ecafb6262675bded79f69f07caf375",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3957",
-	"modified": "2024-06-25T12:20:30Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:20:30Z",
 	"summary": "Malicious code in @klapp-support/widget-interaction (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -44,6 +44,25 @@
 					"49.47.49",
 					"48.47.48"
 				]
+			},
+			{
+				"id": "RLMA-2024-00107",
+				"import_time": "2024-10-24T00:49:20.246860308Z",
+				"modified_time": "2024-06-25T12:20:30Z",
+				"sha256": "0d6c293bd8d6559c773eae7fdd43ba0021bc649f51ee74e50dc616260380a7a8",
+				"source": "reversing-labs",
+				"versions": [
+					"48.47.49",
+					"49.47.49",
+					"48.47.48"
+				]
+			},
+			{
+				"id": "RLUA-2024-05956",
+				"import_time": "2024-10-24T00:57:20.440381355Z",
+				"modified_time": "2024-10-16T12:22:59Z",
+				"sha256": "5d07855da3dcee38a1737c5ae7dc79c6ca4c124531c9951f1fad1ec383843054",
+				"source": "reversing-labs"
 			}
 		]
 	}

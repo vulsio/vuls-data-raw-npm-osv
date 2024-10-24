@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2777",
-	"modified": "2024-06-25T12:53:35Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:53:35Z",
 	"summary": "Malicious code in nvm_jquery (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -50,6 +50,13 @@
 					"1.0.2",
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07001",
+				"import_time": "2024-10-24T00:58:08.595826271Z",
+				"modified_time": "2024-10-16T13:08:26Z",
+				"sha256": "247b18f7f7df1ddf2fbdc7e6126c94299f57fd1a7fa8cf61fb6ddf0b06d24fee",
+				"source": "reversing-labs"
 			}
 		]
 	}

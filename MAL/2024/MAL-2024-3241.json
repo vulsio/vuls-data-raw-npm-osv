@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3241",
-	"modified": "2024-06-25T13:06:39Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:06:39Z",
 	"summary": "Malicious code in tumikashem (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"99.99.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-07480",
+				"import_time": "2024-10-24T00:58:28.56084876Z",
+				"modified_time": "2024-10-16T13:26:48Z",
+				"sha256": "338b25412523769c6b163e5cbd3389b2c590109ab4760ec688f2a2f375f75693",
+				"source": "reversing-labs"
 			}
 		]
 	}

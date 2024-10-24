@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2937",
-	"modified": "2024-06-25T12:57:42Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T12:57:42Z",
 	"summary": "Malicious code in react-router-dom-v6 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -56,6 +56,13 @@
 					"308.0.0",
 					"307.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07180",
+				"import_time": "2024-10-24T00:58:16.693182875Z",
+				"modified_time": "2024-10-16T13:14:19Z",
+				"sha256": "3c9007956df0d615eb9678a788d29b06a466fee73569abd630c7d3981466c872",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2442",
-	"modified": "2024-06-25T12:44:51Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:44:51Z",
 	"summary": "Malicious code in gtm-js (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"99.99.99"
 				]
+			},
+			{
+				"id": "RLUA-2024-06663",
+				"import_time": "2024-10-24T00:57:54.728190579Z",
+				"modified_time": "2024-10-16T12:55:33Z",
+				"sha256": "48942d657290d8e5b1538cc4fc9a64b570baf80cb3a210b08bfbe891ecf5e21f",
+				"source": "reversing-labs"
 			}
 		]
 	}

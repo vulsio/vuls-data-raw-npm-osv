@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2990",
-	"modified": "2024-06-25T13:00:12Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:00:12Z",
 	"summary": "Malicious code in scroll-up-bar (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07269",
+				"import_time": "2024-10-24T00:58:19.441471929Z",
+				"modified_time": "2024-10-16T13:17:59Z",
+				"sha256": "a6a15f2b9422e0b205ddad1fee92d8e33fb18266af06dc555b959b950891afe1",
+				"source": "reversing-labs"
 			}
 		]
 	}

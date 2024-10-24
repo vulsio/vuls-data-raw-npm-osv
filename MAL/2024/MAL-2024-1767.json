@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1767",
-	"modified": "2024-06-25T12:23:18Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:23:18Z",
 	"summary": "Malicious code in @zettle-bo/apps (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,23 @@
 				"versions": [
 					"35.0.0"
 				]
+			},
+			{
+				"id": "RLMA-2024-00233",
+				"import_time": "2024-10-24T00:49:29.325574222Z",
+				"modified_time": "2024-06-25T12:23:18Z",
+				"sha256": "1b102441f681add1f0a0133b7d171661ad252cd2dfde17bccdc28b8146de2dcb",
+				"source": "reversing-labs",
+				"versions": [
+					"35.0.0"
+				]
+			},
+			{
+				"id": "RLUA-2024-06091",
+				"import_time": "2024-10-24T00:57:28.36635999Z",
+				"modified_time": "2024-10-16T12:26:42Z",
+				"sha256": "94b30644f7fa16789f73501e6bc7f563f0e5242496a70ef2c19cc06416bee76b",
+				"source": "reversing-labs"
 			}
 		]
 	}

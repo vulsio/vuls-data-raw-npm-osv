@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2047",
-	"modified": "2024-06-25T12:35:03Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:35:03Z",
 	"summary": "Malicious code in cusip (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"99.99.99"
 				]
+			},
+			{
+				"id": "RLUA-2024-06375",
+				"import_time": "2024-10-24T00:57:40.800228141Z",
+				"modified_time": "2024-10-16T12:42:25Z",
+				"sha256": "4e84f494e5da175d5af1bd8890169ad89149b64722d6702dcfc3031aebbc26b6",
+				"source": "reversing-labs"
 			}
 		]
 	}

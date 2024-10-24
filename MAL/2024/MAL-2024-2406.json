@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2406",
-	"modified": "2024-06-25T12:43:54Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:43:54Z",
 	"summary": "Malicious code in fusionauth-cbor (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"0.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06616",
+				"import_time": "2024-10-24T00:57:52.02901655Z",
+				"modified_time": "2024-10-16T12:54:07Z",
+				"sha256": "2339be6b37b57fbf26bfc7cfe0f3cf808ec725618ab83b5e86e2e53c3b7e52f3",
+				"source": "reversing-labs"
 			}
 		]
 	}

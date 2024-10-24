@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1726",
-	"modified": "2024-06-25T12:24:56Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:24:56Z",
 	"summary": "Malicious code in activities-ui-components (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 					"4.0.1",
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06111",
+				"import_time": "2024-10-24T00:57:29.786497623Z",
+				"modified_time": "2024-10-16T12:28:10Z",
+				"sha256": "61fe8559f35e0b640cfa43a07cb061b6625f78b2218249b8a5b8a7d6e5ea8032",
+				"source": "reversing-labs"
 			}
 		]
 	}

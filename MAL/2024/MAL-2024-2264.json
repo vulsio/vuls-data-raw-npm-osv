@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2264",
-	"modified": "2024-06-25T12:40:34Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:40:34Z",
 	"summary": "Malicious code in dreamhunt-google-nc-tc-dc (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"7.2.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-06448",
+				"import_time": "2024-10-24T00:57:44.923134226Z",
+				"modified_time": "2024-10-16T12:48:47Z",
+				"sha256": "3c89e5dcaffaa64bb08154f3f254e5fcc9ab2bb3cb685521f5d5dfea95947b37",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3114",
-	"modified": "2024-06-25T13:03:50Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:03:50Z",
 	"summary": "Malicious code in testing-utils1 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07433",
+				"import_time": "2024-10-24T00:58:26.288640268Z",
+				"modified_time": "2024-10-16T13:23:12Z",
+				"sha256": "4410c823b8e87ac7cee8ee12405a3fce623212030e6e00aa4fd8a2539724491b",
+				"source": "reversing-labs"
 			}
 		]
 	}

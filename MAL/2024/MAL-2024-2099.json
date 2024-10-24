@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2099",
-	"modified": "2024-06-25T12:36:33Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:36:33Z",
 	"summary": "Malicious code in discord.js-fetch (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.4.3"
 				]
+			},
+			{
+				"id": "RLUA-2024-06424",
+				"import_time": "2024-10-24T00:57:43.516162076Z",
+				"modified_time": "2024-10-16T12:44:08Z",
+				"sha256": "586f2895f6acd6bbe7fd8b7a4d5914aee68da08d7e41fd03ba3b5664282fa89b",
+				"source": "reversing-labs"
 			}
 		]
 	}

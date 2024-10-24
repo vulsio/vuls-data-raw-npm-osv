@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2978",
-	"modified": "2024-06-25T12:59:38Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T12:59:38Z",
 	"summary": "Malicious code in rxxxxjs (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07235",
+				"import_time": "2024-10-24T00:58:18.929096484Z",
+				"modified_time": "2024-10-16T13:16:56Z",
+				"sha256": "acd9666864fa0f606ad6e7ab1e751e8b4ea78944123cea54e460bb56528de045",
+				"source": "reversing-labs"
 			}
 		]
 	}

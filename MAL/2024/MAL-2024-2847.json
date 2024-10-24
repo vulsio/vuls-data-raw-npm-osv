@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2847",
-	"modified": "2024-06-25T12:55:22Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:55:22Z",
 	"summary": "Malicious code in payload_package123 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07077",
+				"import_time": "2024-10-24T00:58:12.963157424Z",
+				"modified_time": "2024-10-16T13:10:48Z",
+				"sha256": "228c38f599a939334ac82cec0cb554282b321fad1d1434b060f3d4b2d4c9e083",
+				"source": "reversing-labs"
 			}
 		]
 	}

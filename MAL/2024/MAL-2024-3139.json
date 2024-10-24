@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3139",
-	"modified": "2024-06-28T03:14:42.632130Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:04:23Z",
 	"aliases": [
 		"SNYK-JS-TOOLSACCESSREACTREDUXROUTER-3326378"
@@ -59,6 +59,13 @@
 					"2.10.1",
 					"2.10.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-07465",
+				"import_time": "2024-10-24T00:58:27.810770769Z",
+				"modified_time": "2024-10-16T13:24:08Z",
+				"sha256": "7536e0fd735f20c396aa4a037c8b76fa4f38cb3654406fa9820b27889e31eea4",
+				"source": "reversing-labs"
 			}
 		]
 	}

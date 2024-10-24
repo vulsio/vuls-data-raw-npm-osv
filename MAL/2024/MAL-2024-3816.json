@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3816",
-	"modified": "2024-06-25T13:18:44Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:18:44Z",
 	"summary": "Malicious code in vein-ui (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"99.999.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07527",
+				"import_time": "2024-10-24T00:58:30.806790776Z",
+				"modified_time": "2024-10-16T13:41:37Z",
+				"sha256": "9524d37fda30f96432fcb7f561a5299431acafd1ac71582fa7cf7dabdb7483d9",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2792",
-	"modified": "2024-06-25T12:54:04Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:54:04Z",
 	"summary": "Malicious code in one-amex-wrapper (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"2.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07013",
+				"import_time": "2024-10-24T00:58:09.559383721Z",
+				"modified_time": "2024-10-16T13:08:55Z",
+				"sha256": "dda36e33dae27608ce296c5405db8cc012ee4b1149cabb1883d5d85fad2639e1",
+				"source": "reversing-labs"
 			}
 		]
 	}

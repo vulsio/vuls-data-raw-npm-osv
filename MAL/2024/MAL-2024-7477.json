@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-7477",
-	"modified": "2024-07-11T00:44:47.879223Z",
+	"modified": "2024-10-24T01:41:58.334036Z",
 	"published": "2024-07-11T00:17:08Z",
 	"aliases": [
-		"GHSA-h73h-7mjv-h2g9"
+		"GHSA-h73h-7mjv-h2g9",
+		"SNYK-JS-STYYLE-7435722"
 	],
 	"summary": "Malicious code in styyle (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (944ac7a911f6cbb711a46bc3531c73d727d6bfc5b5218f702386979f19a11d7c)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"3.0.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-h73h-7mjv-h2g9"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.phylum.io/persistent-npm-campaign-shipping-trojanized-jquery"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-STYYLE-7435722"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +82,16 @@
 				],
 				"sha256": "944ac7a911f6cbb711a46bc3531c73d727d6bfc5b5218f702386979f19a11d7c",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-07378",
+				"import_time": "2024-10-24T00:56:46.966726116Z",
+				"modified_time": "2024-10-16T13:21:19Z",
+				"sha256": "58e13b3c3b21060c9577c0151906ab72ab011d93bd1cb6b66f4566bbd73f9fc6",
+				"source": "reversing-labs",
+				"versions": [
+					"3.0.0"
+				]
 			}
 		]
 	}

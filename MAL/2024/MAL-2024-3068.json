@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3068",
-	"modified": "2024-06-25T13:02:27Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:02:27Z",
 	"summary": "Malicious code in svgo-compressor (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"99.0.0",
 					"99.99.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07384",
+				"import_time": "2024-10-24T00:58:23.232934981Z",
+				"modified_time": "2024-10-16T13:21:41Z",
+				"sha256": "ae298471d2f376434da07c2f6105859fc213400235ce081ef4a8b388bc799ccf",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2508",
-	"modified": "2024-06-25T12:46:35Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:46:35Z",
 	"summary": "Malicious code in incom-css (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.7"
 				]
+			},
+			{
+				"id": "RLUA-2024-06731",
+				"import_time": "2024-10-24T00:57:57.504934969Z",
+				"modified_time": "2024-10-16T12:58:11Z",
+				"sha256": "0d96b91c7e422502f09b8ee8dd26b21d2c6cb050eb0b3e12548b1f747e1ed6e1",
+				"source": "reversing-labs"
 			}
 		]
 	}

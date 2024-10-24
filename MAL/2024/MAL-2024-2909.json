@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2909",
-	"modified": "2024-06-25T12:21:45Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:21:45Z",
 	"summary": "Malicious code in @ozon-shared-deps/qs (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,24 @@
 					"6.5.20",
 					"6.5.4"
 				]
+			},
+			{
+				"id": "RLMA-2024-00165",
+				"import_time": "2024-10-24T00:49:24.420123305Z",
+				"modified_time": "2024-06-25T12:21:45Z",
+				"sha256": "6ebdb0b470ba9bc0d63da0b3a5894a5fcf7b0e48e0b2b2b66850e3c418a0570b",
+				"source": "reversing-labs",
+				"versions": [
+					"6.5.20",
+					"6.5.4"
+				]
+			},
+			{
+				"id": "RLUA-2024-06005",
+				"import_time": "2024-10-24T00:57:24.276535709Z",
+				"modified_time": "2024-10-16T12:24:12Z",
+				"sha256": "e79567e0a99375a619b9709b572c4cb2911cf71fe84805ec640f288246c8e578",
+				"source": "reversing-labs"
 			}
 		]
 	}

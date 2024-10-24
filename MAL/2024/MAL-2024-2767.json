@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2767",
-	"modified": "2024-06-25T12:53:19Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:53:19Z",
 	"summary": "Malicious code in npm-research-bad-2 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06987",
+				"import_time": "2024-10-24T00:58:07.942716142Z",
+				"modified_time": "2024-10-16T13:08:03Z",
+				"sha256": "46d80fa027ff67e1dbdc2dce1c0836997ecad8aa65a71835b5ac8f74973cab4f",
+				"source": "reversing-labs"
 			}
 		]
 	}

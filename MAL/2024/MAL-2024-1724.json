@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1724",
-	"modified": "2024-06-25T12:24:53Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:24:53Z",
 	"summary": "Malicious code in act-rules.github.io (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.10"
 				]
+			},
+			{
+				"id": "RLUA-2024-06109",
+				"import_time": "2024-10-24T00:57:29.383377393Z",
+				"modified_time": "2024-10-16T12:28:08Z",
+				"sha256": "c8ee18c93dd7ad6731217e4cb0b355a3d181440298e2a46ed463ad62dc15f003",
+				"source": "reversing-labs"
 			}
 		]
 	}

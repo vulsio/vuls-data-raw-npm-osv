@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3980",
-	"modified": "2024-06-25T13:22:37Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:22:37Z",
 	"summary": "Malicious code in yelp-test (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"5.20.20"
 				]
+			},
+			{
+				"id": "RLUA-2024-07611",
+				"import_time": "2024-10-24T00:58:34.525945193Z",
+				"modified_time": "2024-10-16T13:46:42Z",
+				"sha256": "5a8f71586da3de594b17256216e9329c8d612f08549ff3877602ce89e02a1924",
+				"source": "reversing-labs"
 			}
 		]
 	}

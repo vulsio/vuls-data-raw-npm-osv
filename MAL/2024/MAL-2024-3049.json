@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3049",
-	"modified": "2024-06-28T03:14:40.940649Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:01:56Z",
 	"aliases": [
 		"SNYK-JS-SSHWIFTYUI-6044699"
@@ -53,6 +53,13 @@
 				"versions": [
 					"6.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-07357",
+				"import_time": "2024-10-24T00:58:22.490655424Z",
+				"modified_time": "2024-10-16T13:20:37Z",
+				"sha256": "ea8d715966bc7bdeb264498445850c482aa60ef5f930c1bae520658ea5152aab",
+				"source": "reversing-labs"
 			}
 		]
 	}

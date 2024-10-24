@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1752",
-	"modified": "2024-06-25T12:25:54Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:25:54Z",
 	"summary": "Malicious code in amp-angular-cli (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 					"57.0.9",
 					"57.0.11"
 				]
+			},
+			{
+				"id": "RLUA-2024-06136",
+				"import_time": "2024-10-24T00:57:31.213319793Z",
+				"modified_time": "2024-10-16T12:29:17Z",
+				"sha256": "16694b6012787369ddcc8a1e5105d7b8f9d37a88cc2aabaa4be9bd6c7e58f4db",
+				"source": "reversing-labs"
 			}
 		]
 	}

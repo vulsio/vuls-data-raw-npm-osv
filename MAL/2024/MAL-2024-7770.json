@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-7770",
-	"modified": "2024-07-18T00:43:59.208367Z",
+	"modified": "2024-10-24T01:26:55.773377Z",
 	"published": "2024-07-17T08:52:45Z",
 	"aliases": [
-		"GHSA-cpj2-wjv8-289v"
+		"GHSA-cpj2-wjv8-289v",
+		"SNYK-JS-MOCKSIMPLEMODULERELATIVE-7462094"
 	],
 	"summary": "Malicious code in mock_simple_module_relative (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (5314a68f10a03af92b308ae221d15aa143a97ae197cf96c655476db5638a084b)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,10 @@
 					]
 				}
 			],
+			"versions": [
+				"1.0.0",
+				"1.0.1"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +46,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-cpj2-wjv8-289v"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-MOCKSIMPLEMODULERELATIVE-7462094"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/mock_simple_module_relative"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +83,17 @@
 				],
 				"sha256": "5314a68f10a03af92b308ae221d15aa143a97ae197cf96c655476db5638a084b",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-06914",
+				"import_time": "2024-10-24T00:56:33.438858938Z",
+				"modified_time": "2024-10-16T13:04:24Z",
+				"sha256": "4c42e33c5274c2fe938e90ce81c3b72936ba076ddea6cb79cdd400595204822a",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.0",
+					"1.0.1"
+				]
 			}
 		]
 	}

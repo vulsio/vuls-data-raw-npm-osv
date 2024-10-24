@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3053",
-	"modified": "2024-06-25T13:02:00Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:02:00Z",
 	"summary": "Malicious code in staging-proxy (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"0.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07360",
+				"import_time": "2024-10-24T00:58:22.611627889Z",
+				"modified_time": "2024-10-16T13:20:40Z",
+				"sha256": "208044296c42910cbca3824781027019424297a8e83f34d16b726db10d03e359",
+				"source": "reversing-labs"
 			}
 		]
 	}

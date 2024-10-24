@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1715",
-	"modified": "2024-06-25T12:24:38Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:24:38Z",
 	"summary": "Malicious code in abdulla-chat-api (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"3.7.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-06102",
+				"import_time": "2024-10-24T00:57:29.083934408Z",
+				"modified_time": "2024-10-16T12:27:50Z",
+				"sha256": "70e05a73e452b76cd08247c934432b92760f3c995f6ab294be4f231946566891",
+				"source": "reversing-labs"
 			}
 		]
 	}

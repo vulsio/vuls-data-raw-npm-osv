@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1973",
-	"modified": "2024-06-25T12:32:57Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:32:57Z",
 	"summary": "Malicious code in chards-script (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"0.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06289",
+				"import_time": "2024-10-24T00:57:38.464496634Z",
+				"modified_time": "2024-10-16T12:39:25Z",
+				"sha256": "d3a8a450a5665e86549418c49da780172fc2761f3375b2608d23f747926661c8",
+				"source": "reversing-labs"
 			}
 		]
 	}

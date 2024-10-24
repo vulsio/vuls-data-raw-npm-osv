@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2437",
-	"modified": "2024-06-25T12:44:43Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:44:43Z",
 	"summary": "Malicious code in graphql-optics (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06658",
+				"import_time": "2024-10-24T00:57:54.429521159Z",
+				"modified_time": "2024-10-16T12:55:21Z",
+				"sha256": "5f72c27b031f91b7ef171b65dfe9b0db5887c4236d2066fbd36705202dbbb85d",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2806",
-	"modified": "2024-06-25T12:54:23Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:54:23Z",
 	"summary": "Malicious code in orange_gs_local (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"6.5.3"
 				]
+			},
+			{
+				"id": "RLUA-2024-07030",
+				"import_time": "2024-10-24T00:58:10.266711232Z",
+				"modified_time": "2024-10-16T13:09:28Z",
+				"sha256": "9da35add321f420f3c74071be254f658a63698e90f248d9fcbbf6c0ea952dcee",
+				"source": "reversing-labs"
 			}
 		]
 	}

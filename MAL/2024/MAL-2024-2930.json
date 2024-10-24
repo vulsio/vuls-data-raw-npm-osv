@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2930",
-	"modified": "2024-06-25T12:57:26Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T12:57:26Z",
 	"summary": "Malicious code in react-circular-pick (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"2.2.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-07173",
+				"import_time": "2024-10-24T00:58:16.420469203Z",
+				"modified_time": "2024-10-16T13:14:06Z",
+				"sha256": "f6b7860189b0b5e7ae9efad4d90bbd7c44e980db7f67ff05a93f47d86b58b647",
+				"source": "reversing-labs"
 			}
 		]
 	}

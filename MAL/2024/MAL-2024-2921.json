@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2921",
-	"modified": "2024-06-25T12:56:57Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T12:56:57Z",
 	"summary": "Malicious code in rappi-node (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.1.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-07164",
+				"import_time": "2024-10-24T00:58:15.872581204Z",
+				"modified_time": "2024-10-16T13:13:36Z",
+				"sha256": "0f2c752bb1306a99c974f7f4386ee6941373ef4335b5fafe23caa2580d32e00b",
+				"source": "reversing-labs"
 			}
 		]
 	}

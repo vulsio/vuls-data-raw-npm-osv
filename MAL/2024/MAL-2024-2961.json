@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2961",
-	"modified": "2024-06-25T12:58:41Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T12:58:41Z",
 	"summary": "Malicious code in resume-preview-component (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"5.12.2",
 					"5.12.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-07208",
+				"import_time": "2024-10-24T00:58:17.871309109Z",
+				"modified_time": "2024-10-16T13:15:34Z",
+				"sha256": "12d0b2d056d6b220ae1bd5f94e8ff23b80e607be93c37a9385589af4a14a53a8",
+				"source": "reversing-labs"
 			}
 		]
 	}

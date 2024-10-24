@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2421",
-	"modified": "2024-06-25T12:44:19Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:44:19Z",
 	"summary": "Malicious code in github-artifact-exporter-core (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -44,6 +44,13 @@
 					"2.0.0",
 					"3.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06635",
+				"import_time": "2024-10-24T00:57:53.0525867Z",
+				"modified_time": "2024-10-16T12:54:39Z",
+				"sha256": "bd76154e5d1dd51e32e5050612a02047114ff9b4b65903337fcccfbec0fb3468",
+				"source": "reversing-labs"
 			}
 		]
 	}

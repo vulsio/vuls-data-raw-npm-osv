@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2300",
-	"modified": "2024-06-25T12:41:23Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:41:23Z",
 	"summary": "Malicious code in en-node-gyp-build (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -48,6 +48,13 @@
 					"1.0.6",
 					"1.0.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-06492",
+				"import_time": "2024-10-24T00:57:46.752105421Z",
+				"modified_time": "2024-10-16T12:50:07Z",
+				"sha256": "5d859e6056a738adca68bf1f9cdf94e8fbcd9694725f2befa770835d44631a9d",
+				"source": "reversing-labs"
 			}
 		]
 	}

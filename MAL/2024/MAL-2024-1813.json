@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1813",
-	"modified": "2024-06-25T12:29:26Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:29:26Z",
 	"summary": "Malicious code in basecrypt (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"3.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06207",
+				"import_time": "2024-10-24T00:57:34.674697761Z",
+				"modified_time": "2024-10-16T12:34:47Z",
+				"sha256": "afb6963f53fefbd332fb63c2d1f6232a2cc8cd046e140bebd4a83cf6af39e892",
+				"source": "reversing-labs"
 			}
 		]
 	}

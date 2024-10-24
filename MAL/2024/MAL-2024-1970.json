@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1970",
-	"modified": "2024-06-25T12:32:53Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:32:53Z",
 	"summary": "Malicious code in centuri (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"99.99.99"
 				]
+			},
+			{
+				"id": "RLUA-2024-06287",
+				"import_time": "2024-10-24T00:57:38.347974463Z",
+				"modified_time": "2024-10-16T12:39:20Z",
+				"sha256": "776bfa91e3f4c5b54dd9b94f925f448df5bf4114c0e93663844962b0c0bd0488",
+				"source": "reversing-labs"
 			}
 		]
 	}

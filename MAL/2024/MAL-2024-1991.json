@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1991",
-	"modified": "2024-06-25T12:33:39Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:33:39Z",
 	"summary": "Malicious code in cndpjs (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"4.5.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-06324",
+				"import_time": "2024-10-24T00:57:39.135522809Z",
+				"modified_time": "2024-10-16T12:40:25Z",
+				"sha256": "1fb7393ab40f38a97c7463c7cc0e4cb527a1b68d93c7d5f87fc64be88b9395be",
+				"source": "reversing-labs"
 			}
 		]
 	}

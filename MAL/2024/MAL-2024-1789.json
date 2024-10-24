@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1789",
-	"modified": "2024-06-25T12:28:55Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:28:55Z",
 	"summary": "Malicious code in avx-web-build (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1000.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06187",
+				"import_time": "2024-10-24T00:57:33.51394678Z",
+				"modified_time": "2024-10-16T12:33:05Z",
+				"sha256": "3fd1caaf431a7b414d840b91e57d82a97083cac684dbd408db8df53e9d57e3ac",
+				"source": "reversing-labs"
 			}
 		]
 	}

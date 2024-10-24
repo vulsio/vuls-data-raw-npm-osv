@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2285",
-	"modified": "2024-06-25T12:41:04Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:41:04Z",
 	"summary": "Malicious code in eg-affiliates-common-test (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"0.0.1",
 					"0.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-06476",
+				"import_time": "2024-10-24T00:57:46.013976382Z",
+				"modified_time": "2024-10-16T12:49:36Z",
+				"sha256": "3f9a954e0490cca8028c4e0edf2cf9d0f62a840630d3717c8014f906d7bbd2ae",
+				"source": "reversing-labs"
 			}
 		]
 	}

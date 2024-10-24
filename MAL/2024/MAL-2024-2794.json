@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2794",
-	"modified": "2024-06-25T12:54:07Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:54:07Z",
 	"summary": "Malicious code in onewelcome-react-native-sdk (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"5.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-07015",
+				"import_time": "2024-10-24T00:58:09.685477755Z",
+				"modified_time": "2024-10-16T13:08:57Z",
+				"sha256": "441a36c89c8aca54d91d44df3ae498be081182a8d3b7b4539f29df6cded8e193",
+				"source": "reversing-labs"
 			}
 		]
 	}

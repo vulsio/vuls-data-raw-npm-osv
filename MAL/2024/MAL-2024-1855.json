@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1855",
-	"modified": "2024-06-25T12:30:34Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:30:34Z",
 	"summary": "Malicious code in bykea (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"50.50.50"
 				]
+			},
+			{
+				"id": "RLUA-2024-06263",
+				"import_time": "2024-10-24T00:57:37.00978848Z",
+				"modified_time": "2024-10-16T12:36:25Z",
+				"sha256": "3f3289c8816a606e79a9765dd9e2dd121cc1f0f3971b619a209ba86fe8afa84a",
+				"source": "reversing-labs"
 			}
 		]
 	}

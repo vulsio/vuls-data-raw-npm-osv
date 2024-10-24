@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2845",
-	"modified": "2024-06-25T12:55:20Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:55:20Z",
 	"summary": "Malicious code in pattern.json (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"4.12.7"
 				]
+			},
+			{
+				"id": "RLUA-2024-07075",
+				"import_time": "2024-10-24T00:58:12.811959255Z",
+				"modified_time": "2024-10-16T13:10:40Z",
+				"sha256": "cb9b3025fa974a5b77412fe4ced06d8adeadf169594ed89a844b7600cc8290f9",
+				"source": "reversing-labs"
 			}
 		]
 	}

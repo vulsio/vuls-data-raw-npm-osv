@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3083",
-	"modified": "2024-06-25T13:02:53Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:02:53Z",
 	"summary": "Malicious code in tealium-ui-kit (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"100.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07399",
+				"import_time": "2024-10-24T00:58:24.180936942Z",
+				"modified_time": "2024-10-16T13:22:10Z",
+				"sha256": "a6a981ed0d4124b97b84cf42240ce49c50369a373608f4c669aeb3db49f0bfb6",
+				"source": "reversing-labs"
 			}
 		]
 	}

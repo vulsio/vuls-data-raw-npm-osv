@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3013",
-	"modified": "2024-06-25T13:00:38Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:00:38Z",
 	"summary": "Malicious code in sherlock-front (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"100.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07296",
+				"import_time": "2024-10-24T00:58:20.477838329Z",
+				"modified_time": "2024-10-16T13:18:49Z",
+				"sha256": "c7da39daf68c71fe2b8b84a2dbfb4e231ae40e8a4323fdffa0508c310aee7328",
+				"source": "reversing-labs"
 			}
 		]
 	}

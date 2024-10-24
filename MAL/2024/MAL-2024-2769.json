@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2769",
-	"modified": "2024-06-25T12:53:21Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:53:21Z",
 	"summary": "Malicious code in npm-tpgroup-common (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.222"
 				]
+			},
+			{
+				"id": "RLUA-2024-06989",
+				"import_time": "2024-10-24T00:58:08.098329556Z",
+				"modified_time": "2024-10-16T13:08:05Z",
+				"sha256": "f23c0b20c5de80910282fea6b239db1ac4bc83c0d2f05df823580735c9e2df01",
+				"source": "reversing-labs"
 			}
 		]
 	}

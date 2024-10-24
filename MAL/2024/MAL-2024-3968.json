@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3968",
-	"modified": "2024-06-25T13:22:21Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:22:21Z",
 	"summary": "Malicious code in xc0de-staple (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.3"
 				]
+			},
+			{
+				"id": "RLUA-2024-07592",
+				"import_time": "2024-10-24T00:58:33.858170179Z",
+				"modified_time": "2024-10-16T13:46:10Z",
+				"sha256": "1c0fcf0a4dd7c19d49ffe78ae3aebe07565207fc1335499fad2138250f35a1bb",
+				"source": "reversing-labs"
 			}
 		]
 	}

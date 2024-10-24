@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2426",
-	"modified": "2024-06-25T12:44:28Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:44:28Z",
 	"summary": "Malicious code in google.fhir.stu3.google (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"99.20.20"
 				]
+			},
+			{
+				"id": "RLUA-2024-06643",
+				"import_time": "2024-10-24T00:57:53.525545285Z",
+				"modified_time": "2024-10-16T12:54:55Z",
+				"sha256": "32b358454eab075872caaf1bb6f1fde1c55d2d5614382cc26e60781989a621f8",
+				"source": "reversing-labs"
 			}
 		]
 	}

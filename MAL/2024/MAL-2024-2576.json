@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2576",
-	"modified": "2024-06-25T12:48:18Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:48:18Z",
 	"summary": "Malicious code in jwt-angular11-client (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06788",
+				"import_time": "2024-10-24T00:58:00.166449792Z",
+				"modified_time": "2024-10-16T13:00:23Z",
+				"sha256": "c0783a33a8aee1ff99acb50c17ec34f728ee6726e517b86c75d642e3b8eaea31",
+				"source": "reversing-labs"
 			}
 		]
 	}

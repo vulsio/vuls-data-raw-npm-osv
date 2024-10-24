@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2444",
-	"modified": "2024-06-25T12:44:55Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:44:55Z",
 	"summary": "Malicious code in gulp2-sd-test (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06665",
+				"import_time": "2024-10-24T00:57:54.875293276Z",
+				"modified_time": "2024-10-16T12:55:38Z",
+				"sha256": "5ff17be1eb9bd7216210473ec397ea5f68bbe415c8881f1f94e2ea699910ec3c",
+				"source": "reversing-labs"
 			}
 		]
 	}

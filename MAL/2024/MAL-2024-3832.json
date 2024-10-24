@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3832",
-	"modified": "2024-06-25T13:19:24Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:19:24Z",
 	"summary": "Malicious code in vscode-codeql (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.99.99"
 				]
+			},
+			{
+				"id": "RLUA-2024-07548",
+				"import_time": "2024-10-24T00:58:31.778255145Z",
+				"modified_time": "2024-10-16T13:42:24Z",
+				"sha256": "777d0a65fad5699af7d614ebc66ceb0cad34c2533b23a0d178f51b4ba20bfd8e",
+				"source": "reversing-labs"
 			}
 		]
 	}

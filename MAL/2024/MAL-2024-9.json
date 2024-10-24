@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-9",
-	"modified": "2024-07-02T03:29:17.737461Z",
+	"modified": "2024-10-24T01:26:49.682431Z",
 	"published": "2024-01-02T03:24:51Z",
 	"aliases": [
 		"GHSA-p23r-4795-8hgf",
+		"MAL-2024-2416",
 		"SNYK-JS-MSMGMONEYGETCURRENTENV-6141149"
 	],
 	"summary": "Malicious code in @msmg-money/get-current-env (npm)",
@@ -89,6 +90,17 @@
 				"import_time": "2024-07-02T00:26:36.683633Z",
 				"modified_time": "2024-06-25T12:21:18Z",
 				"sha256": "ebbc1866581a11645b4ce8727a4eecc417a8e4c5a68788cda4fddf6546f5f791",
+				"source": "reversing-labs",
+				"versions": [
+					"99.99.99",
+					"2.0.0"
+				]
+			},
+			{
+				"id": "RLMA-2024-00144",
+				"import_time": "2024-10-24T00:49:22.851295437Z",
+				"modified_time": "2024-06-25T12:21:18Z",
+				"sha256": "dc2f10095bac8258458619e97bdea3fd450b7c6b202241966e6670a34b26d5fd",
 				"source": "reversing-labs",
 				"versions": [
 					"99.99.99",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2955",
-	"modified": "2024-06-25T12:58:27Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T12:58:27Z",
 	"summary": "Malicious code in relay-website (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"1.1.2",
 					"1.1.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-07201",
+				"import_time": "2024-10-24T00:58:17.533927594Z",
+				"modified_time": "2024-10-16T13:15:12Z",
+				"sha256": "cd6891d1e38ce73281be6ae25665838b3f8a32e48a1f920b94c63f8d6be49128",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2417",
-	"modified": "2024-06-25T12:44:10Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:44:10Z",
 	"summary": "Malicious code in getorcreateprecachecontroller (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06631",
+				"import_time": "2024-10-24T00:57:52.852721949Z",
+				"modified_time": "2024-10-16T12:54:34Z",
+				"sha256": "d88fa1e6d6a8653172046ced50374289c0cb859c201bf2854d7e926d9632ef3f",
+				"source": "reversing-labs"
 			}
 		]
 	}

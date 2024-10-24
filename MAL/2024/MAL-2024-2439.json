@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2439",
-	"modified": "2024-06-25T12:44:48Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:44:48Z",
 	"summary": "Malicious code in grpc-web-devtoolssss (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"0.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06660",
+				"import_time": "2024-10-24T00:57:54.563756998Z",
+				"modified_time": "2024-10-16T12:55:24Z",
+				"sha256": "ff07e5dadb8e4e95fda2b9c29b8fccaba42ea222f95bb488a7e15ad876f77ae2",
+				"source": "reversing-labs"
 			}
 		]
 	}

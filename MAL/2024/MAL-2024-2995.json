@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2995",
-	"modified": "2024-06-25T12:20:43Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:20:43Z",
 	"summary": "Malicious code in @ks-radar/search (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,23 @@
 				"versions": [
 					"2.1.10"
 				]
+			},
+			{
+				"id": "RLMA-2024-00117",
+				"import_time": "2024-10-24T00:49:21.06474698Z",
+				"modified_time": "2024-06-25T12:20:43Z",
+				"sha256": "2417321a261baedcc4f2eef42620be1fcd1db8eb92019b63f75e3f5c583475f9",
+				"source": "reversing-labs",
+				"versions": [
+					"2.1.10"
+				]
+			},
+			{
+				"id": "RLUA-2024-05965",
+				"import_time": "2024-10-24T00:57:21.421239368Z",
+				"modified_time": "2024-10-16T12:23:12Z",
+				"sha256": "32032b52ff292623e236a3e9776a4f4d71bb5461e206094105f28d41f4aabd1c",
+				"source": "reversing-labs"
 			}
 		]
 	}

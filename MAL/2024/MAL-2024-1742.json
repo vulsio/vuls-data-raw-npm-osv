@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1742",
-	"modified": "2024-06-25T12:25:38Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:25:38Z",
 	"summary": "Malicious code in alfalab (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"6.6.6"
 				]
+			},
+			{
+				"id": "RLUA-2024-06127",
+				"import_time": "2024-10-24T00:57:30.51391431Z",
+				"modified_time": "2024-10-16T12:28:56Z",
+				"sha256": "10d6fc0d3f99e4a83ee33f060311017e55555bdba804609fa0931ab9ecb11331",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2393",
-	"modified": "2024-06-25T12:43:36Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:43:36Z",
 	"summary": "Malicious code in fq-ui (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -70,6 +70,13 @@
 					"4.544.1",
 					"3.644.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-06610",
+				"import_time": "2024-10-24T00:57:51.929191147Z",
+				"modified_time": "2024-10-16T12:53:39Z",
+				"sha256": "62969e15cffdc682f0d693211bfeba7e5f3b72ec101f7e9095c7d4841d545bc6",
+				"source": "reversing-labs"
 			}
 		]
 	}

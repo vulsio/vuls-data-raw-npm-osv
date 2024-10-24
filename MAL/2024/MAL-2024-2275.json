@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2275",
-	"modified": "2024-06-25T12:40:52Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:40:52Z",
 	"summary": "Malicious code in ecare-react (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 					"9991.0.0",
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06468",
+				"import_time": "2024-10-24T00:57:45.546518668Z",
+				"modified_time": "2024-10-16T12:49:22Z",
+				"sha256": "eaefd6e1c4532908eb41cd28c89898622f3e63d4712c03b5395433889e5348c8",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1730",
-	"modified": "2024-06-25T12:24:59Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:24:59Z",
 	"summary": "Malicious code in add-to-unscopable (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"99999999.99.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-06114",
+				"import_time": "2024-10-24T00:57:29.988457247Z",
+				"modified_time": "2024-10-16T12:28:17Z",
+				"sha256": "5d24719ae9ec3e570b2eca33f57084a89740132cb9e99d7a38e6f81cbeedd615",
+				"source": "reversing-labs"
 			}
 		]
 	}

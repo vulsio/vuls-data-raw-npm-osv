@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3252",
-	"modified": "2024-06-28T03:14:42.892595Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:06:55Z",
 	"aliases": [
 		"SNYK-JS-UFOHELPERS-3336148"
@@ -55,6 +55,13 @@
 					"1.2.14",
 					"1.7.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-07492",
+				"import_time": "2024-10-24T00:58:29.210367014Z",
+				"modified_time": "2024-10-16T13:27:08Z",
+				"sha256": "2df079d2a3ef3c1a679c68f43149e09f082efcfbf8104ef1ba81f98ee41fdddd",
+				"source": "reversing-labs"
 			}
 		]
 	}

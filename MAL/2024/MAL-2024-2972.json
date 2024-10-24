@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2972",
-	"modified": "2024-06-25T12:59:25Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T12:59:25Z",
 	"summary": "Malicious code in ruamel-yaml (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"0.17.10"
 				]
+			},
+			{
+				"id": "RLUA-2024-07230",
+				"import_time": "2024-10-24T00:58:18.660401557Z",
+				"modified_time": "2024-10-16T13:16:42Z",
+				"sha256": "976bd4469c6261d6e587a5d1604ed9ba8cf09a876fab18b35aece732fcbba21d",
+				"source": "reversing-labs"
 			}
 		]
 	}

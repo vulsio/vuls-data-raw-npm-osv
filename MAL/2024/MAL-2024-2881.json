@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2881",
-	"modified": "2024-06-25T12:56:21Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:56:21Z",
 	"summary": "Malicious code in portal-frontend-public (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.2.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-07125",
+				"import_time": "2024-10-24T00:58:14.441464296Z",
+				"modified_time": "2024-10-16T13:12:20Z",
+				"sha256": "6934939dbf740c7c426a70aac1ebf6ae494099dde52172e67ea8b20cd30b1f97",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2283",
-	"modified": "2024-06-28T02:53:16Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:18:27Z",
 	"summary": "Malicious code in efx-angular-components (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 					"12.0.5",
 					"12.0.6"
 				]
+			},
+			{
+				"id": "RLUA-2024-06474",
+				"import_time": "2024-10-24T00:57:45.910098198Z",
+				"modified_time": "2024-10-16T12:49:34Z",
+				"sha256": "713f4425462f07a75b09ff59f3c32a3a5baf15ace1801360feecb888ce4ec76c",
+				"source": "reversing-labs"
 			}
 		]
 	}

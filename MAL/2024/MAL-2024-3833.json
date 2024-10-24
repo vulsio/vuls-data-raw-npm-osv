@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3833",
-	"modified": "2024-06-25T13:19:25Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:19:25Z",
 	"summary": "Malicious code in vscode-dev-containers (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07549",
+				"import_time": "2024-10-24T00:58:31.830224023Z",
+				"modified_time": "2024-10-16T13:42:25Z",
+				"sha256": "3c3c8541b6095d85559c186d26bed4bbfd2b4e5d2f5d0d398a1d44cdcc90eadb",
+				"source": "reversing-labs"
 			}
 		]
 	}

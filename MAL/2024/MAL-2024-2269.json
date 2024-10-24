@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2269",
-	"modified": "2024-06-25T12:40:42Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:40:42Z",
 	"summary": "Malicious code in duxton-web (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"6.0.3"
 				]
+			},
+			{
+				"id": "RLUA-2024-06459",
+				"import_time": "2024-10-24T00:57:45.228277464Z",
+				"modified_time": "2024-10-16T12:49:07Z",
+				"sha256": "326b47fccc0de12c0a05b74912dd7a44f5692e6c247622ba403a1d5b66cfc1ca",
+				"source": "reversing-labs"
 			}
 		]
 	}

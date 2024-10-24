@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2983",
-	"modified": "2024-06-28T03:14:39.941192Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T12:59:50Z",
 	"aliases": [
 		"SNYK-JS-SAPLINGOUTPUTPLUGIN-3336015"
@@ -49,6 +49,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07256",
+				"import_time": "2024-10-24T00:58:19.132967028Z",
+				"modified_time": "2024-10-16T13:17:33Z",
+				"sha256": "2c8e6a3e1ca116f98698d93301e4ac052f81732b0771f1df58bf009e933da27f",
+				"source": "reversing-labs"
 			}
 		]
 	}

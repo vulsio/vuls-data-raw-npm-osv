@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2030",
-	"modified": "2024-06-25T12:34:37Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:34:37Z",
 	"summary": "Malicious code in cro-stakingtest (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"99.99.99"
 				]
+			},
+			{
+				"id": "RLUA-2024-06365",
+				"import_time": "2024-10-24T00:57:40.355268589Z",
+				"modified_time": "2024-10-16T12:41:50Z",
+				"sha256": "c1252f1f261aeeba7270094693421c6d02bc8f63a1126904c42841f5e4d11d7d",
+				"source": "reversing-labs"
 			}
 		]
 	}

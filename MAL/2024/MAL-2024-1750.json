@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1750",
-	"modified": "2024-06-25T12:25:52Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:25:52Z",
 	"summary": "Malicious code in amap-core (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"2.0.1",
 					"2.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06134",
+				"import_time": "2024-10-24T00:57:31.097245604Z",
+				"modified_time": "2024-10-16T12:29:10Z",
+				"sha256": "ee34ae246ce71537554464a0f181c9648eedd578dd2189745ed5b44912d966fd",
+				"source": "reversing-labs"
 			}
 		]
 	}

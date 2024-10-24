@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1854",
-	"modified": "2024-06-25T12:30:33Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:30:33Z",
 	"summary": "Malicious code in by-storage (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -48,6 +48,13 @@
 					"1.15.11",
 					"1250.6.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06262",
+				"import_time": "2024-10-24T00:57:36.922495638Z",
+				"modified_time": "2024-10-16T12:36:24Z",
+				"sha256": "7900c8508f26be696ef729f9a46daf60c8db98af82489ff56b40f1ed8b3c1143",
+				"source": "reversing-labs"
 			}
 		]
 	}

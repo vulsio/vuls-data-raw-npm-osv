@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2319",
-	"modified": "2024-06-25T12:41:39Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:41:39Z",
 	"summary": "Malicious code in eslint-config-bsee (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"99.99.99"
 				]
+			},
+			{
+				"id": "RLUA-2024-06507",
+				"import_time": "2024-10-24T00:57:47.507808831Z",
+				"modified_time": "2024-10-16T12:50:38Z",
+				"sha256": "6ff176af3ec5121e2af121162676abcfa5b5e3a46037276841c9cc6b1459d1a2",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3973",
-	"modified": "2024-06-25T13:22:27Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:22:27Z",
 	"summary": "Malicious code in xsolla-commerce-sdk (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"0.7.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07599",
+				"import_time": "2024-10-24T00:58:34.222899365Z",
+				"modified_time": "2024-10-16T13:46:24Z",
+				"sha256": "ca5bc15d9216840d2efa2ded1734e4ec4ba32f5a1643020ed32433348b91c4a7",
+				"source": "reversing-labs"
 			}
 		]
 	}

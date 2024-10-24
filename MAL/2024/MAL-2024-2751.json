@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2751",
-	"modified": "2024-06-25T12:52:41Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:52:41Z",
 	"summary": "Malicious code in newegg (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"10.0.1",
 					"10.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06955",
+				"import_time": "2024-10-24T00:58:06.982633596Z",
+				"modified_time": "2024-10-16T13:07:06Z",
+				"sha256": "577dbb555eaefa4e23bd174963b1e6b1c9602b35eb8435b671f778f46197d669",
+				"source": "reversing-labs"
 			}
 		]
 	}

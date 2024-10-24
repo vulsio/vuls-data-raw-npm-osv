@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3960",
-	"modified": "2024-06-25T13:22:10Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:22:10Z",
 	"summary": "Malicious code in worker-service (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"99.9.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-07583",
+				"import_time": "2024-10-24T00:58:33.399268414Z",
+				"modified_time": "2024-10-16T13:45:52Z",
+				"sha256": "f0e07b1978164bb742c20f4f682216570869bacff31e613c4add83a1f9a2b9a3",
+				"source": "reversing-labs"
 			}
 		]
 	}

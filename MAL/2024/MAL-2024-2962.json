@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2962",
-	"modified": "2024-06-25T12:58:55Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T12:58:55Z",
 	"summary": "Malicious code in rippling-flux-dev (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07211",
+				"import_time": "2024-10-24T00:58:17.912208739Z",
+				"modified_time": "2024-10-16T13:15:54Z",
+				"sha256": "65f75911b2f8888f8e78282f811bd53abea01f29387889a9b7a8f7d3e5186cab",
+				"source": "reversing-labs"
 			}
 		]
 	}

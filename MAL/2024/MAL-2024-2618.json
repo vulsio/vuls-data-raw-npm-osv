@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2618",
-	"modified": "2024-06-25T12:49:09Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:49:09Z",
 	"summary": "Malicious code in link-ui-i24n (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06842",
+				"import_time": "2024-10-24T00:58:02.430459942Z",
+				"modified_time": "2024-10-16T13:01:55Z",
+				"sha256": "37840978c027752617ab6e005bd18fb9681e632fc133429b01bf88ae59e21f59",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2414",
-	"modified": "2024-06-25T12:44:07Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:44:07Z",
 	"summary": "Malicious code in gdxgxvxdewt (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"99.99.999",
 					"99.99.998"
 				]
+			},
+			{
+				"id": "RLUA-2024-06624",
+				"import_time": "2024-10-24T00:57:52.603966334Z",
+				"modified_time": "2024-10-16T12:54:21Z",
+				"sha256": "c34bfd0439e8ac002e808ebc1a198980e5f38e4590fffcbfbd5ec5857806715c",
+				"source": "reversing-labs"
 			}
 		]
 	}

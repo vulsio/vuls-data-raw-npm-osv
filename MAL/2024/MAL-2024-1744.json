@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1744",
-	"modified": "2024-06-25T12:25:40Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:25:40Z",
 	"summary": "Malicious code in alive-cor (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"1.1.0",
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06128",
+				"import_time": "2024-10-24T00:57:30.591174466Z",
+				"modified_time": "2024-10-16T12:29:02Z",
+				"sha256": "7cede4456e12e0ff91117c8ad7d5675520017d66a8c1e998db8f72c97db8fbf4",
+				"source": "reversing-labs"
 			}
 		]
 	}

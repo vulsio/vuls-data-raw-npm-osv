@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3121",
-	"modified": "2024-06-25T13:04:04Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:04:04Z",
 	"summary": "Malicious code in this-will-fail (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"1.0.1",
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07446",
+				"import_time": "2024-10-24T00:58:26.897780147Z",
+				"modified_time": "2024-10-16T13:23:36Z",
+				"sha256": "12f6f569815f671cc36d7ed1c98dcf1f1e7211d8a6d05b7ad7baca599ba2ada1",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2628",
-	"modified": "2024-06-25T12:49:22Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:49:22Z",
 	"summary": "Malicious code in lldb-dap (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"9.1.0",
 					"9.12.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06853",
+				"import_time": "2024-10-24T00:58:03.247805229Z",
+				"modified_time": "2024-10-16T13:02:19Z",
+				"sha256": "fcf56cacfedf0e23727d8dfbf8636cf48cb6fc15767cd89fbebbb4243d7e12df",
+				"source": "reversing-labs"
 			}
 		]
 	}

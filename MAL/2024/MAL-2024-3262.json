@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3262",
-	"modified": "2024-06-28T03:14:43.111068Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:07:06Z",
 	"aliases": [
 		"SNYK-JS-UNIEAPANDROID-6044703"
@@ -55,6 +55,13 @@
 					"6.0.4",
 					"2.2.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-07502",
+				"import_time": "2024-10-24T00:58:29.672712471Z",
+				"modified_time": "2024-10-16T13:27:24Z",
+				"sha256": "b76e4d2d075872afe9d9a71de466299611e4363b64bedc8b0d865e50716cf9aa",
+				"source": "reversing-labs"
 			}
 		]
 	}

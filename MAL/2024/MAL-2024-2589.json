@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2589",
-	"modified": "2024-06-25T12:48:37Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:48:37Z",
 	"summary": "Malicious code in lab-npm-package (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -48,6 +48,13 @@
 					"3.0.0",
 					"2.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-06809",
+				"import_time": "2024-10-24T00:58:00.991638794Z",
+				"modified_time": "2024-10-16T13:01:04Z",
+				"sha256": "24b9d6d92af5f52711cabfdd730c9b4c9e29c3c1e608588d30adc758566a444a",
+				"source": "reversing-labs"
 			}
 		]
 	}

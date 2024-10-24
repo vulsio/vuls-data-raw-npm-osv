@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2075",
-	"modified": "2024-06-25T12:35:34Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:35:34Z",
 	"summary": "Malicious code in dep-c (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"1.0.1",
 					"1.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-06395",
+				"import_time": "2024-10-24T00:57:41.957660188Z",
+				"modified_time": "2024-10-16T12:43:10Z",
+				"sha256": "17a6e8b1a8318af4b6e1e037b669b3112ead423e2f2db3bbad796a7c65ea71de",
+				"source": "reversing-labs"
 			}
 		]
 	}

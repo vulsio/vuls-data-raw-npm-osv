@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2292",
-	"modified": "2024-06-25T12:41:10Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:41:10Z",
 	"summary": "Malicious code in embeddingdistributorlocal (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06484",
+				"import_time": "2024-10-24T00:57:46.285030403Z",
+				"modified_time": "2024-10-16T12:49:54Z",
+				"sha256": "ab55afb404d6567f9e3ac506a68550235f348110abddcbaf90170a644cb3b0ea",
+				"source": "reversing-labs"
 			}
 		]
 	}

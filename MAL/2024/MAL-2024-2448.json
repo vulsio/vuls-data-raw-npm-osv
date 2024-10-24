@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2448",
-	"modified": "2024-06-25T12:44:59Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:44:59Z",
 	"summary": "Malicious code in hackerone2222 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06670",
+				"import_time": "2024-10-24T00:57:55.177507645Z",
+				"modified_time": "2024-10-16T12:55:48Z",
+				"sha256": "6a128c5b4ce426a7ce13833b10d998ce4c3f757b15c5e8fa6b5fbade54383448",
+				"source": "reversing-labs"
 			}
 		]
 	}

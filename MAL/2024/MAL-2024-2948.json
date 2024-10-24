@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2948",
-	"modified": "2024-06-25T12:58:10Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T12:58:10Z",
 	"summary": "Malicious code in recurly-integrations (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"5.0.3"
 				]
+			},
+			{
+				"id": "RLUA-2024-07191",
+				"import_time": "2024-10-24T00:58:17.079321016Z",
+				"modified_time": "2024-10-16T13:14:51Z",
+				"sha256": "dd6a70d5cddf31cd0113b3ec83014898f6ecfa65d7b32ddebf04d15f98c280b0",
+				"source": "reversing-labs"
 			}
 		]
 	}

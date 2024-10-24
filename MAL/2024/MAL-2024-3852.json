@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3852",
-	"modified": "2024-06-25T13:19:42Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:19:42Z",
 	"summary": "Malicious code in wallet-connect-live-app (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07559",
+				"import_time": "2024-10-24T00:58:32.307672526Z",
+				"modified_time": "2024-10-16T13:42:51Z",
+				"sha256": "87f22e39d70a22ee8786dffb49e3769da9b9be490dcbf69fdcaaf05fda074bab",
+				"source": "reversing-labs"
 			}
 		]
 	}

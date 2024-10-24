@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2679",
-	"modified": "2024-06-25T12:50:54Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:50:54Z",
 	"summary": "Malicious code in msstore-purchase (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 					"99.9.9",
 					"9.9.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-06926",
+				"import_time": "2024-10-24T00:58:05.717326688Z",
+				"modified_time": "2024-10-16T13:04:48Z",
+				"sha256": "3fe0b30d577c4ab0a5fe446fbfde28b7af4f5bc92c9edd78c10e21fa34caab12",
+				"source": "reversing-labs"
 			}
 		]
 	}

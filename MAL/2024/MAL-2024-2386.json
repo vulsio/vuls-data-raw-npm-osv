@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2386",
-	"modified": "2024-06-25T12:43:23Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:43:23Z",
 	"summary": "Malicious code in fonts.macpaw.com (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"0.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06602",
+				"import_time": "2024-10-24T00:57:51.582911766Z",
+				"modified_time": "2024-10-16T12:53:25Z",
+				"sha256": "86be7e3b9fa7595cec30cb30fe8bcf021ffb990cf97acfa937dee26cc334b7de",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3987",
-	"modified": "2024-06-25T13:22:50Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:22:50Z",
 	"summary": "Malicious code in zloirock (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"11.9.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-07622",
+				"import_time": "2024-10-24T00:58:34.92789927Z",
+				"modified_time": "2024-10-16T13:47:08Z",
+				"sha256": "2a587a2681942c43429e0605a859c459e6e32706b90aaa8a4f64d6b525e3cc37",
+				"source": "reversing-labs"
 			}
 		]
 	}

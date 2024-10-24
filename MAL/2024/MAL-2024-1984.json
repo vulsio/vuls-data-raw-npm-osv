@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1984",
-	"modified": "2024-06-25T12:33:08Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:33:08Z",
 	"summary": "Malicious code in circle-flags (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"2.3.20"
 				]
+			},
+			{
+				"id": "RLUA-2024-06297",
+				"import_time": "2024-10-24T00:57:38.720910503Z",
+				"modified_time": "2024-10-16T12:39:47Z",
+				"sha256": "976374845d9917735ffcf11fe4d49ff2cf31cb3cf7607b219767fedc1cdd3edf",
+				"source": "reversing-labs"
 			}
 		]
 	}

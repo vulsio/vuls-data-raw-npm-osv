@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2826",
-	"modified": "2024-06-25T12:54:52Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:54:52Z",
 	"summary": "Malicious code in package-inherit (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"9.9.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-07057",
+				"import_time": "2024-10-24T00:58:11.610069974Z",
+				"modified_time": "2024-10-16T13:10:13Z",
+				"sha256": "210ec3d97460075e3a25c0022246723b38aca3f50acda874c3fcf24266d7655a",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2031",
-	"modified": "2024-06-25T12:34:37Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:34:37Z",
 	"summary": "Malicious code in crosswalker (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"1.0.1",
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06366",
+				"import_time": "2024-10-24T00:57:40.422716816Z",
+				"modified_time": "2024-10-16T12:41:51Z",
+				"sha256": "3836b56aa95dfca87e242dbd470349f3f9cf85007f4c9af2e333e7da622c99dc",
+				"source": "reversing-labs"
 			}
 		]
 	}

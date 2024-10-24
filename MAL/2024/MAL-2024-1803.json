@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1803",
-	"modified": "2024-06-25T12:20:06Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:20:06Z",
 	"summary": "Malicious code in @golden-stack/babel-web (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,23 @@
 				"versions": [
 					"1.99.0"
 				]
+			},
+			{
+				"id": "RLMA-2024-00087",
+				"import_time": "2024-10-24T00:49:18.664136743Z",
+				"modified_time": "2024-06-25T12:20:06Z",
+				"sha256": "0981d16eb1eea91a01ebe092a9abf0969e67621b089e7a9a79c88ce1180c2462",
+				"source": "reversing-labs",
+				"versions": [
+					"1.99.0"
+				]
+			},
+			{
+				"id": "RLUA-2024-05938",
+				"import_time": "2024-10-24T00:57:19.115012487Z",
+				"modified_time": "2024-10-16T12:22:31Z",
+				"sha256": "fc682856d18f317db56f74b407874d9acfdb981d6a00626bd420da31da6d3e3f",
+				"source": "reversing-labs"
 			}
 		]
 	}

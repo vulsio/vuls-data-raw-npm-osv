@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2020",
-	"modified": "2024-06-25T12:34:21Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:34:21Z",
 	"summary": "Malicious code in console3-dropdown (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -48,6 +48,13 @@
 					"3.0.47",
 					"3.0.44"
 				]
+			},
+			{
+				"id": "RLUA-2024-06352",
+				"import_time": "2024-10-24T00:57:40.011600813Z",
+				"modified_time": "2024-10-16T12:41:22Z",
+				"sha256": "f8b285a4147277ccbbc2960b13e4f73a787e970c58100f772b3c54142f64fd4c",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2536",
-	"modified": "2024-06-25T12:47:22Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:47:22Z",
 	"summary": "Malicious code in item-shop-data-client (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"99.99.100",
 					"99.99.99"
 				]
+			},
+			{
+				"id": "RLUA-2024-06758",
+				"import_time": "2024-10-24T00:57:58.654058101Z",
+				"modified_time": "2024-10-16T12:59:10Z",
+				"sha256": "b92a995a7848185c75d9a6f287447932c7f85db1bf151c7dd9c923ee349b2eb7",
+				"source": "reversing-labs"
 			}
 		]
 	}

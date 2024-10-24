@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2667",
-	"modified": "2024-06-28T03:14:37.275297Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:50:37Z",
 	"aliases": [
 		"SNYK-JS-MOBILEAUTHLIBRARYREACTNATIVE-3326408"
@@ -55,6 +55,13 @@
 					"1.3.8",
 					"0.9.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06912",
+				"import_time": "2024-10-24T00:58:05.22302235Z",
+				"modified_time": "2024-10-16T13:04:19Z",
+				"sha256": "be6980fd37c26b9cb1f41599dd26e05de3570257336b2ba2ccc49c08103e1546",
+				"source": "reversing-labs"
 			}
 		]
 	}

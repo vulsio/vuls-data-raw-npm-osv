@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2977",
-	"modified": "2024-06-25T12:59:34Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T12:59:34Z",
 	"summary": "Malicious code in rush-command-parameters-plugin (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07233",
+				"import_time": "2024-10-24T00:58:18.875580495Z",
+				"modified_time": "2024-10-16T13:16:50Z",
+				"sha256": "6fca916274e1c4203a2089a50ca814e7ee57ec212cdc1a47b2c778f946b19c86",
+				"source": "reversing-labs"
 			}
 		]
 	}

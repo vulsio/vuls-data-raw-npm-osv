@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3805",
-	"modified": "2024-06-28T03:14:43.382241Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:18:35Z",
 	"aliases": [
 		"SNYK-JS-USESYNCEXTERNALSTORESHIM-3336025"
@@ -51,6 +51,13 @@
 					"1.0.1",
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07514",
+				"import_time": "2024-10-24T00:58:30.524260813Z",
+				"modified_time": "2024-10-16T13:41:07Z",
+				"sha256": "e564acfcf749713592d686ed750e2674dd9269fca9706eb7bb10642b93e5afc0",
+				"source": "reversing-labs"
 			}
 		]
 	}

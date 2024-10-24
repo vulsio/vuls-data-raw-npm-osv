@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2430",
-	"modified": "2024-06-25T12:44:34Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:44:34Z",
 	"summary": "Malicious code in gp-colors (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06648",
+				"import_time": "2024-10-24T00:57:53.834336198Z",
+				"modified_time": "2024-10-16T12:55:06Z",
+				"sha256": "f93afd89eecc0af8a9c85c130545d0d68183b4afaf407035ebd605ecb4de2634",
+				"source": "reversing-labs"
 			}
 		]
 	}

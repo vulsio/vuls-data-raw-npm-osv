@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2019",
-	"modified": "2024-06-25T12:34:20Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:34:20Z",
 	"summary": "Malicious code in console-webapp (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"1.1.0",
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06351",
+				"import_time": "2024-10-24T00:57:39.945029889Z",
+				"modified_time": "2024-10-16T12:41:21Z",
+				"sha256": "7ae597a9d539a2e22ecf6cc89615914f0a96cb5f378109b0d9c37a5e60735552",
+				"source": "reversing-labs"
 			}
 		]
 	}

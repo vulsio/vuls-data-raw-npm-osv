@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2308",
-	"modified": "2024-06-25T12:19:30Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:19:30Z",
 	"summary": "Malicious code in @epgu/epgu-constructor-types (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -44,6 +44,25 @@
 					"0.0.118029",
 					"0.0.118028"
 				]
+			},
+			{
+				"id": "RLMA-2024-00058",
+				"import_time": "2024-10-24T00:49:15.662176379Z",
+				"modified_time": "2024-06-25T12:19:30Z",
+				"sha256": "1ad8d7492d2f9714404208910b9ba48359e43097eb7e7e4384377022eeac2600",
+				"source": "reversing-labs",
+				"versions": [
+					"0.0.118039",
+					"0.0.118029",
+					"0.0.118028"
+				]
+			},
+			{
+				"id": "RLUA-2024-05908",
+				"import_time": "2024-10-24T00:57:17.344866171Z",
+				"modified_time": "2024-10-16T12:21:46Z",
+				"sha256": "9fd82a7f5d8058c71231a1fa38465268d1a3483d287ef2373a5b96d2f401a659",
+				"source": "reversing-labs"
 			}
 		]
 	}

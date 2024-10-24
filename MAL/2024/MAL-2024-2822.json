@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2822",
-	"modified": "2024-06-25T12:54:40Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:54:40Z",
 	"summary": "Malicious code in pa-mojs (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.3.8"
 				]
+			},
+			{
+				"id": "RLUA-2024-07053",
+				"import_time": "2024-10-24T00:58:11.314844491Z",
+				"modified_time": "2024-10-16T13:10:09Z",
+				"sha256": "c5b3dff6e2f1cd60358969148f9bfca3f3a9a6e5b05d4a78471160cef78989d7",
+				"source": "reversing-labs"
 			}
 		]
 	}

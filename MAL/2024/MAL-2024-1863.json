@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1863",
-	"modified": "2024-06-25T12:30:39Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:30:39Z",
 	"summary": "Malicious code in carrier-portal-ui (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -44,6 +44,13 @@
 					"2.18.1-RC",
 					"2.18.0-RC"
 				]
+			},
+			{
+				"id": "RLUA-2024-06272",
+				"import_time": "2024-10-24T00:57:37.412857982Z",
+				"modified_time": "2024-10-16T12:36:37Z",
+				"sha256": "6e381ae2d9d5922344d39724a9818a0eda188b1c79fc97747ed57f267817b9fe",
+				"source": "reversing-labs"
 			}
 		]
 	}

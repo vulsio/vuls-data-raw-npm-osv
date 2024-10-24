@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2309",
-	"modified": "2024-06-25T12:41:35Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:41:35Z",
 	"summary": "Malicious code in epic-lit-media-query (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -16,11 +16,20 @@
 				"2.0.4",
 				"2.0.2",
 				"2.0.3",
-				"2.0.1"
+				"2.0.1",
+				"1.0.0",
+				"2.0.0",
+				"99.0.0"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/epic-lit-media-query/MAL-2024-2309.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "WEB",
+			"url": "https://socket.dev/npm/category/removed"
 		}
 	],
 	"credits": [
@@ -45,6 +54,18 @@
 					"2.0.2",
 					"2.0.3",
 					"2.0.1"
+				]
+			},
+			{
+				"id": "RLUA-2024-06502",
+				"import_time": "2024-10-24T00:57:47.214665046Z",
+				"modified_time": "2024-10-16T12:50:25Z",
+				"sha256": "0dc85a0cba27cf30eb55d6049921631500b133fa93f5a286182ceba5f64d8f10",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.0",
+					"2.0.0",
+					"99.0.0"
 				]
 			}
 		]

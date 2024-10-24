@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1710",
-	"modified": "2024-06-25T12:24:33Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:24:33Z",
 	"summary": "Malicious code in aabquery (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -48,6 +48,13 @@
 					"1.0.1",
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06097",
+				"import_time": "2024-10-24T00:57:28.720549851Z",
+				"modified_time": "2024-10-16T12:27:38Z",
+				"sha256": "cb4eff5ab49fa48d419ad58986a89fc0de071ffd3f8508dea23ca747b4d8a755",
+				"source": "reversing-labs"
 			}
 		]
 	}

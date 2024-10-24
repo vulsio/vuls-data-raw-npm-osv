@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2772",
-	"modified": "2024-06-25T12:53:24Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:53:24Z",
 	"summary": "Malicious code in npm_package_dependencies__shopify_monorail (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"2.6.3"
 				]
+			},
+			{
+				"id": "RLUA-2024-06992",
+				"import_time": "2024-10-24T00:58:08.305319991Z",
+				"modified_time": "2024-10-16T13:08:08Z",
+				"sha256": "07c59e25631c2c95f64b75198a3375dec7f4b9d71dcee88bd06c5c345eae4622",
+				"source": "reversing-labs"
 			}
 		]
 	}

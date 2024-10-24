@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1739",
-	"modified": "2024-06-25T12:25:37Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:25:37Z",
 	"summary": "Malicious code in ajv-8.11.0 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"8.11.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06125",
+				"import_time": "2024-10-24T00:57:30.471624739Z",
+				"modified_time": "2024-10-16T12:28:51Z",
+				"sha256": "6993670824dc7f359c25d8170dec5401e31f8864792b14779925da1eca60d633",
+				"source": "reversing-labs"
 			}
 		]
 	}

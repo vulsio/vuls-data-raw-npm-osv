@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2997",
-	"modified": "2024-06-25T13:00:23Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:00:23Z",
 	"summary": "Malicious code in security-malware-firewall (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"6.6.6",
 					"6.6.7"
 				]
+			},
+			{
+				"id": "RLUA-2024-07276",
+				"import_time": "2024-10-24T00:58:19.726737303Z",
+				"modified_time": "2024-10-16T13:18:12Z",
+				"sha256": "aa8f788e6708fea86a4662eee7b79d8b1c44175f06c8b1a83536d384be098112",
+				"source": "reversing-labs"
 			}
 		]
 	}

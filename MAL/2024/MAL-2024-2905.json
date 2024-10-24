@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2905",
-	"modified": "2024-06-25T12:56:49Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:56:49Z",
 	"summary": "Malicious code in pxs-map (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"99.99.991",
 					"99.99.99"
 				]
+			},
+			{
+				"id": "RLUA-2024-07152",
+				"import_time": "2024-10-24T00:58:15.402737893Z",
+				"modified_time": "2024-10-16T13:13:12Z",
+				"sha256": "c4d3e73bf7bfe8fcf677c415e67d313916be84a3bd35782d8c807c4a91704e9e",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2332",
-	"modified": "2024-06-25T12:41:55Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:41:55Z",
 	"summary": "Malicious code in eslint-plugin-zammad (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"1.0.1",
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06519",
+				"import_time": "2024-10-24T00:57:48.354420556Z",
+				"modified_time": "2024-10-16T12:51:02Z",
+				"sha256": "e0da801fc4f81112a7ccb54fa6a0807c59a0d19a0555d17df517fd4d16693539",
+				"source": "reversing-labs"
 			}
 		]
 	}

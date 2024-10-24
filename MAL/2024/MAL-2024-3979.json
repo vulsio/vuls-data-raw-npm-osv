@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3979",
-	"modified": "2024-06-28T03:14:39.417270Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:22:14Z",
 	"aliases": [
 		"SNYK-JS-REALTYFRONTYDB-3326429"
@@ -55,6 +55,26 @@
 					"1.13.2",
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLMA-2024-00189",
+				"import_time": "2024-10-24T00:49:26.209200622Z",
+				"modified_time": "2024-06-25T12:22:14Z",
+				"sha256": "6ed47a5d6a37a0d37515818a0fe0d975cc71bde11f4d90e0a13a6eedabcb92a6",
+				"source": "reversing-labs",
+				"versions": [
+					"1.13.1",
+					"1.0.1",
+					"1.13.2",
+					"1.0.0"
+				]
+			},
+			{
+				"id": "RLUA-2024-06031",
+				"import_time": "2024-10-24T00:57:26.027996165Z",
+				"modified_time": "2024-10-16T12:24:51Z",
+				"sha256": "a3724829eab730e8e11f9f975c6c1b4a8a4c6e76cd33a2898d12581c205c4b92",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1787",
-	"modified": "2024-06-25T12:28:54Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:28:54Z",
 	"summary": "Malicious code in avro-to-typescript (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"6.1.1",
 					"6.3.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06185",
+				"import_time": "2024-10-24T00:57:33.362314787Z",
+				"modified_time": "2024-10-16T12:33:03Z",
+				"sha256": "afaf4af25cab600bcecfaffa1d2dbf43d3e8fe3c2f39ac6019309227addc2460",
+				"source": "reversing-labs"
 			}
 		]
 	}

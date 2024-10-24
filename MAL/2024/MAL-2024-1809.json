@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1809",
-	"modified": "2024-06-25T12:29:23Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:29:23Z",
 	"summary": "Malicious code in ban-notifier6 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06205",
+				"import_time": "2024-10-24T00:57:34.497083754Z",
+				"modified_time": "2024-10-16T12:34:41Z",
+				"sha256": "1cb28f1f4ac5dbfbedb3b959463b09bac4980c2c659fa202275188c243fec5d6",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1777",
-	"modified": "2024-06-25T12:28:33Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:28:33Z",
 	"summary": "Malicious code in asgiref (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06163",
+				"import_time": "2024-10-24T00:57:32.576150474Z",
+				"modified_time": "2024-10-16T12:32:22Z",
+				"sha256": "e418b5a9acb032eea14c8a1af83b8b9c16d7800c2b7ba0a908ee85f0ebb863b0",
+				"source": "reversing-labs"
 			}
 		]
 	}

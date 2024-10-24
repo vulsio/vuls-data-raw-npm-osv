@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1987",
-	"modified": "2024-06-25T12:33:11Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:33:11Z",
 	"summary": "Malicious code in cleantalk-spam-protect (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"2.2.2",
 					"2.2.3"
 				]
+			},
+			{
+				"id": "RLUA-2024-06305",
+				"import_time": "2024-10-24T00:57:38.958258185Z",
+				"modified_time": "2024-10-16T12:39:54Z",
+				"sha256": "a8b338eb2d7c2bd7221ff95e997a3aa2353b1758f0d4b48839fe2df8c577a03f",
+				"source": "reversing-labs"
 			}
 		]
 	}

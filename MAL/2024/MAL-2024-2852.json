@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2852",
-	"modified": "2024-06-25T12:55:27Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:55:27Z",
 	"summary": "Malicious code in pb-styles-v1 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"5.1.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-07083",
+				"import_time": "2024-10-24T00:58:13.233269291Z",
+				"modified_time": "2024-10-16T13:10:53Z",
+				"sha256": "74527774c46fc294106d07044caa75fffe94e6f788173f65430302e9df2d45f7",
+				"source": "reversing-labs"
 			}
 		]
 	}

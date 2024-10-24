@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1771",
-	"modified": "2024-06-25T12:28:22Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:28:22Z",
 	"summary": "Malicious code in areyoustillindexing (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"69.2.22"
 				]
+			},
+			{
+				"id": "RLUA-2024-06154",
+				"import_time": "2024-10-24T00:57:32.200493823Z",
+				"modified_time": "2024-10-16T12:32:08Z",
+				"sha256": "e8222cc7c24deee863d43d77536573e99a1ab8aa394ef489ffc4a487f1f8caf3",
+				"source": "reversing-labs"
 			}
 		]
 	}

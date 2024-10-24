@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3129",
-	"modified": "2024-06-25T13:04:10Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:04:10Z",
 	"summary": "Malicious code in tisense-config (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07456",
+				"import_time": "2024-10-24T00:58:27.383294341Z",
+				"modified_time": "2024-10-16T13:23:53Z",
+				"sha256": "9385d9f66abc96492f1a8ace14fc2ba1a15c1d894fdde553d5d85309ea16ebd7",
+				"source": "reversing-labs"
 			}
 		]
 	}

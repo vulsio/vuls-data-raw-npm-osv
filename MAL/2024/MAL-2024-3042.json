@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3042",
-	"modified": "2024-06-25T13:01:47Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:01:47Z",
 	"summary": "Malicious code in sq-icons (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"9999.0.99"
 				]
+			},
+			{
+				"id": "RLUA-2024-07347",
+				"import_time": "2024-10-24T00:58:22.076486888Z",
+				"modified_time": "2024-10-16T13:20:22Z",
+				"sha256": "e7d4e01acdbce7bc4a041ac5677411cb215241880fb5d7bf68cf27aaac4768ee",
+				"source": "reversing-labs"
 			}
 		]
 	}

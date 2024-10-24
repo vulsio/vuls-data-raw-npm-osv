@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2853",
-	"modified": "2024-06-25T12:55:33Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:55:33Z",
 	"summary": "Malicious code in pco-apigw-common-layer (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.33"
 				]
+			},
+			{
+				"id": "RLUA-2024-07084",
+				"import_time": "2024-10-24T00:58:13.29587123Z",
+				"modified_time": "2024-10-16T13:10:54Z",
+				"sha256": "b115207f6570bd24feb92c78becce45db86cd16270c41484d4ed96cfa33a0ec0",
+				"source": "reversing-labs"
 			}
 		]
 	}

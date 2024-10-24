@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1960",
-	"modified": "2024-06-25T12:32:42Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:32:42Z",
 	"summary": "Malicious code in ccl-styles-2016 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.7.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06276",
+				"import_time": "2024-10-24T00:57:37.706480786Z",
+				"modified_time": "2024-10-16T12:39:04Z",
+				"sha256": "eda3de23fd52e977c28ce2734b49ee85820ae19d8f0eae4c081d732119eb96e4",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2999",
-	"modified": "2024-06-25T13:00:25Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:00:25Z",
 	"summary": "Malicious code in self-service-sigma-account (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"9.9.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-07280",
+				"import_time": "2024-10-24T00:58:19.91590128Z",
+				"modified_time": "2024-10-16T13:18:20Z",
+				"sha256": "9ad7dcd3582cfc190912b82e882d8f0655f1ad1c97043ecb5094b5a9f695ef98",
+				"source": "reversing-labs"
 			}
 		]
 	}

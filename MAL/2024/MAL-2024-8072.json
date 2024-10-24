@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-8072",
-	"modified": "2024-08-30T00:44:23.901003Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-08-29T09:17:21Z",
 	"aliases": [
 		"GHSA-cmxm-xmx3-r537"
@@ -25,6 +25,10 @@
 					]
 				}
 			],
+			"versions": [
+				"1.0.2",
+				"1.0.3"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-cmxm-xmx3-r537"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +74,17 @@
 				],
 				"sha256": "71538fff3798a2b42ad1f28f2cbd053e501b0e143b563f0334e005a1ed152e24",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-06462",
+				"import_time": "2024-10-24T00:56:20.28797226Z",
+				"modified_time": "2024-10-16T12:49:10Z",
+				"sha256": "ff48a856e54ee48fde5499035886adc5a2956cea158a9366fdc638d8cb39a565",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.2",
+					"1.0.3"
+				]
 			}
 		]
 	}

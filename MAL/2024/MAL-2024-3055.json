@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3055",
-	"modified": "2024-06-25T13:02:06Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:02:06Z",
 	"summary": "Malicious code in stitch-ui-toolbox (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 					"99.9.9",
 					"9.9.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-07363",
+				"import_time": "2024-10-24T00:58:22.746442832Z",
+				"modified_time": "2024-10-16T13:20:52Z",
+				"sha256": "8b066f4bf8b652375a156c53e369c3a3c181fde39cd856e797ad5d2c492c0b79",
+				"source": "reversing-labs"
 			}
 		]
 	}

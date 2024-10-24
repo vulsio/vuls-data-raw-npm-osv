@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2096",
-	"modified": "2024-06-25T12:36:22Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:36:22Z",
 	"summary": "Malicious code in discord-v14-selfbot (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -58,6 +58,13 @@
 					"1.0.3",
 					"1.0.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-06421",
+				"import_time": "2024-10-24T00:57:43.348788519Z",
+				"modified_time": "2024-10-16T12:44:04Z",
+				"sha256": "8c35058c3b3994a1abfebf4b5614d55a06204e0a48a7c44efb3805a897e9acc3",
+				"source": "reversing-labs"
 			}
 		]
 	}

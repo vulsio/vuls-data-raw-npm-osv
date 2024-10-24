@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3964",
-	"modified": "2024-06-25T13:22:19Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:22:19Z",
 	"summary": "Malicious code in wwc22docker (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"2.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-07589",
+				"import_time": "2024-10-24T00:58:33.663401543Z",
+				"modified_time": "2024-10-16T13:46:06Z",
+				"sha256": "3e735531a34007cda417d8119ef7bad0d004c47b667c52cd97e8910bdea3b9a0",
+				"source": "reversing-labs"
 			}
 		]
 	}

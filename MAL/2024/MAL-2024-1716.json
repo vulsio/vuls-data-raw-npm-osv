@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1716",
-	"modified": "2024-09-23T12:09:01Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:24:40Z",
 	"summary": "Malicious code in ably-cli (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (d967a47be503ff66f55656b06164bada463c061062132aa799b7a22e5856b6f0)\nThe OpenSSF Package Analysis project identified 'ably-cli' @ 1.0.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
@@ -64,6 +64,13 @@
 				"versions": [
 					"1.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06104",
+				"import_time": "2024-10-24T00:57:29.157176149Z",
+				"modified_time": "2024-10-16T12:27:54Z",
+				"sha256": "2f100649146e502eae1934fc8f870190ccbd29f63e506c690d52669efe7dc324",
+				"source": "reversing-labs"
 			}
 		]
 	}

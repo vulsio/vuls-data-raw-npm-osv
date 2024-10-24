@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3969",
-	"modified": "2024-06-25T13:22:22Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:22:22Z",
 	"summary": "Malicious code in xcode-staple (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-07593",
+				"import_time": "2024-10-24T00:58:33.897206592Z",
+				"modified_time": "2024-10-16T13:46:12Z",
+				"sha256": "371c93abf01e80a0c8a1c0e0898845ef6f0b2f8d9cf26899a213272d70249bc1",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3825",
-	"modified": "2024-06-25T13:19:05Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:19:05Z",
 	"summary": "Malicious code in vforemon (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.999.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07532",
+				"import_time": "2024-10-24T00:58:31.132148033Z",
+				"modified_time": "2024-10-16T13:41:53Z",
+				"sha256": "358f4787f448bbb7503f01e9e761f359607b431724bb22b04fda4ec744dd37a9",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-7475",
-	"modified": "2024-07-11T00:44:47.668977Z",
+	"modified": "2024-10-24T01:26:56.240491Z",
 	"published": "2024-07-11T00:26:35Z",
 	"aliases": [
-		"GHSA-gf2q-737p-9c47"
+		"GHSA-gf2q-737p-9c47",
+		"SNYK-JS-STYLISHHTEKS-7435751"
 	],
 	"summary": "Malicious code in stylishhteks (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (ab7ae115a3f473013d0ef082a8248081b7ba44388a767650b9cf36ff622e657b)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"2.0.1"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-gf2q-737p-9c47"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-STYLISHHTEKS-7435751"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.phylum.io/persistent-npm-campaign-shipping-trojanized-jquery"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +82,16 @@
 				],
 				"sha256": "ab7ae115a3f473013d0ef082a8248081b7ba44388a767650b9cf36ff622e657b",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-07376",
+				"import_time": "2024-10-24T00:56:46.884860669Z",
+				"modified_time": "2024-10-16T13:21:18Z",
+				"sha256": "a75e4b304071c1af222c63eb02e32edffeb740264ec82c6b15d1d9f65049bda0",
+				"source": "reversing-labs",
+				"versions": [
+					"2.0.1"
+				]
 			}
 		]
 	}

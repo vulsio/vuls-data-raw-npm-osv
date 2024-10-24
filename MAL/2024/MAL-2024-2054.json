@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2054",
-	"modified": "2024-06-25T12:35:10Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:35:10Z",
 	"summary": "Malicious code in cz-react-ui-library (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"8.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06381",
+				"import_time": "2024-10-24T00:57:41.177756912Z",
+				"modified_time": "2024-10-16T12:42:38Z",
+				"sha256": "4e3453be3f6b5eefb6b66f4829d510e62c403084c0d448d514d9a3be646452a6",
+				"source": "reversing-labs"
 			}
 		]
 	}

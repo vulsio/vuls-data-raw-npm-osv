@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1834",
-	"modified": "2024-06-28T03:14:31.854591Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:30:04Z",
 	"aliases": [
 		"SNYK-JS-BORSCHIKWEBPINTERNAL-3336137"
@@ -59,6 +59,13 @@
 					"2.15.9",
 					"2.15.10"
 				]
+			},
+			{
+				"id": "RLUA-2024-06235",
+				"import_time": "2024-10-24T00:57:35.662898954Z",
+				"modified_time": "2024-10-16T12:35:36Z",
+				"sha256": "61ce6e78e93ac73a0dbc6292ae3d72177ced53a92c28974aa131c4e3804ce999",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2590",
-	"modified": "2024-06-25T12:48:39Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:48:39Z",
 	"summary": "Malicious code in lampwirecompete (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06811",
+				"import_time": "2024-10-24T00:58:01.051842707Z",
+				"modified_time": "2024-10-16T13:01:06Z",
+				"sha256": "8268054222c1083c7cead89bbba4f6a539ef626259a4bd7b90d3ec674b2518fe",
+				"source": "reversing-labs"
 			}
 		]
 	}

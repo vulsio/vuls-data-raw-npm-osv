@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2542",
-	"modified": "2024-06-25T12:47:33Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:47:33Z",
 	"summary": "Malicious code in jetpack-custom-fonts (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"2.1.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06763",
+				"import_time": "2024-10-24T00:57:58.870868185Z",
+				"modified_time": "2024-10-16T12:59:21Z",
+				"sha256": "fb959a678c68d09c473404b16fd7973461f8e8636e4d12c89819742bccb24b5d",
+				"source": "reversing-labs"
 			}
 		]
 	}

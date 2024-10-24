@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2294",
-	"modified": "2024-06-25T12:41:12Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:41:12Z",
 	"summary": "Malicious code in ember-nf-graph-examples (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.5.5"
 				]
+			},
+			{
+				"id": "RLUA-2024-06486",
+				"import_time": "2024-10-24T00:57:46.413844139Z",
+				"modified_time": "2024-10-16T12:49:55Z",
+				"sha256": "ac0b87c6c57821b0eee8e126875c9d4aaaaa3d2a548ae0f60b694e25c874bcca",
+				"source": "reversing-labs"
 			}
 		]
 	}

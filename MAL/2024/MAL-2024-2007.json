@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2007",
-	"modified": "2024-06-25T12:34:09Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:34:09Z",
 	"summary": "Malicious code in compassrnsampleapp (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"0.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06339",
+				"import_time": "2024-10-24T00:57:39.693948733Z",
+				"modified_time": "2024-10-16T12:41:02Z",
+				"sha256": "d675b7c159b4b5b8fc15973ac6f4f4dbc94c65a06cadf8796e4b06ec072df2f6",
+				"source": "reversing-labs"
 			}
 		]
 	}

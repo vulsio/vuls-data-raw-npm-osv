@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3050",
-	"modified": "2024-06-25T12:21:14Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:21:14Z",
 	"summary": "Malicious code in @mosfe/sso-sdk (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,23 @@
 				"versions": [
 					"0.0.6"
 				]
+			},
+			{
+				"id": "RLMA-2024-00142",
+				"import_time": "2024-10-24T00:49:22.691386828Z",
+				"modified_time": "2024-06-25T12:21:14Z",
+				"sha256": "650f7d75d02e22c7a3490a2f25364f3d006711c50e0125c1bc1cdd2504ae7bc5",
+				"source": "reversing-labs",
+				"versions": [
+					"0.0.6"
+				]
+			},
+			{
+				"id": "RLUA-2024-05985",
+				"import_time": "2024-10-24T00:57:23.10719982Z",
+				"modified_time": "2024-10-16T12:23:42Z",
+				"sha256": "c6d5555d2e51a27d865e389c6bd292a487ff89f055f9fd8b3d692a7d7ab05fce",
+				"source": "reversing-labs"
 			}
 		]
 	}

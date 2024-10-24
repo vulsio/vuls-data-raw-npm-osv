@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2640",
-	"modified": "2024-06-25T12:49:39Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:49:39Z",
 	"summary": "Malicious code in lp-test-123 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"7.7.8"
 				]
+			},
+			{
+				"id": "RLUA-2024-06864",
+				"import_time": "2024-10-24T00:58:03.779775211Z",
+				"modified_time": "2024-10-16T13:02:48Z",
+				"sha256": "9811cbcbaef569d1cd7ffd2bbe491e944fb90f9dc21f34498922912c513d9956",
+				"source": "reversing-labs"
 			}
 		]
 	}

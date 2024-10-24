@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1965",
-	"modified": "2024-06-25T12:32:50Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:32:50Z",
 	"summary": "Malicious code in ccp-login-url-helper (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"3.0.8"
 				]
+			},
+			{
+				"id": "RLUA-2024-06281",
+				"import_time": "2024-10-24T00:57:38.111248857Z",
+				"modified_time": "2024-10-16T12:39:08Z",
+				"sha256": "b9fad106addb9b76d97677df29dce9565f6d144fda2e08a066892b9c43dc87b1",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2098",
-	"modified": "2024-06-25T12:36:26Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:36:26Z",
 	"summary": "Malicious code in discord.js-dmallfriends-v11 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"3.18.5",
 					"2.17.5"
 				]
+			},
+			{
+				"id": "RLUA-2024-06423",
+				"import_time": "2024-10-24T00:57:43.450461956Z",
+				"modified_time": "2024-10-16T12:44:07Z",
+				"sha256": "ae3600fccd1f149bbfaf1655c94b406770e4f4fba01841fd52777c9234db49e8",
+				"source": "reversing-labs"
 			}
 		]
 	}

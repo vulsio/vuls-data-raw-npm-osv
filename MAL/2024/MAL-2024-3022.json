@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3022",
-	"modified": "2024-06-25T13:00:55Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:00:55Z",
 	"summary": "Malicious code in skud-client-base (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07311",
+				"import_time": "2024-10-24T00:58:21.075715022Z",
+				"modified_time": "2024-10-16T13:19:20Z",
+				"sha256": "c8b964d82fe83ff3f440720963f334189fb38781c2dc8b97691f643c30c46234",
+				"source": "reversing-labs"
 			}
 		]
 	}

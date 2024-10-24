@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1791",
-	"modified": "2024-06-25T12:29:03Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:29:03Z",
 	"summary": "Malicious code in aws-ecs-devops-using-aws-cdk (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"1.0.1",
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06192",
+				"import_time": "2024-10-24T00:57:33.677379843Z",
+				"modified_time": "2024-10-16T12:33:10Z",
+				"sha256": "0c87e46ca6422879342588aaded02eb9e35803e7ae02dda299852ee20d14abb5",
+				"source": "reversing-labs"
 			}
 		]
 	}

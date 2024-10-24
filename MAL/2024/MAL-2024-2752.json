@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2752",
-	"modified": "2024-06-25T12:52:42Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:52:42Z",
 	"summary": "Malicious code in news-site (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"1.176.100",
 					"1.176.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06956",
+				"import_time": "2024-10-24T00:58:07.035483671Z",
+				"modified_time": "2024-10-16T13:07:08Z",
+				"sha256": "a19192f19f6102260714dac51ef1d3fd1d6dd1cf5c5e65357def9031c6e5ca40",
+				"source": "reversing-labs"
 			}
 		]
 	}

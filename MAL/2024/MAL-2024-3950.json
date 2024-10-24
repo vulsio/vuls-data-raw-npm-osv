@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3950",
-	"modified": "2024-06-25T13:21:52Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:21:52Z",
 	"summary": "Malicious code in wfui-digital-core (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.9.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07577",
+				"import_time": "2024-10-24T00:58:33.17638141Z",
+				"modified_time": "2024-10-16T13:45:27Z",
+				"sha256": "55c10b7897b918d88f5685c56101d317c56a22f56f7ef4c77e0e1b4362d7f64b",
+				"source": "reversing-labs"
 			}
 		]
 	}

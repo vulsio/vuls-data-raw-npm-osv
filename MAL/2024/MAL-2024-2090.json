@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2090",
-	"modified": "2024-06-25T12:36:06Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:36:06Z",
 	"summary": "Malicious code in devoxx-demo-confusion (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"0.0.10"
 				]
+			},
+			{
+				"id": "RLUA-2024-06411",
+				"import_time": "2024-10-24T00:57:42.988050829Z",
+				"modified_time": "2024-10-16T12:43:39Z",
+				"sha256": "7882cf9cd3304d54a732e233c24d4c76046592c3c0f3cd3ec475e7f60ffa1934",
+				"source": "reversing-labs"
 			}
 		]
 	}

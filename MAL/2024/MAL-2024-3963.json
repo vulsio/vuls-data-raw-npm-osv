@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3963",
-	"modified": "2024-06-28T03:14:43.933835Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:22:13Z",
 	"aliases": [
 		"SNYK-JS-WSPASOJSSDK-5840596"
@@ -53,6 +53,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07588",
+				"import_time": "2024-10-24T00:58:33.586500813Z",
+				"modified_time": "2024-10-16T13:46:04Z",
+				"sha256": "58f52200bde029d32e971d7dfae9be0b6a6715a94c066ef43335f341f2db5733",
+				"source": "reversing-labs"
 			}
 		]
 	}

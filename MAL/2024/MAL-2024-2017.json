@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2017",
-	"modified": "2024-06-25T12:34:19Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:34:19Z",
 	"summary": "Malicious code in consensys-v2 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -44,6 +44,13 @@
 					"99.0.0",
 					"99.2.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06348",
+				"import_time": "2024-10-24T00:57:39.853007451Z",
+				"modified_time": "2024-10-16T12:41:18Z",
+				"sha256": "6b3ee19cd90b97af9827185fd3cd1e0b2892a445c38ca47b8663d5143689d9ce",
+				"source": "reversing-labs"
 			}
 		]
 	}

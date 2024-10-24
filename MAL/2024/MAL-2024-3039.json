@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3039",
-	"modified": "2024-06-25T13:01:42Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:01:42Z",
 	"summary": "Malicious code in spg-web-tools-compressor (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"0.0.2",
 					"5.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-07342",
+				"import_time": "2024-10-24T00:58:21.924959351Z",
+				"modified_time": "2024-10-16T13:20:18Z",
+				"sha256": "ab851393973aea6068ca9b95c29ad7972a342195c8fa5a0fbfa1a6980311aba6",
+				"source": "reversing-labs"
 			}
 		]
 	}

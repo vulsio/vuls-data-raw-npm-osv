@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3028",
-	"modified": "2024-06-25T13:01:05Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:01:05Z",
 	"summary": "Malicious code in sn-common-lib (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -44,6 +44,13 @@
 					"97.5.10",
 					"97.5.12"
 				]
+			},
+			{
+				"id": "RLUA-2024-07317",
+				"import_time": "2024-10-24T00:58:21.355215081Z",
+				"modified_time": "2024-10-16T13:19:33Z",
+				"sha256": "8c6a6f6fce074660b108a4d0c110c7e6a014a1c32da2bb989d1b92279f069366",
+				"source": "reversing-labs"
 			}
 		]
 	}

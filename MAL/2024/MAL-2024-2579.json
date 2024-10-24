@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2579",
-	"modified": "2024-06-25T12:48:21Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:48:21Z",
 	"summary": "Malicious code in kendo-react-messages (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"1.999.0",
 					"1.999.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06791",
+				"import_time": "2024-10-24T00:58:00.303204053Z",
+				"modified_time": "2024-10-16T13:00:33Z",
+				"sha256": "8fca9377142551a42b41ca03c739f81a89d029eb520be9377f2a3503e36ae9a3",
+				"source": "reversing-labs"
 			}
 		]
 	}

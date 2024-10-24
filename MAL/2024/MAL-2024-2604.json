@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2604",
-	"modified": "2024-06-25T12:48:53Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:48:53Z",
 	"summary": "Malicious code in level-legacy (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"7.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06824",
+				"import_time": "2024-10-24T00:58:01.687222062Z",
+				"modified_time": "2024-10-16T13:01:26Z",
+				"sha256": "38c65666847187481d499d3eb8b34303a8bfb4176d8772c7ee9e54c8698f1fc5",
+				"source": "reversing-labs"
 			}
 		]
 	}

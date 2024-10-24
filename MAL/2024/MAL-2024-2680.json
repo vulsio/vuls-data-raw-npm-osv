@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2680",
-	"modified": "2024-06-25T12:50:55Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:50:55Z",
 	"summary": "Malicious code in mtres (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 					"7.0.8",
 					"7.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06927",
+				"import_time": "2024-10-24T00:58:05.81529524Z",
+				"modified_time": "2024-10-16T13:04:49Z",
+				"sha256": "64ba15127735859ab373a052539d6ec8fa180fd2f682028242ac894e8cab113c",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2834",
-	"modified": "2024-06-25T12:55:07Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:55:07Z",
 	"summary": "Malicious code in pap-client (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 					"99.9.9",
 					"9.9.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-07065",
+				"import_time": "2024-10-24T00:58:12.181952182Z",
+				"modified_time": "2024-10-16T13:10:27Z",
+				"sha256": "f389d2d75f12fecbd4449f154638f14ddb3d7fc480f97703c160e1bae3ee565a",
+				"source": "reversing-labs"
 			}
 		]
 	}

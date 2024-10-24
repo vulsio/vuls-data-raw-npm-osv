@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-8793",
-	"modified": "2024-09-05T00:42:35.407365Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-09-04T09:08:29Z",
 	"aliases": [
 		"GHSA-mx2c-8vrv-hfp5"
@@ -25,6 +25,11 @@
 					]
 				}
 			],
+			"versions": [
+				"9.16.19",
+				"9.61.23",
+				"9.61.24"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +46,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-mx2c-8vrv-hfp5"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +75,18 @@
 				],
 				"sha256": "e9004cdaff2d36176f75aba90f4b13449b5582bd4ae4eda6a3af3ed375bea236",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-07051",
+				"import_time": "2024-10-24T00:56:37.183751539Z",
+				"modified_time": "2024-10-16T13:10:06Z",
+				"sha256": "0795ba4619b86f889cd4468880cdf5349ed85ede4883b8090495a68cd3241c9e",
+				"source": "reversing-labs",
+				"versions": [
+					"9.16.19",
+					"9.61.23",
+					"9.61.24"
+				]
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3939",
-	"modified": "2024-06-25T13:21:35Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:21:35Z",
 	"summary": "Malicious code in web-super-ninja (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.999.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07564",
+				"import_time": "2024-10-24T00:58:32.555217951Z",
+				"modified_time": "2024-10-16T13:45:07Z",
+				"sha256": "4363e3f9f92a36604bd6a604b233358b1516fd53ea9dbc47ec2111d407644906",
+				"source": "reversing-labs"
 			}
 		]
 	}

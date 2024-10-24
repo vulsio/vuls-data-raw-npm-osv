@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2922",
-	"modified": "2024-06-25T12:57:03Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T12:57:03Z",
 	"summary": "Malicious code in rappitrap (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.1.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-07165",
+				"import_time": "2024-10-24T00:58:15.975850955Z",
+				"modified_time": "2024-10-16T13:13:37Z",
+				"sha256": "ce918b3d70b161ac4685b011c2182c161809a42c3ef762d21736052920705221",
+				"source": "reversing-labs"
 			}
 		]
 	}

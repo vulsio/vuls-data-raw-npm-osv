@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3130",
-	"modified": "2024-06-25T13:04:11Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:04:11Z",
 	"summary": "Malicious code in tml-language-picker (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"66.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07457",
+				"import_time": "2024-10-24T00:58:27.430113096Z",
+				"modified_time": "2024-10-16T13:23:54Z",
+				"sha256": "215a38ecb6e3bfcba1a501af8241dace020a44ca354ceb2c1826755d2ee14e86",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-10",
-	"modified": "2024-07-02T03:29:13.330906Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-01-02T03:24:52Z",
 	"aliases": [
 		"GHSA-9qmj-4phx-2v5v",
@@ -89,6 +89,17 @@
 				"import_time": "2024-07-02T00:26:36.690672Z",
 				"modified_time": "2024-06-25T12:21:20Z",
 				"sha256": "21315dfb5d5cbc34ad84f2123f7d20ac7e6a91d002efc8ac37f95b0bedfbcdf4",
+				"source": "reversing-labs",
+				"versions": [
+					"99.99.99",
+					"2.0.0"
+				]
+			},
+			{
+				"id": "RLMA-2024-00145",
+				"import_time": "2024-10-24T00:49:22.917673122Z",
+				"modified_time": "2024-06-25T12:21:20Z",
+				"sha256": "16c74db9b2194648cb5e049a4592114e8187d1c6f9094295a93b218acb944ccb",
 				"source": "reversing-labs",
 				"versions": [
 					"99.99.99",

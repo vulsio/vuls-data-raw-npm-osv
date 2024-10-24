@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2510",
-	"modified": "2024-06-25T12:46:38Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:46:38Z",
 	"summary": "Malicious code in index-template-lol (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"0.0.7"
 				]
+			},
+			{
+				"id": "RLUA-2024-06734",
+				"import_time": "2024-10-24T00:57:57.632715559Z",
+				"modified_time": "2024-10-16T12:58:20Z",
+				"sha256": "dd2fb732a4f7a0159f33fe087bcfeb9610355c2a5f627e59ff9b9c3efb2e1279",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1802",
-	"modified": "2024-06-25T12:29:18Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:29:18Z",
 	"summary": "Malicious code in babel-transformer (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"4.5.2",
 					"4.5.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06201",
+				"import_time": "2024-10-24T00:57:34.206296994Z",
+				"modified_time": "2024-10-16T12:34:33Z",
+				"sha256": "6fd69bfbc699cf99c5294a793ced58af38dfface3bd7640476ca0f92a33333b3",
+				"source": "reversing-labs"
 			}
 		]
 	}

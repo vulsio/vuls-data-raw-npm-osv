@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1861",
-	"modified": "2024-06-25T12:30:37Z",
+	"modified": "2024-10-24T01:01:55Z",
 	"published": "2024-06-25T12:30:37Z",
 	"summary": "Malicious code in cardcompile (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"0.0.10"
 				]
+			},
+			{
+				"id": "RLUA-2024-06268",
+				"import_time": "2024-10-24T00:57:37.206848908Z",
+				"modified_time": "2024-10-16T12:36:34Z",
+				"sha256": "4349ba1a00b4985f6d20dcf449a90fc64dfc70c6fb61c305abddfb964fa623d2",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2268",
-	"modified": "2024-06-25T12:40:40Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:40:40Z",
 	"summary": "Malicious code in driverless-acquisition-blue-auth-token-validator (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"0.5.0-0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06452",
+				"import_time": "2024-10-24T00:57:45.172197543Z",
+				"modified_time": "2024-10-16T12:48:51Z",
+				"sha256": "1c96f6fac33d36a3e31b373c6c855da06f5e3ae5f65dd87d49ec0d864e1a9996",
+				"source": "reversing-labs"
 			}
 		]
 	}

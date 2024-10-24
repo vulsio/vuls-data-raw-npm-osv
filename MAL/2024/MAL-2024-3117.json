@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3117",
-	"modified": "2024-06-25T13:03:54Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:03:54Z",
 	"summary": "Malicious code in tetusdgsudgs (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -50,6 +50,13 @@
 					"1.0.3",
 					"1.0.5"
 				]
+			},
+			{
+				"id": "RLUA-2024-07438",
+				"import_time": "2024-10-24T00:58:26.637703678Z",
+				"modified_time": "2024-10-16T13:23:22Z",
+				"sha256": "c2130b33b5a000750a5afc82318903544383acb8ebec2fdadd08e6b8d0b6ba93",
+				"source": "reversing-labs"
 			}
 		]
 	}

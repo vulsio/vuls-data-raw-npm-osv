@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2602",
-	"modified": "2024-06-25T12:48:51Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:48:51Z",
 	"summary": "Malicious code in legacy-web3-extension (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06820",
+				"import_time": "2024-10-24T00:58:01.598670412Z",
+				"modified_time": "2024-10-16T13:01:21Z",
+				"sha256": "dc037cc0f84c93019119ba4132352815c94bc5fa5e6f2cfc438b85dcd989b2d6",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2870",
-	"modified": "2024-06-25T12:55:57Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:55:57Z",
 	"summary": "Malicious code in pilvarctf (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"1.0.12",
 					"1.0.11"
 				]
+			},
+			{
+				"id": "RLUA-2024-07093",
+				"import_time": "2024-10-24T00:58:13.795450124Z",
+				"modified_time": "2024-10-16T13:11:24Z",
+				"sha256": "b1a1d14c64e58da1e2a7d3baf71e69f3d770b78f68d8a9308659c26bdb54cb2e",
+				"source": "reversing-labs"
 			}
 		]
 	}

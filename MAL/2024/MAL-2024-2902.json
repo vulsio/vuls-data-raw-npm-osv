@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2902",
-	"modified": "2024-06-25T12:56:37Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:56:37Z",
 	"summary": "Malicious code in projectdiscovery (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"3.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-07148",
+				"import_time": "2024-10-24T00:58:15.269358105Z",
+				"modified_time": "2024-10-16T13:12:55Z",
+				"sha256": "4ccf02f101f5ac40c0891278929ed24b8c8e305826e4d7e97ee12a0810662b60",
+				"source": "reversing-labs"
 			}
 		]
 	}

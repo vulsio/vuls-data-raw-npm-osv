@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3043",
-	"modified": "2024-06-25T13:01:49Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:01:49Z",
 	"summary": "Malicious code in sq-menu (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"9999.0.99"
 				]
+			},
+			{
+				"id": "RLUA-2024-07348",
+				"import_time": "2024-10-24T00:58:22.120003955Z",
+				"modified_time": "2024-10-16T13:20:23Z",
+				"sha256": "1b66b91f0b5bcacdbe7dd53249d317d5f1f12c5012882271e47376d687c26d41",
+				"source": "reversing-labs"
 			}
 		]
 	}

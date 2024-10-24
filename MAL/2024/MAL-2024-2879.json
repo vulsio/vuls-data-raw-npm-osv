@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2879",
-	"modified": "2024-06-25T12:56:10Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:56:10Z",
 	"summary": "Malicious code in polaris-viz (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"2.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07123",
+				"import_time": "2024-10-24T00:58:14.327291595Z",
+				"modified_time": "2024-10-16T13:12:11Z",
+				"sha256": "3d550b800404a22ee93aef34db808fc11d27d6e51d47d464afca8980ad880021",
+				"source": "reversing-labs"
 			}
 		]
 	}

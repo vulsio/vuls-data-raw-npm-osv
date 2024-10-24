@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2425",
-	"modified": "2024-06-25T12:44:27Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:44:27Z",
 	"summary": "Malicious code in google-build-slack (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -42,6 +42,13 @@
 					"1.0.1",
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06642",
+				"import_time": "2024-10-24T00:57:53.46362967Z",
+				"modified_time": "2024-10-16T12:54:54Z",
+				"sha256": "c037e564ca76e6680b4a830cc9facc96f9b250ebae51021406b663691b606f31",
+				"source": "reversing-labs"
 			}
 		]
 	}

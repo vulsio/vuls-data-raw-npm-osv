@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2946",
-	"modified": "2024-06-25T12:58:07Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T12:58:07Z",
 	"summary": "Malicious code in recommendations-fe (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"4.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-07189",
+				"import_time": "2024-10-24T00:58:16.996347625Z",
+				"modified_time": "2024-10-16T13:14:49Z",
+				"sha256": "1f09e3e4713d09bcf7c1a5ad9a3079a33058e4b0a9625a58c0367f572a458f99",
+				"source": "reversing-labs"
 			}
 		]
 	}

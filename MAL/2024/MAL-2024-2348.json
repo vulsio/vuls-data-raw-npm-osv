@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2348",
-	"modified": "2024-06-25T12:42:19Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:42:19Z",
 	"summary": "Malicious code in example-arc-server-request-local (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"7.999.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-06540",
+				"import_time": "2024-10-24T00:57:49.096774259Z",
+				"modified_time": "2024-10-16T12:51:38Z",
+				"sha256": "f2c4d6d813319bc5fc31c8c93d74e5242db82db28acbb2ef4f1ed159986cba8d",
+				"source": "reversing-labs"
 			}
 		]
 	}

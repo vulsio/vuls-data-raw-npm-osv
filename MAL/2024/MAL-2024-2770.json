@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2770",
-	"modified": "2024-06-25T12:53:22Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:53:22Z",
 	"summary": "Malicious code in npm.kiwicom__smart-faq-sidebar.node_modules-ua (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"3000.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06990",
+				"import_time": "2024-10-24T00:58:08.191459542Z",
+				"modified_time": "2024-10-16T13:08:06Z",
+				"sha256": "aa6a90c3943563c05fbfcc9bd1218ef75f6e63812354b26b720f2b21845ca22b",
+				"source": "reversing-labs"
 			}
 		]
 	}

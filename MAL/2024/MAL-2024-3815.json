@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3815",
-	"modified": "2024-06-25T13:18:43Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:18:43Z",
 	"summary": "Malicious code in vaptson (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07526",
+				"import_time": "2024-10-24T00:58:30.717008893Z",
+				"modified_time": "2024-10-16T13:41:35Z",
+				"sha256": "98d41053c06d755e1ec5275582d1bf51242bff8cba58dfa0b866a797de10ac0e",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3003",
-	"modified": "2024-06-25T13:00:29Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:00:29Z",
 	"summary": "Malicious code in seriously-simple-podcasting (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"3.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07287",
+				"import_time": "2024-10-24T00:58:20.206065589Z",
+				"modified_time": "2024-10-16T13:18:33Z",
+				"sha256": "d60e83b93738a2ce275e9241f3ac64262a87ad6298e70c9e6b46b7b85e91399c",
+				"source": "reversing-labs"
 			}
 		]
 	}

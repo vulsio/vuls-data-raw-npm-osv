@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2547",
-	"modified": "2024-06-25T12:47:37Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:47:37Z",
 	"summary": "Malicious code in jhgjgdfsdasvbrtyrdfwewqreyrfvbykuyoyosdsdfdhuytrxasdadadasdasdadasdasdasdasdtest (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"8.7.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-06768",
+				"import_time": "2024-10-24T00:57:59.27677848Z",
+				"modified_time": "2024-10-16T12:59:26Z",
+				"sha256": "7502e6709402d1b3295232199da03ce6c8487c8c3cf9e32d9bee3d601e7bac4e",
+				"source": "reversing-labs"
 			}
 		]
 	}

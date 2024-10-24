@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3033",
-	"modified": "2024-06-25T13:01:27Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:01:27Z",
 	"summary": "Malicious code in solocal (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.999.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07335",
+				"import_time": "2024-10-24T00:58:21.55759532Z",
+				"modified_time": "2024-10-16T13:20:03Z",
+				"sha256": "3bc301a4b921226cb38801f3a708a4ccb071a565131512b873d6a22b44a244cb",
+				"source": "reversing-labs"
 			}
 		]
 	}

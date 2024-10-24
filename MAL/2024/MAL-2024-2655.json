@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2655",
-	"modified": "2024-06-25T12:50:06Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:50:06Z",
 	"summary": "Malicious code in medwaycms (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-06888",
+				"import_time": "2024-10-24T00:58:04.548517413Z",
+				"modified_time": "2024-10-16T13:03:36Z",
+				"sha256": "ca198952771fc041c509e6c7fda0c497a23ad91ff9d78597f7070da4b849a859",
+				"source": "reversing-labs"
 			}
 		]
 	}

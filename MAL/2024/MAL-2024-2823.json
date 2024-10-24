@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2823",
-	"modified": "2024-06-25T12:54:41Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:54:41Z",
 	"summary": "Malicious code in paala (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.2.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-07054",
+				"import_time": "2024-10-24T00:58:11.409008511Z",
+				"modified_time": "2024-10-16T13:10:10Z",
+				"sha256": "a32b951c028e4a77be1af3cdf17b465a362cfbff98c1a07f416ae0f186a848fa",
+				"source": "reversing-labs"
 			}
 		]
 	}

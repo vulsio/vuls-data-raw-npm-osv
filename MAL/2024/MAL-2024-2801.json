@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2801",
-	"modified": "2024-06-25T12:54:19Z",
+	"modified": "2024-10-24T01:01:56Z",
 	"published": "2024-06-25T12:54:19Z",
 	"summary": "Malicious code in opencagegeocode (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07020",
+				"import_time": "2024-10-24T00:58:09.948463344Z",
+				"modified_time": "2024-10-16T13:09:13Z",
+				"sha256": "7b06863d9b3752096d06155dd960c092fdf303514b81c191fc3cafd59dc1e115",
+				"source": "reversing-labs"
 			}
 		]
 	}
