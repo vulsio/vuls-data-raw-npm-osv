@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-48964"
 	],
+	"related": [
+		"CGA-j5vv-8w7m-9fr5"
+	],
 	"summary": "OS Command Injection in Snyk gradle plugin",
 	"details": "The Snyk gradle plugin is vulnerable to Code Injection when scanning an untrusted Gradle project. The vulnerability can be triggered if Snyk test is run inside the untrusted project due to the improper handling of the current working directory name. Snyk recommends only scanning trusted projects.",
 	"severity": [
