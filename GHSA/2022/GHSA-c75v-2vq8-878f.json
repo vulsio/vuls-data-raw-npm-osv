@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2021-4231"
 	],
+	"related": [
+		"CGA-w94m-xv5q-8x3h"
+	],
 	"summary": "Cross site scripting in Angular",
 	"details": "A vulnerability was found in Angular up to 11.0.4/11.1.0-next.2. It has been classified as problematic. Affected is the handling of comments. The manipulation leads to cross site scripting. It is possible to launch the attack remotely but it might require an authentication first. Upgrading to version 10.2.5, 11.0.5 or 11.1.0-next.3 is advised to to address this issue.",
 	"severity": [
