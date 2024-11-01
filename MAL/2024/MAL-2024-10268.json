@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-10268",
-	"modified": "2024-10-30T17:35:39Z",
+	"modified": "2024-11-01T12:08:53Z",
 	"published": "2024-10-30T07:16:17Z",
 	"summary": "Malicious code in orb-sync-lib (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (66fd78c3bd4a6a0c78fd807883122d9472771728d739f90d169cd1ba62760f3c)\nThe OpenSSF Package Analysis project identified 'orb-sync-lib' @ 100.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
@@ -15,7 +15,8 @@
 			"versions": [
 				"100.0.0",
 				"1.0.0",
-				"100.0.1"
+				"100.0.1",
+				"100.0.2"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/orb-sync-lib/MAL-2024-10268.json"
@@ -59,6 +60,15 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"100.0.1"
+				]
+			},
+			{
+				"import_time": "2024-11-01T12:08:26.056238297Z",
+				"modified_time": "2024-11-01T11:38:52Z",
+				"sha256": "055b78fcd715c854126e92d2bfc3bb7c2a35d97ff7a8cdca8bec8113ffae0c98",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"100.0.2"
 				]
 			}
 		]
