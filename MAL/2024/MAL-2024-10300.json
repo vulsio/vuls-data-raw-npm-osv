@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-10300",
+	"modified": "2024-10-31T18:20:47Z",
+	"published": "2024-10-31T18:20:47Z",
+	"summary": "Malicious code in allocations-ui (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (f9405e582537cddf4daf0953a5aa82ff930aef869c33221f51eb9cd2fd9b9ab0)\nThe OpenSSF Package Analysis project identified 'allocations-ui' @ 1.0.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "allocations-ui",
+				"purl": "pkg:npm/allocations-ui"
+			},
+			"versions": [
+				"1.0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/allocations-ui/MAL-2024-10300.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-10-31T18:38:49.15720469Z",
+				"modified_time": "2024-10-31T18:20:47Z",
+				"sha256": "f9405e582537cddf4daf0953a5aa82ff930aef869c33221f51eb9cd2fd9b9ab0",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.1"
+				]
+			}
+		]
+	}
+}
