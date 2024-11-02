@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-10306",
+	"modified": "2024-11-01T23:20:15Z",
+	"published": "2024-11-01T23:20:15Z",
+	"summary": "Malicious code in creative_design_client (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (8713773835501823370f43c25b1930247ad451bcce9b1f19fe7e8da2e2cd0d51)\nThe OpenSSF Package Analysis project identified 'creative_design_client' @ 1.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "creative_design_client",
+				"purl": "pkg:npm/creative_design_client"
+			},
+			"versions": [
+				"1.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/creative_design_client/MAL-2024-10306.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-11-01T23:34:02.389479596Z",
+				"modified_time": "2024-11-01T23:20:15Z",
+				"sha256": "8713773835501823370f43c25b1930247ad451bcce9b1f19fe7e8da2e2cd0d51",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.0"
+				]
+			}
+		]
+	}
+}
