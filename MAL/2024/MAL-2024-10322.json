@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-10322",
+	"modified": "2024-11-03T16:56:49Z",
+	"published": "2024-11-03T16:56:49Z",
+	"summary": "Malicious code in appdynamics-zmq (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (a2f70475c7a83e8eabcfdc86d2761f7001c5245d6341f37c93e8dccf7fdec33c)\nThe OpenSSF Package Analysis project identified 'appdynamics-zmq' @ 1.4.4 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "appdynamics-zmq",
+				"purl": "pkg:npm/appdynamics-zmq"
+			},
+			"versions": [
+				"1.4.4"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/appdynamics-zmq/MAL-2024-10322.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-11-04T01:33:06.659908349Z",
+				"modified_time": "2024-11-03T16:56:49Z",
+				"sha256": "a2f70475c7a83e8eabcfdc86d2761f7001c5245d6341f37c93e8dccf7fdec33c",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.4.4"
+				]
+			}
+		]
+	}
+}
