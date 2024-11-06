@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-10377",
+	"modified": "2024-11-05T17:53:33Z",
+	"published": "2024-11-05T17:53:33Z",
+	"summary": "Malicious code in osm-legal-speed (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (58c37ff95189814c5d75ea631a244932101cb0f34a30cfb703356b532e34eb97)\nThe OpenSSF Package Analysis project identified 'osm-legal-speed' @ 1.0.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "osm-legal-speed",
+				"purl": "pkg:npm/osm-legal-speed"
+			},
+			"versions": [
+				"1.0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/osm-legal-speed/MAL-2024-10377.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-11-05T18:06:44.524684946Z",
+				"modified_time": "2024-11-05T17:53:33Z",
+				"sha256": "58c37ff95189814c5d75ea631a244932101cb0f34a30cfb703356b532e34eb97",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.1"
+				]
+			}
+		]
+	}
+}
