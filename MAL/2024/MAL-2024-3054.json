@@ -1,10 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3054",
-	"modified": "2024-10-24T01:01:57Z",
+	"modified": "2024-11-07T10:06:34Z",
 	"published": "2024-06-25T13:02:01Z",
 	"summary": "Malicious code in starter-assets-sass (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (6be62790e6633e278041e75dffdad5b5e0da87202c3c8eda1c4cb047277c732b)\nThe OpenSSF Package Analysis project identified 'starter-assets-sass' @ 9.9.9 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
 	"affected": [
 		{
 			"package": {
@@ -13,7 +13,8 @@
 				"purl": "pkg:npm/starter-assets-sass"
 			},
 			"versions": [
-				"1.0.0"
+				"1.0.0",
+				"9.9.9"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/starter-assets-sass/MAL-2024-3054.json"
@@ -21,6 +22,14 @@
 		}
 	],
 	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		},
 		{
 			"name": "ReversingLabs",
 			"contact": [
@@ -47,6 +56,15 @@
 				"modified_time": "2024-10-16T13:20:48Z",
 				"sha256": "2a904e97365a975fa5306578c7e474fce52dd1eaebb6564dc1dfba9881e2a865",
 				"source": "reversing-labs"
+			},
+			{
+				"import_time": "2024-11-07T10:05:53.853999283Z",
+				"modified_time": "2024-11-07T10:05:42Z",
+				"sha256": "6be62790e6633e278041e75dffdad5b5e0da87202c3c8eda1c4cb047277c732b",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"9.9.9"
+				]
 			}
 		]
 	}
