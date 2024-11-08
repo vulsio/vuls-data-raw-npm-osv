@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-10478",
+	"modified": "2024-11-06T05:55:36Z",
+	"published": "2024-11-06T05:55:36Z",
+	"summary": "Malicious code in code-analysis-ts-for-sellercenter (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (569facddd3306b7493b646111e30cbc332da6752d43754fccc38506ed60f3192)\nThe OpenSSF Package Analysis project identified 'code-analysis-ts-for-sellercenter' @ 5.3.5 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "code-analysis-ts-for-sellercenter",
+				"purl": "pkg:npm/code-analysis-ts-for-sellercenter"
+			},
+			"versions": [
+				"5.3.5"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/code-analysis-ts-for-sellercenter/MAL-2024-10478.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-11-07T23:05:48.69037058Z",
+				"modified_time": "2024-11-06T05:55:36Z",
+				"sha256": "569facddd3306b7493b646111e30cbc332da6752d43754fccc38506ed60f3192",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"5.3.5"
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-10476",
+	"modified": "2024-11-06T04:55:38Z",
+	"published": "2024-11-06T04:55:38Z",
+	"summary": "Malicious code in case-dispute-common (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (d3a6cd4272d1190e514ec961c325ae01cf889ca635be1bc09ce07ac0bcb0bb7c)\nThe OpenSSF Package Analysis project identified 'case-dispute-common' @ 5.3.5 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "case-dispute-common",
+				"purl": "pkg:npm/case-dispute-common"
+			},
+			"versions": [
+				"5.3.5"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/case-dispute-common/MAL-2024-10476.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-11-07T23:05:48.426240229Z",
+				"modified_time": "2024-11-06T04:55:38Z",
+				"sha256": "d3a6cd4272d1190e514ec961c325ae01cf889ca635be1bc09ce07ac0bcb0bb7c",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"5.3.5"
+				]
+			}
+		]
+	}
+}

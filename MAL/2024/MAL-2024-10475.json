@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-10475",
+	"modified": "2024-11-06T03:35:49Z",
+	"published": "2024-11-06T03:35:49Z",
+	"summary": "Malicious code in babel-plugin-method-version (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (c2d1af91e5422a1e41116ab7e6a587f0755f8e06feb6b7b2874701edaf6e4082)\nThe OpenSSF Package Analysis project identified 'babel-plugin-method-version' @ 5.3.5 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "babel-plugin-method-version",
+				"purl": "pkg:npm/babel-plugin-method-version"
+			},
+			"versions": [
+				"5.3.5"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/babel-plugin-method-version/MAL-2024-10475.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-11-07T23:05:48.308576213Z",
+				"modified_time": "2024-11-06T03:35:49Z",
+				"sha256": "c2d1af91e5422a1e41116ab7e6a587f0755f8e06feb6b7b2874701edaf6e4082",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"5.3.5"
+				]
+			}
+		]
+	}
+}

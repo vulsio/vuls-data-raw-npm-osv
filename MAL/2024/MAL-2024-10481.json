@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-10481",
+	"modified": "2024-11-06T12:43:28Z",
+	"published": "2024-11-06T12:43:28Z",
+	"summary": "Malicious code in cs-deploy-helper (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (fc49d3617ab09d7f80461350edaeeafa9a1756269de6f1d03d86a04884c76d2c)\nThe OpenSSF Package Analysis project identified 'cs-deploy-helper' @ 7.2.3 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "cs-deploy-helper",
+				"purl": "pkg:npm/cs-deploy-helper"
+			},
+			"versions": [
+				"7.2.3"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cs-deploy-helper/MAL-2024-10481.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-11-07T23:05:49.068880648Z",
+				"modified_time": "2024-11-06T12:43:28Z",
+				"sha256": "fc49d3617ab09d7f80461350edaeeafa9a1756269de6f1d03d86a04884c76d2c",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"7.2.3"
+				]
+			}
+		]
+	}
+}
