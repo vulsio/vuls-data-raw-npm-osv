@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-10535",
+	"modified": "2024-11-08T12:15:59Z",
+	"published": "2024-11-08T12:15:59Z",
+	"summary": "Malicious code in deriv-app-id-action (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (3a8b6c54a8c76d0bf3806b74545185cea17e5233982c4b8fd24969a28871f1b7)\nThe OpenSSF Package Analysis project identified 'deriv-app-id-action' @ 0.0.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "deriv-app-id-action",
+				"purl": "pkg:npm/deriv-app-id-action"
+			},
+			"versions": [
+				"0.0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/deriv-app-id-action/MAL-2024-10535.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-11-08T12:45:30.929323929Z",
+				"modified_time": "2024-11-08T12:15:59Z",
+				"sha256": "3a8b6c54a8c76d0bf3806b74545185cea17e5233982c4b8fd24969a28871f1b7",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"0.0.1"
+				]
+			}
+		]
+	}
+}
