@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-10552",
+	"modified": "2024-11-10T06:06:46Z",
+	"published": "2024-11-10T06:06:46Z",
+	"summary": "Malicious code in airpay-js-sdk (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (f35746ca8053bf1fa79a4db8e6f4590d9404a5cfa670f4ff0c8aedc0d0e94047)\nThe OpenSSF Package Analysis project identified 'airpay-js-sdk' @ 7.1.9 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "airpay-js-sdk",
+				"purl": "pkg:npm/airpay-js-sdk"
+			},
+			"versions": [
+				"7.1.9"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/airpay-js-sdk/MAL-2024-10552.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-11-10T22:05:05.782256914Z",
+				"modified_time": "2024-11-10T06:06:46Z",
+				"sha256": "f35746ca8053bf1fa79a4db8e6f4590d9404a5cfa670f4ff0c8aedc0d0e94047",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"7.1.9"
+				]
+			}
+		]
+	}
+}
