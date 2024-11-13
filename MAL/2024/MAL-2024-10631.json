@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-10631",
+	"modified": "2024-11-13T07:49:52Z",
+	"published": "2024-11-13T07:49:52Z",
+	"summary": "Malicious code in hackerone000001 (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (dcee8d4574242b08fafba1dc400d3826e11c5a52cb8bada6ce1cd94d6440d199)\nThe OpenSSF Package Analysis project identified 'hackerone000001' @ 1.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "hackerone000001",
+				"purl": "pkg:npm/hackerone000001"
+			},
+			"versions": [
+				"1.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hackerone000001/MAL-2024-10631.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-11-13T08:06:52.13088656Z",
+				"modified_time": "2024-11-13T07:49:52Z",
+				"sha256": "dcee8d4574242b08fafba1dc400d3826e11c5a52cb8bada6ce1cd94d6440d199",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.0"
+				]
+			}
+		]
+	}
+}
