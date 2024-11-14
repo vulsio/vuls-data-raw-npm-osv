@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-10653",
-	"modified": "2024-11-13T13:09:48Z",
+	"modified": "2024-11-14T17:05:43Z",
 	"published": "2024-11-13T10:11:20Z",
 	"summary": "Malicious code in @sportdigi/bootstrapper (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (606eac7e59a098b487b61377214416850ff371fc507eb544c97622670ff87dc8)\nThe OpenSSF Package Analysis project identified '@sportdigi/bootstrapper' @ 12.1.2 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -17,7 +17,13 @@
 				"12.1.3",
 				"15.1.0",
 				"17.1.0",
-				"14.1.0"
+				"14.1.0",
+				"18.1.0",
+				"19.1.0",
+				"21.1.0",
+				"22.1.0",
+				"23.1.0",
+				"24.1.0"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@sportdigi/bootstrapper/MAL-2024-10653.json"
@@ -79,6 +85,60 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"14.1.0"
+				]
+			},
+			{
+				"import_time": "2024-11-14T13:37:10.868181928Z",
+				"modified_time": "2024-11-14T13:33:58Z",
+				"sha256": "9933fc51d94e1f7fb9e64dd84eb30c2f36db22967b0536e1aa64a00e3b725d9d",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"18.1.0"
+				]
+			},
+			{
+				"import_time": "2024-11-14T14:05:18.785795394Z",
+				"modified_time": "2024-11-14T13:47:50Z",
+				"sha256": "f49a1667bc0936dd1b8ef64447c4b7bfd108e268067687bbfcc5a62c559efafb",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"19.1.0"
+				]
+			},
+			{
+				"import_time": "2024-11-14T15:05:29.441774893Z",
+				"modified_time": "2024-11-14T14:50:56Z",
+				"sha256": "552ae4f8cab37c1b5ac4cfed11f65ce2061f2a9051369a488ee8b8958042cbd2",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"21.1.0"
+				]
+			},
+			{
+				"import_time": "2024-11-14T15:35:52.368650546Z",
+				"modified_time": "2024-11-14T15:05:54Z",
+				"sha256": "eb7017fda29ef672dc5434322a4998c9ec16a6b00abd6da8ddac55ee1ab228ed",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"22.1.0"
+				]
+			},
+			{
+				"import_time": "2024-11-14T16:06:25.434519794Z",
+				"modified_time": "2024-11-14T15:55:56Z",
+				"sha256": "ad1b79a8453506433c0262901a8e62e5e2e339695fffac16639562cf73f53742",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"23.1.0"
+				]
+			},
+			{
+				"import_time": "2024-11-14T17:05:15.38749747Z",
+				"modified_time": "2024-11-14T17:00:52Z",
+				"sha256": "c3ef377ddccb9dffa327f7a6ad3dfe309b140b2cbdeaf9344b61ee1fa02311d6",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"24.1.0"
 				]
 			}
 		]
