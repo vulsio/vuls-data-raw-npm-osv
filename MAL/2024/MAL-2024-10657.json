@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-10657",
+	"modified": "2024-11-12T09:13:13Z",
+	"published": "2024-11-12T09:13:13Z",
+	"summary": "Malicious code in eslint-plugin-cognitive-complexity (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (a46af5fb52d1134ba5e826d9b329928f8dd7c48b484f46d61e32804511ccc46a)\nThe OpenSSF Package Analysis project identified 'eslint-plugin-cognitive-complexity' @ 7.1.9 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "eslint-plugin-cognitive-complexity",
+				"purl": "pkg:npm/eslint-plugin-cognitive-complexity"
+			},
+			"versions": [
+				"7.1.9"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/eslint-plugin-cognitive-complexity/MAL-2024-10657.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-11-14T00:20:59.432298947Z",
+				"modified_time": "2024-11-12T09:13:13Z",
+				"sha256": "a46af5fb52d1134ba5e826d9b329928f8dd7c48b484f46d61e32804511ccc46a",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"7.1.9"
+				]
+			}
+		]
+	}
+}

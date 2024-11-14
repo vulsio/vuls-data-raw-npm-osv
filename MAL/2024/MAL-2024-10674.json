@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-10674",
+	"modified": "2024-11-13T22:52:52Z",
+	"published": "2024-11-13T22:52:52Z",
+	"summary": "Malicious code in listing-devtools (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (22122a3303ea2b980e6fe0834f0bb998b9373b923513b4da1764537c4e070eb7)\nThe OpenSSF Package Analysis project identified 'listing-devtools' @ 6.5.8 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "listing-devtools",
+				"purl": "pkg:npm/listing-devtools"
+			},
+			"versions": [
+				"6.5.8"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/listing-devtools/MAL-2024-10674.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-11-14T00:21:01.535289093Z",
+				"modified_time": "2024-11-13T22:52:52Z",
+				"sha256": "22122a3303ea2b980e6fe0834f0bb998b9373b923513b4da1764537c4e070eb7",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"6.5.8"
+				]
+			}
+		]
+	}
+}
