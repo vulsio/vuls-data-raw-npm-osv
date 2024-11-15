@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-10653",
-	"modified": "2024-11-14T17:05:43Z",
+	"modified": "2024-11-14T21:34:41Z",
 	"published": "2024-11-13T10:11:20Z",
 	"summary": "Malicious code in @sportdigi/bootstrapper (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (606eac7e59a098b487b61377214416850ff371fc507eb544c97622670ff87dc8)\nThe OpenSSF Package Analysis project identified '@sportdigi/bootstrapper' @ 12.1.2 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -23,7 +23,11 @@
 				"21.1.0",
 				"22.1.0",
 				"23.1.0",
-				"24.1.0"
+				"24.1.0",
+				"25.1.0",
+				"27.1.0",
+				"29.1.0",
+				"30.1.0"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@sportdigi/bootstrapper/MAL-2024-10653.json"
@@ -139,6 +143,51 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"24.1.0"
+				]
+			},
+			{
+				"import_time": "2024-11-14T18:06:46.843549234Z",
+				"modified_time": "2024-11-14T17:55:07Z",
+				"sha256": "c4a1bfeee069f396ecded1dc4d16ebb65ed629ba744dd238dbae1cebb30ad407",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"25.1.0"
+				]
+			},
+			{
+				"import_time": "2024-11-14T18:39:07.668046639Z",
+				"modified_time": "2024-11-14T18:12:50Z",
+				"sha256": "e1e621b57176168201ebd0bc8c49972cecdd1f8db9da200504d11ed96efcec8d",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"25.1.0"
+				]
+			},
+			{
+				"import_time": "2024-11-14T19:05:03.386138802Z",
+				"modified_time": "2024-11-14T18:55:37Z",
+				"sha256": "0e37ebad501c96a3638cf55c011f4c8212a264dc9e70ab3b5cfbb71927379806",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"27.1.0"
+				]
+			},
+			{
+				"import_time": "2024-11-14T19:34:09.680125184Z",
+				"modified_time": "2024-11-14T19:15:20Z",
+				"sha256": "f368dc856c7c20c0e2b624c649d7f1c8aa0d470be7c53d8a271794bd16112dd1",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"29.1.0"
+				]
+			},
+			{
+				"import_time": "2024-11-14T21:34:15.228119279Z",
+				"modified_time": "2024-11-14T21:08:38Z",
+				"sha256": "a02722852b2c7b5631e4531a44359a3aef19b4617c50104c174d0489d6d89c45",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"30.1.0"
 				]
 			}
 		]
