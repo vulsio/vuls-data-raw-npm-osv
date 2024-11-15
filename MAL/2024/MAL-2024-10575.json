@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-10575",
-	"modified": "2024-11-11T12:13:41Z",
+	"modified": "2024-11-15T04:07:21Z",
 	"published": "2024-11-11T12:13:41Z",
 	"summary": "Malicious code in modlog-archive (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (d8a879a6155a45bb2fa3cea6269ea49d020bde4c14e0946ac149d0157ec33449)\nThe OpenSSF Package Analysis project identified 'modlog-archive' @ 1.0.2 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -13,7 +13,8 @@
 				"purl": "pkg:npm/modlog-archive"
 			},
 			"versions": [
-				"1.0.2"
+				"1.0.2",
+				"1.0.6"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/modlog-archive/MAL-2024-10575.json"
@@ -39,6 +40,15 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"1.0.2"
+				]
+			},
+			{
+				"import_time": "2024-11-15T04:06:45.127158352Z",
+				"modified_time": "2024-11-15T03:59:28Z",
+				"sha256": "2374e5e70ad2bb2235b37d570f135e639b8328af25f703af74be189f1a81af68",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.6"
 				]
 			}
 		]

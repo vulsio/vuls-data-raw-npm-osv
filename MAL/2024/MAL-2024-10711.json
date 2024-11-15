@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-10711",
+	"modified": "2024-11-15T00:56:18Z",
+	"published": "2024-11-15T00:56:18Z",
+	"summary": "Malicious code in cb-cookie-manager (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (f25ea3f5748ffee889ba1411ee4a44fc025715d34e6d38c0e81ddb3d25e2841d)\nThe OpenSSF Package Analysis project identified 'cb-cookie-manager' @ 1.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "cb-cookie-manager",
+				"purl": "pkg:npm/cb-cookie-manager"
+			},
+			"versions": [
+				"1.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/cb-cookie-manager/MAL-2024-10711.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-11-15T01:33:01.613013086Z",
+				"modified_time": "2024-11-15T00:56:18Z",
+				"sha256": "f25ea3f5748ffee889ba1411ee4a44fc025715d34e6d38c0e81ddb3d25e2841d",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.0"
+				]
+			}
+		]
+	}
+}
