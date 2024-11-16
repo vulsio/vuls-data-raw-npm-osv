@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-10742",
+	"modified": "2024-11-16T09:32:57Z",
+	"published": "2024-11-16T09:32:57Z",
+	"summary": "Malicious code in odyssey-storybook (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (b8e37dccd5279de40f0c89f35d0cde70b48c9ba7682665262013d86820ca1269)\nThe OpenSSF Package Analysis project identified 'odyssey-storybook' @ 5.999.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "odyssey-storybook",
+				"purl": "pkg:npm/odyssey-storybook"
+			},
+			"versions": [
+				"5.999.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/odyssey-storybook/MAL-2024-10742.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-11-16T09:34:17.34921401Z",
+				"modified_time": "2024-11-16T09:32:57Z",
+				"sha256": "b8e37dccd5279de40f0c89f35d0cde70b48c9ba7682665262013d86820ca1269",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"5.999.0"
+				]
+			}
+		]
+	}
+}

