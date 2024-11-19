@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pppg-cpfq-h7wr",
-	"modified": "2024-11-12T16:37:43.340665Z",
+	"modified": "2024-11-18T18:50:07.728064Z",
 	"published": "2024-10-11T15:30:32Z",
 	"aliases": [
 		"CVE-2024-21534"
@@ -98,6 +98,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/JSONPath-Plus/JSONPath"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/JSONPath-Plus/JSONPath/compare/v9.0.0...v10.1.0"
 		},
 		{
 			"type": "WEB",
