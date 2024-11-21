@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-47875"
 	],
+	"related": [
+		"CGA-c8mw-2r5f-43qx"
+	],
 	"summary": "DOMpurify has a nesting-based mXSS",
 	"details": "DOMpurify was vulnerable to nesting-based mXSS \n\nfixed by [0ef5e537](https://github.com/cure53/DOMPurify/tree/0ef5e537a514f904b6aa1d7ad9e749e365d7185f) (2.x) and\n[merge 943](https://github.com/cure53/DOMPurify/pull/943)\n\nBackporter should be aware of GHSA-mmhx-hmjr-r674 (CVE-2024-45801) when cherry-picking\n\nPOC is avaible under [test](https://github.com/cure53/DOMPurify/blob/0ef5e537a514f904b6aa1d7ad9e749e365d7185f/test/test-suite.js#L2098)",
 	"severity": [

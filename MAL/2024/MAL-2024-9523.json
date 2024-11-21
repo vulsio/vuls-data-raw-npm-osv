@@ -1,10 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-9523",
-	"modified": "2024-10-16T12:35:20Z",
+	"modified": "2024-11-21T07:35:18Z",
 	"published": "2024-10-16T12:35:20Z",
 	"summary": "Malicious code in bnppf-font-icons (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (9f8a584e9875bdbf1e6c7074afde0a4ca41609adcb06a073b5bbeeee7cd08986)\nThe OpenSSF Package Analysis project identified 'bnppf-font-icons' @ 3.0.3 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
 	"affected": [
 		{
 			"package": {
@@ -13,7 +13,9 @@
 				"purl": "pkg:npm/bnppf-font-icons"
 			},
 			"versions": [
-				"9.9.9"
+				"9.9.9",
+				"3.0.3",
+				"3.0.5"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bnppf-font-icons/MAL-2024-9523.json"
@@ -21,6 +23,14 @@
 		}
 	],
 	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		},
 		{
 			"name": "ReversingLabs",
 			"contact": [
@@ -39,6 +49,24 @@
 				"source": "reversing-labs",
 				"versions": [
 					"9.9.9"
+				]
+			},
+			{
+				"import_time": "2024-11-21T07:05:53.961244855Z",
+				"modified_time": "2024-11-21T07:03:36Z",
+				"sha256": "9f8a584e9875bdbf1e6c7074afde0a4ca41609adcb06a073b5bbeeee7cd08986",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"3.0.3"
+				]
+			},
+			{
+				"import_time": "2024-11-21T07:34:45.127518037Z",
+				"modified_time": "2024-11-21T07:15:53Z",
+				"sha256": "364c4b0a34bcd7b3b7a0c56c6e179f97b3428653570fbc8d1f335eab15175b59",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"3.0.5"
 				]
 			}
 		]
