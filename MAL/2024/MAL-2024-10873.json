@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-10873",
+	"modified": "2024-11-21T19:30:59Z",
+	"published": "2024-11-21T19:30:59Z",
+	"summary": "Malicious code in uuid-latest (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (68c1a97ab9388cb4041a6d9b40c2858e4452803e2e188dd4f9a43e5fbbdad583)\nThe OpenSSF Package Analysis project identified 'uuid-latest' @ 5.1.9 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "uuid-latest",
+				"purl": "pkg:npm/uuid-latest"
+			},
+			"versions": [
+				"5.1.9"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/uuid-latest/MAL-2024-10873.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-11-21T23:05:43.345722123Z",
+				"modified_time": "2024-11-21T19:30:59Z",
+				"sha256": "68c1a97ab9388cb4041a6d9b40c2858e4452803e2e188dd4f9a43e5fbbdad583",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"5.1.9"
+				]
+			}
+		]
+	}
+}

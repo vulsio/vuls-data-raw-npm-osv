@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-10853",
+	"modified": "2024-11-20T07:32:24Z",
+	"published": "2024-11-20T07:32:24Z",
+	"summary": "Malicious code in filter-engine-ui (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (eda6fd8c13056a775f39ce34c21d5e0398a5a4fece95ef3af1e62c68eddb64ed)\nThe OpenSSF Package Analysis project identified 'filter-engine-ui' @ 10.1.10 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "filter-engine-ui",
+				"purl": "pkg:npm/filter-engine-ui"
+			},
+			"versions": [
+				"10.1.10"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/filter-engine-ui/MAL-2024-10853.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-11-21T23:05:41.427407241Z",
+				"modified_time": "2024-11-20T07:32:24Z",
+				"sha256": "eda6fd8c13056a775f39ce34c21d5e0398a5a4fece95ef3af1e62c68eddb64ed",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"10.1.10"
+				]
+			}
+		]
+	}
+}

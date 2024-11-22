@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-10864",
+	"modified": "2024-11-20T19:05:10Z",
+	"published": "2024-11-20T19:05:10Z",
+	"summary": "Malicious code in spid-sharing-panel (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (d77f7e485aeb42a846f77d347f78f1b4403cf9963e1b5047488f5b0cb90cfed0)\nThe OpenSSF Package Analysis project identified 'spid-sharing-panel' @ 9.2.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "spid-sharing-panel",
+				"purl": "pkg:npm/spid-sharing-panel"
+			},
+			"versions": [
+				"9.2.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/spid-sharing-panel/MAL-2024-10864.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-11-21T23:05:42.403894253Z",
+				"modified_time": "2024-11-20T19:05:10Z",
+				"sha256": "d77f7e485aeb42a846f77d347f78f1b4403cf9963e1b5047488f5b0cb90cfed0",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"9.2.1"
+				]
+			}
+		]
+	}
+}
