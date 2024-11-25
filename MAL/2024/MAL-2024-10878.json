@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-10878",
-	"modified": "2024-11-23T05:38:11Z",
+	"modified": "2024-11-25T10:39:12Z",
 	"published": "2024-11-22T12:36:03Z",
 	"summary": "Malicious code in @ba-ui-toolkit/ba-graphics (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (cecc8f033039168aed0576db76b1cae3235b3ec9b6634c22a38c1696a4a80fc1)\nThe OpenSSF Package Analysis project identified '@ba-ui-toolkit/ba-graphics' @ 7.1.11 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -15,7 +15,8 @@
 			"versions": [
 				"7.1.6",
 				"7.1.8",
-				"7.1.11"
+				"7.1.11",
+				"7.1.14"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ba-ui-toolkit/ba-graphics/MAL-2024-10878.json"
@@ -59,6 +60,15 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"7.1.11"
+				]
+			},
+			{
+				"import_time": "2024-11-25T10:38:45.869048664Z",
+				"modified_time": "2024-11-25T10:37:28Z",
+				"sha256": "7f6cbb8e9eec2aadc8dd1e1fb45f288f5c8ab94c5a69f2372fcba37b961685ca",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"7.1.14"
 				]
 			}
 		]
