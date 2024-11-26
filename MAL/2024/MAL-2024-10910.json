@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-10910",
+	"modified": "2024-11-25T09:23:12Z",
+	"published": "2024-11-25T09:23:12Z",
+	"summary": "Malicious code in node-commerce-web (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (41de5c0015c0b8250f3ad91faa714096473028b912bd32e783bd99ae5bbb1f37)\nThe OpenSSF Package Analysis project identified 'node-commerce-web' @ 2.0.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package executes one or more commands associated with malicious behavior.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "node-commerce-web",
+				"purl": "pkg:npm/node-commerce-web"
+			},
+			"versions": [
+				"2.0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/node-commerce-web/MAL-2024-10910.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-11-25T22:36:16.709885771Z",
+				"modified_time": "2024-11-25T09:23:12Z",
+				"sha256": "41de5c0015c0b8250f3ad91faa714096473028b912bd32e783bd99ae5bbb1f37",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"2.0.1"
+				]
+			}
+		]
+	}
+}

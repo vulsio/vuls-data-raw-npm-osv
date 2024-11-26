@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-10906",
+	"modified": "2024-11-24T20:26:35Z",
+	"published": "2024-11-24T20:26:35Z",
+	"summary": "Malicious code in eth-based-p2p-e2e-latency (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (f3541fead67022200f1ed230a963f9936579cd868b94cad4902d36d653740836)\nThe OpenSSF Package Analysis project identified 'eth-based-p2p-e2e-latency' @ 1.0.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package executes one or more commands associated with malicious behavior.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "eth-based-p2p-e2e-latency",
+				"purl": "pkg:npm/eth-based-p2p-e2e-latency"
+			},
+			"versions": [
+				"1.0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/eth-based-p2p-e2e-latency/MAL-2024-10906.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-11-25T22:36:15.987066711Z",
+				"modified_time": "2024-11-24T20:26:35Z",
+				"sha256": "f3541fead67022200f1ed230a963f9936579cd868b94cad4902d36d653740836",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.1"
+				]
+			}
+		]
+	}
+}

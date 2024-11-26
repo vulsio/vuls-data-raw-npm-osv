@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-10913",
+	"modified": "2024-11-25T22:10:18Z",
+	"published": "2024-11-25T22:10:18Z",
+	"summary": "Malicious code in symphony-markdown (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (b965422ee9e40d44ce5d495937f3d567372ae2d7ca4fdc19b19df60951020095)\nThe OpenSSF Package Analysis project identified 'symphony-markdown' @ 1.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "symphony-markdown",
+				"purl": "pkg:npm/symphony-markdown"
+			},
+			"versions": [
+				"1.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/symphony-markdown/MAL-2024-10913.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-11-25T22:36:15.294174698Z",
+				"modified_time": "2024-11-25T22:10:18Z",
+				"sha256": "b965422ee9e40d44ce5d495937f3d567372ae2d7ca4fdc19b19df60951020095",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.0"
+				]
+			}
+		]
+	}
+}
