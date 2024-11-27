@@ -7,7 +7,9 @@
 		"CVE-2024-21538"
 	],
 	"related": [
-		"CGA-56f7-wq2j-gqhc"
+		"CGA-49x5-fp72-pvgg",
+		"CGA-56f7-wq2j-gqhc",
+		"CGA-8hpc-g49m-34cc"
 	],
 	"summary": "Regular Expression Denial of Service (ReDoS) in cross-spawn",
 	"details": "Versions of the package cross-spawn before 7.0.5 are vulnerable to Regular Expression Denial of Service (ReDoS) due to improper input sanitization. An attacker can increase the CPU usage and crash the program by crafting a very large and well crafted string.",
