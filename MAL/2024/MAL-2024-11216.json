@@ -1,0 +1,35 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-11216",
+	"modified": "2024-12-05T16:30:26Z",
+	"published": "2024-12-05T16:30:26Z",
+	"summary": "Malicious code in jsonwebtoken-js (npm)",
+	"details": "This package is a starjacking attack which bundles a cryptostealing payload.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "jsonwebtoken-js",
+				"purl": "pkg:npm/jsonwebtoken-js"
+			},
+			"versions": [
+				"9.0.5"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/jsonwebtoken-js/MAL-2024-11216.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "Stacklok: trustypkg.dev",
+			"contact": [
+				"https://discord.com/invite/RkzVuTp3WK"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}

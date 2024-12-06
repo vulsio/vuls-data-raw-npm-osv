@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-11218",
+	"modified": "2024-12-06T04:06:53Z",
+	"published": "2024-12-06T04:06:53Z",
+	"summary": "Malicious code in openpass-sample-sites-client-js-sdk (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (6dc71090f3c22a0b288ed6e8cd617d70c697b3014f36bc82b80c8fae645cb11f)\nThe OpenSSF Package Analysis project identified 'openpass-sample-sites-client-js-sdk' @ 2.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "openpass-sample-sites-client-js-sdk",
+				"purl": "pkg:npm/openpass-sample-sites-client-js-sdk"
+			},
+			"versions": [
+				"2.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/openpass-sample-sites-client-js-sdk/MAL-2024-11218.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-12-06T04:06:55.646973321Z",
+				"modified_time": "2024-12-06T04:06:53Z",
+				"sha256": "6dc71090f3c22a0b288ed6e8cd617d70c697b3014f36bc82b80c8fae645cb11f",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"2.0.0"
+				]
+			}
+		]
+	}
+}
