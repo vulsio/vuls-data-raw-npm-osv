@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-11226",
+	"modified": "2024-12-07T11:55:38Z",
+	"published": "2024-12-07T11:55:38Z",
+	"summary": "Malicious code in remix-kl-c646 (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (831316951b702b955236fce1e45511308b5ec5061654fb048214ebac447c94c9)\nThe OpenSSF Package Analysis project identified 'remix-kl-c646' @ 1.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "remix-kl-c646",
+				"purl": "pkg:npm/remix-kl-c646"
+			},
+			"versions": [
+				"1.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/remix-kl-c646/MAL-2024-11226.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-12-07T12:08:05.049664896Z",
+				"modified_time": "2024-12-07T11:55:38Z",
+				"sha256": "831316951b702b955236fce1e45511308b5ec5061654fb048214ebac447c94c9",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.0"
+				]
+			}
+		]
+	}
+}
