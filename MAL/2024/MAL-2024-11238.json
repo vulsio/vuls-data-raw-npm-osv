@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-11238",
+	"modified": "2024-12-08T08:55:30Z",
+	"published": "2024-12-08T08:55:30Z",
+	"summary": "Malicious code in less-rhino (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (90d87c4a7d70e4eed598569e56efbf6227c98faa6455ac64e5e6ecb13dcc8597)\nThe OpenSSF Package Analysis project identified 'less-rhino' @ 1.7.4 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "less-rhino",
+				"purl": "pkg:npm/less-rhino"
+			},
+			"versions": [
+				"1.7.4"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/less-rhino/MAL-2024-11238.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-12-08T09:05:24.337648849Z",
+				"modified_time": "2024-12-08T08:55:30Z",
+				"sha256": "90d87c4a7d70e4eed598569e56efbf6227c98faa6455ac64e5e6ecb13dcc8597",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.7.4"
+				]
+			}
+		]
+	}
+}
