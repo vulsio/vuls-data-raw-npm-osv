@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-11194",
-	"modified": "2024-12-05T00:42:24.077094Z",
+	"modified": "2024-12-09T14:39:21Z",
 	"published": "2024-12-04T04:52:06Z",
 	"aliases": [
 		"GHSA-8mhv-vj44-mq36"
@@ -25,6 +25,9 @@
 					]
 				}
 			],
+			"versions": [
+				"2.0.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +44,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-8mhv-vj44-mq36"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +73,16 @@
 				],
 				"sha256": "3bb0ea7f31fd8a3852b644ba2f2c2fe21351eb754ce4718c5418c06b02bf36c9",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-10502",
+				"import_time": "2024-12-09T14:38:19.960287854Z",
+				"modified_time": "2024-12-08T23:29:12Z",
+				"sha256": "6ef344a4db624c7a1a154208802c071dae5ec103bea00e2e865224eafae48c81",
+				"source": "reversing-labs",
+				"versions": [
+					"2.0.0"
+				]
 			}
 		]
 	}

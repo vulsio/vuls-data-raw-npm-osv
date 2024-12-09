@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-9444",
-	"modified": "2024-10-22T00:42:12.468799Z",
+	"modified": "2024-12-09T14:57:14.172244Z",
 	"published": "2024-10-21T01:09:11Z",
 	"aliases": [
-		"GHSA-6pmv-qrvg-3fgj"
+		"GHSA-6pmv-qrvg-3fgj",
+		"SNYK-JS-GOOGLEDRIVEINTEGRATION-8235378"
 	],
 	"summary": "Malicious code in google-drive-integration (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (b852e689dbc27ffdc82219196cc1caf6535bfe509fb8fdf6fab98a642c019c6d)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"8.0.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-6pmv-qrvg-3fgj"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-GOOGLEDRIVEINTEGRATION-8235378"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/google-drive-integration"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +82,16 @@
 				],
 				"sha256": "b852e689dbc27ffdc82219196cc1caf6535bfe509fb8fdf6fab98a642c019c6d",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-10596",
+				"import_time": "2024-12-09T14:38:24.085312117Z",
+				"modified_time": "2024-12-09T01:09:01Z",
+				"sha256": "0a60b67fb01f07d5499a8c3ea742167c069738887c1af1c86c183cd24bd17064",
+				"source": "reversing-labs",
+				"versions": [
+					"8.0.0"
+				]
 			}
 		]
 	}

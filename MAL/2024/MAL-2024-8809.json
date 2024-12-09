@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-8809",
-	"modified": "2024-09-05T00:42:34.329083Z",
+	"modified": "2024-12-09T14:39:22Z",
 	"published": "2024-09-04T09:25:41Z",
 	"aliases": [
 		"GHSA-f9gr-mr96-x7j5"
@@ -25,6 +25,9 @@
 					]
 				}
 			],
+			"versions": [
+				"2.2.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +44,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-f9gr-mr96-x7j5"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +73,16 @@
 				],
 				"sha256": "cff4fcd790dbc7787f055e2be040f8484d848c82fd64688f5b2aa4edf6e2b932",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-10922",
+				"import_time": "2024-12-09T14:38:38.884916628Z",
+				"modified_time": "2024-12-09T06:17:46Z",
+				"sha256": "99457b40fed760b053de04dd08744b941ae35da355b786dc9921d8e8c6465395",
+				"source": "reversing-labs",
+				"versions": [
+					"2.2.0"
+				]
 			}
 		]
 	}

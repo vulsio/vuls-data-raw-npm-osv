@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-10974",
-	"modified": "2024-11-27T00:43:54.102476Z",
+	"modified": "2024-12-09T14:56:59.186329Z",
 	"published": "2024-11-26T23:52:16Z",
 	"aliases": [
-		"GHSA-q924-4w4w-22h7"
+		"GHSA-q924-4w4w-22h7",
+		"SNYK-JS-ETHERSCANCONTRACTHANDLER-8422637"
 	],
 	"summary": "Malicious code in etherscancontracthandler (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (c90be2cf4c6909deb4fdb88dadf2956097e88cf4bc34dbaedb4b2a34ce849b62)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,13 @@
 					]
 				}
 			],
+			"versions": [
+				"1.0.0",
+				"2.0.0",
+				"3.0.0",
+				"3.0.1",
+				"4.0.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +49,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-q924-4w4w-22h7"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-ETHERSCANCONTRACTHANDLER-8422637"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/etherscancontracthandler"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +86,20 @@
 				],
 				"sha256": "c90be2cf4c6909deb4fdb88dadf2956097e88cf4bc34dbaedb4b2a34ce849b62",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-10565",
+				"import_time": "2024-12-09T14:38:22.44181312Z",
+				"modified_time": "2024-12-09T00:35:15Z",
+				"sha256": "3530a559c52720e82ea9eb5d5dd02070b17931e3883c370c0f3bd8f75e4cc9a1",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.0",
+					"2.0.0",
+					"3.0.0",
+					"3.0.1",
+					"4.0.0"
+				]
 			}
 		]
 	}

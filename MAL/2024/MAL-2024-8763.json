@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-8763",
-	"modified": "2024-09-05T00:42:32.833905Z",
+	"modified": "2024-12-09T14:39:22Z",
 	"published": "2024-09-04T09:08:28Z",
 	"aliases": [
 		"GHSA-545x-jf86-v927"
@@ -25,6 +25,9 @@
 					]
 				}
 			],
+			"versions": [
+				"13.62.18"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +44,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-545x-jf86-v927"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +73,16 @@
 				],
 				"sha256": "1ed926bf3a44788ba5620ba3ef2a3d4bb1bf64dd35797dbfafd5e7c9c991a4f7",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-10589",
+				"import_time": "2024-12-09T14:38:23.682782289Z",
+				"modified_time": "2024-12-09T00:59:13Z",
+				"sha256": "57e544b330726a262d41584aff63d965eebe6ee0ab4deaa9062c3f1e09106cc5",
+				"source": "reversing-labs",
+				"versions": [
+					"13.62.18"
+				]
 			}
 		]
 	}

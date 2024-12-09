@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-11070",
-	"modified": "2024-11-28T00:43:35.451153Z",
+	"modified": "2024-12-09T14:57:08.709186Z",
 	"published": "2024-11-27T00:55:04Z",
 	"aliases": [
-		"GHSA-472r-5cq2-7chc"
+		"GHSA-472r-5cq2-7chc",
+		"SNYK-JS-REACTBIGCALENDAR2-8422612"
 	],
 	"summary": "Malicious code in react-big-calendar2 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (c321db3b19ff6afdabbb4ca384e17c7b2fe9c7c271b7faa2716e1214903906b4)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"6.5.8"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-472r-5cq2-7chc"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-REACTBIGCALENDAR2-8422612"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/react-big-calendar2"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +82,16 @@
 				],
 				"sha256": "c321db3b19ff6afdabbb4ca384e17c7b2fe9c7c271b7faa2716e1214903906b4",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-10758",
+				"import_time": "2024-12-09T14:38:31.363410042Z",
+				"modified_time": "2024-12-09T04:15:54Z",
+				"sha256": "8cf6fe2b6c421c1bc1d56ee2804239c3fea013a8b0873fbe1f9a6b2ce8b93012",
+				"source": "reversing-labs",
+				"versions": [
+					"6.5.8"
+				]
 			}
 		]
 	}

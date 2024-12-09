@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-10957",
-	"modified": "2024-11-27T00:43:52.652039Z",
+	"modified": "2024-12-09T14:57:23.616429Z",
 	"published": "2024-11-26T03:10:44Z",
 	"aliases": [
-		"GHSA-j95w-xhp5-8g29"
+		"GHSA-j95w-xhp5-8g29",
+		"SNYK-JS-CRYPTRESEARCH-8422558"
 	],
 	"summary": "Malicious code in crypt-research (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (488cc5e5910fdc7c554f6c3b87979d4abe9cd560a718f367505c58d4ffec25d2)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,10 @@
 					]
 				}
 			],
+			"versions": [
+				"1.0.0",
+				"1.0.3"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +46,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-j95w-xhp5-8g29"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/crypt-research"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-CRYPTRESEARCH-8422558"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +83,17 @@
 				],
 				"sha256": "488cc5e5910fdc7c554f6c3b87979d4abe9cd560a718f367505c58d4ffec25d2",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-10515",
+				"import_time": "2024-12-09T14:38:20.552696759Z",
+				"modified_time": "2024-12-08T23:46:38Z",
+				"sha256": "1a56f909688959d728a2a63531fa121c374ea6bd20ba14d2573a822caba983b8",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.0",
+					"1.0.3"
+				]
 			}
 		]
 	}

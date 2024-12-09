@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-8762",
-	"modified": "2024-09-05T00:42:36.541610Z",
+	"modified": "2024-12-09T14:39:21Z",
 	"published": "2024-09-04T08:55:59Z",
 	"aliases": [
 		"GHSA-rx8q-5ch6-gjmp"
@@ -25,6 +25,12 @@
 					]
 				}
 			],
+			"versions": [
+				"0.0.1",
+				"0.1.0",
+				"1.0.0",
+				"1.0.1"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +47,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-rx8q-5ch6-gjmp"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +76,19 @@
 				],
 				"sha256": "d65bd1e0827a70f5ef5dcd48080f47b4954d22f07cdba313bf94bb7508d4f1f7",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-10577",
+				"import_time": "2024-12-09T14:38:23.097548709Z",
+				"modified_time": "2024-12-09T00:42:29Z",
+				"sha256": "ba2c708bd7f3ee4fd0b79cde28e4b4ed5dfe21e9df0f6126aceadda377894015",
+				"source": "reversing-labs",
+				"versions": [
+					"0.0.1",
+					"0.1.0",
+					"1.0.0",
+					"1.0.1"
+				]
 			}
 		]
 	}

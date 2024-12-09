@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-10982",
-	"modified": "2024-11-27T00:43:48.758419Z",
+	"modified": "2024-12-09T14:56:57.551144Z",
 	"published": "2024-11-27T00:16:25Z",
 	"aliases": [
-		"GHSA-5g7m-969q-5vp8"
+		"GHSA-5g7m-969q-5vp8",
+		"SNYK-JS-JIRARESTTYPESCRIPT-8422867"
 	],
 	"summary": "Malicious code in jira-rest-typescript (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (a751e385f80e321ca141ec6b1c0e58806c44bedb38b880cc1af3cb133b3c37e7)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"6.5.8"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-5g7m-969q-5vp8"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-JIRARESTTYPESCRIPT-8422867"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/jira-rest-typescript"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +82,16 @@
 				],
 				"sha256": "a751e385f80e321ca141ec6b1c0e58806c44bedb38b880cc1af3cb133b3c37e7",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-10626",
+				"import_time": "2024-12-09T14:38:25.402337187Z",
+				"modified_time": "2024-12-09T01:54:46Z",
+				"sha256": "c75ce825b862914ffd568fae9f07bb081433c0f42f655c55af3296f6f9643e0c",
+				"source": "reversing-labs",
+				"versions": [
+					"6.5.8"
+				]
 			}
 		]
 	}

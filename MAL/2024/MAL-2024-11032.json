@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-11032",
-	"modified": "2024-11-28T00:43:34.242141Z",
+	"modified": "2024-12-09T14:57:14.670695Z",
 	"published": "2024-11-27T00:52:22Z",
 	"aliases": [
-		"GHSA-2gwx-mrwq-358q"
+		"GHSA-2gwx-mrwq-358q",
+		"SNYK-JS-CHOKADER-8422607"
 	],
 	"summary": "Malicious code in chokader (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (3fc9188621dcf2d61381969b9398101544f623c98d339bc9e0cbca1bc00d0925)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"0.0.6"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,27 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-2gwx-mrwq-358q"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-CHOKADER-8422607"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://socket.dev/blog/malicious-npm-packages-inject-ssh-backdoors-via-typosquatted-libraries"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/chokader"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +86,16 @@
 				],
 				"sha256": "3fc9188621dcf2d61381969b9398101544f623c98d339bc9e0cbca1bc00d0925",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-10496",
+				"import_time": "2024-12-09T14:38:19.601372734Z",
+				"modified_time": "2024-12-08T23:21:41Z",
+				"sha256": "856c4dfa4d5b0b09e77cdc2dda77fb56333ddc187d790b33a18f7f7abb3d9c02",
+				"source": "reversing-labs",
+				"versions": [
+					"0.0.6"
+				]
 			}
 		]
 	}

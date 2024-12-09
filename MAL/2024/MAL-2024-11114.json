@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-11114",
-	"modified": "2024-11-28T00:43:45.210616Z",
+	"modified": "2024-12-09T14:57:19.385290Z",
 	"published": "2024-11-27T00:55:04Z",
 	"aliases": [
-		"GHSA-vv64-xmwm-vj8h"
+		"GHSA-vv64-xmwm-vj8h",
+		"SNYK-JS-VSTABLEPLUGINSANTD-8422657"
 	],
 	"summary": "Malicious code in vs-table-plugins-antd (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (ca3296c3762b2860ae5450c32d26bec2d9e80c794905d8063b43474d5dc16802)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"9.2.10"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-vv64-xmwm-vj8h"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-VSTABLEPLUGINSANTD-8422657"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/vs-table-plugins-antd"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +82,16 @@
 				],
 				"sha256": "ca3296c3762b2860ae5450c32d26bec2d9e80c794905d8063b43474d5dc16802",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-10913",
+				"import_time": "2024-12-09T14:38:38.316443156Z",
+				"modified_time": "2024-12-09T06:15:12Z",
+				"sha256": "d243cc8fd39a8983a655e729d5542991a6da4c7e864f9f789fde36a816ac8990",
+				"source": "reversing-labs",
+				"versions": [
+					"9.2.10"
+				]
 			}
 		]
 	}

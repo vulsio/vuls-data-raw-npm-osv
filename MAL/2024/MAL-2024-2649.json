@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2649",
-	"modified": "2024-10-24T01:01:56Z",
+	"modified": "2024-12-09T14:39:22Z",
 	"published": "2024-06-25T12:49:55Z",
 	"summary": "Malicious code in malpostinstall-tst (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -13,7 +13,8 @@
 				"purl": "pkg:npm/malpostinstall-tst"
 			},
 			"versions": [
-				"1.0.0"
+				"1.0.0",
+				"1.0.2"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/malpostinstall-tst/MAL-2024-2649.json"
@@ -47,6 +48,16 @@
 				"modified_time": "2024-10-16T13:03:09Z",
 				"sha256": "df87a98856db88c80d6690c666b8368bbaf9428fc8a6a2554ee3e531fbe7c1b6",
 				"source": "reversing-labs"
+			},
+			{
+				"id": "RLUA-2024-10657",
+				"import_time": "2024-12-09T14:38:52.808237412Z",
+				"modified_time": "2024-12-09T02:30:12Z",
+				"sha256": "a2b6468e870ae991a4ef871bf57982bf09e6b569979dd85c4f369d2c52405b8f",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.2"
+				]
 			}
 		]
 	}

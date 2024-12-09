@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-9809",
-	"modified": "2024-10-16T13:16:52Z",
+	"modified": "2024-12-09T14:39:22Z",
 	"published": "2024-10-16T13:16:52Z",
 	"summary": "Malicious code in rustc_codegen_cranelift-github-release (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -13,7 +13,10 @@
 				"purl": "pkg:npm/rustc_codegen_cranelift-github-release"
 			},
 			"versions": [
-				"1.1.0"
+				"1.1.0",
+				"1.0.0",
+				"1.0.1",
+				"1.1.1"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/rustc_codegen_cranelift-github-release/MAL-2024-9809.json"
@@ -39,6 +42,18 @@
 				"source": "reversing-labs",
 				"versions": [
 					"1.1.0"
+				]
+			},
+			{
+				"id": "RLUA-2024-10797",
+				"import_time": "2024-12-09T14:38:52.895452367Z",
+				"modified_time": "2024-12-09T04:38:28Z",
+				"sha256": "b39c0268248634ba8e7fb154136ff9c574f2238b5d9b6d570c652c6d8965a4b2",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.0",
+					"1.0.1",
+					"1.1.1"
 				]
 			}
 		]

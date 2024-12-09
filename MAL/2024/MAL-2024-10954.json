@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-10954",
-	"modified": "2024-11-27T00:43:53.678089Z",
+	"modified": "2024-12-09T14:57:06.069328Z",
 	"published": "2024-11-26T05:29:17Z",
 	"aliases": [
-		"GHSA-pcc4-vgc8-j8cv"
+		"GHSA-pcc4-vgc8-j8cv",
+		"SNYK-JS-COMMITLINTPLUGINMARKETINGRULES-8422581"
 	],
 	"summary": "Malicious code in commitlint-plugin-marketing-rules (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (e40a92c14d0b0d561bab0beb5da5e3d3dfb66d329e8b0ff2100fb7a8a87468b4)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"7.2.3"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-pcc4-vgc8-j8cv"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/commitlint-plugin-marketing-rules"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-COMMITLINTPLUGINMARKETINGRULES-8422581"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +82,16 @@
 				],
 				"sha256": "e40a92c14d0b0d561bab0beb5da5e3d3dfb66d329e8b0ff2100fb7a8a87468b4",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-10507",
+				"import_time": "2024-12-09T14:38:20.183506291Z",
+				"modified_time": "2024-12-08T23:33:15Z",
+				"sha256": "e4e4e0e5e3ef4f83fdcf4fde596bd84dde0bb4a3e1481138111cdecf96d2f8c4",
+				"source": "reversing-labs",
+				"versions": [
+					"7.2.3"
+				]
 			}
 		]
 	}

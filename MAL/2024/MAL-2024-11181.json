@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-11181",
-	"modified": "2024-12-03T00:42:13.568079Z",
+	"modified": "2024-12-09T14:39:22Z",
 	"published": "2024-12-02T05:33:28Z",
 	"aliases": [
 		"GHSA-82rx-43q9-hqxr"
@@ -25,6 +25,14 @@
 					]
 				}
 			],
+			"versions": [
+				"1.0.0",
+				"2.0.0",
+				"3.0.0",
+				"4.0.0",
+				"5.0.0",
+				"43.3.6"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +49,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-82rx-43q9-hqxr"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +78,21 @@
 				],
 				"sha256": "ff531f663782c2e1a1b12202fa492a99336662a683528d75910f308b12a22dbf",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-10865",
+				"import_time": "2024-12-09T14:38:35.950006701Z",
+				"modified_time": "2024-12-09T05:23:40Z",
+				"sha256": "7a21f61d43708e2ddbe24d92fe329d81340c992389c3dee71a7c6f7a4e6a7d12",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.0",
+					"2.0.0",
+					"3.0.0",
+					"4.0.0",
+					"5.0.0",
+					"43.3.6"
+				]
 			}
 		]
 	}

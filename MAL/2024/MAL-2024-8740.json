@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-8740",
-	"modified": "2024-09-05T00:42:36.465415Z",
+	"modified": "2024-12-09T14:39:21Z",
 	"published": "2024-09-04T09:08:29Z",
 	"aliases": [
 		"GHSA-rrvf-38hh-gcqg"
@@ -25,6 +25,9 @@
 					]
 				}
 			],
+			"versions": [
+				"10.11.20"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +44,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-rrvf-38hh-gcqg"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +73,16 @@
 				],
 				"sha256": "0b2426aa5e61b730fccaddcc53a450fcfb8f7e1ca4dfb450b6bf5848cccef12a",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-10448",
+				"import_time": "2024-12-09T14:38:17.471407743Z",
+				"modified_time": "2024-12-08T22:31:29Z",
+				"sha256": "2b8fae2bd37f7b8acfbb75c32f5a1bf269815e27199b5f79544ecf743af340ce",
+				"source": "reversing-labs",
+				"versions": [
+					"10.11.20"
+				]
 			}
 		]
 	}

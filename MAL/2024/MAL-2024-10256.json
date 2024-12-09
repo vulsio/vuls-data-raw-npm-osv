@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-10256",
-	"modified": "2024-10-29T00:42:19.230031Z",
+	"modified": "2024-12-09T14:57:15.859166Z",
 	"published": "2024-10-28T05:43:58Z",
 	"aliases": [
-		"GHSA-ccmf-x2jj-ppcr"
+		"GHSA-ccmf-x2jj-ppcr",
+		"SNYK-JS-VISMACONNECTBV-8309118"
 	],
 	"summary": "Malicious code in visma-connect-bv (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (005faae12170fc7458fde90c1e389106818e875219f93719065488d5f10ff95a)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"1.0.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-ccmf-x2jj-ppcr"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-VISMACONNECTBV-8309118"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/visma-connect-bv"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +82,16 @@
 				],
 				"sha256": "005faae12170fc7458fde90c1e389106818e875219f93719065488d5f10ff95a",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-10912",
+				"import_time": "2024-12-09T14:38:38.277078477Z",
+				"modified_time": "2024-12-09T06:13:40Z",
+				"sha256": "3b57832b213441fe1b723428ee9ae76eefe37faa44704557dfc2b9acffa146d4",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.0"
+				]
 			}
 		]
 	}

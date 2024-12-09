@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-8772",
-	"modified": "2024-09-05T00:42:34.465391Z",
+	"modified": "2024-12-09T14:39:22Z",
 	"published": "2024-09-04T09:08:30Z",
 	"aliases": [
 		"GHSA-fmvm-cgh5-xf5v"
@@ -25,6 +25,9 @@
 					]
 				}
 			],
+			"versions": [
+				"1.92.1"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +44,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-fmvm-cgh5-xf5v"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +73,16 @@
 				],
 				"sha256": "bb2cbc673e05c4390b6cd2ec1907ab9c70242a26d924f3c307cb19e894d99ec5",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-10605",
+				"import_time": "2024-12-09T14:38:24.525520489Z",
+				"modified_time": "2024-12-09T01:31:08Z",
+				"sha256": "e03418f990415fc5924cfdaefc3b88344db7416390798696dcf82490b99e776c",
+				"source": "reversing-labs",
+				"versions": [
+					"1.92.1"
+				]
 			}
 		]
 	}

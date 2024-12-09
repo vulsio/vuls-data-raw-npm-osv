@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-9123",
-	"modified": "2024-10-10T00:43:29.539003Z",
+	"modified": "2024-12-09T14:57:05.702821Z",
 	"published": "2024-10-09T05:06:26Z",
 	"aliases": [
-		"GHSA-q4jr-6mgr-9rx8"
+		"GHSA-q4jr-6mgr-9rx8",
+		"SNYK-JS-AGODADESIGNTOOLKIT2-8145507"
 	],
 	"summary": "Malicious code in agoda-design-toolkit-2 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (108287c52cc6b7d73890c29bc9f478cb107ed2906c062820d73eb4d51795eb80)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,12 @@
 					]
 				}
 			],
+			"versions": [
+				"1.0.0",
+				"1.0.1",
+				"10.0.0",
+				"10.0.1"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +48,19 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-q4jr-6mgr-9rx8"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-AGODADESIGNTOOLKIT2-8145507"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +81,19 @@
 				],
 				"sha256": "108287c52cc6b7d73890c29bc9f478cb107ed2906c062820d73eb4d51795eb80",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-10430",
+				"import_time": "2024-12-09T14:38:15.654584335Z",
+				"modified_time": "2024-12-08T22:08:26Z",
+				"sha256": "8b03d9c53f62941d488ea9da080c275a14674bb2256ce1b40cc35adce094e331",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.0",
+					"1.0.1",
+					"10.0.0",
+					"10.0.1"
+				]
 			}
 		]
 	}

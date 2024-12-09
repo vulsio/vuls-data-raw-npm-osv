@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-10713",
-	"modified": "2024-11-15T02:46:00Z",
+	"modified": "2024-12-09T14:39:21Z",
 	"published": "2024-11-15T02:46:00Z",
 	"summary": "Malicious code in atlas-query-editor (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (c87ef4ed3d349f5d3658c16f7ce1c2db8b9244b1e53b1cd28fadac8c81d61daa)\nThe OpenSSF Package Analysis project identified 'atlas-query-editor' @ 1.1.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -13,7 +13,11 @@
 				"purl": "pkg:npm/atlas-query-editor"
 			},
 			"versions": [
-				"1.1.1"
+				"1.1.1",
+				"0.0.1",
+				"0.1.0",
+				"0.1.1",
+				"1.0.1"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/atlas-query-editor/MAL-2024-10713.json"
@@ -28,6 +32,13 @@
 				"https://openssf.slack.com/channels/package_analysis"
 			],
 			"type": "FINDER"
+		},
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -38,6 +49,20 @@
 				"sha256": "c87ef4ed3d349f5d3658c16f7ce1c2db8b9244b1e53b1cd28fadac8c81d61daa",
 				"source": "ossf-package-analysis",
 				"versions": [
+					"1.1.1"
+				]
+			},
+			{
+				"id": "RLMA-2024-10449",
+				"import_time": "2024-12-09T14:38:17.533655474Z",
+				"modified_time": "2024-12-08T22:34:16Z",
+				"sha256": "16de8cb74ee7270e048c88e2c5ae5ac13a52aa14a39a18778c53ac14c1aa1596",
+				"source": "reversing-labs",
+				"versions": [
+					"0.0.1",
+					"0.1.0",
+					"0.1.1",
+					"1.0.1",
 					"1.1.1"
 				]
 			}

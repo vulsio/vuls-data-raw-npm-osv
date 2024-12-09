@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-9276",
-	"modified": "2024-10-12T00:42:17.672244Z",
+	"modified": "2024-12-09T14:57:01.980375Z",
 	"published": "2024-10-11T05:02:39Z",
 	"aliases": [
-		"GHSA-7qf7-r7rp-hjq2"
+		"GHSA-7qf7-r7rp-hjq2",
+		"SNYK-JS-OTYPOGRAPHY-8181744"
 	],
 	"summary": "Malicious code in o-typography (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (7a4146552594145c062dfa24fb0db35865bd722e418b13c0acc627b7ba2f7f50)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,11 @@
 					]
 				}
 			],
+			"versions": [
+				"10.10.10",
+				"10.10.11",
+				"10.10.12"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +47,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-7qf7-r7rp-hjq2"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-OTYPOGRAPHY-8181744"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/o-typography"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +84,18 @@
 				],
 				"sha256": "7a4146552594145c062dfa24fb0db35865bd722e418b13c0acc627b7ba2f7f50",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-10708",
+				"import_time": "2024-12-09T14:38:29.305911112Z",
+				"modified_time": "2024-12-09T03:17:42Z",
+				"sha256": "9f79c04c807b5a7a2206b00cceaf73e2c7686e7bfc56a4ce46b52f46f5000348",
+				"source": "reversing-labs",
+				"versions": [
+					"10.10.10",
+					"10.10.11",
+					"10.10.12"
+				]
 			}
 		]
 	}

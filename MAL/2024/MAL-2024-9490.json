@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-9490",
-	"modified": "2024-10-16T12:26:46Z",
+	"modified": "2024-12-09T14:39:21Z",
 	"published": "2024-10-16T12:26:46Z",
 	"summary": "Malicious code in @zva/web (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -14,7 +14,8 @@
 			},
 			"versions": [
 				"99.50.54",
-				"99.50.55"
+				"99.50.55",
+				"99.49.54"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@zva/web/MAL-2024-9490.json"
@@ -41,6 +42,16 @@
 				"versions": [
 					"99.50.54",
 					"99.50.55"
+				]
+			},
+			{
+				"id": "RLUA-2024-10415",
+				"import_time": "2024-12-09T14:38:52.371375282Z",
+				"modified_time": "2024-12-08T22:00:17Z",
+				"sha256": "e7730370d76320a7016b4359cb478a8206209738035c1a7fca994edb9f573ebc",
+				"source": "reversing-labs",
+				"versions": [
+					"99.49.54"
 				]
 			}
 		]

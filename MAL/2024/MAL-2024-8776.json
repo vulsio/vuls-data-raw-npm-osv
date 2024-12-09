@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-8776",
-	"modified": "2024-09-05T00:42:35.017726Z",
+	"modified": "2024-12-09T14:39:22Z",
 	"published": "2024-09-04T08:01:49Z",
 	"aliases": [
 		"GHSA-j7vp-m324-f9xw"
@@ -25,6 +25,9 @@
 					]
 				}
 			],
+			"versions": [
+				"10.99.2"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +44,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-j7vp-m324-f9xw"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +73,16 @@
 				],
 				"sha256": "f663678906f8c3cc94e69d26183d0757c295a9f04195749cd05c3260b980db1c",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-10619",
+				"import_time": "2024-12-09T14:38:25.101704942Z",
+				"modified_time": "2024-12-09T01:43:46Z",
+				"sha256": "40d7e08ac4904c70c519beb2a655a087018b058e94968ef7f3d94c93086540f4",
+				"source": "reversing-labs",
+				"versions": [
+					"10.99.2"
+				]
 			}
 		]
 	}

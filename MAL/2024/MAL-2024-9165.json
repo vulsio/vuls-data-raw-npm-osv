@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-9165",
-	"modified": "2024-10-10T00:43:29.007055Z",
+	"modified": "2024-12-09T14:57:09.202393Z",
 	"published": "2024-10-09T05:06:26Z",
 	"aliases": [
-		"GHSA-m8r4-q4q6-ghqj"
+		"GHSA-m8r4-q4q6-ghqj",
+		"SNYK-JS-MAKEBETTEREMAIL-8145532"
 	],
 	"summary": "Malicious code in makebetteremail (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (c05ae267bfe19d2a54f813347f8df26dc550dbe7da0b20207863fd732bcd55d2)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,10 @@
 					]
 				}
 			],
+			"versions": [
+				"1.0.0",
+				"1.0.1"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +46,19 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-m8r4-q4q6-ghqj"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-MAKEBETTEREMAIL-8145532"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +79,17 @@
 				],
 				"sha256": "c05ae267bfe19d2a54f813347f8df26dc550dbe7da0b20207863fd732bcd55d2",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-10655",
+				"import_time": "2024-12-09T14:38:26.774810965Z",
+				"modified_time": "2024-12-09T02:29:58Z",
+				"sha256": "75386dabf578d501d5a8b4e09b53739505e85f14439a8018663891ad892e0b97",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.0",
+					"1.0.1"
+				]
 			}
 		]
 	}

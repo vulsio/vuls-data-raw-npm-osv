@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-11013",
-	"modified": "2024-11-27T00:43:48.048786Z",
+	"modified": "2024-12-09T14:57:11.111592Z",
 	"published": "2024-11-27T00:10:31Z",
 	"aliases": [
-		"GHSA-429x-wjxf-cpg2"
+		"GHSA-429x-wjxf-cpg2",
+		"SNYK-JS-TRACKINGWTF-8422848"
 	],
 	"summary": "Malicious code in tracking-wtf (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (7f6c419e01391037aa9cad91f15a45a36a535cf2a7cee66dfe6a8814f2da5eec)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"8.5.1"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-429x-wjxf-cpg2"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-TRACKINGWTF-8422848"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/tracking-wtf"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +82,16 @@
 				],
 				"sha256": "7f6c419e01391037aa9cad91f15a45a36a535cf2a7cee66dfe6a8814f2da5eec",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-10888",
+				"import_time": "2024-12-09T14:38:37.063355214Z",
+				"modified_time": "2024-12-09T05:38:56Z",
+				"sha256": "726a1297cea3d98e46afdf9c084a90507c190eacc39ae61f67c25ceecc795735",
+				"source": "reversing-labs",
+				"versions": [
+					"8.5.1"
+				]
 			}
 		]
 	}

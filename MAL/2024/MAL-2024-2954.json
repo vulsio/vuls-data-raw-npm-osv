@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2954",
-	"modified": "2024-10-24T01:01:57Z",
+	"modified": "2024-12-09T14:39:22Z",
 	"published": "2024-06-25T12:58:26Z",
 	"summary": "Malicious code in relay-github-root (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -13,7 +13,8 @@
 				"purl": "pkg:npm/relay-github-root"
 			},
 			"versions": [
-				"2000.0.0"
+				"2000.0.0",
+				"100.0.2"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/relay-github-root/MAL-2024-2954.json"
@@ -47,6 +48,16 @@
 				"modified_time": "2024-10-16T13:15:11Z",
 				"sha256": "9e7990529f3978c9abec56eea2cdbc9369549763a0bc67cc0cf9756fb3be253e",
 				"source": "reversing-labs"
+			},
+			{
+				"id": "RLUA-2024-10769",
+				"import_time": "2024-12-09T14:38:52.862185463Z",
+				"modified_time": "2024-12-09T04:22:54Z",
+				"sha256": "2a98621c3e9e0b28fcf18690e17a1757ae62ee9c1f0f986fa293e52480a7d48b",
+				"source": "reversing-labs",
+				"versions": [
+					"100.0.2"
+				]
 			}
 		]
 	}

@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-9295",
-	"modified": "2024-10-15T00:42:11.964367Z",
+	"modified": "2024-12-09T14:57:14.248632Z",
 	"published": "2024-10-14T02:04:26Z",
 	"aliases": [
-		"GHSA-rgrx-5wjq-99hx"
+		"GHSA-rgrx-5wjq-99hx",
+		"SNYK-JS-REDISORACLE-8185025"
 	],
 	"summary": "Malicious code in redis-oracle (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (2ea6e343b932f13174f4d2feea7f70dcf1900c9b51bf55a2abff025184ed0c87)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,12 @@
 					]
 				}
 			],
+			"versions": [
+				"1.0.2",
+				"1.0.3",
+				"1.0.4",
+				"1.0.5"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +48,27 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-rgrx-5wjq-99hx"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-REDISORACLE-8185025"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/redis-oracle"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://socket.dev/blog/supply-chain-attacks-targeting-llm-application-developers"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +89,19 @@
 				],
 				"sha256": "2ea6e343b932f13174f4d2feea7f70dcf1900c9b51bf55a2abff025184ed0c87",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-10767",
+				"import_time": "2024-12-09T14:38:31.683208585Z",
+				"modified_time": "2024-12-09T04:19:10Z",
+				"sha256": "78a30d8c5f3220cf2ce0a8f0c3fb95edaf1b2fc8c2ed48ffaacb3498baa242f8",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.2",
+					"1.0.3",
+					"1.0.4",
+					"1.0.5"
+				]
 			}
 		]
 	}

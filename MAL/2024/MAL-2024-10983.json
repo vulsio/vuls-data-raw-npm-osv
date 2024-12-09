@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-10983",
-	"modified": "2024-11-27T00:43:53.497261Z",
+	"modified": "2024-12-09T14:56:54.183300Z",
 	"published": "2024-11-27T00:10:30Z",
 	"aliases": [
-		"GHSA-mwf2-jqj4-gr7c"
+		"GHSA-mwf2-jqj4-gr7c",
+		"SNYK-JS-JSONTREEPREVIEW-8422684"
 	],
 	"summary": "Malicious code in json-tree-preview (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (0892c74ee2d08c098ac37071b098b7b98d3d6e56f4ed823199117411d0538e4a)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"6.5.8"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-mwf2-jqj4-gr7c"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-JSONTREEPREVIEW-8422684"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/json-tree-preview"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +82,16 @@
 				],
 				"sha256": "0892c74ee2d08c098ac37071b098b7b98d3d6e56f4ed823199117411d0538e4a",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-10630",
+				"import_time": "2024-12-09T14:38:25.534253887Z",
+				"modified_time": "2024-12-09T01:57:39Z",
+				"sha256": "14d1a0302a6260d146dcae8e59ff33be31125e6e9a06eccd055d92c261d9850f",
+				"source": "reversing-labs",
+				"versions": [
+					"6.5.8"
+				]
 			}
 		]
 	}

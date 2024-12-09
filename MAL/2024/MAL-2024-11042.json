@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-11042",
-	"modified": "2024-11-28T00:43:43.259561Z",
+	"modified": "2024-12-09T14:57:01.410146Z",
 	"published": "2024-11-27T03:30:22Z",
 	"aliases": [
-		"GHSA-pp4m-vv2m-29j5"
+		"GHSA-pp4m-vv2m-29j5",
+		"SNYK-JS-GAPITS-8422738"
 	],
 	"summary": "Malicious code in gapi-ts (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (656aac7ea246b8db9b841cf8739bd878070c269e40526d950e1314b220958ed4)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,10 @@
 					]
 				}
 			],
+			"versions": [
+				"0.0.0",
+				"6.5.8"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +46,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-pp4m-vv2m-29j5"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-GAPITS-8422738"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/gapi-ts"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +83,17 @@
 				],
 				"sha256": "656aac7ea246b8db9b841cf8739bd878070c269e40526d950e1314b220958ed4",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2024-10591",
+				"import_time": "2024-12-09T14:38:23.733378383Z",
+				"modified_time": "2024-12-09T01:02:54Z",
+				"sha256": "9e10b308a81d5dbe4783a951855d64283c47b1795ce963a009a903d298733530",
+				"source": "reversing-labs",
+				"versions": [
+					"0.0.0",
+					"6.5.8"
+				]
 			}
 		]
 	}
