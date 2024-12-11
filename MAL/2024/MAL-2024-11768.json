@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-11768",
+	"modified": "2024-12-09T09:16:29Z",
+	"published": "2024-12-09T09:16:29Z",
+	"summary": "Malicious code in com.unity.entities (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (a62f5e52dedb5ed49d67c9238b8c1fcd2430d5c17648b6b817c66ec063f9e604)\nThe OpenSSF Package Analysis project identified 'com.unity.entities' @ 7.1.2 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "com.unity.entities",
+				"purl": "pkg:npm/com.unity.entities"
+			},
+			"versions": [
+				"7.1.2"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/com.unity.entities/MAL-2024-11768.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-12-11T00:49:35.96249095Z",
+				"modified_time": "2024-12-09T09:16:29Z",
+				"sha256": "a62f5e52dedb5ed49d67c9238b8c1fcd2430d5c17648b6b817c66ec063f9e604",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"7.1.2"
+				]
+			}
+		]
+	}
+}
