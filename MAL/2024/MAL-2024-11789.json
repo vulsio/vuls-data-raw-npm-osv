@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-11789",
+	"modified": "2024-12-12T10:57:41Z",
+	"published": "2024-12-12T10:57:41Z",
+	"summary": "Malicious code in majidalfuttaim (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (16e498da56ba3ac37ec6acbd7071d8192a3f4dec256f42c022d79157d0b92196)\nThe OpenSSF Package Analysis project identified 'majidalfuttaim' @ 1.1.2 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "majidalfuttaim",
+				"purl": "pkg:npm/majidalfuttaim"
+			},
+			"versions": [
+				"1.1.2"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/majidalfuttaim/MAL-2024-11789.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-12-12T11:05:12.384963906Z",
+				"modified_time": "2024-12-12T10:57:41Z",
+				"sha256": "16e498da56ba3ac37ec6acbd7071d8192a3f4dec256f42c022d79157d0b92196",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.1.2"
+				]
+			}
+		]
+	}
+}
