@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-11787",
+	"modified": "2024-12-12T00:45:52Z",
+	"published": "2024-12-12T00:45:52Z",
+	"summary": "Malicious code in anumanu2324 (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (c951f7208dc5f28f1a1b3e2560879eeeb2f8ef2ec642a6cba584d6fe0d92bf03)\nThe OpenSSF Package Analysis project identified 'anumanu2324' @ 1.0.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "anumanu2324",
+				"purl": "pkg:npm/anumanu2324"
+			},
+			"versions": [
+				"1.0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/anumanu2324/MAL-2024-11787.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-12-12T00:49:30.61778666Z",
+				"modified_time": "2024-12-12T00:45:52Z",
+				"sha256": "c951f7208dc5f28f1a1b3e2560879eeeb2f8ef2ec642a6cba584d6fe0d92bf03",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.1"
+				]
+			}
+		]
+	}
+}
