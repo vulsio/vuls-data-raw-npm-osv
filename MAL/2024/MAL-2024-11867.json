@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-11867",
+	"modified": "2024-12-15T07:36:33Z",
+	"published": "2024-12-15T07:36:33Z",
+	"summary": "Malicious code in 32red-connect (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (1b4d049b9fd24ee02ab3bf3784934b316f1d0c46b11e0245caa1b33245203e99)\nThe OpenSSF Package Analysis project identified '32red-connect' @ 999.9.9 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "32red-connect",
+				"purl": "pkg:npm/32red-connect"
+			},
+			"versions": [
+				"999.9.9"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/32red-connect/MAL-2024-11867.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2024-12-15T08:06:36.194273581Z",
+				"modified_time": "2024-12-15T07:36:33Z",
+				"sha256": "1b4d049b9fd24ee02ab3bf3784934b316f1d0c46b11e0245caa1b33245203e99",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"999.9.9"
+				]
+			}
+		]
+	}
+}
