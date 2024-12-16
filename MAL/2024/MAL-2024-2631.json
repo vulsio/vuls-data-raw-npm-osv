@@ -1,10 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2631",
-	"modified": "2024-10-24T01:01:56Z",
+	"modified": "2024-12-16T03:21:27Z",
 	"published": "2024-06-25T12:49:25Z",
 	"summary": "Malicious code in load-secrets-action (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (baa8f7d8141551ccc5cd11100ca7589e83e853f01d7a6267296a60dd517bb240)\nThe OpenSSF Package Analysis project identified 'load-secrets-action' @ 2.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package executes one or more commands associated with malicious behavior.\n",
 	"affected": [
 		{
 			"package": {
@@ -13,7 +13,8 @@
 				"purl": "pkg:npm/load-secrets-action"
 			},
 			"versions": [
-				"2.0.2"
+				"2.0.2",
+				"2.0.0"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/load-secrets-action/MAL-2024-2631.json"
@@ -21,6 +22,14 @@
 		}
 	],
 	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		},
 		{
 			"name": "ReversingLabs",
 			"contact": [
@@ -47,6 +56,15 @@
 				"modified_time": "2024-10-16T13:02:25Z",
 				"sha256": "8f609bc7b227957e4e77fb6cafd1356b9f202335e9ea12599a1202e2c2b955ea",
 				"source": "reversing-labs"
+			},
+			{
+				"import_time": "2024-12-16T03:20:59.249740116Z",
+				"modified_time": "2024-12-10T01:10:22Z",
+				"sha256": "baa8f7d8141551ccc5cd11100ca7589e83e853f01d7a6267296a60dd517bb240",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"2.0.0"
+				]
 			}
 		]
 	}
