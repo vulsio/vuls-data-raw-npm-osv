@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5689-v88g-g6rv",
-	"modified": "2023-12-06T01:02:21.090109Z",
+	"modified": "2024-12-16T15:26:48.750976Z",
 	"published": "2022-07-15T00:00:18Z",
 	"aliases": [
 		"BIT-node-2022-32213",
+		"BIT-node-min-2022-32213",
 		"CVE-2022-32213"
 	],
 	"summary": "llhttp allows HTTP Request Smuggling via Flawed Parsing of Transfer-Encoding",
