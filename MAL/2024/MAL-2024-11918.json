@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-11918",
-	"modified": "2024-12-18T20:55:56Z",
+	"modified": "2024-12-19T09:36:23Z",
 	"published": "2024-12-18T20:55:56Z",
 	"summary": "Malicious code in auto-assign-team-actionn (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (668caa6bf7df262d80ece1525900270e26363404790282eb589d3ddb562de423)\nThe OpenSSF Package Analysis project identified 'auto-assign-team-actionn' @ 1.1.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -13,7 +13,8 @@
 				"purl": "pkg:npm/auto-assign-team-actionn"
 			},
 			"versions": [
-				"1.1.0"
+				"1.1.0",
+				"0.0.4"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/auto-assign-team-actionn/MAL-2024-11918.json"
@@ -39,6 +40,15 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"1.1.0"
+				]
+			},
+			{
+				"import_time": "2024-12-19T09:35:53.95594338Z",
+				"modified_time": "2024-12-19T09:35:52Z",
+				"sha256": "afd49fd2d1e1a85ccf62a5f3cb926c70d9195e5b2a8f2358aed76da5d8060020",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"0.0.4"
 				]
 			}
 		]
