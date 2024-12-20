@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-11922",
-	"modified": "2024-12-19T12:09:28Z",
+	"modified": "2024-12-20T16:38:15Z",
 	"published": "2024-12-19T11:50:49Z",
 	"summary": "Malicious code in blz-internal-pkg_update (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (8c0576719ed89c86b80e8064de18e089618752aa208fa88dfc410ad73e84bf8e)\nThe OpenSSF Package Analysis project identified 'blz-internal-pkg_update' @ 7.7.11 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -14,7 +14,8 @@
 			},
 			"versions": [
 				"7.7.11",
-				"7.7.9"
+				"7.7.9",
+				"7.7.14"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/blz-internal-pkg_update/MAL-2024-11922.json"
@@ -49,6 +50,15 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"7.7.9"
+				]
+			},
+			{
+				"import_time": "2024-12-20T16:37:49.789561661Z",
+				"modified_time": "2024-12-20T16:31:03Z",
+				"sha256": "22b7ba0d1c3b8e5b5dd1164d61508d7d0bf9932f8fd52521ac672c50cb822bdd",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"7.7.14"
 				]
 			}
 		]
