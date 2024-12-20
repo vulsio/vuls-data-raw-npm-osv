@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-49w6-73cw-chjr",
-	"modified": "2024-12-19T15:42:22.917197Z",
+	"modified": "2024-12-19T21:38:47Z",
 	"published": "2024-12-19T15:12:33Z",
 	"aliases": [
 		"CVE-2024-56159"
@@ -70,6 +70,10 @@
 			"url": "https://github.com/withastro/astro/security/advisories/GHSA-49w6-73cw-chjr"
 		},
 		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-56159"
+		},
+		{
 			"type": "WEB",
 			"url": "https://github.com/withastro/astro/issues/12703"
 		},
@@ -80,6 +84,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/withastro/astro/commit/c879f501ff01b1a3c577de776a1f7100d78f8dd5"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/getsentry/sentry-javascript/blob/develop/packages/astro/src/integration/index.ts#L50"
 		},
 		{
 			"type": "PACKAGE",
@@ -96,7 +104,7 @@
 		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-12-19T15:12:33Z",
-		"nvd_published_at": null,
+		"nvd_published_at": "2024-12-19T19:15:08Z",
 		"severity": "HIGH"
 	}
 }
