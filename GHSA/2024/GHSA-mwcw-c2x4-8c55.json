@@ -7,7 +7,8 @@
 		"CVE-2024-55565"
 	],
 	"related": [
-		"CGA-8vh7-wwpf-5f4g"
+		"CGA-8vh7-wwpf-5f4g",
+		"CGA-q99g-63m8-c4r8"
 	],
 	"summary": "Predictable results in nanoid generation when given non-integer values",
 	"details": "When nanoid is called with a fractional value, there were a number of undesirable effects:\n\n1. in browser and non-secure, the code infinite loops on while (size--)\n2. in node, the value of poolOffset becomes fractional, causing calls to nanoid to return zeroes until the pool is next filled\n3. if the first call in node is a fractional argument, the initial buffer allocation fails with an error\n\nVersion 3.3.8 and 5.0.9 are fixed.",
