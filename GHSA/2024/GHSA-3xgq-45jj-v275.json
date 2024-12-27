@@ -11,7 +11,8 @@
 		"CGA-56f7-wq2j-gqhc",
 		"CGA-58mw-hm95-x9xv",
 		"CGA-7c7p-r8cv-2pj4",
-		"CGA-8hpc-g49m-34cc"
+		"CGA-8hpc-g49m-34cc",
+		"CGA-8rv2-6965-grc6"
 	],
 	"summary": "Regular Expression Denial of Service (ReDoS) in cross-spawn",
 	"details": "Versions of the package cross-spawn before 7.0.5 are vulnerable to Regular Expression Denial of Service (ReDoS) due to improper input sanitization. An attacker can increase the CPU usage and crash the program by crafting a very large and well crafted string.",
