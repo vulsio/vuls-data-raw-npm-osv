@@ -1,0 +1,35 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-12161",
+	"modified": "2024-12-29T23:37:50Z",
+	"published": "2024-12-29T23:37:50Z",
+	"summary": "Malicious code in crypto-buddies (npm)",
+	"details": "This package runs commands in a pre-install script that exfils sensitive data to a attacker-controlled domain.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "crypto-buddies",
+				"purl": "pkg:npm/crypto-buddies"
+			},
+			"versions": [
+				"9.9.9"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/crypto-buddies/MAL-2024-12161.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "GitHax",
+			"contact": [
+				"https://githax.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}
