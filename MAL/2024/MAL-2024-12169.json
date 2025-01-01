@@ -1,0 +1,35 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-12169",
+	"modified": "2024-12-31T23:37:50Z",
+	"published": "2024-12-31T23:37:50Z",
+	"summary": "Malicious code in faucet-microservice (npm)",
+	"details": "This package exfils sensitive data to a attacker-controlled domain via index.js.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "faucet-microservice",
+				"purl": "pkg:npm/faucet-microservice"
+			},
+			"versions": [
+				"0.0.2"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/faucet-microservice/MAL-2024-12169.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "GitHax",
+			"contact": [
+				"https://githax.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}
