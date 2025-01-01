@@ -1,0 +1,36 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-12173",
+	"modified": "2024-12-31T23:37:50Z",
+	"published": "2024-12-31T23:37:50Z",
+	"summary": "Malicious code in solaraexecutor (npm)",
+	"details": "This package uses obfuscation to hide that its downloading a malicious binary from an attacker-controlled domain",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "solaraexecutor",
+				"purl": "pkg:npm/solaraexecutor"
+			},
+			"versions": [
+				"1.0.0",
+				"1.0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/solaraexecutor/MAL-2024-12173.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "GitHax - Software Supply Chain Threat Intelligence",
+			"contact": [
+				"https://githax.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}
