@@ -1,0 +1,35 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-12181",
+	"modified": "2024-12-18T12:48:09Z",
+	"published": "2024-12-18T12:48:09Z",
+	"summary": "Malicious code in @hisdk/mail-mac (npm)",
+	"details": "This package has a preinstall script to download an execute a Go-variant of the Cobalt Strike beacon.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "@hisdk/mail-mac",
+				"purl": "pkg:npm/%40hisdk/mail-mac"
+			},
+			"versions": [
+				"1.0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@hisdk/mail-mac/MAL-2024-12181.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "Stacklok Insight: insight.stacklok.com",
+			"contact": [
+				"https://discord.com/invite/RkzVuTp3WK"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}
