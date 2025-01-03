@@ -1,0 +1,35 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-13",
+	"modified": "2025-01-02T22:55:31Z",
+	"published": "2025-01-02T22:55:31Z",
+	"summary": "Malicious code in zqdl111 (npm)",
+	"details": "This package runs commands in a pre-install script that exfils sensitive data to a attacker-controlled domain.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "zqdl111",
+				"purl": "pkg:npm/zqdl111"
+			},
+			"versions": [
+				"11.1.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/zqdl111/MAL-2025-13.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "GitHax - Software Supply Chain Threat Intelligence",
+			"contact": [
+				"https://githax.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}
