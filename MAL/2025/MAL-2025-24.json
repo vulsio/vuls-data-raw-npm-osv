@@ -1,0 +1,66 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-24",
+	"modified": "2025-01-07T10:38:35Z",
+	"published": "2025-01-07T09:40:14Z",
+	"summary": "Malicious code in electron-builder-13 (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (b87ca459f5fbe7d970a7053fdea799abf8736f04fa8ee97b743587d996bae11c)\nThe OpenSSF Package Analysis project identified 'electron-builder-13' @ 13.4.5 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "electron-builder-13",
+				"purl": "pkg:npm/electron-builder-13"
+			},
+			"versions": [
+				"13.4.5",
+				"13.6.5",
+				"13.7.5"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/electron-builder-13/MAL-2025-24.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2025-01-07T10:06:12.377786698Z",
+				"modified_time": "2025-01-07T09:40:14Z",
+				"sha256": "b87ca459f5fbe7d970a7053fdea799abf8736f04fa8ee97b743587d996bae11c",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"13.4.5"
+				]
+			},
+			{
+				"import_time": "2025-01-07T10:38:05.451478588Z",
+				"modified_time": "2025-01-07T10:24:45Z",
+				"sha256": "645431e0b1ecc29f59ec3f6e140926f2fe46d6e01218e48371d5773eac867d3b",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"13.6.5"
+				]
+			},
+			{
+				"import_time": "2025-01-07T10:38:05.505845058Z",
+				"modified_time": "2025-01-07T10:27:53Z",
+				"sha256": "9f18233f79ecd2fd906456f4f55ddc2250380aa687cd98259d78a84cd89f40f8",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"13.7.5"
+				]
+			}
+		]
+	}
+}
