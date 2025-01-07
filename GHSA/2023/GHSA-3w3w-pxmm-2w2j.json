@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3w3w-pxmm-2w2j",
-	"modified": "2023-11-08T04:03:49.464072Z",
+	"modified": "2025-01-06T18:35:21Z",
 	"published": "2023-06-12T03:30:17Z",
 	"aliases": [
 		"CVE-2020-36732"
@@ -79,7 +79,8 @@
 	],
 	"database_specific": {
 		"cwe_ids": [
-			"CWE-330"
+			"CWE-330",
+			"CWE-331"
 		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2023-06-13T12:44:48Z",
