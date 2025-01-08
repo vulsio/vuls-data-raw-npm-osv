@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2025-30",
-	"modified": "2025-01-07T19:05:30Z",
+	"modified": "2025-01-08T12:46:54Z",
 	"published": "2025-01-07T15:05:44Z",
 	"summary": "Malicious code in jpl-branding (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (3794063e1fdfda5e6f34e623a6ff58b9be119adb03e613206f3be17e3a5fd0e9)\nThe OpenSSF Package Analysis project identified 'jpl-branding' @ 2.0.2 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -15,7 +15,8 @@
 			"versions": [
 				"2.0.2",
 				"2.0.5",
-				"2.0.7"
+				"2.0.7",
+				"2.1.0"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/jpl-branding/MAL-2025-30.json"
@@ -59,6 +60,15 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"2.0.7"
+				]
+			},
+			{
+				"import_time": "2025-01-08T12:46:23.354721622Z",
+				"modified_time": "2025-01-08T12:35:18Z",
+				"sha256": "b4cea719cc37bb6c1757817929913c27c1c03e29932b83dceadeb2a10b66410a",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"2.1.0"
 				]
 			}
 		]
