@@ -8,6 +8,8 @@
 	],
 	"related": [
 		"CGA-3q69-c424-w54c",
+		"CGA-46v3-9cq9-rx8v",
+		"CGA-h864-qfx6-rqww",
 		"CGA-wwx6-ggqg-hrxj"
 	],
 	"summary": "Unpatched `path-to-regexp` ReDoS in 0.1.x",
