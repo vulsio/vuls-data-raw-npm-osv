@@ -1,10 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-8700",
-	"modified": "2023-12-15T09:47:10Z",
+	"modified": "2025-01-12T22:13:18Z",
 	"published": "2023-12-15T09:47:10Z",
 	"summary": "Malicious code in spectro-cloud-docs (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (fc21e3384d0921c988c3a9357b6d7568003a57b5ce8492d7c2568bcd5ccfe2c9)\nThe OpenSSF Package Analysis project identified 'spectro-cloud-docs' @ 4.0.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"details": "This package runs commands in a pre-install script that exfils sensitive data to a attacker-controlled domain.\n\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (fc21e3384d0921c988c3a9357b6d7568003a57b5ce8492d7c2568bcd5ccfe2c9)\nThe OpenSSF Package Analysis project identified 'spectro-cloud-docs' @ 4.0.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
 	"affected": [
 		{
 			"package": {
@@ -13,7 +13,9 @@
 				"purl": "pkg:npm/spectro-cloud-docs"
 			},
 			"versions": [
-				"4.0.1"
+				"4.0.1",
+				"1.0.0",
+				"1.0.1"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/spectro-cloud-docs/MAL-2023-8700.json"
@@ -21,6 +23,13 @@
 		}
 	],
 	"credits": [
+		{
+			"name": "GitHax - Software Supply Chain Threat Intelligence",
+			"contact": [
+				"https://githax.com"
+			],
+			"type": "FINDER"
+		},
 		{
 			"name": "OpenSSF: Package Analysis",
 			"contact": [

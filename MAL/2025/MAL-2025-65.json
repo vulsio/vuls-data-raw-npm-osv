@@ -1,0 +1,36 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-65",
+	"modified": "2025-01-09T17:22:47Z",
+	"published": "2025-01-09T17:22:47Z",
+	"summary": "Malicious code in hardhat-dotenv (npm)",
+	"details": "The package contains code to exfiltrate environment variables to an attacker-controlled server.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "hardhat-dotenv",
+				"purl": "pkg:npm/hardhat-dotenv"
+			},
+			"versions": [
+				"16.4.8",
+				"16.4.7"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hardhat-dotenv/MAL-2025-65.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "Stacklok Insight: insight.stacklok.com",
+			"contact": [
+				"https://discord.com/invite/RkzVuTp3WK"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-63",
+	"modified": "2025-01-08T01:43:42Z",
+	"published": "2025-01-08T01:43:42Z",
+	"summary": "Malicious code in aem-guides-wknd-app (npm)",
+	"details": "This package runs commands in a pre-install script that exfils sensitive data to a attacker-controlled domain.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "aem-guides-wknd-app",
+				"purl": "pkg:npm/aem-guides-wknd-app"
+			},
+			"versions": [
+				"3.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/aem-guides-wknd-app/MAL-2025-63.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "GitHax - Software Supply Chain Threat Intelligence",
+			"contact": [
+				"https://githax.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}

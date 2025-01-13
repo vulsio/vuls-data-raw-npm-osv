@@ -1,0 +1,42 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-47",
+	"modified": "2025-01-06T12:49:32Z",
+	"published": "2025-01-06T12:49:32Z",
+	"summary": "Malicious code in walletcore-gen (npm)",
+	"details": "The package contains several malicious PowerShell and VBS scripts used to harvest browser data, take screenshots, log keystrokes, and establish startup persistence. It also bundles a password stealer and exfiltrates stolen data via Slack and Discord webhooks.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "walletcore-gen",
+				"purl": "pkg:npm/walletcore-gen"
+			},
+			"versions": [
+				"1.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/walletcore-gen/MAL-2025-47.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "Stacklok Insight: insight.stacklok.com",
+			"contact": [
+				"https://discord.com/invite/RkzVuTp3WK"
+			],
+			"type": "FINDER"
+		},
+		{
+			"name": "GitHax - Software Supply Chain Threat Intelligence",
+			"contact": [
+				"https://githax.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}

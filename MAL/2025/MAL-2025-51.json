@@ -1,0 +1,35 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-51",
+	"modified": "2025-01-03T00:43:00Z",
+	"published": "2025-01-03T00:43:00Z",
+	"summary": "Malicious code in issue-label-notification-action (npm)",
+	"details": "This package runs commands in a pre-install script that exfils sensitive data to a attacker-controlled domain.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "issue-label-notification-action",
+				"purl": "pkg:npm/issue-label-notification-action"
+			},
+			"versions": [
+				"1.1.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/issue-label-notification-action/MAL-2025-51.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "GitHax - Software Supply Chain Threat Intelligence",
+			"contact": [
+				"https://githax.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}
