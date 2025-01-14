@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9mx2-prfp-8hqp",
-	"modified": "2023-11-08T04:04:07.948355Z",
+	"modified": "2025-01-14T08:57:24.554233Z",
 	"published": "2021-05-10T18:38:47Z",
 	"aliases": [
-		"CVE-2020-7742",
-		"SNYK-JS-SIMPLSCHEMA-1016157"
+		"CVE-2020-7742"
 	],
 	"summary": "Prototype Pollution in simpl-schema",
 	"details": "This affects the package simpl-schema before 1.10.2. Attacker controlled input into a schema could result in remote code execution within the scope of the surrounding application.",

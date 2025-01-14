@@ -1,14 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m7j4-fhg6-xf5v",
-	"modified": "2024-06-21T21:33:49Z",
+	"modified": "2025-01-14T08:57:27.301709Z",
 	"published": "2020-12-17T21:00:50Z",
 	"aliases": [
-		"CVE-2020-28458",
-		"SNYK-JAVA-ORGWEBJARSBOWER-1051961",
-		"SNYK-JAVA-ORGWEBJARSNPM-1051962",
-		"SNYK-JS-DATATABLESNET-1016402",
-		"SNYK-JS-DATATABLESNET-598806"
+		"CVE-2020-28458"
 	],
 	"summary": "datatables.net vulnerable to Prototype Pollution due to incomplete fix",
 	"details": "All versions of package datatables.net are vulnerable to Prototype Pollution due to an incomplete fix for https://snyk.io/vuln/SNYK-JS-DATATABLESNET-598806.",

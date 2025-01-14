@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6xv6-jpvw-cx6q",
-	"modified": "2023-11-08T04:04:07.336779Z",
+	"modified": "2025-01-14T08:57:00.622409Z",
 	"published": "2021-05-06T18:27:36Z",
 	"aliases": [
-		"CVE-2020-7730",
-		"SNYK-JS-BESTZIP-609371"
+		"CVE-2020-7730"
 	],
 	"summary": "Command injection in bestzip",
 	"details": "The package bestzip before 2.1.7 are vulnerable to Command Injection via the options param.",

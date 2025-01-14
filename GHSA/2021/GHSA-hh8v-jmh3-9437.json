@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hh8v-jmh3-9437",
-	"modified": "2024-09-03T03:41:46.842469Z",
+	"modified": "2025-01-14T08:56:57.026601Z",
 	"published": "2021-04-13T15:25:33Z",
 	"aliases": [
-		"CVE-2020-8823",
-		"SNYK-JS-SOCKJS-548397"
+		"CVE-2020-8823"
 	],
 	"summary": "Cross-site scripting in SocksJS-node",
 	"details": "htmlfile in lib/transport/htmlfile.js in SockJS before 0.3.0 is vulnerable to Reflected XSS via the /htmlfile c (aka callback) parameter.",

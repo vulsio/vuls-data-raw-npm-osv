@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2c29-wc65-4cx9",
-	"modified": "2023-11-08T04:04:05.865722Z",
+	"modified": "2025-01-14T08:57:21.582603Z",
 	"published": "2022-05-24T17:26:04Z",
 	"aliases": [
-		"CVE-2020-7704",
-		"SNYK-JS-LINUXCMDLINE-598674"
+		"CVE-2020-7704"
 	],
 	"summary": "linux-cmdline is vulnerable to Prototype Pollution via the constructor",
 	"details": "The package linux-cmdline is a parser for Linux kernel command line arguments. Versions before 1.0.1 are vulnerable to Prototype Pollution via the constructor.",

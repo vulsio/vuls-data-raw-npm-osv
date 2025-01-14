@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vh59-v9r5-4mh4",
-	"modified": "2023-11-08T04:04:05.012802Z",
+	"modified": "2025-01-14T08:57:26.922018Z",
 	"published": "2021-05-17T21:01:32Z",
 	"aliases": [
-		"CVE-2020-7690",
-		"SNYK-JS-JSPDF-575256"
+		"CVE-2020-7690"
 	],
 	"summary": "Cross-site scripting in jspdf",
 	"details": "Affected versions of this package are vulnerable to Cross-site Scripting (XSS). It's possible to inject JavaScript code via the `html` method.",

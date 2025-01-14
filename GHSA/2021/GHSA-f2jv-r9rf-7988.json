@@ -1,14 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f2jv-r9rf-7988",
-	"modified": "2024-08-01T07:13:02.944499Z",
+	"modified": "2025-01-14T08:57:01.011083Z",
 	"published": "2021-05-06T15:57:44Z",
 	"aliases": [
-		"CVE-2021-23369",
-		"SNYK-JAVA-ORGWEBJARS-1074950",
-		"SNYK-JAVA-ORGWEBJARSBOWER-1074951",
-		"SNYK-JAVA-ORGWEBJARSNPM-1074952",
-		"SNYK-JS-HANDLEBARS-1056767"
+		"CVE-2021-23369"
 	],
 	"related": [
 		"CGA-2fmf-wwvq-6h59",

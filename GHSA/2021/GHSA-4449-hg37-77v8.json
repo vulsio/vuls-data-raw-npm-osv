@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4449-hg37-77v8",
-	"modified": "2023-11-08T04:03:28.603836Z",
+	"modified": "2025-01-14T08:57:06.730990Z",
 	"published": "2021-02-05T20:43:27Z",
 	"aliases": [
-		"CVE-2020-28494",
-		"SNYK-JS-TOTALJS-1046672"
+		"CVE-2020-28494"
 	],
 	"summary": "Command injection in total.js",
 	"details": "There is a command injection vulnerability that affects the package total.js before version 3.4.7. The issue occurs in the image.pipe and image.stream functions. The type parameter is used to build the command that is then executed using child_process.spawn. The issue occurs because child_process.spawn is called with the option shell set to true and because the type parameter is not properly sanitized.",

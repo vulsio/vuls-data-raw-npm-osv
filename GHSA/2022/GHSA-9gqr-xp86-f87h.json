@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9gqr-xp86-f87h",
-	"modified": "2024-09-03T03:56:57.929808Z",
+	"modified": "2025-01-14T09:12:07.878535Z",
 	"published": "2022-03-18T00:01:11Z",
 	"aliases": [
-		"CVE-2021-23632",
-		"SNYK-JS-GIT-1568518"
+		"CVE-2021-23632"
 	],
 	"summary": "Code injection in npm git",
 	"details": "All versions of package git are vulnerable to Remote Code Execution (RCE) due to missing sanitization in the Git.git method, which allows execution of OS commands rather than just git commands. At this time, there is no known workaround. There has been no patch released.",

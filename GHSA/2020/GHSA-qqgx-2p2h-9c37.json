@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qqgx-2p2h-9c37",
-	"modified": "2024-08-01T09:26:53.991007Z",
+	"modified": "2025-01-14T08:57:22.037229Z",
 	"published": "2020-12-10T16:53:45Z",
 	"aliases": [
-		"CVE-2020-7788",
-		"SNYK-JS-INI-1048974"
+		"CVE-2020-7788"
 	],
 	"related": [
 		"CGA-45pc-xpqw-3mh7",

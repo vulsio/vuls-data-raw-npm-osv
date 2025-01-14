@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6956-83fg-5wc5",
-	"modified": "2023-11-08T04:08:46.732839Z",
+	"modified": "2025-01-14T10:56:53.225838Z",
 	"published": "2022-03-18T00:01:11Z",
 	"aliases": [
-		"CVE-2022-25354",
-		"SNYK-JS-SETIN-2388571"
+		"CVE-2022-25354"
 	],
 	"summary": "Prototype Pollution in set-in",
 	"details": "The package set-in before 2.0.3 is vulnerable to Prototype Pollution via the `setIn` method, as it allows an attacker to merge object prototypes into it. **Note:** This vulnerability derives from an incomplete fix of [CVE-2020-28273](https://security.snyk.io/vuln/SNYK-JS-SETIN-1048049)",

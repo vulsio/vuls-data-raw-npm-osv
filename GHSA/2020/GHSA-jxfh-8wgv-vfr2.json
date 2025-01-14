@@ -7,7 +7,8 @@
 		"CVE-2020-5258"
 	],
 	"related": [
-		"CGA-v4hc-xjpr-jp5r"
+		"CGA-v4hc-xjpr-jp5r",
+		"CVE-2020-5258"
 	],
 	"summary": "Prototype pollution in dojo",
 	"details": "In affected versions of dojo (NPM package), the deepCopy method is vulnerable to Prototype Pollution.\n\nPrototype Pollution refers to the ability to inject properties into existing JavaScript language construct prototypes, such as objects.\nAn attacker manipulates these attributes to overwrite, or pollute, a JavaScript application object prototype of the base object by injecting other values. \n\nThis has been patched in versions 1.12.8, 1.13.7, 1.14.6, 1.15.3 and 1.16.2",

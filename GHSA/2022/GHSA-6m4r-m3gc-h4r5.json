@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6m4r-m3gc-h4r5",
-	"modified": "2023-11-08T04:04:01.471097Z",
+	"modified": "2025-01-14T08:57:18.465783Z",
 	"published": "2022-02-10T23:48:06Z",
 	"aliases": [
-		"CVE-2020-7629",
-		"SNYK-JS-INSTALLPACKAGE-564267"
+		"CVE-2020-7629"
 	],
 	"summary": "OS Command Injection in install-package",
 	"details": "install-package through 0.4.0 is vulnerable to Command Injection. It allows execution of arbitrary commands via the options argument.",

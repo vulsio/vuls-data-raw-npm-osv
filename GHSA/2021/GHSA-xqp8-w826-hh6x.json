@@ -7,6 +7,9 @@
 		"BIT-parse-2021-39187",
 		"CVE-2021-39187"
 	],
+	"related": [
+		"CVE-2021-39187"
+	],
 	"summary": "Parse Server crashes with query parameter",
 	"details": "### Impact\nParse Server crashes when if a query request contains an invalid value for the `explain` option. This is due to a bug in the MongoDB Node.js driver which throws an exception that Parse Server cannot catch.\n\n### Patches\nUpgrade to Parse Server 4.10.3",
 	"severity": [

@@ -1,12 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-33f9-j839-rf8h",
-	"modified": "2024-04-25T22:16:53Z",
+	"modified": "2025-01-14T09:12:14.521021Z",
 	"published": "2021-09-02T17:17:37Z",
 	"aliases": [
-		"CVE-2021-23436",
-		"SNYK-JAVA-ORGWEBJARSNPM-1579266",
-		"SNYK-JS-IMMER-1540542"
+		"CVE-2021-23436"
 	],
 	"summary": "Prototype Pollution in immer",
 	"details": "This affects the package immer before 9.0.6. A type confusion vulnerability can lead to a bypass of CVE-2020-28477 when the user-provided keys used in the path parameter are arrays. In particular, this bypass is possible because the condition `(p === \"__proto__\" || p === \"constructor\")` in `applyPatches_` returns false if `p` is `['__proto__']` (or `['constructor']`). The `===` operator (strict equality operator) returns false if the operands have different type.",

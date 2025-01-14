@@ -7,6 +7,9 @@
 		"BIT-parse-2022-39313",
 		"CVE-2022-39313"
 	],
+	"related": [
+		"CVE-2022-39313"
+	],
 	"summary": "parse-server crashes when receiving file download request with invalid byte range",
 	"details": "### Impact\n\nParse Server crashes when a file download request is received with an invalid byte range.\n\n### Patches\n\nImproved parsing of the range parameter to properly handle invalid range requests.\n\n### Workarounds\n\nNone\n\n### References\n\n- [GHSA-h423-w6qv-2wj3](https://github.com/parse-community/parse-server/security/advisories/GHSA-h423-w6qv-2wj3)",
 	"severity": [

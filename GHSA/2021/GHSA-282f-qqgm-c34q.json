@@ -1,12 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-282f-qqgm-c34q",
-	"modified": "2023-11-08T04:05:13.487611Z",
+	"modified": "2025-01-14T09:12:25.113889Z",
 	"published": "2021-11-08T17:44:45Z",
 	"aliases": [
-		"CVE-2021-23807",
-		"SNYK-JAVA-ORGWEBJARSNPM-1910273",
-		"SNYK-JS-JSONPOINTER-1577288"
+		"CVE-2021-23807"
 	],
 	"summary": "Prototype Pollution in node-jsonpointer",
 	"details": "This affects the package `jsonpointer` before `5.0.0`. A type confusion vulnerability can lead to a bypass of a previous Prototype Pollution fix when the pointer components are arrays.",

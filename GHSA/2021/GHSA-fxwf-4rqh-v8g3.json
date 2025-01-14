@@ -1,13 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fxwf-4rqh-v8g3",
-	"modified": "2023-11-08T04:03:28.175173Z",
+	"modified": "2025-01-14T08:56:59.028253Z",
 	"published": "2021-01-20T21:22:37Z",
 	"aliases": [
-		"CVE-2020-28481",
-		"SNYK-JAVA-ORGWEBJARSBOWER-1056358",
-		"SNYK-JAVA-ORGWEBJARSNPM-1056357",
-		"SNYK-JS-SOCKETIO-1024859"
+		"CVE-2020-28481"
 	],
 	"summary": "CORS misconfiguration in socket.io",
 	"details": "The package socket.io before 2.4.0 are vulnerable to Insecure Defaults due to CORS Misconfiguration. All domains are whitelisted by default.",

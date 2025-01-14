@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5gc4-cx9x-9c43",
-	"modified": "2023-11-08T04:08:03.978012Z",
+	"modified": "2025-01-14T10:26:52.500868Z",
 	"published": "2022-06-09T00:00:29Z",
 	"aliases": [
-		"CVE-2022-21122",
-		"SNYK-JS-METACALC-2826197"
+		"CVE-2022-21122"
 	],
 	"summary": "Code Injection in metacalc",
 	"details": "The package metacalc before 0.0.2 is vulnerable to Arbitrary Code Execution when it exposes JavaScript's Math class to the v8 context. As the Math class is exposed to user-land, it can be used to get access to JavaScript's Function constructor.",

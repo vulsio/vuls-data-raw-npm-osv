@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4m8h-h59m-m34j",
-	"modified": "2023-11-08T04:05:11.448382Z",
+	"modified": "2025-01-14T09:11:53.779056Z",
 	"published": "2022-02-01T00:50:09Z",
 	"aliases": [
-		"CVE-2021-23558",
-		"SNYK-JS-BMOOR-2342622"
+		"CVE-2021-23558"
 	],
 	"summary": "Prototype Pollution in bmoor",
 	"details": "The package bmoor before 0.10.1 is vulnerable to Prototype Pollution due to missing sanitization in set function. **Note:** This vulnerability derives from an incomplete fix in [CVE-2020-7736](https://security.snyk.io/vuln/SNYK-JS-BMOOR-598664)",

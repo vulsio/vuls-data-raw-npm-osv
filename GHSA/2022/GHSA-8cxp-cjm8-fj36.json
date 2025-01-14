@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8cxp-cjm8-fj36",
-	"modified": "2023-11-08T22:58:19.806074Z",
+	"modified": "2025-01-14T07:14:14.688459Z",
 	"published": "2022-05-24T17:10:48Z",
 	"aliases": [
-		"CVE-2019-10807",
-		"SNYK-JS-BLAMER-559541"
+		"CVE-2019-10807"
 	],
 	"summary": "Improper Neutralization of Special Elements used in an OS Command in Blamer",
 	"details": "Blamer versions prior to 1.0.1 allows execution of arbitrary commands. It is possible to inject arbitrary commands as part of the arguments provided to blamer.",

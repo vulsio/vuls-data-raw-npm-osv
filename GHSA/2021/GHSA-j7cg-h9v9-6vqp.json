@@ -1,12 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j7cg-h9v9-6vqp",
-	"modified": "2023-11-08T04:04:06.047765Z",
+	"modified": "2025-01-14T08:56:53.180660Z",
 	"published": "2021-05-06T17:29:19Z",
 	"aliases": [
-		"CVE-2020-7708",
-		"SNYK-JS-IRRELONPATH-598672",
-		"SNYK-JS-IRRELONPATH-598673"
+		"CVE-2020-7708"
 	],
 	"summary": "Prototype Pollution in irrelon-path and @irrelon/path",
 	"details": "The package irrelon-path before 4.7.0; the package @irrelon/path before 4.7.0 are vulnerable to Prototype Pollution via the set, unSet, pushVal and pullVal functions.",

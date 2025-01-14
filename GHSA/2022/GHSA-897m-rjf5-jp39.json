@@ -1,12 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-897m-rjf5-jp39",
-	"modified": "2023-11-08T04:03:29.095286Z",
+	"modified": "2025-01-14T08:56:52.572897Z",
 	"published": "2022-01-06T20:35:05Z",
 	"aliases": [
-		"CVE-2020-28503",
-		"SNYK-JAVA-ORGWEBJARSNPM-1088047",
-		"SNYK-JS-COPYPROPS-1082870"
+		"CVE-2020-28503"
 	],
 	"summary": "Prototype Pollution in copy-props",
 	"details": "The package copy-props before 2.0.5 are vulnerable to Prototype Pollution via the main functionality.",

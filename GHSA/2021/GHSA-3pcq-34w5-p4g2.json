@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2021-41167"
 	],
+	"related": [
+		"CVE-2021-41167"
+	],
 	"summary": "modern-async's `forEachSeries` and `forEachLimit` functions do not limit the number of requests",
 	"details": "### Impact\n\nThis is a bug affecting two of the functions in this library: `forEachSeries` and `forEachLimit`. They should limit the concurrency of some actions but, in practice, they don't. Any code calling these functions will be written thinking they would limit the concurrency but they won't. This could lead to potential security issues in other projects.\n\n### Patches\n\nThe problem has been patched in 1.0.4.\n\n### Workarounds\n\nThere is no workaround aside from upgrading to 1.0.4.\n",
 	"severity": [

@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2022-24802"
 	],
+	"related": [
+		"CVE-2022-24802"
+	],
 	"summary": "Prototype Pollution in deepmerge-ts",
 	"details": "deepmerge-ts is used to merge 2 or more objects respecting type information. deepmerge-ts is vulnerable to Prototype Pollution via file deepmerge.ts, function defaultMergeRecords(). A fix was released in version 4.0.2. Currently, there is no known workaround.",
 	"severity": [

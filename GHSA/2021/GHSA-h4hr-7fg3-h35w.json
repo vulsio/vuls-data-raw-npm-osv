@@ -1,13 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h4hr-7fg3-h35w",
-	"modified": "2024-08-01T07:26:55.018170Z",
+	"modified": "2025-01-14T08:57:33.682509Z",
 	"published": "2021-03-01T19:52:33Z",
 	"aliases": [
-		"CVE-2021-23341",
-		"SNYK-JAVA-ORGWEBJARS-1076583",
-		"SNYK-JAVA-ORGWEBJARSNPM-1076582",
-		"SNYK-JS-PRISMJS-1076581"
+		"CVE-2021-23341"
 	],
 	"summary": "Denial of service in prismjs",
 	"details": "The package prismjs before 1.23.0 are vulnerable to Regular Expression Denial of Service (ReDoS) via the `prism-asciidoc`, `prism-rest`, `prism-tap` and `prism-eiffel` components.",

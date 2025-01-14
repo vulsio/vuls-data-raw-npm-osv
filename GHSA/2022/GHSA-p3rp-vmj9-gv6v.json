@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2021-43861"
 	],
+	"related": [
+		"CVE-2021-43861"
+	],
 	"summary": "Incorrect sanitisation function leads to `XSS` in mermaid",
 	"details": "### Impact\nMalicious diagrams can contain javascript code that can be run at diagram readers machines.\n\n### Patches\nThe users should upgrade to version 8.13.8\n\n### Workarounds\nYou need to upgrade in order to avoid this issue.\n",
 	"severity": [

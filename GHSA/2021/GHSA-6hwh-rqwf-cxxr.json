@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6hwh-rqwf-cxxr",
-	"modified": "2023-11-08T04:00:58.027362Z",
+	"modified": "2025-01-14T07:14:37.422276Z",
 	"published": "2021-05-07T16:32:02Z",
 	"aliases": [
-		"CVE-2019-10806",
-		"SNYK-JS-VEGAUTIL-559223"
+		"CVE-2019-10806"
 	],
 	"summary": "Improperly Controlled Modification of Dynamically-Determined Object Attributes in vega-util",
 	"details": "vega-util prior to 1.13.1 allows manipulation of object prototype. The &#39;vega.mergeConfig&#39; method within vega-util could be tricked into adding or modifying properties of the Object.prototype.",

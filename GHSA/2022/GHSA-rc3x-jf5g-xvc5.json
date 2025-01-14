@@ -1,12 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rc3x-jf5g-xvc5",
-	"modified": "2023-11-08T04:05:10.952940Z",
+	"modified": "2025-01-14T09:12:20.734188Z",
 	"published": "2022-02-26T00:00:38Z",
 	"aliases": [
-		"CVE-2021-23495",
-		"SNYK-JAVA-ORGWEBJARSNPM-2412347",
-		"SNYK-JS-KARMA-2396325"
+		"CVE-2021-23495"
 	],
 	"summary": "Open redirect in karma",
 	"details": "Karma before 6.3.16 is vulnerable to Open Redirect due to missing validation of the return_url query parameter.",

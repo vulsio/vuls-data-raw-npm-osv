@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f78f-353m-cf4j",
-	"modified": "2023-11-08T22:13:25.980516Z",
+	"modified": "2025-01-14T08:57:03.914714Z",
 	"published": "2021-12-10T20:05:37Z",
 	"aliases": [
-		"CVE-2020-7609",
-		"SNYK-JS-NODERULES-560426"
+		"CVE-2020-7609"
 	],
 	"summary": "Code Injection in node-rules",
 	"details": "node-rules including 3.0.0 and prior to 5.0.0 allows injection of arbitrary commands. The argument rules of function \"fromJSON()\" can be controlled by users without any sanitization.",

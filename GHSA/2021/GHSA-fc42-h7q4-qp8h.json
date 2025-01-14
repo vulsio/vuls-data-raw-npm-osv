@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fc42-h7q4-qp8h",
-	"modified": "2024-05-30T02:56:36.227977Z",
+	"modified": "2025-01-14T08:57:07.491494Z",
 	"published": "2021-04-13T15:16:20Z",
 	"aliases": [
-		"CVE-2021-23360",
-		"SNYK-JS-KILLPORT-1078535"
+		"CVE-2021-23360"
 	],
 	"summary": "Command Injection in killport",
 	"details": "This affects the package killport before 1.0.2. If (attacker-controlled) user input is given, it is possible for an attacker to execute arbitrary commands. This is due to use of the child_process exec function without input sanitization. Running this PoC will cause the command touch success to be executed, leading to the creation of a file called success.",

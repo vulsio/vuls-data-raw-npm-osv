@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2cf2-2383-h4jv",
-	"modified": "2023-11-08T04:03:59.757381Z",
+	"modified": "2025-01-14T08:57:25.958654Z",
 	"published": "2021-05-07T16:16:43Z",
 	"aliases": [
-		"CVE-2020-7600",
-		"SNYK-JS-QUERYMEN-559867"
+		"CVE-2020-7600"
 	],
 	"summary": "Improperly Controlled Modification of Dynamically-Determined Object Attributes in querymen",
 	"details": "querymen prior to 2.1.4 allows modification of object properties. The parameters of exported function handler(type, name, fn) can be controlled by users without any sanitization. This could be abused for Prototype Pollution attacks.",

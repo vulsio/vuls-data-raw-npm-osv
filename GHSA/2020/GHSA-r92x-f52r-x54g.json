@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2020-26289"
 	],
+	"related": [
+		"CVE-2020-26289"
+	],
 	"summary": "regular expression denial of service (ReDoS)",
 	"details": "date-and-time is an npm package for manipulating date and time. In date-and-time before version 0.14.2, there a regular expression involved in parsing which can be exploited to to cause a denial of service. This is fixed in version 0.14.2.",
 	"severity": [

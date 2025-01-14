@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2022-24858"
 	],
+	"related": [
+		"CVE-2022-24858"
+	],
 	"summary": "NextAuth.js default redirect callback vulnerable to open redirects",
 	"details": "`next-auth` v3 users before version 3.29.2 are impacted. (We recommend upgrading to v4 in most cases. See our [migration guide](https://next-auth.js.org/getting-started/upgrade-v4)).`next-auth` v4 users before version 4.3.2 are impacted. Upgrading to 3.29.2 or 4.3.2 will patch this vulnerability. If you are not able to upgrade for any reason, you can add a configuration to your `callbacks` option:\n\n```js\n// async redirect(url, baseUrl) { // v3\nasync redirect({ url, baseUrl }) { // v4\n    // Allows relative callback URLs\n    if (url.startsWith(\"/\")) return new URL(url, baseUrl).toString()\n    // Allows callback URLs on the same origin\n    else if (new URL(url).origin === baseUrl) return url\n    return baseUrl\n}\n```\nIf you already have a `redirect` callback, make sure that you match the incoming `url` origin against the `baseUrl`.",
 	"severity": [

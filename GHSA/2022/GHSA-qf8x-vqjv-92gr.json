@@ -7,6 +7,9 @@
 		"BIT-parse-2022-24901",
 		"CVE-2022-24901"
 	],
+	"related": [
+		"CVE-2022-24901"
+	],
 	"summary": "Authentication bypass and denial of service (DoS) vulnerabilities in Apple Game Center auth adapter ",
 	"details": "### Impact\nWeak validation of the Apple certificate URL in the Apple Game Center authentication adapter allows to bypass authentication and makes the server vulnerable to DoS attacks.\n\n### Patches\nThe vulnerability has been fixed by improving the URL validation and adding additional checks of the resource the URL points to before downloading it.",
 	"severity": [

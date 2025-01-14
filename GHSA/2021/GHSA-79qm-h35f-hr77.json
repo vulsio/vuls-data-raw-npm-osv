@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-79qm-h35f-hr77",
-	"modified": "2024-08-16T03:11:46.438884Z",
+	"modified": "2025-01-14T07:14:22.174630Z",
 	"published": "2021-04-13T15:23:13Z",
 	"aliases": [
-		"CVE-2019-10799",
-		"SNYK-JS-COMPILESASS-551804"
+		"CVE-2019-10799"
 	],
 	"summary": "OS Command Injection in compile-sass",
 	"details": "compile-sass prior to 1.0.5 allows execution of arbritary commands. The function &quot;setupCleanupOnExit(cssPath)&quot; within &quot;dist/index.js&quot; is executed as part of the &quot;rm&quot; command without any sanitization.",

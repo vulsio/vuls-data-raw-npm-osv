@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2020-5284"
 	],
+	"related": [
+		"CVE-2020-5284"
+	],
 	"summary": "Directory Traversal in Next.js",
 	"details": "### Impact\n\n- **Not affected**: Deployments on ZEIT Now v2 ([https://zeit.co](https://zeit.co/)) are not affected\n- **Not affected**: Deployments using the `serverless` target\n- **Not affected**: Deployments using `next export`\n- **Affected**: Users of Next.js below 9.3.2\n\nWe recommend everyone to upgrade regardless of whether you can reproduce the issue or not.\n\n### Patches\n\nhttps://github.com/zeit/next.js/releases/tag/v9.3.2\n\n### References\n\nhttps://github.com/zeit/next.js/releases/tag/v9.3.2",
 	"severity": [

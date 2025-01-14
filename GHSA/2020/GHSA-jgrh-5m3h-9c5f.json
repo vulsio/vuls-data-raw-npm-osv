@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jgrh-5m3h-9c5f",
-	"modified": "2023-11-08T04:04:09.178411Z",
+	"modified": "2025-01-14T08:56:52.507396Z",
 	"published": "2020-11-09T22:17:13Z",
 	"aliases": [
-		"CVE-2020-7764",
-		"SNYK-JS-FINDMYWAY-1038269"
+		"CVE-2020-7764"
 	],
 	"summary": "Web Cache Poisoning in find-my-way",
 	"details": "This affects the package find-my-way before 2.2.5, from 3.0.0 and before 3.0.5. It accepts the Accept-Version' header by default, and if versioned routes are not being used, this could lead to a denial of service. Accept-Version can be used as an unkeyed header in a cache poisoning attack.",

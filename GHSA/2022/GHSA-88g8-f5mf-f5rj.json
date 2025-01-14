@@ -1,12 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-88g8-f5mf-f5rj",
-	"modified": "2023-11-08T04:07:25.531523Z",
+	"modified": "2025-01-14T10:12:19.344190Z",
 	"published": "2022-02-05T00:00:31Z",
 	"aliases": [
-		"CVE-2021-46320",
-		"CVE-2022-39384",
-		"GHSA-9c22-pwxw-p6hx"
+		"CVE-2021-46320"
 	],
 	"summary": "Improper Initialization in OpenZeppelin",
 	"details": "In OpenZeppelin <=v4.4.0, initializer functions that are invoked separate from contract creation (the most prominent example being minimal proxies) may be reentered if they make an untrusted non-view external call. Once an initializer has finished running it can never be re-executed. However, an exception put in place to support multiple inheritance made reentrancy possible, breaking the expectation that there is a single execution.",

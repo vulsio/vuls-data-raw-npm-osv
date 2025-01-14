@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j977-g5vj-j27g",
-	"modified": "2023-11-08T04:04:08.379979Z",
+	"modified": "2025-01-14T08:56:53.033941Z",
 	"published": "2020-11-09T14:21:17Z",
 	"aliases": [
-		"CVE-2020-7750",
-		"SNYK-JS-SCRATCHSVGRENDERER-1020497"
+		"CVE-2020-7750"
 	],
 	"summary": "Cross-Site Scripting in scratch-svg-renderer",
 	"details": "This affects the package scratch-svg-renderer before 0.2.0-prerelease.20201019174008. The loadString function does not escape SVG properly, which can be used to inject arbitrary elements into the DOM via the _transformMeasurements function.",

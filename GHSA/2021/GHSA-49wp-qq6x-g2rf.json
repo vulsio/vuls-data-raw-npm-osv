@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-49wp-qq6x-g2rf",
-	"modified": "2023-11-08T04:03:28.237183Z",
+	"modified": "2025-01-14T08:57:06.042616Z",
 	"published": "2021-01-20T21:30:34Z",
 	"aliases": [
-		"CVE-2020-28482",
-		"SNYK-JS-FASTIFYCSRF-1062044"
+		"CVE-2020-28482"
 	],
 	"summary": "Cross-site Request Forgery in fastify-csrf",
 	"details": "The package fastify-csrf before 3.0.0 has a set of issues that affect its ability to do CSRF protection.\n1. The generated cookie used insecure defaults, and did not have the httpOnly flag on: `cookieOpts: { path: '/', sameSite: true }`\n2. The CSRF token was available in the GET query parameter",

@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-32j9-6qqm-mq9g",
-	"modified": "2023-11-08T04:08:04.285876Z",
+	"modified": "2025-01-14T10:27:07.741078Z",
 	"published": "2022-03-17T00:00:27Z",
 	"aliases": [
-		"CVE-2022-21164",
-		"SNYK-JS-NODELMDB-2400723"
+		"CVE-2022-21164"
 	],
 	"summary": "Unhandled case in node-lmdb",
 	"details": "The package node-lmdb before 0.9.7 is vulnerable to Denial of Service (DoS) when defining a non-invokable `ToString` value, which will cause a crash during type check.",

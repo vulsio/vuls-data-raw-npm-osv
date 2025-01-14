@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5pxj-mhwj-x5gv",
-	"modified": "2023-11-08T04:04:09.606500Z",
+	"modified": "2025-01-14T08:57:02.471175Z",
 	"published": "2021-04-13T15:24:59Z",
 	"aliases": [
-		"CVE-2020-7771",
-		"SNYK-JS-ASCIITABLEJS-1039799"
+		"CVE-2020-7771"
 	],
 	"summary": "Prototype Pollution in asciitable.js",
 	"details": "The package asciitable.js before 1.0.3 is vulnerable to Prototype Pollution via the main function.\n\n### PoC\n```js\nvar a = require(\"asciitable.js\"); \nvar b = JSON.parse('{\"__proto__\":{\"test\":123}}'); \na({},b); \nconsole.log({}.test)\n```",

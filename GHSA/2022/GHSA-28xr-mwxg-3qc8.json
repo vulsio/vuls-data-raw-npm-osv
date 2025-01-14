@@ -1,12 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-28xr-mwxg-3qc8",
-	"modified": "2023-11-08T04:08:29.185927Z",
+	"modified": "2025-01-14T10:57:24.837290Z",
 	"published": "2022-04-02T00:00:13Z",
 	"aliases": [
-		"CVE-2022-24066",
-		"SNYK-JAVA-ORGWEBJARSNPM-2434820",
-		"SNYK-JS-SIMPLEGIT-2434306"
+		"CVE-2022-24066"
 	],
 	"summary": "Command injection in simple-git",
 	"details": "`simple-git` (maintained as [git-js](https://github.com/steveukx/git-js) named repository on GitHub) is a light weight interface for running git commands in any node.js application.The package simple-git before 3.5.0 are vulnerable to Command Injection due to an incomplete fix of [CVE-2022-24433](https://security.snyk.io/vuln/SNYK-JS-SIMPLEGIT-2421199) which only patches against the git fetch attack vector. A similar use of the --upload-pack feature of git is also supported for git clone, which the prior fix didn't cover. A fix was released in simple-git@3.5.0.",

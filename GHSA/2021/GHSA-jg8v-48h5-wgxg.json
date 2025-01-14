@@ -1,13 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jg8v-48h5-wgxg",
-	"modified": "2024-08-01T07:26:52.358315Z",
+	"modified": "2025-01-14T09:12:20.664854Z",
 	"published": "2021-08-10T16:02:18Z",
 	"aliases": [
-		"CVE-2021-23413",
-		"SNYK-JAVA-ORGWEBJARS-1251499",
-		"SNYK-JAVA-ORGWEBJARSNPM-1251498",
-		"SNYK-JS-JSZIP-1251497"
+		"CVE-2021-23413"
 	],
 	"summary": "jszip Vulnerable to Prototype Pollution",
 	"details": "This affects the package jszip before 3.7.0. Crafting a new zip file with filenames set to Object prototype values (e.g `__proto__`, `toString`, etc) results in a returned object with a modified prototype instance.",

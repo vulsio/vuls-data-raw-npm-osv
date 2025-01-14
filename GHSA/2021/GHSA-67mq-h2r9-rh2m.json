@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-67mq-h2r9-rh2m",
-	"modified": "2023-11-08T04:03:27.198840Z",
+	"modified": "2025-01-14T08:57:26.171894Z",
 	"published": "2021-04-13T15:23:41Z",
 	"aliases": [
-		"CVE-2020-28460",
-		"SNYK-JS-MULTIINI-1053229"
+		"CVE-2020-28460"
 	],
 	"summary": "Prototype pollution in multi-ini",
 	"details": "This affects the package multi-ini before 2.1.2. It is possible to pollute an object's prototype by specifying the constructor.proto object as part of an array. This is a bypass of CVE-2020-28448.",

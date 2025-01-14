@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2020-11079"
 	],
+	"related": [
+		"CVE-2020-11079"
+	],
 	"summary": "Command injection in node-dns-sync",
 	"details": "dns-sync through 0.2.0 allows execution of arbitrary commands . This issue may lead to remote code execution if a client of the library calls the vulnerable method with untrusted input.",
 	"severity": [

@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5g2h-9x5v-5h3x",
-	"modified": "2023-11-08T04:07:27.432668Z",
+	"modified": "2025-01-14T10:11:57.864763Z",
 	"published": "2023-01-10T06:30:25Z",
 	"aliases": [
-		"CVE-2021-46871",
-		"GHSA-j3gg-r6gp-95q2"
+		"CVE-2021-46871"
 	],
 	"summary": "phoenix_html allows Cross-site Scripting in HEEx class attributes",
 	"details": "tag.ex in Phoenix Phoenix.HTML (aka phoenix_html) before 3.0.4 allows XSS in HEEx class attributes",

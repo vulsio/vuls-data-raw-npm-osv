@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wv8q-r932-8hc7",
-	"modified": "2023-11-08T04:08:50.337789Z",
+	"modified": "2025-01-14T10:57:16.158613Z",
 	"published": "2022-07-13T00:00:41Z",
 	"aliases": [
-		"CVE-2022-25875",
-		"SNYK-JS-SVELTE-2931080"
+		"CVE-2022-25875"
 	],
 	"summary": "Svelte vulnerable to XSS when using objects during server-side rendering",
 	"details": "The package svelte before 3.49.0 is vulnerable to Cross-site Scripting (XSS) due to improper input sanitization and to improper escape of attributes when using objects during SSR (Server-Side Rendering). Exploiting this vulnerability is possible via objects with a custom toString() function.",

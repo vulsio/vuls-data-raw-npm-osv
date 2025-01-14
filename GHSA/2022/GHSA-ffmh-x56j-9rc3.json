@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2022-31147"
 	],
+	"related": [
+		"CVE-2022-31147"
+	],
 	"summary": "jquery-validation Regular Expression Denial of Service due to arbitrary input to url2 method",
 	"details": "Summary\n\nIncomplete fix of CVE-2021-43306: An exponential ReDoS (Regular Expression Denial of Service) can be triggered in the jquery-validation npm package, when an attacker is able to supply arbitrary input to the url2 method.",
 	"severity": [

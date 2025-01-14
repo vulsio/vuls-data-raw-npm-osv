@@ -1,12 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-48ww-j4fc-435p",
-	"modified": "2024-08-01T09:26:56.517247Z",
+	"modified": "2025-01-14T08:57:27.439344Z",
 	"published": "2021-05-10T19:16:52Z",
 	"aliases": [
-		"CVE-2020-7769",
-		"SNYK-JAVA-ORGWEBJARSNPM-1039742",
-		"SNYK-JS-NODEMAILER-1038834"
+		"CVE-2020-7769"
 	],
 	"summary": "Command injection in nodemailer",
 	"details": "This affects the package nodemailer before 6.4.16. Use of crafted recipient email addresses may result in arbitrary command flag injection in sendmail transport for sending mails.",

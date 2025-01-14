@@ -1,14 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-ww39-953v-wcq6",
-	"modified": "2024-09-03T03:26:58.125813Z",
+	"modified": "2025-01-14T08:57:10.357296Z",
 	"published": "2021-06-07T21:56:34Z",
 	"aliases": [
 		"BIT-gulp-2020-28469",
-		"CVE-2020-28469",
-		"SNYK-JAVA-ORGWEBJARSBOWERGITHUBES128-1059093",
-		"SNYK-JAVA-ORGWEBJARSNPM-1059092",
-		"SNYK-JS-GLOBPARENT-1016905"
+		"CVE-2020-28469"
 	],
 	"summary": "glob-parent vulnerable to Regular Expression Denial of Service in enclosure regex",
 	"details": "This affects the package glob-parent before 5.1.2. The enclosure regex used to check for strings ending in enclosure containing path separator.",

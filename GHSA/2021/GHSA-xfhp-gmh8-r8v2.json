@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xfhp-gmh8-r8v2",
-	"modified": "2023-11-08T04:05:04.878721Z",
+	"modified": "2025-01-14T08:57:33.181559Z",
 	"published": "2021-03-19T21:22:10Z",
 	"aliases": [
-		"CVE-2021-23354",
-		"SNYK-JS-PRINTF-1072096"
+		"CVE-2021-23354"
 	],
 	"summary": "printf vulnerable to Regular Expression Denial of Service (ReDoS)",
 	"details": "The package printf before 0.6.1 are vulnerable to Regular Expression Denial of Service (ReDoS) via the regex string \n```regex\n/\\%(?:\\(([\\w_.]+)\\)|([1-9]\\d*)\\$)?([0 +\\-\\]*)(\\*|\\d+)?(\\.)?(\\*|\\d+)?[hlL]?([\\%bscdeEfFgGioOuxX])/g\n```\n in `lib/printf.js`. The vulnerable regular expression has cubic worst-case time complexity.",

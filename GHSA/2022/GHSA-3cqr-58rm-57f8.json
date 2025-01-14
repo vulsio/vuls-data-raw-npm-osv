@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3cqr-58rm-57f8",
-	"modified": "2024-08-01T09:11:47.615922Z",
+	"modified": "2025-01-14T07:57:03.187890Z",
 	"published": "2022-02-10T20:38:19Z",
 	"aliases": [
-		"CVE-2019-20920",
-		"SNYK-JS-HANDLEBARS-534478"
+		"CVE-2019-20920"
 	],
 	"related": [
 		"CGA-24pm-f3rp-x72m",

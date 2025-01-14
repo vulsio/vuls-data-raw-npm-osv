@@ -1,13 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pp7m-6j83-m7r6",
-	"modified": "2023-11-08T04:05:08.250743Z",
+	"modified": "2025-01-14T09:12:23.663429Z",
 	"published": "2021-08-10T16:09:36Z",
 	"aliases": [
-		"CVE-2021-23414",
-		"SNYK-JAVA-ORGWEBJARSBOWER-1533588",
-		"SNYK-JAVA-ORGWEBJARSNPM-1533587",
-		"SNYK-JS-VIDEOJS-1533429"
+		"CVE-2021-23414"
 	],
 	"summary": "Cross-site Scripting in video.js",
 	"details": "This affects the package video.js before 7.14.3.\n The src attribute of track tag allows to bypass HTML escaping and execute arbitrary code.\n\n",

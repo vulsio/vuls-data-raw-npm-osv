@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-x5m8-2r8v-8f97",
-	"modified": "2023-11-08T04:08:46.670280Z",
+	"modified": "2025-01-14T10:57:25.695175Z",
 	"published": "2022-03-18T00:01:11Z",
 	"aliases": [
-		"CVE-2022-25352",
-		"SNYK-JS-LIBNESTED-2342117"
+		"CVE-2022-25352"
 	],
 	"summary": "Prototype Pollution in libnested",
 	"details": "The package libnested before 1.5.2 are vulnerable to Prototype Pollution via the set function in index.js. **Note:** This vulnerability derives from an incomplete fix for [CVE-2020-28283](https://security.snyk.io/vuln/SNYK-JS-LIBNESTED-1054930)",

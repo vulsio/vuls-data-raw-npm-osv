@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5wg4-74h6-q47v",
-	"modified": "2023-11-08T04:04:04.950939Z",
+	"modified": "2025-01-14T08:57:06.429869Z",
 	"published": "2020-08-20T14:38:49Z",
 	"aliases": [
-		"CVE-2020-7689",
-		"SNYK-JS-BCRYPT-572911"
+		"CVE-2020-7689"
 	],
 	"summary": "Integer Overflow or Wraparound and Use of a Broken or Risky Cryptographic Algorithm in bcrypt",
 	"details": "In bcrypt (npm package) before version 5.0.0, data is truncated wrong when its length is greater than 255 bytes.",

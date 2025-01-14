@@ -1,15 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mw6q-98mp-g8g8",
-	"modified": "2024-09-03T03:56:56.909726Z",
+	"modified": "2025-01-14T09:12:06.380320Z",
 	"published": "2021-11-08T17:54:46Z",
 	"aliases": [
-		"CVE-2021-23472",
-		"SNYK-JAVA-ORGWEBJARS-1910690",
-		"SNYK-JAVA-ORGWEBJARSBOWER-1910689",
-		"SNYK-JAVA-ORGWEBJARSBOWERGITHUBWENZHIXIN-1910687",
-		"SNYK-JAVA-ORGWEBJARSNPM-1910688",
-		"SNYK-JS-BOOTSTRAPTABLE-1657597"
+		"CVE-2021-23472"
 	],
 	"summary": "Cross-site Scripting in bootstrap-table",
 	"details": "This affects all versions of package bootstrap-table. A type confusion vulnerability can lead to a bypass of input sanitization when the input provided to the escapeHTML function is an array (instead of a string) even if the escape attribute is set.",

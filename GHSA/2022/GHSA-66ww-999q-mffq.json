@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-66ww-999q-mffq",
-	"modified": "2024-09-03T04:11:57.849680Z",
+	"modified": "2025-01-14T10:26:57.024233Z",
 	"published": "2022-03-18T00:01:11Z",
 	"aliases": [
-		"CVE-2022-0748",
-		"SNYK-JS-POSTLOADER-2403737"
+		"CVE-2022-0748"
 	],
 	"summary": "Arbitrary code execution in post-loader",
 	"details": "post-loader is webpack loader for blog posts written in Markdown. The package post-loader from 0.0.0 is vulnerable to Arbitrary Code Execution which uses a markdown parser in an unsafe way so that any javascript code inside the markdown input files gets evaluated and executed. At this time, there is no known workaround or patch available.",

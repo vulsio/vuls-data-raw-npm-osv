@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vm5j-vqr6-v7v8",
-	"modified": "2023-11-08T22:13:31.816995Z",
+	"modified": "2025-01-14T08:57:21.223482Z",
 	"published": "2021-12-10T20:04:56Z",
 	"aliases": [
-		"CVE-2020-7640",
-		"SNYK-JS-PIXLCLASS-564968"
+		"CVE-2020-7640"
 	],
 	"summary": "OS Command Injection in pixl-class",
 	"details": "pixl-class prior to 1.0.3 allows execution of arbitrary commands. The members argument of the create function can be controlled by users without any sanitization.",

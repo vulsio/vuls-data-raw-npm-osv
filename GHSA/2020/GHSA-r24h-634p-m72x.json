@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r24h-634p-m72x",
-	"modified": "2024-08-16T03:11:54.860359Z",
+	"modified": "2025-01-14T07:14:32.627428Z",
 	"published": "2020-06-10T20:02:47Z",
 	"aliases": [
-		"CVE-2019-10781",
-		"SNYK-JS-SCHEMAINSPECTOR-536970"
+		"CVE-2019-10781"
 	],
 	"summary": "Validation Bypass in schema-inspector",
 	"details": "In schema-inspector before 1.6.9, a maliciously crafted JavaScript object can bypass the `sanitize()` and the `validate()` function used within schema-inspector.",

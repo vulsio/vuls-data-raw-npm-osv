@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g452-6rfc-vrvx",
-	"modified": "2023-11-08T04:05:08.557936Z",
+	"modified": "2025-01-14T09:11:56.240451Z",
 	"published": "2021-09-01T18:31:53Z",
 	"aliases": [
-		"CVE-2021-23419",
-		"SNYK-JS-OPENGRAPH-1536747"
+		"CVE-2021-23419"
 	],
 	"summary": "Prototype Pollution in open-graph",
 	"details": "This affects the package open-graph before 0.2.6. The function parse could be tricked into adding or modifying properties of Object.prototype using a __proto__ or constructor payload.",

@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2022-39266"
 	],
+	"related": [
+		"CVE-2022-39266"
+	],
 	"summary": "isolated-vm has vulnerable CachedDataOptions in API",
 	"details": "### Impact\nIf the untrusted v8 cached data is passed to the API through CachedDataOptions, the attackers can bypass the sandbox and run arbitrary code in the nodejs process. Version 4.3.7 changes the documentation to warn users that they should not accept `cachedData` payloads from a user.",
 	"severity": [

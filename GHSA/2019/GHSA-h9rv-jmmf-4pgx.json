@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2019-16769"
 	],
+	"related": [
+		"CVE-2019-16769"
+	],
 	"summary": "Cross-Site Scripting in serialize-javascript",
 	"details": "Versions of `serialize-javascript` prior to 2.1.1 are vulnerable to Cross-Site Scripting (XSS). The package fails to sanitize serialized regular expressions. This vulnerability does not affect Node.js applications.\n\n\n## Recommendation\n\nUpgrade to version 2.1.1 or later.",
 	"severity": [

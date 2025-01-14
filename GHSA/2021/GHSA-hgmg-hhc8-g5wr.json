@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2021-21254"
 	],
+	"related": [
+		"CVE-2021-21254"
+	],
 	"summary": "CKEditor 5 Markdown plugin Regular expression Denial of Service",
 	"details": "### Impact\nA regular expression denial of service (ReDoS) vulnerability has been discovered in the CKEditor 5 Markdown plugin code. The vulnerability allowed to abuse a link recognition regular expression, which could cause a significant performance drop resulting in a browser tab freeze. It affects all users using the CKEditor 5 Markdown plugin at version <= 24.0.0. \n\n### Patches\nThe problem has been recognized and patched. The fix will be available in version 25.0.0.\n\n### Workarounds\nThe user can work around the issue by:\n- Upgrading CKEditor 5 to version 25.0.0.\n- Disabling the Markdown plugin.\n\n### More information\nIf you have any questions or comments about this advisory:\n* Email us at [security@cksource.com](mailto:security@cksource.com)\n\n### Acknowledgements\nThe CKEditor 5 team would like to thank Erik Krogh Kristensen from the GitHub team for recognizing this vulnerability and \nAlvaro Muñoz from GitHub for reporting it.",
 	"severity": [

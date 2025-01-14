@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4g77-cvgw-grvw",
-	"modified": "2023-11-08T04:05:10.706464Z",
+	"modified": "2025-01-14T09:12:06.525592Z",
 	"published": "2022-02-05T00:00:31Z",
 	"aliases": [
-		"CVE-2021-23470",
-		"SNYK-JS-PUTILMERGE-2391487"
+		"CVE-2021-23470"
 	],
 	"summary": "Prototype Pollution in putil-merge",
 	"details": "This affects the package putil-merge before 3.8.0. The merge() function does not check the values passed into the argument. An attacker can supply a malicious value by adjusting the value to include the constructor property. Note: This vulnerability derives from an incomplete fix in https://security.snyk.io/vuln/SNYK-JS-PUTILMERGE-1317077",

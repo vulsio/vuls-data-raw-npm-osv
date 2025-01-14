@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-39q4-p535-c852",
-	"modified": "2023-11-08T04:05:06.966773Z",
+	"modified": "2025-01-14T09:12:14.829272Z",
 	"published": "2021-06-10T17:25:05Z",
 	"aliases": [
-		"CVE-2021-23392",
-		"SNYK-JS-LOCUTUS-1090597"
+		"CVE-2021-23392"
 	],
 	"summary": "Uncontrolled Resource Consumption in locutus",
 	"details": "The package locutus before 2.0.15 is vulnerable to Regular Expression Denial of Service (ReDoS) via the gopher_parsedir function.",

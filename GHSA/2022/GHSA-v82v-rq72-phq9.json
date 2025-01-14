@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v82v-rq72-phq9",
-	"modified": "2023-11-08T04:05:12.504977Z",
+	"modified": "2025-01-14T09:12:16.612422Z",
 	"published": "2022-01-26T22:13:05Z",
 	"aliases": [
-		"CVE-2021-23664",
-		"SNYK-JS-ISOMORPHICGITCORSPROXY-1734788"
+		"CVE-2021-23664"
 	],
 	"summary": "Server side request forgery in @isomorphic-git/cors-proxy",
 	"details": "The package @isomorphic-git/cors-proxy before 2.7.1 is vulnerable to Server-side Request Forgery (SSRF) due to missing sanitization and validation of the redirection action in middleware.js.",

@@ -1,13 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3c6g-pvg8-gqw2",
-	"modified": "2024-03-13T05:20:55.896364Z",
+	"modified": "2025-01-14T08:57:16.068217Z",
 	"published": "2021-05-06T18:11:21Z",
 	"aliases": [
-		"CVE-2020-7712",
-		"SNYK-JAVA-ORGWEBJARS-608932",
-		"SNYK-JAVA-ORGWEBJARSNPM-608931",
-		"SNYK-JS-JSON-597481"
+		"CVE-2020-7712"
 	],
 	"related": [
 		"CGA-345v-hqm5-8xrc",

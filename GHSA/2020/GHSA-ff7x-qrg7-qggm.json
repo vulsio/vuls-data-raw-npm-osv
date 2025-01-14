@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2020-8116"
 	],
+	"related": [
+		"CVE-2020-8116"
+	],
 	"summary": "dot-prop Prototype Pollution vulnerability",
 	"details": "Prototype pollution vulnerability in dot-prop npm package versions before 4.2.1 and versions 5.x before 5.1.1 allows an attacker to add arbitrary properties to JavaScript language constructs such as objects.",
 	"severity": [

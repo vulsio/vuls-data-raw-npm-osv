@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6g47-63mv-qpgh",
-	"modified": "2023-11-08T04:05:12.071277Z",
+	"modified": "2025-01-14T09:12:22.486215Z",
 	"published": "2021-11-08T17:55:48Z",
 	"aliases": [
-		"CVE-2021-23624",
-		"SNYK-JS-DOTTY-1577292"
+		"CVE-2021-23624"
 	],
 	"summary": "Prototype Pollution in dotty",
 	"details": "This affects the package dotty before 0.1.2. A type confusion vulnerability can lead to a bypass of CVE-2021-25912 when the user-provided keys used in the path parameter are arrays.",

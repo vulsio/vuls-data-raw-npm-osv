@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6gp3-h3jj-prx4",
-	"modified": "2023-11-08T04:04:01.958795Z",
+	"modified": "2025-01-14T08:57:23.764933Z",
 	"published": "2020-04-07T15:47:40Z",
 	"aliases": [
-		"CVE-2020-7637",
-		"SNYK-JS-CLASSTRANSFORMER-564431"
+		"CVE-2020-7637"
 	],
 	"summary": "Prototype pollution in class-transformer",
 	"details": "class-transformer through 0.2.3 is vulnerable to Prototype Pollution. The 'classToPlainFromExist' function could be tricked into adding or modifying properties of 'Object.prototype' using a '__proto__' payload.",

@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jvf5-q4h5-2jmj",
-	"modified": "2024-09-03T03:41:55.089455Z",
+	"modified": "2025-01-14T08:57:09.461335Z",
 	"published": "2021-05-06T17:28:57Z",
 	"aliases": [
-		"CVE-2020-7701",
-		"SNYK-JS-MADLIBOBJECTUTILS-598676"
+		"CVE-2020-7701"
 	],
 	"summary": "Prototype Pollution in madlib-object-utils",
 	"details": "madlib-object-utils before 0.1.7 is vulnerable to Prototype Pollution via setValue.",

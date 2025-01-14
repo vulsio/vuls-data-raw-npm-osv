@@ -7,6 +7,7 @@
 		"CVE-2022-31151"
 	],
 	"related": [
+		"CVE-2022-31151",
 		"CVE-2023-45143"
 	],
 	"summary": "undici before v5.8.0 vulnerable to uncleared cookies on cross-host / cross-origin redirect",

@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2022-23510"
 	],
+	"related": [
+		"CVE-2022-23510"
+	],
 	"summary": "@cubejs-backend/api-gateway row level security bypass",
 	"details": "### Impact\nAll authenticated Cube clients could bypass row-level security and run arbitrary SQL via the newly introduced /v1/sql-runner endpoint.\n\n### Patches\nThe change has been reverted in 0.31.24\n\n### Workarounds\nUpgrade to >=0.31.24 or downgrade to <=0.31.22\n\n### Post mortem\nAs part of implementing the Cube Cloud SQL runner functionality, we’ve added a new endpoint to the Cube Core so that we could add arbitrary queries directly to the queue, bypassing the modeling layer.\n\nThe endpoint was added in this commit: https://github.com/cube-js/cube.js/commit/f1e25bb50323c0b99f3891d349467e7b637baeea\n\nIt went through the code review; however, it slipped everyone’s attention that this endpoint completely bypasses any row-level security logic implemented in the modeling layer. Now anyone with a valid Cube JWT token could fetch any data, even if they were not allowed to do so by their security context.\n\nThe issue was noticed by the Core team on Dec 12 and immediately reverted.\n\nThe just-released 0.31.23 version of the Cube has been pulled out of all the registries, and a CVE was published on Github.\nAnother change (https://github.com/cube-js/cube.js/commit/2c5db32f2ded074ebe5e83668eee8c024101240b) was also rolled back along with the SQL runner endpoint. It didn't pose a significant security threat, but it increased the attacker’s ability to enumerate cube schema, and it should be revisited.\n\nThe 0.31.24 was released to replace the revoked version with a change completely reverted. All customers are urged to upgrade to the newest Cube version.\n",
 	"severity": [

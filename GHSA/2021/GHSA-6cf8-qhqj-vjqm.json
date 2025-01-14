@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6cf8-qhqj-vjqm",
-	"modified": "2023-11-08T04:03:28.668109Z",
+	"modified": "2025-01-14T08:57:29.855718Z",
 	"published": "2021-02-05T20:43:19Z",
 	"aliases": [
-		"CVE-2020-28495",
-		"SNYK-JS-TOTALJS-1046671"
+		"CVE-2020-28495"
 	],
 	"summary": "Prototype pollution in total.js",
 	"details": "There is a prototype pollution vulnerability in the package total.js before version 3.4.7. The set function can be used to set a value into the object according to the path. However the keys of the path being set are not properly sanitized, leading to a prototype pollution vulnerability. The impact depends on the application. In some cases it is possible to achieve Denial of service (DoS), Remote Code Execution or Property Injection.",

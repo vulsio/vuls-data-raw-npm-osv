@@ -1,13 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-545q-3fg6-48m7",
-	"modified": "2024-05-30T02:56:29.156950Z",
+	"modified": "2025-01-14T08:56:53.391305Z",
 	"published": "2021-03-18T19:39:31Z",
 	"aliases": [
-		"CVE-2021-23346",
-		"SNYK-JAVA-ORGWEBJARSNPM-1080633",
-		"SNYK-JS-HTMLPARSESTRINGIFY-1079306",
-		"SNYK-JS-HTMLPARSESTRINGIFY2-1079307"
+		"CVE-2021-23346"
 	],
 	"summary": "html-parse-stringify and html-parse-stringify2 vulnerable to Regular expression denial of service (ReDoS)",
 	"details": "This affects the package html-parse-stringify before 2.0.1; all versions of package html-parse-stringify2. Sending certain input could cause one of the regular expressions that is used for parsing to backtrack, freezing the process.",

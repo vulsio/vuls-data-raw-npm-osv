@@ -1,12 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8gwj-8hxc-285w",
-	"modified": "2023-11-08T04:05:11.142498Z",
+	"modified": "2025-01-14T09:12:03.022963Z",
 	"published": "2021-11-08T17:43:27Z",
 	"aliases": [
-		"CVE-2021-23509",
-		"SNYK-JAVA-ORGWEBJARSNPM-1767165",
-		"SNYK-JS-JSONPTR-1577291"
+		"CVE-2021-23509"
 	],
 	"summary": "Prototype Pollution in json-ptr",
 	"details": "This affects the package `json-ptr` before `3.0.0`. A type confusion vulnerability can lead to a bypass of CVE-2020-7766 when the user-provided keys used in the pointer parameter are arrays.",

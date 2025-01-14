@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mm4f-47ch-f7hx",
-	"modified": "2023-11-08T04:05:05.309692Z",
+	"modified": "2025-01-14T08:56:53.907074Z",
 	"published": "2021-04-13T15:32:43Z",
 	"aliases": [
-		"CVE-2021-23363",
-		"SNYK-JS-KILLBYPORT-1078531"
+		"CVE-2021-23363"
 	],
 	"summary": "Arbitrary code execution in kill-by-port",
 	"details": "This affects the package kill-by-port before 0.0.2. If (attacker-controlled) user input is given to the killByPort function, it is possible for an attacker to execute arbitrary commands. This is due to use of the child_process exec function without input sanitization.",

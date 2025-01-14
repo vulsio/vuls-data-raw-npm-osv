@@ -1,12 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6fw4-hr69-g3rv",
-	"modified": "2023-11-08T04:04:05.986559Z",
+	"modified": "2025-01-14T08:57:32.795244Z",
 	"published": "2021-05-06T17:29:47Z",
 	"aliases": [
-		"CVE-2020-7707",
-		"SNYK-JAVA-ORGWEBJARSNPM-598857",
-		"SNYK-JS-PROPERTYEXPR-598800"
+		"CVE-2020-7707"
 	],
 	"summary": "Prototype Pollution in property-expr",
 	"details": "The package property-expr before 2.0.3 are vulnerable to Prototype Pollution via the setter function.",

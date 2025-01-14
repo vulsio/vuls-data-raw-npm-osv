@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-934w-hvj4-7fr6",
-	"modified": "2023-11-08T04:04:09.057530Z",
+	"modified": "2025-01-14T08:57:11.383902Z",
 	"published": "2021-04-13T15:25:15Z",
 	"aliases": [
-		"CVE-2020-7762",
-		"SNYK-JS-JSREPORTCHROMEPDF-1037310"
+		"CVE-2020-7762"
 	],
 	"summary": "Path Traversal in jsreport-chrome-pdf",
 	"details": "This affects the package jsreport-chrome-pdf before 1.10.0.",

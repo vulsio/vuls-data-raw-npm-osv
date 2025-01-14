@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5f47-rcg5-9m24",
-	"modified": "2023-11-08T04:08:30.129618Z",
+	"modified": "2025-01-14T10:56:57.191623Z",
 	"published": "2022-06-11T00:00:18Z",
 	"aliases": [
-		"CVE-2022-24278",
-		"SNYK-JS-CONVERTSVGCORE-2859830"
+		"CVE-2022-24278"
 	],
 	"summary": "Directory traversal in convert-svg-core",
 	"details": "The package convert-svg-core before 0.6.4 is vulnerable to Directory Traversal due to improper sanitization of SVG tags. Exploiting this vulnerability is possible by using a specially crafted SVG file.",

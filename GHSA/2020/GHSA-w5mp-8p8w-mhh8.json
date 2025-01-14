@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w5mp-8p8w-mhh8",
-	"modified": "2023-11-08T04:04:10.217645Z",
+	"modified": "2025-01-14T08:57:30.063772Z",
 	"published": "2020-12-17T21:00:53Z",
 	"aliases": [
-		"CVE-2020-7781",
-		"SNYK-JS-CONNECTIONTESTER-1048337"
+		"CVE-2020-7781"
 	],
 	"summary": "Command injection in connection-tester",
 	"details": "This affects the package connection-tester before 0.2.1. The injection point is located in line 15 in index.js. Affected versions of this package are vulnerable to Command Injection",

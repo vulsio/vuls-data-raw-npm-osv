@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-39qv-prmh-x37f",
-	"modified": "2023-11-08T04:05:11.015855Z",
+	"modified": "2025-01-14T09:12:15.069047Z",
 	"published": "2022-02-05T00:00:26Z",
 	"aliases": [
-		"CVE-2021-23497",
-		"SNYK-JS-STRIKEENTCOSET-2385945"
+		"CVE-2021-23497"
 	],
 	"summary": "Prototype Pollution in @strikeentco/set",
 	"details": "This affects the package @strikeentco/set before 1.0.2. It allows an attacker to cause a denial of service and may lead to remote code execution. **Note:** This vulnerability derives from an incomplete fix in https://security.snyk.io/vuln/SNYK-JS-STRIKEENTCOSET-1038821",

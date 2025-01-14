@@ -1,12 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-38fc-wpqx-33j7",
-	"modified": "2024-09-03T03:56:56.470488Z",
+	"modified": "2025-01-14T09:12:05.938637Z",
 	"published": "2021-09-02T17:15:42Z",
 	"aliases": [
-		"CVE-2021-23425",
-		"SNYK-JAVA-ORGWEBJARSNPM-1567197",
-		"SNYK-JS-TRIMOFFNEWLINES-1296850"
+		"CVE-2021-23425"
 	],
 	"summary": "Uncontrolled Resource Consumption in trim-off-newlines",
 	"details": "All versions of package trim-off-newlines are vulnerable to Regular Expression Denial of Service (ReDoS) via string processing.",

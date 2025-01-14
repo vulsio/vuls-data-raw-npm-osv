@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2019-16772"
 	],
+	"related": [
+		"CVE-2019-16772"
+	],
 	"summary": "Cross-Site Scripting in serialize-to-js",
 	"details": "Versions of `serialize-to-js` prior to 3.0.1 are vulnerable to Cross-Site Scripting (XSS). The package fails to sanitize serialized regular expressions. This vulnerability does not affect Node.js applications.\n\n\n## Recommendation\n\nUpgrade to version 3.0.1 or later.",
 	"severity": [

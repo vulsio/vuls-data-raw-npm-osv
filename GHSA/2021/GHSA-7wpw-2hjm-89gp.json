@@ -1,12 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7wpw-2hjm-89gp",
-	"modified": "2024-09-03T03:26:49.755439Z",
+	"modified": "2025-01-14T08:56:59.158906Z",
 	"published": "2021-05-04T20:18:47Z",
 	"aliases": [
-		"CVE-2020-28499",
-		"SNYK-JAVA-ORGWEBJARSNPM-1071049",
-		"SNYK-JS-MERGE-1042987"
+		"CVE-2020-28499"
 	],
 	"summary": "Prototype Pollution in merge",
 	"details": "All versions of package merge <2.1.1 are vulnerable to Prototype Pollution via _recursiveMerge .",

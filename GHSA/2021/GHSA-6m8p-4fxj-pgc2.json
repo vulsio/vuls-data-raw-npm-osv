@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6m8p-4fxj-pgc2",
-	"modified": "2023-11-08T04:04:04.889335Z",
+	"modified": "2025-01-14T08:57:18.254145Z",
 	"published": "2021-05-17T21:01:08Z",
 	"aliases": [
-		"CVE-2020-7688",
-		"SNYK-JS-MVERSION-573174"
+		"CVE-2020-7688"
 	],
 	"summary": "OS Command Injection in mversion",
 	"details": "The issue occurs because tagName user input is formatted inside the exec function is executed without any checks.",

@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9wcg-jrwf-8gg7",
-	"modified": "2023-11-08T04:04:05.561435Z",
+	"modified": "2025-01-14T08:57:06.495769Z",
 	"published": "2020-08-05T14:53:16Z",
 	"aliases": [
-		"CVE-2020-7699",
-		"SNYK-JS-EXPRESSFILEUPLOAD-595969"
+		"CVE-2020-7699"
 	],
 	"summary": "Prototype Pollution in express-fileupload",
 	"details": "This affects the package express-fileupload before 1.1.8. If the parseNested option is enabled, sending a corrupt HTTP request can lead to denial of service or arbitrary code execution.",

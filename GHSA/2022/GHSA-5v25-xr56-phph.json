@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5v25-xr56-phph",
-	"modified": "2023-11-08T04:04:00.492058Z",
+	"modified": "2025-01-14T08:57:27.370505Z",
 	"published": "2022-05-24T17:13:40Z",
 	"aliases": [
-		"CVE-2020-7613",
-		"SNYK-JS-CLAMSCAN-564113"
+		"CVE-2020-7613"
 	],
 	"summary": "Clamscan vulnerable to command injection",
 	"details": "clamscan through 1.2.0 is vulnerable to Command Injection. It is possible to inject arbitrary commands as part of the `_is_clamav_binary` function located within `Index.js`. It should be noted that this vulnerability requires a pre-requisite that a folder should be created with the same command that will be chained to execute. This lowers the risk of this issue.",

@@ -1,14 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rrc9-gqf8-8rwg",
-	"modified": "2023-11-08T04:03:27.808502Z",
+	"modified": "2025-01-14T08:57:08.927770Z",
 	"published": "2021-11-16T21:26:43Z",
 	"aliases": [
-		"CVE-2020-28472",
-		"SNYK-JAVA-ORGWEBJARSBOWER-1059426",
-		"SNYK-JAVA-ORGWEBJARSNPM-1059425",
-		"SNYK-JS-AWSSDK-1059424",
-		"SNYK-JS-AWSSDKSHAREDINIFILELOADER-1049304"
+		"CVE-2020-28472"
 	],
 	"summary": "Prototype Pollution via file load in aws-sdk and @aws-sdk/shared-ini-file-loader",
 	"details": "This affects the package @aws-sdk/shared-ini-file-loader before 1.0.0-rc.9; the package aws-sdk before 2.814.0. If an attacker submits a malicious INI file to an application that parses it with loadSharedConfigFiles , they will pollute the prototype on the application. This can be exploited further depending on the context.",

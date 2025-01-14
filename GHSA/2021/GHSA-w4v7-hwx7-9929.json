@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w4v7-hwx7-9929",
-	"modified": "2023-11-08T04:05:13.244477Z",
+	"modified": "2025-01-14T09:12:21.962323Z",
 	"published": "2021-11-08T17:50:10Z",
 	"aliases": [
-		"CVE-2021-23784",
-		"SNYK-JS-TEMPURA-1569633"
+		"CVE-2021-23784"
 	],
 	"summary": "Cross-site Scripting in tempura",
 	"details": "This affects the package tempura before 0.4.0. If the input to the esc function is of type object (i.e an array) it is returned without being escaped/sanitized, leading to a potential Cross-Site Scripting vulnerability.",

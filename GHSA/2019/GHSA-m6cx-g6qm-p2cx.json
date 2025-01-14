@@ -12,7 +12,8 @@
 		"CGA-9c47-rqw6-g736",
 		"CGA-qmx7-mqcq-3j68",
 		"CGA-r7x8-7xc9-5m6p",
-		"CGA-vw3x-pf52-29hf"
+		"CGA-vw3x-pf52-29hf",
+		"CVE-2019-16775"
 	],
 	"summary": "Arbitrary File Write in npm",
 	"details": "Versions of the npm CLI prior to 6.13.3 are vulnerable to an Arbitrary File Write. It fails to prevent access to folders outside of the intended node_modules folder through the bin field. A properly constructed entry in the package.json bin field would allow a package publisher to create files on a user's system when the package is installed. It is only possible to affect files that the user running `npm install` has access to and it is not possible to over write files that already exist on disk.\n\nThis behavior is still possible through install scripts. This vulnerability bypasses a user using the --ignore-scripts install option.\n\n\n## Recommendation\n\nUpgrade to version 6.13.3 or later.",

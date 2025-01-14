@@ -1,15 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-p3hc-fv2j-rp68",
-	"modified": "2023-11-08T04:05:05.614165Z",
+	"modified": "2025-01-14T08:57:00.549041Z",
 	"published": "2021-05-10T15:36:30Z",
 	"aliases": [
-		"CVE-2021-23370",
-		"SNYK-JAVA-ORGWEBJARS-1244698",
-		"SNYK-JAVA-ORGWEBJARSBOWER-1244699",
-		"SNYK-JAVA-ORGWEBJARSBOWERGITHUBNOLIMITS4WEB-1244697",
-		"SNYK-JAVA-ORGWEBJARSNPM-1244696",
-		"SNYK-JS-SWIPER-1088062"
+		"CVE-2021-23370"
 	],
 	"summary": "Prototype Pollution in swiper",
 	"details": "Versions of the package swiper before 6.5.1 are susceptible to prototype pollution.",

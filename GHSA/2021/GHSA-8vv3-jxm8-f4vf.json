@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8vv3-jxm8-f4vf",
-	"modified": "2023-11-08T04:04:05.926986Z",
+	"modified": "2025-01-14T08:57:28.774437Z",
 	"published": "2021-05-06T17:29:25Z",
 	"aliases": [
-		"CVE-2020-7706",
-		"SNYK-JS-CONNIELANG-598853"
+		"CVE-2020-7706"
 	],
 	"summary": "Prototype Pollution in connie-lang",
 	"details": "The package connie-lang before 0.1.1 are vulnerable to Prototype Pollution in the configuration language library used by connie.",

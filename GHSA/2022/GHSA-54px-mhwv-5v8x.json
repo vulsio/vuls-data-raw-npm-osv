@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-54px-mhwv-5v8x",
-	"modified": "2023-11-08T04:08:31.113325Z",
+	"modified": "2025-01-14T10:56:57.740422Z",
 	"published": "2022-06-11T00:00:17Z",
 	"aliases": [
-		"CVE-2022-24429",
-		"SNYK-JS-CONVERTSVGCORE-2859212"
+		"CVE-2022-24429"
 	],
 	"summary": "Code injection via SVG file in convert-svg-core",
 	"details": "The package convert-svg-core before 0.6.3 are vulnerable to Arbitrary Code Injection when using a specially crafted SVG file. An attacker can read arbitrary files from the file system and then show the file content as a converted PNG file.",

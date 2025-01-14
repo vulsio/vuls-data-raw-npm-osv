@@ -1,12 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fm93-fhh2-cg2c",
-	"modified": "2023-11-08T04:05:10.583793Z",
+	"modified": "2025-01-14T09:12:05.521840Z",
 	"published": "2022-01-27T14:21:53Z",
 	"aliases": [
-		"CVE-2021-23460",
-		"SNYK-JAVA-ORGWEBJARSNPM-2342127",
-		"SNYK-JS-MINDASH-2340605"
+		"CVE-2021-23460"
 	],
 	"summary": "Prototype Pollution in min-dash",
 	"details": "The package min-dash before 3.8.1 are vulnerable to Prototype Pollution via the set method due to missing enforcement of key types.",

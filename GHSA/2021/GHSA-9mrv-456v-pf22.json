@@ -1,13 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9mrv-456v-pf22",
-	"modified": "2023-11-08T04:03:28.357687Z",
+	"modified": "2025-01-14T08:56:55.157557Z",
 	"published": "2021-04-13T15:19:50Z",
 	"aliases": [
-		"CVE-2020-28487",
-		"SNYK-JAVA-ORGWEBJARSBOWERGITHUBVISJS-1063502",
-		"SNYK-JAVA-ORGWEBJARSNPM-1063501",
-		"SNYK-JS-VISTIMELINE-1063500"
+		"CVE-2020-28487"
 	],
 	"summary": "Cross-site Scripting in vis-timeline",
 	"details": "This affects the package vis-timeline before 7.4.4.\n An attacker with the ability to control the items of a Timeline element can inject additional script code into the generated application.",

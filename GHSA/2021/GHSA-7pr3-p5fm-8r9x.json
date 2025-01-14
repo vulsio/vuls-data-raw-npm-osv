@@ -7,6 +7,9 @@
 		"BIT-parse-2021-41109",
 		"CVE-2021-41109"
 	],
+	"related": [
+		"CVE-2021-41109"
+	],
 	"summary": "LiveQuery publishes user session tokens in parse-server",
 	"details": "### Impact\nFor regular (non-LiveQuery) queries, the session token is removed from the response, but for LiveQuery payloads it is currently not. If a user has a LiveQuery subscription on the `Parse.User` class, all session tokens created during user sign-ups will be broadcast as part of the LiveQuery payload.\n\n### Patches\nRemove session token from LiveQuery payload.\n\n### Workaround\nSet `user.acl(new Parse.ACL())` in a beforeSave trigger to make the user private already on sign-up.",
 	"severity": [

@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2021-41086"
 	],
+	"related": [
+		"CVE-2021-41086"
+	],
 	"summary": "Clipboard-based XSS",
 	"details": "### Impact\nXSS against the user.\n\n### Details\njsuites is vulnerable to DOM based XSS if the user can be tricked into copying _anything_ from a malicious and pasting it into the html editor. This is because a part of the clipboard content is directly written to `innerHTML` causing XSS.\n\n### References\nThe Curious Case of Copy & Paste – on risks of pasting arbitrary content in browsers: https://research.securitum.com/the-curious-case-of-copy-paste/\n",
 	"severity": [

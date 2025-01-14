@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wfwq-xc57-fq7v",
-	"modified": "2023-11-08T04:04:02.082180Z",
+	"modified": "2025-01-14T08:57:20.663080Z",
 	"published": "2021-05-25T15:59:14Z",
 	"aliases": [
-		"CVE-2020-7639",
-		"SNYK-JS-EIVIFJDOT-564435"
+		"CVE-2020-7639"
 	],
 	"summary": "eivindfjeldstad-dot contains prototype pollution vulnerability",
 	"details": "eivindfjeldstad-dot below 1.0.3 is vulnerable to Prototype Pollution.The function 'set' could be tricked into adding or modifying properties of 'Object.prototype' using a '__proto__' payload.",

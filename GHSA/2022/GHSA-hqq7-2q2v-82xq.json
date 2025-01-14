@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hqq7-2q2v-82xq",
-	"modified": "2024-08-01T07:26:38.807576Z",
+	"modified": "2025-01-14T09:12:01.207923Z",
 	"published": "2022-03-17T00:00:24Z",
 	"aliases": [
-		"CVE-2021-23648",
-		"SNYK-JS-BRAINTREESANITIZEURL-2339882"
+		"CVE-2021-23648"
 	],
 	"summary": "Cross-site Scripting in sanitize-url",
 	"details": "The package `@braintree/sanitize-url` before 6.0.0 is vulnerable to Cross-site Scripting (XSS) due to improper sanitization in the `sanitizeUrl` function.",
