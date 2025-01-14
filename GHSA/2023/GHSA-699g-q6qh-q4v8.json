@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-49798"
 	],
+	"related": [
+		"CVE-2023-49798"
+	],
 	"summary": "OpenZeppelin Contracts and Contracts Upgradeable duplicated execution of subcalls in v4.9.4",
 	"details": "\n### Context\nMerge conflict resolution issue when porting the v5.0.1 `Multicall` update to the v4.9 branch caused a duplicated line.\n\n### Impact\nVersions using `Multicall` from `@openzeppelin/contracts@4.9.4` and `@openzeppelin/contracts-upgradeable@4.9.4` will execute each subcall twice. Concretely, this exposes a user to unintentionally duplicate operations like asset transfers.\n\n### Patches\nThe duplicated `delegatecall` was removed in 4.9.5. The 4.9.4 version is marked as deprecated.",
 	"severity": [

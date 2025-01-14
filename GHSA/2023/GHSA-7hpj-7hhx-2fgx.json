@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-52079"
 	],
+	"related": [
+		"CVE-2023-52079"
+	],
 	"summary": "msgpackr's conversion of property names to strings can trigger infinite recursion",
 	"details": "### Impact\nWhen decoding user supplied MessagePack messages, users can trigger stuck threads by crafting messages that keep the decoder stuck in a loop.\n\n### Patches\nThe fix is available in v1.10.1\n\n### Workarounds\nExploits seem to require structured cloning, replacing the 0x70 extension with your own (that throws an error or does something other than recursive referencing) should mitigate the issue.\n\n### References",
 	"severity": [

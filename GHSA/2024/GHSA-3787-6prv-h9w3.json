@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-24758"
 	],
+	"related": [
+		"CVE-2024-24758"
+	],
 	"summary": "Undici proxy-authorization header not cleared on cross-origin redirect in fetch",
 	"details": "### Impact\n\nUndici already cleared Authorization headers on cross-origin redirects, but did not clear `Proxy-Authorization` headers. \n\n### Patches\n\nThis is patched in v5.28.3 and v6.6.1\n\n### Workarounds\n\nThere are no known workarounds.\n\n### References\n\n- https://fetch.spec.whatwg.org/#authentication-entries\n- https://github.com/nodejs/undici/security/advisories/GHSA-wqq4-5wpv-mx2g",
 	"severity": [

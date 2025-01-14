@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-29901"
 	],
+	"related": [
+		"CVE-2024-29901"
+	],
 	"summary": "@workos-inc/authkit-nextjs session replay vulnerability",
 	"details": "### Impact\n\nA user can reuse an expired session by controlling the `x-workos-session` header.\n\n### Patches\n\nPatched in https://github.com/workos/authkit-nextjs/releases/tag/v0.4.2",
 	"severity": [

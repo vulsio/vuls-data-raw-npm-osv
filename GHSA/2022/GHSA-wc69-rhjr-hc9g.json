@@ -1,12 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wc69-rhjr-hc9g",
-	"modified": "2024-02-18T05:32:40.090858Z",
+	"modified": "2025-01-14T11:42:15.693236Z",
 	"published": "2022-07-06T18:38:49Z",
 	"aliases": [
-		"CVE-2022-31129",
-		"CVE-2023-22467",
-		"GHSA-3xq5-wjfh-ppjc"
+		"CVE-2022-31129"
 	],
 	"related": [
 		"CVE-2022-31129",

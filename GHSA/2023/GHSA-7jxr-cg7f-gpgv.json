@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-29017"
 	],
+	"related": [
+		"CVE-2023-29017"
+	],
 	"summary": "vm2 vulnerable to sandbox escape",
 	"details": "vm2 was not properly handling host objects passed to `Error.prepareStackTrace` in case of unhandled async errors.\n\n- vm2 version: ~3.9.14\n- Node version: 18.15.0, 19.8.1, 17.9.1\n\n### Impact\nA threat actor can bypass the sandbox protections to gain remote code execution rights on the host running the sandbox.\n\n### Patches\nThis vulnerability was patched in the release of version `3.9.15` of `vm2`.\n\n### Workarounds\nNone.",
 	"severity": [

@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-37162"
 	],
+	"related": [
+		"CVE-2024-37162"
+	],
 	"summary": "Generation of Error Message Containing Sensitive Information in zsa",
 	"details": "### Impact\nAll users are impacted. The zsa application transfers the parse error stack from the server to the client in production build mode. This can potentially reveal sensitive information about the server environment, such as the machine username and directory paths. An attacker could exploit this vulnerability to gain unauthorized access to sensitive server information. This information could be used to plan further attacks or gain a deeper understanding of the server infrastructure.\n\n### Patches\nYes, this has been pathed on `0.3.3`\n\n### Workarounds\nNo way to fix other than the patch.\n",
 	"severity": [

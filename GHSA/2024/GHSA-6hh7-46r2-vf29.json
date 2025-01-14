@@ -7,6 +7,9 @@
 		"BIT-parse-2024-29027",
 		"CVE-2024-29027"
 	],
+	"related": [
+		"CVE-2024-29027"
+	],
 	"summary": "Server crashes on invalid Cloud Function or Cloud Job name",
 	"details": "### Impact\n\nCalling an invalid Parse Server Cloud Function name or Cloud Job name crashes server and may allow for code injection.\n\n### Patches\n\nAdded string sanitation for Cloud Function name and Cloud Job name.\n\n### Workarounds\n\nSanitize the Cloud Function name and Cloud Job name before it reaches Parse Server.\n\n### References\n\n- https://github.com/parse-community/parse-server/security/advisories/GHSA-6hh7-46r2-vf29\n- https://github.com/parse-community/parse-server/releases/tag/7.0.0-alpha.29 (Fix for Parse Server 7 alpha)\n- https://github.com/parse-community/parse-server/releases/tag/6.5.5 (Fix for Parse Server 6 LTS)",
 	"severity": [

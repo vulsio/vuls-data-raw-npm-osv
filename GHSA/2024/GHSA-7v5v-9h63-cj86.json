@@ -8,7 +8,8 @@
 	],
 	"related": [
 		"CGA-3vxq-pj3w-xvh2",
-		"CGA-w377-c6cx-3vgh"
+		"CGA-w377-c6cx-3vgh",
+		"CVE-2024-37168"
 	],
 	"summary": "@grpc/grpc-js can allocate memory for incoming messages well above configured limits",
 	"details": "### Impact\nThere are two separate code paths in which memory can be allocated per message in excess of the `grpc.max_receive_message_length` channel option:\n\n 1. If an incoming message has a size on the wire greater than the configured limit, the entire message is buffered before it is discarded.\n 2. If an incoming message has a size within the limit on the wire but decompresses to a size greater than the limit, the entire message is decompressed into memory, and on the server is not discarded.\n\n### Patches\n\nThis has been patched in versions 1.10.9, 1.9.15, and 1.8.22\n",

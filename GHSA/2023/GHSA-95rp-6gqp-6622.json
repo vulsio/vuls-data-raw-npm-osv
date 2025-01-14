@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-40582"
 	],
+	"related": [
+		"CVE-2023-40582"
+	],
 	"summary": "Command Injection Vulnerability in find-exec",
 	"details": "Older versions of the package are vulnerable to Command Injection as an attacker controlled parameter. As a result, attackers may run malicious commands.\n\nFor example:\n\n```\nconst find = require(\"find-exec\");\nfind(\"mplayer; touch hacked\")\n```\n\nThis creates a file named \"hacked\" on the filesystem.\n\nYou should never allow users to control commands to find, since this package attempts to run every command provided.\n\nThanks to @miguelafmonteiro for reporting.",
 	"severity": [

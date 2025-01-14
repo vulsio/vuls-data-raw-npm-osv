@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-22207"
 	],
+	"related": [
+		"CVE-2024-22207"
+	],
 	"summary": "Default swagger-ui configuration exposes all files in the module",
 	"details": "### Impact\n\nThe default configuration of `@fastify/swagger-ui` without `baseDir` set will lead to all files in the module's directory being exposed via http routes served by the module.\n\n### Patches\n\nUpdate to v2.1.0\n\n### Workarounds\n\nUse  the `baseDir` option\n\n### References\n\n[HackerOne report\n](https://hackerone.com/reports/2312369).",
 	"severity": [

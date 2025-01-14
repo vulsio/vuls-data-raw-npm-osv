@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-26488"
 	],
+	"related": [
+		"CVE-2023-26488"
+	],
 	"summary": "OpenZeppelin Contracts contains Incorrect Calculation",
 	"details": "### Impact\n\nThe ERC721Consecutive contract designed for minting NFTs in batches does not update balances when a batch has size 1 and consists of a single token. Subsequent transfers from the receiver of that token may overflow the balance as reported by `balanceOf`.\n\nThe issue exclusively presents with batches of size 1.\n\n### Patches\n\nThe issue has been patched in 4.8.2.\n\n<!-- ### References -->\n\n",
 	"severity": [

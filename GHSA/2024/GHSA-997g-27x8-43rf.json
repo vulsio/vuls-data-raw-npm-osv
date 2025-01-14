@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-24558"
 	],
+	"related": [
+		"CVE-2024-24558"
+	],
 	"summary": "react-query-streamed-hydration Cross-site Scripting vulnerability",
 	"details": "### Impact\n\nThe `@tanstack/react-query-next-experimental` NPM package is vulnerable to a cross-site scripting vulnerability. To exploit this, an attacker would need to either inject malicious input or arrange to have malicious input be returned from an endpoint.\n\nThis vulnerability arises from improper handling of untrusted input when `@tanstack/react-query-next-experimental` performs server-side rendering of HTML pages. To fix this vulnerability, we implemented appropriate escaping to prevent javascript injection into rendered pages.\n\n### Patches\n\nTo fix this issue, please update to version 5.18.0 or later.\n\n### Workarounds\n\nThere are no known workarounds for this issue. Please update to version 5.18.0 or later.\n",
 	"severity": [

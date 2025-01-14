@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-25805"
 	],
+	"related": [
+		"CVE-2023-25805"
+	],
 	"summary": "Versionn Command Injection Vulnerability",
 	"details": "### Impact\n\nCommand Injection Vulnerability. All versions <1.1.0 are affected.\n \n### Patches\n\nPlease upgrade to versionn@1.1.0",
 	"severity": [

@@ -8,7 +8,8 @@
 	],
 	"related": [
 		"CGA-69jr-f6mf-38rf",
-		"CGA-cr5v-98hj-38hr"
+		"CGA-cr5v-98hj-38hr",
+		"CVE-2024-41818"
 	],
 	"summary": "fast-xml-parser vulnerable to ReDOS at currency parsing",
 	"details": "### Summary\nA ReDOS that exists on currency.js was discovered by Gauss Security Labs R&D team.\n\n### Details\nhttps://github.com/NaturalIntelligence/fast-xml-parser/blob/v4.4.0/src/v5/valueParsers/currency.js#L10 contains a vulnerable regex \n\n### PoC\npass the following string '\\t'.repeat(13337)  + '.'\n\n### Impact\nDenial of service during currency parsing in experimental version 5 of fast-xml-parser-library\n\nhttps://gauss-security.com",

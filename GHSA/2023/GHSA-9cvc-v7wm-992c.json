@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-40027"
 	],
+	"related": [
+		"CVE-2023-40027"
+	],
 	"summary": "When `ui.isAccessAllowed` is `undefined`, the `adminMeta` GraphQL query is publicly accessible",
 	"details": "### Summary\nWhen `ui.isAccessAllowed` is `undefined`, the `adminMeta` GraphQL query is publicly accessible, that is to say, no session is required for the query.\n\nThis is different to the behaviour of the default AdminUI middleware, which by default will only be publicly accessible if a `session` strategy is not defined. \n\n### Impact\nThis vulnerability does not affect developers using the `@keystone-6/auth` package, or any users that have written their own `ui.isAccessAllowed` (that is to say, you are unaffected if `ui.isAccessAllowed` is defined).\n\nThis vulnerability does affect developers who thought that their `session` strategy will, by default, enforce that `adminMeta` is inaccessible by the public in accordance with that strategy; akin to the behaviour of the AdminUI middleware.\n\n### Patches\nThis vulnerability has been patched in `@keystone-6/core` version `5.5.1`.\n\n### Workarounds\nYou can opt to write your own `isAccessAllowed` to work-around this vulnerability.\n\n### References\nPull request https://github.com/keystonejs/keystone/pull/8771\n",
 	"severity": [

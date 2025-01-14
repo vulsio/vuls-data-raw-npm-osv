@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-24750"
 	],
+	"related": [
+		"CVE-2024-24750"
+	],
 	"summary": "fetch(url) leads to a memory leak in undici",
 	"details": "### Impact\n\nCalling `fetch(url)` and not consuming the incoming body ((or consuming it very slowing) will lead to a memory leak. \n\n### Patches\n\nPatched in v6.6.1\n\n### Workarounds\n\nMake sure to always consume the incoming body.\n",
 	"severity": [

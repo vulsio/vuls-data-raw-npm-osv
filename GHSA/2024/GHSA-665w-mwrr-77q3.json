@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-37169"
 	],
+	"related": [
+		"CVE-2024-37169"
+	],
 	"summary": "Arbitrary file read via Playwright's screenshot feature exploiting file wrapper",
 	"details": "### Impact\n\nAll users of url-to-png. Please see https://github.com/jasonraimondi/url-to-png/issues/47\n\n### Patches\n\n[v2.0.3](https://github.com/jasonraimondi/url-to-png/releases/tag/v2.0.3) requires input url to be of protocol `http` or `https` \n\n### Workarounds\n\nRequires upgrade.\n\n### References\n\n- https://github.com/jasonraimondi/url-to-png/issues/47\n- https://github.com/user-attachments/files/15536336/Arbitrary.File.Read.via.Playwright.s.Screenshot.Feature.Exploiting.File.Wrapper.pdf\n",
 	"severity": [

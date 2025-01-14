@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-25166"
 	],
+	"related": [
+		"CVE-2023-25166"
+	],
 	"summary": "@sideway/formula contains Regular Expression Denial of Service (ReDoS) Vulnerability",
 	"details": "### Impact\n\nUser-provided strings to formula's parser might lead to polynomial execution time.\n\n### Patches\n\nUsers should upgrade to 3.0.1+.\n\n### Workarounds\n\nNone.",
 	"severity": [

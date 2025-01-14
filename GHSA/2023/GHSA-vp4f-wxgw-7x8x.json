@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-41049"
 	],
+	"related": [
+		"CVE-2023-41049"
+	],
 	"summary": "Improper Neutralization of Script in Attributes in @dcl/single-sign-on-client",
 	"details": "### Impact\nImproper input validation in the `init` function allows arbitrary javascript to be executed using  the `javascript:` prefix\n\n```ts\n    SSO.init('javascript:alert(\"javascript successfully injected\")')\n```\n\n### Patches\n\nThis vulnerability was patched on version `0.1.0`\n\n### Workarounds\n\nThis vulnerability can be prevented if user input correctly sanitized or there is no user input pass to the `init` function\n",
 	"severity": [

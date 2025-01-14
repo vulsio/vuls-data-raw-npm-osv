@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-23841"
 	],
+	"related": [
+		"CVE-2024-23841"
+	],
 	"summary": "@apollo/experimental-nextjs-app-support Cross-site Scripting vulnerability",
 	"details": "### Impact\n\nThe @apollo/experimental-apollo-client-nextjs NPM package is vulnerable to a cross-site scripting vulnerability. This vulnerability arises from improper handling of untrusted input when @apollo/experimental-apollo-client-nextjs performs server-side rendering of HTML pages. To fix this vulnerability, we implemented appropriate escaping to prevent javascript injection into rendered pages.\n\n### Patches\n\nTo fix this issue, please update to version 0.7.0 or later.\n\n### Workarounds\n\nThere are no known workarounds for this issue. Please update to version 0.7.0\n\n",
 	"severity": [

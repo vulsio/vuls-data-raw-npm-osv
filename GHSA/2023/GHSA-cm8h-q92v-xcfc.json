@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-22477"
 	],
+	"related": [
+		"CVE-2023-22477"
+	],
 	"summary": "mercurius has Uncaught Exception when using subscriptions",
 	"details": "### Impact\n\nAny users of Mercurius until version v11.5.0 are subjected to a denial of service attack by sending a malformed packet over WebSocket to `/graphql`.\n\n### Patches\n\nThis was patched in https://github.com/mercurius-js/mercurius/pull/940.\nThe patch was released as v11.5.0 and v8.13.2.\n\n### Workarounds\n\nDisable subscriptions.\n\n### References\n\nReported publicly as https://github.com/mercurius-js/mercurius/issues/939.\nThe same problem was solved in https://github.com/fastify/fastify-websocket/pull/228\n",
 	"severity": [

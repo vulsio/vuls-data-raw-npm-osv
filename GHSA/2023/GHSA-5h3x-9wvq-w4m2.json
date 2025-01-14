@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-34234"
 	],
+	"related": [
+		"CVE-2023-34234"
+	],
 	"summary": "OpenZeppelin Contracts's governor proposal creation may be blocked by frontrunning",
 	"details": "### Impact\n\nBy frontrunning the creation of a proposal, an attacker can become the proposer and gain the ability to cancel it. The attacker can do this repeatedly to try to prevent a proposal from being proposed at all.\n\nThis impacts the `Governor` contract in v4.9.0 only, and the `GovernorCompatibilityBravo` contract since v4.3.0.\n\n### Patches\n\nThe problem has been patched in 4.9.1 by introducing opt-in frontrunning protection.\n\n### Workarounds\n\nSubmit the proposal creation transaction to an endpoint with frontrunning protection.\n\n### Credit\n\nReported by Lior Abadi and Joaquin Pereyra from Coinspect.\n\n### References\n\nhttps://www.coinspect.com/openzeppelin-governor-dos/",
 	"severity": [

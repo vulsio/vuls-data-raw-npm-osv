@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-26491"
 	],
+	"related": [
+		"CVE-2023-26491"
+	],
 	"summary": "rsshub vulnerable to Cross-site Scripting via unvalidated URL parameters",
 	"details": "### Impact\n\nWhen the URL parameters contain certain special characters, it returns an error page that does not properly handle XSS vulnerabilities, allowing for the execution of arbitrary JavaScript code.\n\nUsers who access the deliberately constructed URL are affected.\n\n### Patches\n\nThis vulnerability was fixed in version c910c4d28717fb860fbe064736641f379fab2c91. Please upgrade to this or a later version.\n\n### Workarounds\n\nNo.\n",
 	"severity": [

@@ -7,6 +7,9 @@
 		"BIT-parse-2023-46119",
 		"CVE-2023-46119"
 	],
+	"related": [
+		"CVE-2023-46119"
+	],
 	"summary": "Parse Server may crash when uploading file without extension",
 	"details": "### Impact\n\nParse Server crashes when uploading a file without extension.\n\n### Patches\n\nA permanent fix has been implemented to prevent the server from crashing.\n\n### Workarounds\n\nThere are no known workarounds.\n\n### References\n\n- GitHub security advisory: https://github.com/parse-community/parse-server/security/advisories/GHSA-792q-q67h-w579\n- Patched in Parse Server 6: https://github.com/parse-community/parse-server/releases/tag/6.3.1\n- Patched in Parse Server 5 (LTS): https://github.com/parse-community/parse-server/releases/tag/5.5.6",
 	"severity": [

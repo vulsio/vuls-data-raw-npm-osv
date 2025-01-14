@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-27296"
 	],
+	"related": [
+		"CVE-2024-27296"
+	],
 	"summary": "Directus version number disclosure",
 	"details": "### Impact\n\nCurrently the exact Directus version number is being shipped in compiled JS bundles which are accessible without authentication. With this information a malicious attacker can trivially look for known vulnerabilities in Directus core or any of its shipped dependencies in that specific running version.\n\n### Patches\n\nThe problem has been resolved in versions 10.8.3 and newer\n\n### Workarounds\n\nNone",
 	"severity": [

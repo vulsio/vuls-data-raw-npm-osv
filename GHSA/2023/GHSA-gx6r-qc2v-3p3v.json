@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-42810"
 	],
+	"related": [
+		"CVE-2023-42810"
+	],
 	"summary": "systeminformation SSID Command Injection Vulnerability",
 	"details": "### Impact\nSSID Command Injection Vulnerability\n\n### Patches\nProblem was fixed with a parameter check. Please upgrade to version >= 5.21.7, Version 4 was not affected\n\n### Workarounds\nIf you cannot upgrade, be sure to check or sanitize parameter strings that are passed to wifiConnections(), wifiNetworks() (string only)\n\n### References\nSee also https://systeminformation.io/security.html\n",
 	"severity": [
