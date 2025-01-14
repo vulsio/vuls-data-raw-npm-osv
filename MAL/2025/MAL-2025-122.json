@@ -1,0 +1,36 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-122",
+	"modified": "2025-01-13T23:17:16Z",
+	"published": "2025-01-13T23:17:16Z",
+	"summary": "Malicious code in bigcommerce-cornerstone (npm)",
+	"details": "This package runs commands in a pre-install script that exfils sensitive data to a attacker-controlled domain.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "bigcommerce-cornerstone",
+				"purl": "pkg:npm/bigcommerce-cornerstone"
+			},
+			"versions": [
+				"1.0.0",
+				"6.16.2"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bigcommerce-cornerstone/MAL-2025-122.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "GitHax - Software Supply Chain Threat Intelligence",
+			"contact": [
+				"https://githax.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}

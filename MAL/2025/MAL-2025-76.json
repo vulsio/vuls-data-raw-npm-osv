@@ -1,0 +1,38 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-76",
+	"modified": "2025-01-13T21:23:27Z",
+	"published": "2025-01-13T21:23:27Z",
+	"summary": "Malicious code in mlb-site-core (npm)",
+	"details": "This package runs commands in a pre-install script that exfils sensitive data to a attacker-controlled domain.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "mlb-site-core",
+				"purl": "pkg:npm/mlb-site-core"
+			},
+			"versions": [
+				"1.0.1",
+				"1.0.2",
+				"1.0.3",
+				"1.0.4"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/mlb-site-core/MAL-2025-76.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "GitHax - Software Supply Chain Threat Intelligence",
+			"contact": [
+				"https://githax.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}
