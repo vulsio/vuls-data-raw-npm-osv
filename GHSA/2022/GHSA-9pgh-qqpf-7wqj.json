@@ -1,9 +1,9 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9pgh-qqpf-7wqj",
-	"modified": "2024-08-01T06:56:49.197562Z",
+	"modified": "2022-11-08T19:35:06Z",
 	"published": "2022-10-11T20:42:57Z",
-	"aliases": [
+	"related": [
 		"CVE-2022-37616"
 	],
 	"summary": "Withdrawn: Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') in @xmldom/xmldom and xmldom",
