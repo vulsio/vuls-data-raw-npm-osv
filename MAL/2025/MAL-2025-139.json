@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-139",
+	"modified": "2025-01-19T19:16:15Z",
+	"published": "2025-01-19T19:16:15Z",
+	"summary": "Malicious code in snapon-imageviewer-lw (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (dac8ff3dcbee53083536b2203656b42fead39936c6e36b53ae6c6d23c45d5430)\nThe OpenSSF Package Analysis project identified 'snapon-imageviewer-lw' @ 17.0.0-LW-R (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "snapon-imageviewer-lw",
+				"purl": "pkg:npm/snapon-imageviewer-lw"
+			},
+			"versions": [
+				"17.0.0-LW-R"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/snapon-imageviewer-lw/MAL-2025-139.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2025-01-19T19:34:15.601988643Z",
+				"modified_time": "2025-01-19T19:16:15Z",
+				"sha256": "dac8ff3dcbee53083536b2203656b42fead39936c6e36b53ae6c6d23c45d5430",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"17.0.0-LW-R"
+				]
+			}
+		]
+	}
+}
