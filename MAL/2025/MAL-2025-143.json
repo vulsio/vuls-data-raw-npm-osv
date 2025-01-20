@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-143",
+	"modified": "2025-01-20T05:00:44Z",
+	"published": "2025-01-20T05:00:44Z",
+	"summary": "Malicious code in bridge-transaction-parser (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (6cb8d594a532dd7c529f60a332d6b2a098197f750f2fbe22d5e499780925a92a)\nThe OpenSSF Package Analysis project identified 'bridge-transaction-parser' @ 9.9.9 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "bridge-transaction-parser",
+				"purl": "pkg:npm/bridge-transaction-parser"
+			},
+			"versions": [
+				"9.9.9"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bridge-transaction-parser/MAL-2025-143.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2025-01-20T05:05:47.445590296Z",
+				"modified_time": "2025-01-20T05:00:44Z",
+				"sha256": "6cb8d594a532dd7c529f60a332d6b2a098197f750f2fbe22d5e499780925a92a",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"9.9.9"
+				]
+			}
+		]
+	}
+}
