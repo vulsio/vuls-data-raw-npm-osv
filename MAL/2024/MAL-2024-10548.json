@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-10548",
-	"modified": "2024-11-13T02:27:51Z",
+	"modified": "2025-01-20T12:46:30Z",
 	"published": "2024-11-10T15:47:01Z",
 	"summary": "Malicious code in @sportdigi/scripts (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (95b43f17828314c0ab0a16cecaa408cc5a47e4ed4f2ae29bbc5165386cf7125c)\nThe OpenSSF Package Analysis project identified '@sportdigi/scripts' @ 9.10.21 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -20,7 +20,8 @@
 				"9.8.0",
 				"9.10.2",
 				"9.10.21",
-				"9.10.23"
+				"9.10.23",
+				"25.2.8"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@sportdigi/scripts/MAL-2024-10548.json"
@@ -109,6 +110,15 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"9.10.23"
+				]
+			},
+			{
+				"import_time": "2025-01-20T12:46:09.359010656Z",
+				"modified_time": "2025-01-20T12:45:48Z",
+				"sha256": "b7fcdf4e7d41086f47b2d800ce9243f035322e3ccb527d0ee676a0c92dfd124a",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"25.2.8"
 				]
 			}
 		]
