@@ -1,10 +1,13 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1647",
-	"modified": "2024-12-23T16:06:40Z",
+	"modified": "2025-01-21T00:42:09.510671Z",
 	"published": "2024-06-20T14:11:05Z",
+	"aliases": [
+		"GHSA-vqgv-5q3g-rr9w"
+	],
 	"summary": "Malicious code in tyk-developer-portal (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (9470d0dbad461aef3c32477548b1436fddb07b774a50e7d8aba76571f473eb30)\nThe OpenSSF Package Analysis project identified 'tyk-developer-portal' @ 1.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (d6830a4dad414db435db7f758c7ca9a035d4571a5f4e1053c017e1ee603629e6)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n\n## Source: ossf-package-analysis (9470d0dbad461aef3c32477548b1436fddb07b774a50e7d8aba76571f473eb30)\nThe OpenSSF Package Analysis project identified 'tyk-developer-portal' @ 1.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
 	"affected": [
 		{
 			"package": {
@@ -12,13 +15,36 @@
 				"name": "tyk-developer-portal",
 				"purl": "pkg:npm/tyk-developer-portal"
 			},
+			"ranges": [
+				{
+					"type": "SEMVER",
+					"events": [
+						{
+							"introduced": "0"
+						}
+					]
+				}
+			],
 			"versions": [
 				"1.0.0",
 				"9.9.9"
 			],
 			"database_specific": {
+				"cwes": [
+					{
+						"cweId": "CWE-506",
+						"description": "The product contains code that appears to be malicious in nature.",
+						"name": "Embedded Malicious Code"
+					}
+				],
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tyk-developer-portal/MAL-2024-1647.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://github.com/advisories/GHSA-vqgv-5q3g-rr9w"
 		}
 	],
 	"credits": [
@@ -50,6 +76,23 @@
 				"versions": [
 					"9.9.9"
 				]
+			},
+			{
+				"id": "GHSA-vqgv-5q3g-rr9w",
+				"import_time": "2025-01-21T00:31:36.232103043Z",
+				"modified_time": "2025-01-20T07:37:57Z",
+				"ranges": [
+					{
+						"events": [
+							{
+								"introduced": "0"
+							}
+						],
+						"type": "SEMVER"
+					}
+				],
+				"sha256": "d6830a4dad414db435db7f758c7ca9a035d4571a5f4e1053c017e1ee603629e6",
+				"source": "ghsa-malware"
 			}
 		]
 	}
