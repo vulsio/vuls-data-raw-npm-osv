@@ -1,16 +1,16 @@
 {
 	"schema_version": "1.6.0",
-	"id": "MAL-2025-142",
-	"modified": "2025-01-19T13:31:36Z",
-	"published": "2025-01-19T13:31:36Z",
-	"summary": "Malicious code in next-refresh-token (npm)",
+	"id": "MAL-2025-265",
+	"modified": "2025-01-19T13:27:34Z",
+	"published": "2025-01-19T13:27:34Z",
+	"summary": "Malicious code in openssl-node (npm)",
 	"details": "This package executes a post-install script to collect system data and sends it to a remote server.",
 	"affected": [
 		{
 			"package": {
 				"ecosystem": "npm",
-				"name": "next-refresh-token",
-				"purl": "pkg:npm/next-refresh-token"
+				"name": "openssl-node",
+				"purl": "pkg:npm/openssl-node"
 			},
 			"ranges": [
 				{
@@ -23,7 +23,7 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/next-refresh-token/MAL-2025-142.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/openssl-node/MAL-2025-265.json"
 			}
 		}
 	],
