@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-322",
+	"modified": "2025-01-22T13:56:11Z",
+	"published": "2025-01-22T13:56:11Z",
+	"summary": "Malicious code in canva-connect-api-starter-kit (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (fc0fdf9e640936880bce8400bdedeea86c50a3f199a443bec4c89154160e8f1d)\nThe OpenSSF Package Analysis project identified 'canva-connect-api-starter-kit' @ 9.0.8 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "canva-connect-api-starter-kit",
+				"purl": "pkg:npm/canva-connect-api-starter-kit"
+			},
+			"versions": [
+				"9.0.8"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/canva-connect-api-starter-kit/MAL-2025-322.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2025-01-22T14:05:39.154338515Z",
+				"modified_time": "2025-01-22T13:56:11Z",
+				"sha256": "fc0fdf9e640936880bce8400bdedeea86c50a3f199a443bec4c89154160e8f1d",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"9.0.8"
+				]
+			}
+		]
+	}
+}
