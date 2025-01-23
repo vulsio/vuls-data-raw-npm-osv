@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6q32-hq47-5qq3",
-	"modified": "2024-09-04T18:08:34Z",
+	"modified": "2025-01-22T18:44:59Z",
 	"published": "2024-09-03T20:08:30Z",
 	"aliases": [
 		"CVE-2024-42471"
@@ -33,7 +33,7 @@
 							"introduced": "2.0.0"
 						},
 						{
-							"fixed": "2.1.7"
+							"fixed": "2.1.2"
 						}
 					]
 				}
@@ -55,6 +55,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/actions/toolkit/pull/1602"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/actions/toolkit/pull/1666"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-1847",
-	"modified": "2025-01-22T09:34:59Z",
+	"modified": "2025-01-22T21:05:49Z",
 	"published": "2024-06-25T12:30:21Z",
 	"summary": "Malicious code in business-kpi-manager (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (d40c2ea693da70760733dd3ec3fd7dd594c8c49c6e937ec9699b9ec831cc960e)\nThe OpenSSF Package Analysis project identified 'business-kpi-manager' @ 4.0.4 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -14,7 +14,8 @@
 			},
 			"versions": [
 				"2.3.0",
-				"4.0.4"
+				"4.0.4",
+				"4.0.5"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/business-kpi-manager/MAL-2024-1847.json"
@@ -64,6 +65,15 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"4.0.4"
+				]
+			},
+			{
+				"import_time": "2025-01-22T21:05:25.730960635Z",
+				"modified_time": "2025-01-22T14:35:59Z",
+				"sha256": "d54e40d9b69a1bb13fcba5c852d84ea8c8ad46d3390ac2976093e9d64b681c0c",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"4.0.5"
 				]
 			}
 		]

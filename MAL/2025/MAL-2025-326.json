@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-326",
+	"modified": "2025-01-22T17:16:01Z",
+	"published": "2025-01-22T17:16:01Z",
+	"summary": "Malicious code in bigcommerce.github.io (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (080d9a526b2fa1dfb746160c7757bf7789eed1d485d67252b5e5893bc3f0d939)\nThe OpenSSF Package Analysis project identified 'bigcommerce.github.io' @ 9.9.9 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "bigcommerce.github.io",
+				"purl": "pkg:npm/bigcommerce.github.io"
+			},
+			"versions": [
+				"9.9.9"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bigcommerce.github.io/MAL-2025-326.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2025-01-22T17:35:05.367524381Z",
+				"modified_time": "2025-01-22T17:16:01Z",
+				"sha256": "080d9a526b2fa1dfb746160c7757bf7789eed1d485d67252b5e5893bc3f0d939",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"9.9.9"
+				]
+			}
+		]
+	}
+}
