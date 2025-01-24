@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-352",
+	"modified": "2025-01-23T20:00:54Z",
+	"published": "2025-01-23T20:00:54Z",
+	"summary": "Malicious code in no-style-dependency (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (30b633d1f91f0bcc55a326513182d65a6e13c561d22c90354ea1d9ac379f98fb)\nThe OpenSSF Package Analysis project identified 'no-style-dependency' @ 7.7.7 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "no-style-dependency",
+				"purl": "pkg:npm/no-style-dependency"
+			},
+			"versions": [
+				"7.7.7"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/no-style-dependency/MAL-2025-352.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2025-01-23T20:06:06.294137853Z",
+				"modified_time": "2025-01-23T20:00:54Z",
+				"sha256": "30b633d1f91f0bcc55a326513182d65a6e13c561d22c90354ea1d9ac379f98fb",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"7.7.7"
+				]
+			}
+		]
+	}
+}

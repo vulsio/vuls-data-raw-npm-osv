@@ -8,6 +8,7 @@
 	],
 	"related": [
 		"CGA-8r26-h37r-9vw2",
+		"CGA-rp6p-98xj-p5xv",
 		"CGA-v77m-8c8m-7vq4"
 	],
 	"summary": "Websites were able to send any requests to the development server and read the response in vite",
