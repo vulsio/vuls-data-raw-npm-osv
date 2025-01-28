@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-594",
+	"modified": "2025-01-28T13:56:00Z",
+	"published": "2025-01-28T13:56:00Z",
+	"summary": "Malicious code in gatsby-theme-tinker-tailor (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (d9ef3338f766bdfab1d3c4f855ef437987fda20683de0e234a716cfb40c38932)\nThe OpenSSF Package Analysis project identified 'gatsby-theme-tinker-tailor' @ 1.1.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "gatsby-theme-tinker-tailor",
+				"purl": "pkg:npm/gatsby-theme-tinker-tailor"
+			},
+			"versions": [
+				"1.1.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/gatsby-theme-tinker-tailor/MAL-2025-594.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2025-01-28T14:05:43.476033437Z",
+				"modified_time": "2025-01-28T13:56:00Z",
+				"sha256": "d9ef3338f766bdfab1d3c4f855ef437987fda20683de0e234a716cfb40c38932",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.1.0"
+				]
+			}
+		]
+	}
+}
