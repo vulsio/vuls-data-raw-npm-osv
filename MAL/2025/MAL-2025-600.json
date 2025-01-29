@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2025-600",
-	"modified": "2025-01-29T10:46:51Z",
+	"modified": "2025-01-29T13:09:28Z",
 	"published": "2025-01-29T10:46:51Z",
 	"summary": "Malicious code in digitalexp-datasource-definitions (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (58bbebcacdf6a2d9ffd86189ba507ed33986ed75030617e008d99c380d0b62d8)\nThe OpenSSF Package Analysis project identified 'digitalexp-datasource-definitions' @ 9.0.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -13,7 +13,9 @@
 				"purl": "pkg:npm/digitalexp-datasource-definitions"
 			},
 			"versions": [
-				"9.0.1"
+				"9.0.1",
+				"9.0.4",
+				"9.0.6"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/digitalexp-datasource-definitions/MAL-2025-600.json"
@@ -39,6 +41,24 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"9.0.1"
+				]
+			},
+			{
+				"import_time": "2025-01-29T12:45:14.713133682Z",
+				"modified_time": "2025-01-29T12:36:01Z",
+				"sha256": "2b5682c2abc3ac5e8c77a8d544e99e09591bb7934c4e0f3d26dd343eb6b376b5",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"9.0.4"
+				]
+			},
+			{
+				"import_time": "2025-01-29T13:08:56.197599441Z",
+				"modified_time": "2025-01-29T12:50:59Z",
+				"sha256": "ecd25f904c58447139a20e7677d6fbeab66fe4c5f3a50d7e9b5ac3b357fbde9b",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"9.0.6"
 				]
 			}
 		]

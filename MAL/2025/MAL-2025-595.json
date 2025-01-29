@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2025-595",
-	"modified": "2025-01-29T11:35:02Z",
+	"modified": "2025-01-29T13:09:28Z",
 	"published": "2025-01-28T16:06:06Z",
 	"summary": "Malicious code in digitalexp-components (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (f38109712e2ee2153d33320b5b9f366f445edff6acb543ba357b929a8fb26ab1)\nThe OpenSSF Package Analysis project identified 'digitalexp-components' @ 12.5.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -22,7 +22,10 @@
 				"13.0.1",
 				"13.1.1",
 				"13.1.6",
-				"13.1.5"
+				"13.1.5",
+				"13.1.7",
+				"13.1.8",
+				"13.1.9"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/digitalexp-components/MAL-2025-595.json"
@@ -129,6 +132,33 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"13.1.5"
+				]
+			},
+			{
+				"import_time": "2025-01-29T12:08:31.99573422Z",
+				"modified_time": "2025-01-29T11:56:44Z",
+				"sha256": "0a20c48dd37438e9408ba2397630bb2ac13bff07e2d1348ac02209087ed3f014",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"13.1.7"
+				]
+			},
+			{
+				"import_time": "2025-01-29T12:08:32.497577865Z",
+				"modified_time": "2025-01-29T12:07:43Z",
+				"sha256": "bf4524ac8afbedfc139d0c5832405759ee29345bfc97c997b8c79465c264d4f8",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"13.1.8"
+				]
+			},
+			{
+				"import_time": "2025-01-29T13:08:56.293407909Z",
+				"modified_time": "2025-01-29T13:00:25Z",
+				"sha256": "fd268c821c503552e86d9757ae11200ca30bcd54357f09b539bda0b3b35e909b",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"13.1.9"
 				]
 			}
 		]
