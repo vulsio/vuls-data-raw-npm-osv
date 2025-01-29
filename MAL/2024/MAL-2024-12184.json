@@ -1,10 +1,13 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-12184",
-	"modified": "2025-01-13T00:23:58Z",
+	"modified": "2025-01-29T00:42:10.940748Z",
 	"published": "2024-12-26T00:26:06Z",
+	"aliases": [
+		"GHSA-j9jr-x499-c5x3"
+	],
 	"summary": "Malicious code in com.db.gtb.ppe.rtp-authjs (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (052a41c005157914a456a4156fcbb6715cc2127bce06c40df62ea86a1148e30c)\nThe OpenSSF Package Analysis project identified 'com.db.gtb.ppe.rtp-authjs' @ 10.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package executes one or more commands associated with malicious behavior.\n",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (568f5df3d9ff35d07e33c5b204ab77021c179564a3c7dc47f6e2577f381db319)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n\n## Source: ossf-package-analysis (052a41c005157914a456a4156fcbb6715cc2127bce06c40df62ea86a1148e30c)\nThe OpenSSF Package Analysis project identified 'com.db.gtb.ppe.rtp-authjs' @ 10.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package executes one or more commands associated with malicious behavior.\n",
 	"affected": [
 		{
 			"package": {
@@ -12,13 +15,36 @@
 				"name": "com.db.gtb.ppe.rtp-authjs",
 				"purl": "pkg:npm/com.db.gtb.ppe.rtp-authjs"
 			},
+			"ranges": [
+				{
+					"type": "SEMVER",
+					"events": [
+						{
+							"introduced": "0"
+						}
+					]
+				}
+			],
 			"versions": [
 				"10.0.0",
 				"8.0.0"
 			],
 			"database_specific": {
+				"cwes": [
+					{
+						"cweId": "CWE-506",
+						"description": "The product contains code that appears to be malicious in nature.",
+						"name": "Embedded Malicious Code"
+					}
+				],
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/com.db.gtb.ppe.rtp-authjs/MAL-2024-12184.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://github.com/advisories/GHSA-j9jr-x499-c5x3"
 		}
 	],
 	"credits": [
@@ -50,6 +76,23 @@
 				"versions": [
 					"8.0.0"
 				]
+			},
+			{
+				"id": "GHSA-j9jr-x499-c5x3",
+				"import_time": "2025-01-29T00:31:59.556755337Z",
+				"modified_time": "2025-01-28T01:49:46Z",
+				"ranges": [
+					{
+						"events": [
+							{
+								"introduced": "0"
+							}
+						],
+						"type": "SEMVER"
+					}
+				],
+				"sha256": "568f5df3d9ff35d07e33c5b204ab77021c179564a3c7dc47f6e2577f381db319",
+				"source": "ghsa-malware"
 			}
 		]
 	}
