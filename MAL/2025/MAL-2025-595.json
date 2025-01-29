@@ -1,10 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2025-595",
-	"modified": "2025-01-28T16:06:06Z",
+	"modified": "2025-01-29T11:35:02Z",
 	"published": "2025-01-28T16:06:06Z",
 	"summary": "Malicious code in digitalexp-components (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (00758226ff7c14682006c6838634e731d49799e527cf5bdebfbbc01390061a1c)\nThe OpenSSF Package Analysis project identified 'digitalexp-components' @ 10.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (f38109712e2ee2153d33320b5b9f366f445edff6acb543ba357b929a8fb26ab1)\nThe OpenSSF Package Analysis project identified 'digitalexp-components' @ 12.5.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
 	"affected": [
 		{
 			"package": {
@@ -13,7 +13,16 @@
 				"purl": "pkg:npm/digitalexp-components"
 			},
 			"versions": [
-				"10.0.0"
+				"10.0.0",
+				"12.1.0",
+				"12.3.1",
+				"12.5.1",
+				"12.7.2",
+				"12.6.2",
+				"13.0.1",
+				"13.1.1",
+				"13.1.6",
+				"13.1.5"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/digitalexp-components/MAL-2025-595.json"
@@ -39,6 +48,87 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"10.0.0"
+				]
+			},
+			{
+				"import_time": "2025-01-29T07:34:13.831939272Z",
+				"modified_time": "2025-01-29T07:06:26Z",
+				"sha256": "7bcfe547e32d4a7c98082a970f5cf7f9f3d2146a91036899df04456c247841e0",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"12.1.0"
+				]
+			},
+			{
+				"import_time": "2025-01-29T07:34:13.91806213Z",
+				"modified_time": "2025-01-29T07:31:23Z",
+				"sha256": "95ae3f00877c1c0f52ca4649822ee5de4d4568af59281e9f28631d7eb74d32c5",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"12.3.1"
+				]
+			},
+			{
+				"import_time": "2025-01-29T08:06:57.605027092Z",
+				"modified_time": "2025-01-29T08:06:27Z",
+				"sha256": "f38109712e2ee2153d33320b5b9f366f445edff6acb543ba357b929a8fb26ab1",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"12.5.1"
+				]
+			},
+			{
+				"import_time": "2025-01-29T08:36:49.112192366Z",
+				"modified_time": "2025-01-29T08:26:36Z",
+				"sha256": "681527f4157fe78e7f4fd2134c43071aca943595f03e4a0b28da1712b440e5ec",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"12.7.2"
+				]
+			},
+			{
+				"import_time": "2025-01-29T08:36:49.020154457Z",
+				"modified_time": "2025-01-29T08:11:33Z",
+				"sha256": "ffd50713c6942caedc9db09991c5076e71d3638d087c050bf76266a5c3c4eff7",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"12.6.2"
+				]
+			},
+			{
+				"import_time": "2025-01-29T09:34:23.209359129Z",
+				"modified_time": "2025-01-29T09:16:42Z",
+				"sha256": "00bc28e3c2b44106d007e04b0d970f7b4c4fa525c322fa1448481b8bbeba4d67",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"13.0.1"
+				]
+			},
+			{
+				"import_time": "2025-01-29T09:34:23.289047471Z",
+				"modified_time": "2025-01-29T09:29:06Z",
+				"sha256": "2fcc869e70a2e0cce6b42fdb0b82e31d6de7e156cdbdc6a82b56e8045b574f7d",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"13.1.1"
+				]
+			},
+			{
+				"import_time": "2025-01-29T11:34:28.187796001Z",
+				"modified_time": "2025-01-29T11:27:54Z",
+				"sha256": "9ef930c1994822eaa60f583635e4b7777ec8d1a18803daa11a1338d2420f45d6",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"13.1.6"
+				]
+			},
+			{
+				"import_time": "2025-01-29T11:34:28.069040721Z",
+				"modified_time": "2025-01-29T11:20:57Z",
+				"sha256": "a9d4b22ce5de49b22e22264701dadde6c0349e00f1600c104c30b54637b1a0a9",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"13.1.5"
 				]
 			}
 		]
