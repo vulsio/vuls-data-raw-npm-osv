@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-602",
+	"modified": "2025-01-29T21:55:54Z",
+	"published": "2025-01-29T21:55:54Z",
+	"summary": "Malicious code in openbet-access-controller (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (3e04651c22680b6be9b2c9bebda456acd5e926821c0f4e7bce8770479da27691)\nThe OpenSSF Package Analysis project identified 'openbet-access-controller' @ 4.4.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "openbet-access-controller",
+				"purl": "pkg:npm/openbet-access-controller"
+			},
+			"versions": [
+				"4.4.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/openbet-access-controller/MAL-2025-602.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2025-01-29T22:05:16.036648163Z",
+				"modified_time": "2025-01-29T21:55:54Z",
+				"sha256": "3e04651c22680b6be9b2c9bebda456acd5e926821c0f4e7bce8770479da27691",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"4.4.0"
+				]
+			}
+		]
+	}
+}
