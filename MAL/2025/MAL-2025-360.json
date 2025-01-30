@@ -1,13 +1,13 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2025-360",
-	"modified": "2025-01-24T00:42:24.555425Z",
-	"published": "2025-01-23T13:54:59Z",
+	"modified": "2025-01-30T03:06:57Z",
+	"published": "2025-01-21T18:04:01Z",
 	"aliases": [
 		"GHSA-xhr4-4ff5-3xgh"
 	],
 	"summary": "Malicious code in arcus-cmd-utils (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (5bf2b699c21cb3148d5740eca91bd38c615a2adcc8c4adefca0f6059ee076cad)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
+	"details": "This package executes a base64-encoded script to download an Electron-based infostealer binary, aimed at exfiltrating cryptocurrency wallets, credentials, and other sensitive data.\n\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (5bf2b699c21cb3148d5740eca91bd38c615a2adcc8c4adefca0f6059ee076cad)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
 	"affected": [
 		{
 			"package": {
@@ -25,6 +25,9 @@
 					]
 				}
 			],
+			"versions": [
+				"1.0.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +44,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-xhr4-4ff5-3xgh"
+		}
+	],
+	"credits": [
+		{
+			"name": "Stacklok Insight: insight.stacklok.com",
+			"contact": [
+				"https://discord.com/invite/RkzVuTp3WK"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {

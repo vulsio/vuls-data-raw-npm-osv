@@ -1,0 +1,36 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-619",
+	"modified": "2025-01-21T17:28:43Z",
+	"published": "2025-01-21T17:28:43Z",
+	"summary": "Malicious code in secure-toolbots (npm)",
+	"details": "This package contains a multi-functional infostealer malware which establishes C2 via Discord, exfiltrating sensitive user data and files and providing remote shell access to an attacker.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "secure-toolbots",
+				"purl": "pkg:npm/secure-toolbots"
+			},
+			"versions": [
+				"1.0.1",
+				"1.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/secure-toolbots/MAL-2025-619.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "Stacklok Insight: insight.stacklok.com",
+			"contact": [
+				"https://discord.com/invite/RkzVuTp3WK"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}

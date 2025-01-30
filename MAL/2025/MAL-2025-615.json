@@ -1,0 +1,37 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-615",
+	"modified": "2025-01-21T17:49:20Z",
+	"published": "2025-01-21T17:49:20Z",
+	"summary": "Malicious code in marked-as (npm)",
+	"details": "This package is imitating the popular marked library. It contains a VBScript to extract a bundled PE payload, make it hidden, and execute it.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "marked-as",
+				"purl": "pkg:npm/marked-as"
+			},
+			"versions": [
+				"1.2.0",
+				"1.1.0",
+				"1.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/marked-as/MAL-2025-615.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "Stacklok Insight: insight.stacklok.com",
+			"contact": [
+				"https://discord.com/invite/RkzVuTp3WK"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}

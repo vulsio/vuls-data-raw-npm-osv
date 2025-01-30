@@ -1,0 +1,35 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-608",
+	"modified": "2025-01-21T17:53:06Z",
+	"published": "2025-01-21T17:53:06Z",
+	"summary": "Malicious code in achalk-next (npm)",
+	"details": "This package exfiltrates API keys to an attacker-controlled server. It also has destructive functionality to delete development-related directories.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "achalk-next",
+				"purl": "pkg:npm/achalk-next"
+			},
+			"versions": [
+				"6.1.5"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/achalk-next/MAL-2025-608.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "Stacklok Insight: insight.stacklok.com",
+			"contact": [
+				"https://discord.com/invite/RkzVuTp3WK"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}
