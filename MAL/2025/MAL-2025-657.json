@@ -1,0 +1,35 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-657",
+	"modified": "2025-01-30T16:55:51Z",
+	"published": "2025-01-30T16:55:51Z",
+	"summary": "Malicious code in firefoxcolor (npm)",
+	"details": "The package communicates with a domain associated with malicious activity.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "firefoxcolor",
+				"purl": "pkg:npm/firefoxcolor"
+			},
+			"versions": [
+				"1.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/firefoxcolor/MAL-2025-657.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "Amazon Inspector",
+			"contact": [
+				"actran@amazon.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-675",
+	"modified": "2025-01-30T16:55:51Z",
+	"published": "2025-01-30T16:55:51Z",
+	"summary": "Malicious code in node_package_runner (npm)",
+	"details": "The package communicates with a domain associated with malicious activity.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "node_package_runner",
+				"purl": "pkg:npm/node_package_runner"
+			},
+			"versions": [
+				"9.9.9",
+				"100.9.9",
+				"101.9.9"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/node_package_runner/MAL-2025-675.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "Amazon Inspector",
+			"contact": [
+				"actran@amazon.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}

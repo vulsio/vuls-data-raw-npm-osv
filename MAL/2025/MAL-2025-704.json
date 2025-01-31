@@ -1,0 +1,35 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-704",
+	"modified": "2025-01-31T03:01:05Z",
+	"published": "2025-01-31T03:01:05Z",
+	"summary": "Malicious code in compiler-version (npm)",
+	"details": "The package communicates with a domain associated with malicious activity.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "compiler-version",
+				"purl": "pkg:npm/compiler-version"
+			},
+			"versions": [
+				"9.9.9"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/compiler-version/MAL-2025-704.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "Amazon Inspector",
+			"contact": [
+				"actran@amazon.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}

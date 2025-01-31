@@ -1,0 +1,37 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-632",
+	"modified": "2025-01-30T16:55:51Z",
+	"published": "2025-01-30T16:55:51Z",
+	"summary": "Malicious code in addon-sdk (npm)",
+	"details": "The package communicates with a domain associated with malicious activity.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "addon-sdk",
+				"purl": "pkg:npm/addon-sdk"
+			},
+			"versions": [
+				"9.10.11",
+				"9.11.11",
+				"9.12.11"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/addon-sdk/MAL-2025-632.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "Amazon Inspector",
+			"contact": [
+				"actran@amazon.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}

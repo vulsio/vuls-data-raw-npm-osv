@@ -1,0 +1,35 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-669",
+	"modified": "2025-01-30T16:55:51Z",
+	"published": "2025-01-30T16:55:51Z",
+	"summary": "Malicious code in kibana-release-notes (npm)",
+	"details": "The package communicates with a domain associated with malicious activity.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "kibana-release-notes",
+				"purl": "pkg:npm/kibana-release-notes"
+			},
+			"versions": [
+				"1.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/kibana-release-notes/MAL-2025-669.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "Amazon Inspector",
+			"contact": [
+				"actran@amazon.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}
