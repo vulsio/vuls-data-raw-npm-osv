@@ -1,0 +1,38 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-736",
+	"modified": "2025-01-31T17:30:11Z",
+	"published": "2025-01-31T17:30:11Z",
+	"summary": "Malicious code in is-number-ctf (npm)",
+	"details": "The package opens up arbitrary backdoor port that allows bad actors to connect to.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "is-number-ctf",
+				"purl": "pkg:npm/is-number-ctf"
+			},
+			"versions": [
+				"7.0.0",
+				"7.0.1",
+				"7.0.2",
+				"7.0.4"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/is-number-ctf/MAL-2025-736.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "Amazon Inspector",
+			"contact": [
+				"actran@amazon.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-728",
+	"modified": "2025-01-31T03:01:05Z",
+	"published": "2025-01-31T03:01:05Z",
+	"summary": "Malicious code in @wongapl/offer-selector (npm)",
+	"details": "The package communicates with a domain associated with malicious activity.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "@wongapl/offer-selector",
+				"purl": "pkg:npm/%40wongapl/offer-selector"
+			},
+			"versions": [
+				"100.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@wongapl/offer-selector/MAL-2025-728.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "Amazon Inspector",
+			"contact": [
+				"actran@amazon.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}

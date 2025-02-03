@@ -1,0 +1,36 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-732",
+	"modified": "2025-01-31T03:01:05Z",
+	"published": "2025-01-31T03:01:05Z",
+	"summary": "Malicious code in elabasia-mobileapp-react-native-ui (npm)",
+	"details": "The package executes harmful command in pre-installation script to send sensitive data to an arbitrary domain.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "elabasia-mobileapp-react-native-ui",
+				"purl": "pkg:npm/elabasia-mobileapp-react-native-ui"
+			},
+			"versions": [
+				"999.9.1",
+				"999.9.2"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/elabasia-mobileapp-react-native-ui/MAL-2025-732.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "Amazon Inspector",
+			"contact": [
+				"actran@amazon.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}

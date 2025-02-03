@@ -1,0 +1,35 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-748",
+	"modified": "2025-01-31T03:01:05Z",
+	"published": "2025-01-31T03:01:05Z",
+	"summary": "Malicious code in react-native-country-picker-modal-modified (npm)",
+	"details": "The package executes harmful command in pre-installation script to send sensitive data to an arbitrary domain.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "react-native-country-picker-modal-modified",
+				"purl": "pkg:npm/react-native-country-picker-modal-modified"
+			},
+			"versions": [
+				"99.9.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/react-native-country-picker-modal-modified/MAL-2025-748.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "Amazon Inspector",
+			"contact": [
+				"actran@amazon.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}
