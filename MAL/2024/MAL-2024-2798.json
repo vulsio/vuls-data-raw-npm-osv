@@ -1,10 +1,13 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2798",
-	"modified": "2024-10-24T01:01:56Z",
+	"modified": "2025-02-04T00:57:02.372983Z",
 	"published": "2024-06-25T12:54:11Z",
+	"aliases": [
+		"GHSA-3jph-ccjv-fg4m"
+	],
 	"summary": "Malicious code in ontology-starter-react-app (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (ed3602d6737a3861487c258043efce70d2c7fe3708e9dabb0805841c5fddf6d8)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
 	"affected": [
 		{
 			"package": {
@@ -12,12 +15,35 @@
 				"name": "ontology-starter-react-app",
 				"purl": "pkg:npm/ontology-starter-react-app"
 			},
+			"ranges": [
+				{
+					"type": "SEMVER",
+					"events": [
+						{
+							"introduced": "0"
+						}
+					]
+				}
+			],
 			"versions": [
 				"7.0.0"
 			],
 			"database_specific": {
+				"cwes": [
+					{
+						"cweId": "CWE-506",
+						"description": "The product contains code that appears to be malicious in nature.",
+						"name": "Embedded Malicious Code"
+					}
+				],
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ontology-starter-react-app/MAL-2024-2798.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://github.com/advisories/GHSA-3jph-ccjv-fg4m"
 		}
 	],
 	"credits": [
@@ -47,6 +73,23 @@
 				"modified_time": "2024-10-16T13:09:06Z",
 				"sha256": "d3e11a9e8243d7719fd6b00dbd805c18af79c5d7f32a68e1236dc5db790904a6",
 				"source": "reversing-labs"
+			},
+			{
+				"id": "GHSA-3jph-ccjv-fg4m",
+				"import_time": "2025-02-04T00:32:09.034650487Z",
+				"modified_time": "2025-02-03T09:01:40Z",
+				"ranges": [
+					{
+						"events": [
+							{
+								"introduced": "0"
+							}
+						],
+						"type": "SEMVER"
+					}
+				],
+				"sha256": "ed3602d6737a3861487c258043efce70d2c7fe3708e9dabb0805841c5fddf6d8",
+				"source": "ghsa-malware"
 			}
 		]
 	}

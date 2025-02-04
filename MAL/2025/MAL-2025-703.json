@@ -1,10 +1,13 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2025-703",
-	"modified": "2025-01-31T03:01:05Z",
+	"modified": "2025-02-04T00:42:04.037123Z",
 	"published": "2025-01-31T03:01:05Z",
+	"aliases": [
+		"GHSA-jmqm-xmrv-q5jc"
+	],
 	"summary": "Malicious code in com.unity.ai.navigation (npm)",
-	"details": "The package communicates with a domain associated with malicious activity.",
+	"details": "The package communicates with a domain associated with malicious activity.\n\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (c96e3401f6c7e9e0c8aff5f71b8009ebf519355154ccc50f880eb92113a5a236)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
 	"affected": [
 		{
 			"package": {
@@ -12,6 +15,16 @@
 				"name": "com.unity.ai.navigation",
 				"purl": "pkg:npm/com.unity.ai.navigation"
 			},
+			"ranges": [
+				{
+					"type": "SEMVER",
+					"events": [
+						{
+							"introduced": "0"
+						}
+					]
+				}
+			],
 			"versions": [
 				"9.9.9",
 				"10.9.9",
@@ -21,8 +34,21 @@
 				"20.9.9"
 			],
 			"database_specific": {
+				"cwes": [
+					{
+						"cweId": "CWE-506",
+						"description": "The product contains code that appears to be malicious in nature.",
+						"name": "Embedded Malicious Code"
+					}
+				],
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/com.unity.ai.navigation/MAL-2025-703.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://github.com/advisories/GHSA-jmqm-xmrv-q5jc"
 		}
 	],
 	"credits": [
@@ -35,6 +61,24 @@
 		}
 	],
 	"database_specific": {
-		"malicious-packages-origins": null
+		"malicious-packages-origins": [
+			{
+				"id": "GHSA-jmqm-xmrv-q5jc",
+				"import_time": "2025-02-04T00:32:09.171194046Z",
+				"modified_time": "2025-02-03T09:01:40Z",
+				"ranges": [
+					{
+						"events": [
+							{
+								"introduced": "0"
+							}
+						],
+						"type": "SEMVER"
+					}
+				],
+				"sha256": "c96e3401f6c7e9e0c8aff5f71b8009ebf519355154ccc50f880eb92113a5a236",
+				"source": "ghsa-malware"
+			}
+		]
 	}
 }

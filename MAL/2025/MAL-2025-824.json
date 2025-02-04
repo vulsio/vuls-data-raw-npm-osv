@@ -1,10 +1,13 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2025-824",
-	"modified": "2025-02-03T16:51:15Z",
-	"published": "2025-02-03T16:51:15Z",
+	"modified": "2025-02-04T00:57:04.817264Z",
+	"published": "2025-02-03T08:45:34Z",
+	"aliases": [
+		"GHSA-7vpm-p4gf-w539"
+	],
 	"summary": "Malicious code in dvpawebwidgetsdetailspageclient (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (e8659cf6ac1fc2030d58c6d72a8c432968ee8de6c7226e9793d5ce8a1f0735f6)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
 	"affected": [
 		{
 			"package": {
@@ -12,13 +15,36 @@
 				"name": "dvpawebwidgetsdetailspageclient",
 				"purl": "pkg:npm/dvpawebwidgetsdetailspageclient"
 			},
+			"ranges": [
+				{
+					"type": "SEMVER",
+					"events": [
+						{
+							"introduced": "0"
+						}
+					]
+				}
+			],
 			"versions": [
 				"2.2.2",
 				"999.9.9"
 			],
 			"database_specific": {
+				"cwes": [
+					{
+						"cweId": "CWE-506",
+						"description": "The product contains code that appears to be malicious in nature.",
+						"name": "Embedded Malicious Code"
+					}
+				],
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dvpawebwidgetsdetailspageclient/MAL-2025-824.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://github.com/advisories/GHSA-7vpm-p4gf-w539"
 		}
 	],
 	"credits": [
@@ -42,6 +68,23 @@
 					"2.2.2",
 					"999.9.9"
 				]
+			},
+			{
+				"id": "GHSA-7vpm-p4gf-w539",
+				"import_time": "2025-02-04T00:32:09.078642777Z",
+				"modified_time": "2025-02-03T08:45:34Z",
+				"ranges": [
+					{
+						"events": [
+							{
+								"introduced": "0"
+							}
+						],
+						"type": "SEMVER"
+					}
+				],
+				"sha256": "e8659cf6ac1fc2030d58c6d72a8c432968ee8de6c7226e9793d5ce8a1f0735f6",
+				"source": "ghsa-malware"
 			}
 		]
 	}
