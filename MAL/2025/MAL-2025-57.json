@@ -1,10 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2025-57",
-	"modified": "2025-01-04T04:52:30Z",
+	"modified": "2025-02-03T18:38:39Z",
 	"published": "2025-01-04T04:52:30Z",
 	"summary": "Malicious code in api-demo-sample-lib3 (npm)",
-	"details": "This package runs commands in a pre-install script that exfils sensitive data to a attacker-controlled domain.",
+	"details": "This package runs commands in a pre-install script that exfils sensitive data to a attacker-controlled domain.\n\n---\n_-= Per source details. Do not edit below this line.=-_\n",
 	"affected": [
 		{
 			"package": {
@@ -27,9 +27,27 @@
 				"https://githax.com"
 			],
 			"type": "FINDER"
+		},
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
-		"malicious-packages-origins": null
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2025-00072",
+				"import_time": "2025-02-03T18:37:46.545688973Z",
+				"modified_time": "2025-02-03T16:47:20Z",
+				"sha256": "6234688db6998162f2837423f3257308203de85c5985a14e6365e242ee3e1701",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.0"
+				]
+			}
+		]
 	}
 }

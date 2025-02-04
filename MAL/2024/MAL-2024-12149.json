@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-12149",
-	"modified": "2024-12-28T00:42:11.395702Z",
+	"modified": "2025-02-03T18:56:50.135494Z",
 	"published": "2024-12-27T07:23:34Z",
 	"aliases": [
-		"GHSA-q5m5-679w-45vh"
+		"GHSA-q5m5-679w-45vh",
+		"SNYK-JS-JSDOSTEMPLATE-8551170"
 	],
 	"summary": "Malicious code in js-dos-template (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (1d534d9ec05d6809f40b3db232c0e24e612234ca30b7d46155b7aa6043c7d02a)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"1.0.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-q5m5-679w-45vh"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/js-dos-template"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-JSDOSTEMPLATE-8551170"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +82,16 @@
 				],
 				"sha256": "1d534d9ec05d6809f40b3db232c0e24e612234ca30b7d46155b7aa6043c7d02a",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2025-00235",
+				"import_time": "2025-02-03T18:37:54.356640972Z",
+				"modified_time": "2025-02-03T16:55:03Z",
+				"sha256": "194628f27ebd19b8087eac67ffadf4e476d3081e2f5e34d58c82edd5767d6835",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.0"
+				]
 			}
 		]
 	}

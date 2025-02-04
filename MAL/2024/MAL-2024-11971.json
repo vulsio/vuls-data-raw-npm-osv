@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-11971",
-	"modified": "2024-12-20T00:59:29.997611Z",
+	"modified": "2025-02-03T18:57:02.832308Z",
 	"published": "2024-12-19T11:15:44Z",
 	"aliases": [
-		"GHSA-j53q-8jcr-v268"
+		"GHSA-j53q-8jcr-v268",
+		"SNYK-JS-EBDOCS-8535814"
 	],
 	"summary": "Malicious code in eb-docs (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (ab4350e0e76a01ebf4e3e3692784f26c112499d024ac9b24f8fe322f09ceebfe)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,11 @@
 					]
 				}
 			],
+			"versions": [
+				"1.0.1",
+				"2.0.0",
+				"3.0.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +47,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-j53q-8jcr-v268"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/eb-docs"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-EBDOCS-8535814"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +84,18 @@
 				],
 				"sha256": "ab4350e0e76a01ebf4e3e3692784f26c112499d024ac9b24f8fe322f09ceebfe",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2025-00160",
+				"import_time": "2025-02-03T18:37:50.484990036Z",
+				"modified_time": "2025-02-03T16:51:20Z",
+				"sha256": "8638639f9ba956a259d93ec9a36f44b58cd262307486692ee50094da8c9255a3",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.1",
+					"2.0.0",
+					"3.0.0"
+				]
 			}
 		]
 	}

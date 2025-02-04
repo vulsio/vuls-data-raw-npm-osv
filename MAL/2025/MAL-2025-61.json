@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2025-61",
-	"modified": "2025-01-24T00:42:23.741078Z",
+	"modified": "2025-02-03T18:38:40Z",
 	"published": "2025-01-05T05:20:51Z",
 	"aliases": [
 		"GHSA-cvr2-fhgx-rv9c"
@@ -53,6 +53,13 @@
 				"https://githax.com"
 			],
 			"type": "FINDER"
+		},
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -73,6 +80,16 @@
 				],
 				"sha256": "67ebd6ae141b2ad735a5d06a361820acbdba7b725729e8fa795cf1be86282e30",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2025-00188",
+				"import_time": "2025-02-03T18:37:51.555211805Z",
+				"modified_time": "2025-02-03T16:52:32Z",
+				"sha256": "2a5e5241f2dd70247f21b28b17943ff4775cef973b0b0175eaf040ba3a4a6ceb",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.0"
+				]
 			}
 		]
 	}

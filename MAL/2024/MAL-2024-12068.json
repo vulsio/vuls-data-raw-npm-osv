@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-12068",
-	"modified": "2025-01-21T00:57:11.224934Z",
+	"modified": "2025-02-03T18:38:40Z",
 	"published": "2024-12-20T06:25:50Z",
 	"aliases": [
 		"GHSA-hv22-g2c7-jqw5"
@@ -26,7 +26,8 @@
 				}
 			],
 			"versions": [
-				"9.9.9"
+				"9.9.9",
+				"9.9.10"
 			],
 			"database_specific": {
 				"cwes": [
@@ -52,6 +53,13 @@
 			"contact": [
 				"https://github.com/ossf/package-analysis",
 				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		},
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
 			],
 			"type": "FINDER"
 		}
@@ -83,6 +91,17 @@
 				],
 				"sha256": "7d4b735ba3b9d57b25bc19668899fc94bb9c054a0646d0c7a07800f9dbedf693",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2025-00294",
+				"import_time": "2025-02-03T18:37:57.328088195Z",
+				"modified_time": "2025-02-03T16:58:03Z",
+				"sha256": "758dbc34b7c8d4bd3ab11e1701f062623aec5d949a6e06c0c9be4184c84ae4d7",
+				"source": "reversing-labs",
+				"versions": [
+					"9.9.9",
+					"9.9.10"
+				]
 			}
 		]
 	}

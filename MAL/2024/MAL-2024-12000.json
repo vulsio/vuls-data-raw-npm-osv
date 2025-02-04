@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-12000",
-	"modified": "2024-12-20T00:59:26.211111Z",
+	"modified": "2025-02-03T18:57:01.840135Z",
 	"published": "2024-12-19T12:01:03Z",
 	"aliases": [
-		"GHSA-8jhv-2jfg-jff6"
+		"GHSA-8jhv-2jfg-jff6",
+		"SNYK-JS-MAPLIBRE-8536177"
 	],
 	"summary": "Malicious code in maplibre (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (812bdb7f3cb3a09a616e906c456e223c0069b42451a78c0df8d032054ec3f6a1)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,10 @@
 					]
 				}
 			],
+			"versions": [
+				"2.4.0",
+				"2.4.1"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +46,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-8jhv-2jfg-jff6"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-MAPLIBRE-8536177"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/maplibre"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +83,17 @@
 				],
 				"sha256": "812bdb7f3cb3a09a616e906c456e223c0069b42451a78c0df8d032054ec3f6a1",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2025-00260",
+				"import_time": "2025-02-03T18:37:55.539015759Z",
+				"modified_time": "2025-02-03T16:56:18Z",
+				"sha256": "9b22de602f757e99a50f405bb9855ab2dbd7d15589d9fb51d374902bb9eaac80",
+				"source": "reversing-labs",
+				"versions": [
+					"2.4.0",
+					"2.4.1"
+				]
 			}
 		]
 	}

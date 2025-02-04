@@ -1,0 +1,35 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-1044",
+	"modified": "2025-02-03T17:25:15Z",
+	"published": "2025-02-03T17:25:15Z",
+	"summary": "Malicious code in minikit-monorepo (npm)",
+	"details": "The package communicates with a domain associated with malicious activity.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "minikit-monorepo",
+				"purl": "pkg:npm/minikit-monorepo"
+			},
+			"versions": [
+				"1.4.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/minikit-monorepo/MAL-2025-1044.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "Amazon Inspector",
+			"contact": [
+				"actran@amazon.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}

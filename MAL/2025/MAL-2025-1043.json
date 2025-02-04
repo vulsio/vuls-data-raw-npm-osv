@@ -1,0 +1,35 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-1043",
+	"modified": "2025-02-03T17:25:15Z",
+	"published": "2025-02-03T17:25:15Z",
+	"summary": "Malicious code in llvm-vs-code-extensions.vscode-clangd (npm)",
+	"details": "The package communicates with a domain associated with malicious activity.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "llvm-vs-code-extensions.vscode-clangd",
+				"purl": "pkg:npm/llvm-vs-code-extensions.vscode-clangd"
+			},
+			"versions": [
+				"9.9.9"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/llvm-vs-code-extensions.vscode-clangd/MAL-2025-1043.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "Amazon Inspector",
+			"contact": [
+				"actran@amazon.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}

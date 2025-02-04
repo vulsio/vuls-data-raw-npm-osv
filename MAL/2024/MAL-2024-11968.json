@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-11968",
-	"modified": "2024-12-20T00:59:27.119181Z",
+	"modified": "2025-02-03T18:56:43.671987Z",
 	"published": "2024-12-19T11:24:20Z",
 	"aliases": [
-		"GHSA-9qm6-4226-3rwx"
+		"GHSA-9qm6-4226-3rwx",
+		"SNYK-JS-DHPHTTPLIB-8535876"
 	],
 	"summary": "Malicious code in dhp-http-lib (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (4e3bd8d790ed5b426b7b312480732dc8343670572c60141f63f9a0d7df7b8efe)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"10.3.1"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-9qm6-4226-3rwx"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/dhp-http-lib"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-DHPHTTPLIB-8535876"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +82,16 @@
 				],
 				"sha256": "4e3bd8d790ed5b426b7b312480732dc8343670572c60141f63f9a0d7df7b8efe",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2025-00152",
+				"import_time": "2025-02-03T18:37:50.172440092Z",
+				"modified_time": "2025-02-03T16:50:45Z",
+				"sha256": "435b4b092193cc1f667c4e24fa0130fa41f7a6969d02fb8718439356beaeb1db",
+				"source": "reversing-labs",
+				"versions": [
+					"10.3.1"
+				]
 			}
 		]
 	}

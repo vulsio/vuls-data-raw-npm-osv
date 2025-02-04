@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2025-185",
-	"modified": "2025-01-21T00:42:09.308728Z",
+	"modified": "2025-02-03T18:38:40Z",
 	"published": "2025-01-20T07:37:57Z",
 	"aliases": [
 		"GHSA-vcqm-wv38-xp4x"
@@ -25,6 +25,9 @@
 					]
 				}
 			],
+			"versions": [
+				"9.9.9"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +44,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-vcqm-wv38-xp4x"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +73,16 @@
 				],
 				"sha256": "db0a05213eccd279084fc7d5d7545e8ddd2b658f9db8a890b1994b4c9a6d6953",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2025-00182",
+				"import_time": "2025-02-03T18:37:51.431787067Z",
+				"modified_time": "2025-02-03T16:52:06Z",
+				"sha256": "e6a7cfcec117b5571b73b8e8caaf1362e97d13fce95f796d73d4171f4a7d91bd",
+				"source": "reversing-labs",
+				"versions": [
+					"9.9.9"
+				]
 			}
 		]
 	}

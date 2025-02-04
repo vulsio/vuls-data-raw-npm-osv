@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2379",
-	"modified": "2024-11-18T20:35:51Z",
+	"modified": "2025-02-03T18:38:40Z",
 	"published": "2024-06-25T12:43:12Z",
 	"summary": "Malicious code in float-kit (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (fb2c7d9832be98d23c6ad4fb3cd06b122020887a08ea7037d57519d1a72a4405)\nThe OpenSSF Package Analysis project identified 'float-kit' @ 1.0.7 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
@@ -14,7 +14,12 @@
 			},
 			"versions": [
 				"1.0.0",
-				"1.0.7"
+				"1.0.7",
+				"1.0.8",
+				"1.0.5",
+				"1.0.4",
+				"1.0.3",
+				"1.0.6"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/float-kit/MAL-2024-2379.json"
@@ -64,6 +69,21 @@
 				"source": "ossf-package-analysis",
 				"versions": [
 					"1.0.7"
+				]
+			},
+			{
+				"id": "RLUA-2025-00195",
+				"import_time": "2025-02-03T18:38:13.128906918Z",
+				"modified_time": "2025-02-03T16:53:00Z",
+				"sha256": "0c98623d0c81d18cfd23079fda60adeeff30233a9752991472f972bbd0ebc32a",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.8",
+					"1.0.5",
+					"1.0.4",
+					"1.0.7",
+					"1.0.3",
+					"1.0.6"
 				]
 			}
 		]

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2025-8",
-	"modified": "2025-01-13T00:23:58Z",
+	"modified": "2025-02-03T18:38:39Z",
 	"published": "2024-12-20T14:00:49Z",
 	"summary": "Malicious code in 4m-clean-shopify-app (npm)",
 	"details": "This package runs commands in a pre-install script that exfils sensitive data to a attacker-controlled domain.\n\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (666440b2bf09ee1063948b636e2a77a9bd4894ffa3e5c48984f275046228d86c)\nThe OpenSSF Package Analysis project identified '4m-clean-shopify-app' @ 9.0.4 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package executes one or more commands associated with malicious behavior.\n",
@@ -37,6 +37,13 @@
 				"https://openssf.slack.com/channels/package_analysis"
 			],
 			"type": "FINDER"
+		},
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -47,6 +54,18 @@
 				"sha256": "666440b2bf09ee1063948b636e2a77a9bd4894ffa3e5c48984f275046228d86c",
 				"source": "ossf-package-analysis",
 				"versions": [
+					"9.0.4"
+				]
+			},
+			{
+				"id": "RLMA-2025-00046",
+				"import_time": "2025-02-03T18:37:45.278642691Z",
+				"modified_time": "2025-02-03T16:43:45Z",
+				"sha256": "79914d582acbb6a54fb98c13d07de15fd861fcf1382d6a4e159b5b654cc46faa",
+				"source": "reversing-labs",
+				"versions": [
+					"9.0.0",
+					"9.0.1",
 					"9.0.4"
 				]
 			}

@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-11810",
-	"modified": "2024-12-13T00:42:18.297215Z",
+	"modified": "2025-02-03T18:56:53.494855Z",
 	"published": "2024-12-12T05:34:20Z",
 	"aliases": [
-		"GHSA-4795-q7mx-mfgf"
+		"GHSA-4795-q7mx-mfgf",
+		"SNYK-JS-NEXTCLOUD1-8496644"
 	],
 	"summary": "Malicious code in nextcloud1 (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (fd899fc684401040c873b3d7930d347ee05d409f374da1c279b5c717c4340a34)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"9.9.9"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-4795-q7mx-mfgf"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/nextcloud1"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-NEXTCLOUD1-8496644"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +82,16 @@
 				],
 				"sha256": "fd899fc684401040c873b3d7930d347ee05d409f374da1c279b5c717c4340a34",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2025-00285",
+				"import_time": "2025-02-03T18:37:56.897306056Z",
+				"modified_time": "2025-02-03T16:57:34Z",
+				"sha256": "43f981b87de3661a37b926bd97789ac522c1af64a0dffb5d7addd2e65f204f59",
+				"source": "reversing-labs",
+				"versions": [
+					"9.9.9"
+				]
 			}
 		]
 	}

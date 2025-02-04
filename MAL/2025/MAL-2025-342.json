@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2025-342",
-	"modified": "2025-01-23T00:42:01.873959Z",
+	"modified": "2025-02-03T18:38:40Z",
 	"published": "2025-01-22T16:30:47Z",
 	"aliases": [
 		"GHSA-mh79-jr8w-w349"
@@ -25,6 +25,10 @@
 					]
 				}
 			],
+			"versions": [
+				"1.0.0",
+				"1.1.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-mh79-jr8w-w349"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +74,17 @@
 				],
 				"sha256": "fc75870385e27f624816db6a388a5a188640a523bb7d967dbb848ac33dda21b1",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2025-00301",
+				"import_time": "2025-02-03T18:37:57.744955851Z",
+				"modified_time": "2025-02-03T16:58:31Z",
+				"sha256": "f150c20eeb6bdc78f44e1c33fc8130dca02023772acaf5958abb62f7cd1ec6d4",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.0",
+					"1.1.0"
+				]
 			}
 		]
 	}

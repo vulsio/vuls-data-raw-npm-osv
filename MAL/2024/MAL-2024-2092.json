@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2092",
-	"modified": "2024-10-24T01:01:56Z",
+	"modified": "2025-02-03T18:38:39Z",
 	"published": "2024-06-25T12:36:07Z",
 	"summary": "Malicious code in dialog-holder (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -13,7 +13,10 @@
 				"purl": "pkg:npm/dialog-holder"
 			},
 			"versions": [
-				"1.0.0"
+				"1.0.0",
+				"1.0.1",
+				"1.0.3",
+				"1.0.4"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/dialog-holder/MAL-2024-2092.json"
@@ -47,6 +50,18 @@
 				"modified_time": "2024-10-16T12:43:50Z",
 				"sha256": "5384d690dd07addda610c52a7fefb204030be14c3f79398e3640b9a59925bf4d",
 				"source": "reversing-labs"
+			},
+			{
+				"id": "RLUA-2025-00153",
+				"import_time": "2025-02-03T18:38:12.582269838Z",
+				"modified_time": "2025-02-03T16:50:45Z",
+				"sha256": "b8656f5d86ff817210f07925a18dc2249f5a03cdaeab968b97a9258a3bd14576",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.1",
+					"1.0.3",
+					"1.0.4"
+				]
 			}
 		]
 	}

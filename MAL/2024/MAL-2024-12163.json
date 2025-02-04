@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-12163",
-	"modified": "2024-12-31T00:42:09.976422Z",
+	"modified": "2025-02-03T18:56:49.775521Z",
 	"published": "2024-12-30T22:26:24Z",
 	"aliases": [
-		"GHSA-5hj7-mjwp-949h"
+		"GHSA-5hj7-mjwp-949h",
+		"SNYK-JS-SWIGGYPRIVATEAATMNIRBHARBHARATUI-8553969"
 	],
 	"summary": "Malicious code in @swiggy-private/aatm-nirbhar-bharat-ui (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (8c7b5be2c1f09619ffb810ecf32f211da2c461ad3b7370fd73eeb240b3ff90c0)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,9 @@
 					]
 				}
 			],
+			"versions": [
+				"8999999999999999.99999999.99999999999"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +45,19 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-5hj7-mjwp-949h"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-SWIGGYPRIVATEAATMNIRBHARBHARATUI-8553969"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +78,16 @@
 				],
 				"sha256": "8c7b5be2c1f09619ffb810ecf32f211da2c461ad3b7370fd73eeb240b3ff90c0",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2025-00028",
+				"import_time": "2025-02-03T18:37:44.405259867Z",
+				"modified_time": "2025-02-03T16:42:51Z",
+				"sha256": "5b9962a6b64aa0983306ec5036ceb39a18f1b54f8afe904c5f88b489992eb205",
+				"source": "reversing-labs",
+				"versions": [
+					"8999999999999999.99999999.99999999999"
+				]
 			}
 		]
 	}

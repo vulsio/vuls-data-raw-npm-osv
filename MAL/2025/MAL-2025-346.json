@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2025-346",
-	"modified": "2025-01-23T00:42:02.419618Z",
+	"modified": "2025-02-03T18:38:40Z",
 	"published": "2025-01-22T16:33:27Z",
 	"aliases": [
 		"GHSA-x88m-4mqg-qq5r"
@@ -25,6 +25,12 @@
 					]
 				}
 			],
+			"versions": [
+				"1.0.0",
+				"2.22.9",
+				"2.22.10",
+				"2.22.11"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +47,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-x88m-4mqg-qq5r"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +76,19 @@
 				],
 				"sha256": "44c77bd3fa6630e7c9766fd7aff1c52888620a548b6f827495df3fed97daed49",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2025-00373",
+				"import_time": "2025-02-03T18:38:01.317283572Z",
+				"modified_time": "2025-02-03T17:04:02Z",
+				"sha256": "180c44fe63e4aec115f5a8deaa3ab71d53b2fbeb09d9e675f980b9efb386c874",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.0",
+					"2.22.9",
+					"2.22.10",
+					"2.22.11"
+				]
 			}
 		]
 	}

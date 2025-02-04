@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2025-345",
-	"modified": "2025-01-23T00:42:00.617824Z",
+	"modified": "2025-02-03T18:38:40Z",
 	"published": "2025-01-22T16:35:23Z",
 	"aliases": [
 		"GHSA-232m-54wq-pxm4"
@@ -25,6 +25,9 @@
 					]
 				}
 			],
+			"versions": [
+				"2.5.6"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +44,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-232m-54wq-pxm4"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +73,16 @@
 				],
 				"sha256": "39769cce5e70e9098087bffcf45c754636b295ed521042bad3bdae8a0debf88c",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2025-00327",
+				"import_time": "2025-02-03T18:37:59.150556147Z",
+				"modified_time": "2025-02-03T16:59:52Z",
+				"sha256": "50037d2722fff01cce373c154767117af3cf4b62ffe1fd9f6b90d449efecc13f",
+				"source": "reversing-labs",
+				"versions": [
+					"2.5.6"
+				]
 			}
 		]
 	}

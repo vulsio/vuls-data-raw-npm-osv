@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2025-362",
-	"modified": "2025-01-24T00:42:23.287078Z",
+	"modified": "2025-02-03T18:38:40Z",
 	"published": "2025-01-23T13:41:43Z",
 	"aliases": [
 		"GHSA-885x-pgf2-9v85"
@@ -25,6 +25,9 @@
 					]
 				}
 			],
+			"versions": [
+				"9.9.9"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +44,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-885x-pgf2-9v85"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +73,16 @@
 				],
 				"sha256": "99319a0fd3901abbb085faaaf7efaf653934eae74c3d6d4e442005aa875e822d",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2025-00291",
+				"import_time": "2025-02-03T18:37:57.185181433Z",
+				"modified_time": "2025-02-03T16:57:49Z",
+				"sha256": "00a287a26c74be7b897f9fed7067fa3268f626fc37f35286cae86073bc55d65f",
+				"source": "reversing-labs",
+				"versions": [
+					"9.9.9"
+				]
 			}
 		]
 	}

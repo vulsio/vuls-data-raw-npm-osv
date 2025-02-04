@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-857",
+	"modified": "2025-02-03T16:57:09Z",
+	"published": "2025-02-03T16:57:09Z",
+	"summary": "Malicious code in my-amazing-app (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "my-amazing-app",
+				"purl": "pkg:npm/my-amazing-app"
+			},
+			"versions": [
+				"0.1.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/my-amazing-app/MAL-2025-857.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2025-00279",
+				"import_time": "2025-02-03T18:37:56.698439862Z",
+				"modified_time": "2025-02-03T16:57:09Z",
+				"sha256": "8b66ad5d20648c8f256fa015ed52e316c7be88dd1d3bce9e697c1c5d11da1b20",
+				"source": "reversing-labs",
+				"versions": [
+					"0.1.0"
+				]
+			}
+		]
+	}
+}

@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-12040",
-	"modified": "2024-12-20T00:59:25.357946Z",
+	"modified": "2025-02-03T18:56:37.563985Z",
 	"published": "2024-12-19T11:12:44Z",
 	"aliases": [
-		"GHSA-746v-j8x7-j9c6"
+		"GHSA-746v-j8x7-j9c6",
+		"SNYK-JS-SLACKSNS-8535808"
 	],
 	"summary": "Malicious code in slack-sns (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (dde2984debaba750af691ea1ba70116984fba098ecf0fe26a0fdf576d386f53a)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,11 @@
 					]
 				}
 			],
+			"versions": [
+				"100.0.0",
+				"100.1.0",
+				"100.2.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +47,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-746v-j8x7-j9c6"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-SLACKSNS-8535808"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/slack-sns"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +84,18 @@
 				],
 				"sha256": "dde2984debaba750af691ea1ba70116984fba098ecf0fe26a0fdf576d386f53a",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2025-00347",
+				"import_time": "2025-02-03T18:38:00.079101127Z",
+				"modified_time": "2025-02-03T17:02:36Z",
+				"sha256": "c3fbf49838e3f277fe57db824339e800ed22432614833b6548727b48e98aac1e",
+				"source": "reversing-labs",
+				"versions": [
+					"100.0.0",
+					"100.1.0",
+					"100.2.0"
+				]
 			}
 		]
 	}

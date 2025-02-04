@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-11385",
-	"modified": "2024-12-09T02:40:28Z",
+	"modified": "2025-02-03T18:38:40Z",
 	"published": "2024-12-09T02:40:28Z",
 	"summary": "Malicious code in metamask-extension-generate-attributions (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -13,7 +13,8 @@
 				"purl": "pkg:npm/metamask-extension-generate-attributions"
 			},
 			"versions": [
-				"1.0.0"
+				"1.0.0",
+				"2.0.0"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/metamask-extension-generate-attributions/MAL-2024-11385.json"
@@ -39,6 +40,16 @@
 				"source": "reversing-labs",
 				"versions": [
 					"1.0.0"
+				]
+			},
+			{
+				"id": "RLUA-2025-00265",
+				"import_time": "2025-02-03T18:38:13.309224741Z",
+				"modified_time": "2025-02-03T16:56:32Z",
+				"sha256": "2ae6fff27d776de004455a9a4cd57302a8b87c7363f8ff03a389c06c97cedede",
+				"source": "reversing-labs",
+				"versions": [
+					"2.0.0"
 				]
 			}
 		]

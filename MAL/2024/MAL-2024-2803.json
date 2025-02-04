@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-2803",
-	"modified": "2025-01-21T00:42:09.649364Z",
+	"modified": "2025-02-03T18:38:40Z",
 	"published": "2024-06-25T12:54:20Z",
 	"aliases": [
 		"GHSA-w7cw-xqxp-8j95"
@@ -108,6 +108,16 @@
 				],
 				"sha256": "5b9207a219bcb0da9f09f2b9c49edc832107607c624e5d9b3daa16b4c7fdf3d3",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLUA-2025-00303",
+				"import_time": "2025-02-03T18:38:13.478624419Z",
+				"modified_time": "2025-02-03T16:58:33Z",
+				"sha256": "04bb6c12215b5b9c896c50ef55bc88d9c95405577e0ce85078d0af6e4875ba9c",
+				"source": "reversing-labs",
+				"versions": [
+					"9.9.9"
+				]
 			}
 		]
 	}

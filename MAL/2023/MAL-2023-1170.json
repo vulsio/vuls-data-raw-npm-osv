@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2023-1170",
-	"modified": "2024-06-28T03:14:34.618126Z",
+	"modified": "2025-02-03T18:38:39Z",
 	"published": "2023-04-29T10:32:18Z",
 	"aliases": [
 		"SNYK-JS-EGSTORECAROUSEL-3336082"
@@ -17,7 +17,8 @@
 			},
 			"versions": [
 				"99.2.2",
-				"99.2.1"
+				"99.2.1",
+				"99.0.0"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/egstore-carousel/MAL-2023-1170.json"
@@ -76,6 +77,16 @@
 				"versions": [
 					"99.2.1",
 					"99.2.2"
+				]
+			},
+			{
+				"id": "RLUA-2025-00169",
+				"import_time": "2025-02-03T18:38:12.660001808Z",
+				"modified_time": "2025-02-03T16:51:35Z",
+				"sha256": "4de0ecd4d574601419dddc265f91b41ea2be2993eba205b51525c3b46290ae37",
+				"source": "reversing-labs",
+				"versions": [
+					"99.0.0"
 				]
 			}
 		]

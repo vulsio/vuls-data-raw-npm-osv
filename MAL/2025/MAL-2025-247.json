@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2025-247",
-	"modified": "2025-01-21T00:57:12.566562Z",
+	"modified": "2025-02-03T18:38:40Z",
 	"published": "2025-01-20T07:34:18Z",
 	"aliases": [
 		"GHSA-x33r-8c8p-w4wm"
@@ -25,6 +25,9 @@
 					]
 				}
 			],
+			"versions": [
+				"1.0.0"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +44,15 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-x33r-8c8p-w4wm"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +73,16 @@
 				],
 				"sha256": "4d441396521f48556524fd4855d512807ec7548fc10a968ecc786535ee98dac6",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2025-00361",
+				"import_time": "2025-02-03T18:38:00.732420393Z",
+				"modified_time": "2025-02-03T17:03:22Z",
+				"sha256": "958eee298cf83c55864685f3363ec915f58807a19cc731eea1b7fe38f27f28f3",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.0"
+				]
 			}
 		]
 	}

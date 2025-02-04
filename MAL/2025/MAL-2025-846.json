@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-846",
+	"modified": "2025-02-03T16:55:46Z",
+	"published": "2025-02-03T16:55:46Z",
+	"summary": "Malicious code in lib-jitsi-meet-sample (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "lib-jitsi-meet-sample",
+				"purl": "pkg:npm/lib-jitsi-meet-sample"
+			},
+			"versions": [
+				"1.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/lib-jitsi-meet-sample/MAL-2025-846.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2025-00253",
+				"import_time": "2025-02-03T18:37:55.179449306Z",
+				"modified_time": "2025-02-03T16:55:46Z",
+				"sha256": "1a60fab0065b2fcaa097633c1cc9f37883e704ac057b699e7923bf66a0d34516",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.0"
+				]
+			}
+		]
+	}
+}

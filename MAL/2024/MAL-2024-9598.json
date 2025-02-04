@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-9598",
-	"modified": "2025-01-21T00:42:06.517994Z",
+	"modified": "2025-02-03T18:38:40Z",
 	"published": "2024-10-16T12:51:03Z",
 	"aliases": [
 		"GHSA-6644-jfww-rxrw"
@@ -27,7 +27,8 @@
 			],
 			"versions": [
 				"4.0.0",
-				"4.0.1"
+				"4.0.1",
+				"9.9.9"
 			],
 			"database_specific": {
 				"cwes": [
@@ -85,6 +86,16 @@
 				],
 				"sha256": "e2b2fa3b66c2966165d7e2c1e4d354ceb118ff1887ad258f5572943451a1f6c5",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLUA-2025-00184",
+				"import_time": "2025-02-03T18:38:12.973289761Z",
+				"modified_time": "2025-02-03T16:52:15Z",
+				"sha256": "433e3fb929ca55d2f75e1b38ffccb395bee8e30b13b35f54ffcc627badb9781e",
+				"source": "reversing-labs",
+				"versions": [
+					"9.9.9"
+				]
 			}
 		]
 	}

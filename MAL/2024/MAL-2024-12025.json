@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-12025",
-	"modified": "2024-12-20T00:59:26.604195Z",
+	"modified": "2025-02-03T18:56:42.052151Z",
 	"published": "2024-12-19T12:53:07Z",
 	"aliases": [
-		"GHSA-94qf-79vv-x582"
+		"GHSA-94qf-79vv-x582",
+		"SNYK-JS-PRIVATEBUGBOUNTYSECRET-8536746"
 	],
 	"summary": "Malicious code in private-bug-bounty-secret (npm)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (f3a55444761df525e7428c98e6dd9a390a1cf5cfea4a7485f768da73a2067df6)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
@@ -25,6 +26,11 @@
 					]
 				}
 			],
+			"versions": [
+				"1.0.2",
+				"1.1.0",
+				"1.1.1"
+			],
 			"database_specific": {
 				"cwes": [
 					{
@@ -41,6 +47,23 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-94qf-79vv-x582"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://npmjs.com/package/private-bug-bounty-secret"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.snyk.io/vuln/SNYK-JS-PRIVATEBUGBOUNTYSECRET-8536746"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
 		}
 	],
 	"database_specific": {
@@ -61,6 +84,18 @@
 				],
 				"sha256": "f3a55444761df525e7428c98e6dd9a390a1cf5cfea4a7485f768da73a2067df6",
 				"source": "ghsa-malware"
+			},
+			{
+				"id": "RLMA-2025-00319",
+				"import_time": "2025-02-03T18:37:58.69016974Z",
+				"modified_time": "2025-02-03T16:59:33Z",
+				"sha256": "41c1c6673f9679a8c3a7d83769e0022053bf165398f8c5d8cfdcd8fd23f28894",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.2",
+					"1.1.0",
+					"1.1.1"
+				]
 			}
 		]
 	}
