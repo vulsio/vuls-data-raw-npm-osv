@@ -1,0 +1,35 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-1216",
+	"modified": "2025-02-03T17:25:15Z",
+	"published": "2025-02-03T17:25:15Z",
+	"summary": "Malicious code in effect-layout-function (npm)",
+	"details": "The package communicates with a domain associated with malicious activity.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "effect-layout-function",
+				"purl": "pkg:npm/effect-layout-function"
+			},
+			"versions": [
+				"9.1.2"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/effect-layout-function/MAL-2025-1216.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "Amazon Inspector",
+			"contact": [
+				"actran@amazon.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}
