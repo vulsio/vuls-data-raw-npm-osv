@@ -15,16 +15,6 @@
 				"name": "nr-reports-core",
 				"purl": "pkg:npm/nr-reports-core"
 			},
-			"ranges": [
-				{
-					"type": "SEMVER",
-					"events": [
-						{
-							"introduced": "0"
-						}
-					]
-				}
-			],
 			"versions": [
 				"1.1.1"
 			],
