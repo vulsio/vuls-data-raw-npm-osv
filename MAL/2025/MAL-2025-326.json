@@ -1,10 +1,13 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2025-326",
-	"modified": "2025-01-22T17:16:01Z",
+	"modified": "2025-02-08T00:42:07.362762Z",
 	"published": "2025-01-22T17:16:01Z",
+	"aliases": [
+		"GHSA-wvv2-97h6-865q"
+	],
 	"summary": "Malicious code in bigcommerce.github.io (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (080d9a526b2fa1dfb746160c7757bf7789eed1d485d67252b5e5893bc3f0d939)\nThe OpenSSF Package Analysis project identified 'bigcommerce.github.io' @ 9.9.9 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (4f610f94d4adf4f1e09e9727a8c6960c6b9c0bef8733be71242a3bfdad135f55)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n\n## Source: ossf-package-analysis (080d9a526b2fa1dfb746160c7757bf7789eed1d485d67252b5e5893bc3f0d939)\nThe OpenSSF Package Analysis project identified 'bigcommerce.github.io' @ 9.9.9 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
 	"affected": [
 		{
 			"package": {
@@ -12,12 +15,35 @@
 				"name": "bigcommerce.github.io",
 				"purl": "pkg:npm/bigcommerce.github.io"
 			},
+			"ranges": [
+				{
+					"type": "SEMVER",
+					"events": [
+						{
+							"introduced": "0"
+						}
+					]
+				}
+			],
 			"versions": [
 				"9.9.9"
 			],
 			"database_specific": {
+				"cwes": [
+					{
+						"cweId": "CWE-506",
+						"description": "The product contains code that appears to be malicious in nature.",
+						"name": "Embedded Malicious Code"
+					}
+				],
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/bigcommerce.github.io/MAL-2025-326.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://github.com/advisories/GHSA-wvv2-97h6-865q"
 		}
 	],
 	"credits": [
@@ -40,6 +66,23 @@
 				"versions": [
 					"9.9.9"
 				]
+			},
+			{
+				"id": "GHSA-wvv2-97h6-865q",
+				"import_time": "2025-02-08T00:31:36.981269088Z",
+				"modified_time": "2025-02-07T05:55:04Z",
+				"ranges": [
+					{
+						"events": [
+							{
+								"introduced": "0"
+							}
+						],
+						"type": "SEMVER"
+					}
+				],
+				"sha256": "4f610f94d4adf4f1e09e9727a8c6960c6b9c0bef8733be71242a3bfdad135f55",
+				"source": "ghsa-malware"
 			}
 		]
 	}

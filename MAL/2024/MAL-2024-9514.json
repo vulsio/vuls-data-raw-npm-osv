@@ -1,10 +1,13 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-9514",
-	"modified": "2024-10-16T12:32:50Z",
+	"modified": "2025-02-08T00:42:06.831788Z",
 	"published": "2024-10-16T12:32:50Z",
+	"aliases": [
+		"GHSA-p6xq-v995-xh2v"
+	],
 	"summary": "Malicious code in autogen_studio (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ghsa-malware (3e5c6d0ae37fec7bcb0a91fd8956a8f6f930e82986d6521df81349ee6a1644d6)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
 	"affected": [
 		{
 			"package": {
@@ -12,12 +15,35 @@
 				"name": "autogen_studio",
 				"purl": "pkg:npm/autogen_studio"
 			},
+			"ranges": [
+				{
+					"type": "SEMVER",
+					"events": [
+						{
+							"introduced": "0"
+						}
+					]
+				}
+			],
 			"versions": [
 				"1.0.2"
 			],
 			"database_specific": {
+				"cwes": [
+					{
+						"cweId": "CWE-506",
+						"description": "The product contains code that appears to be malicious in nature.",
+						"name": "Embedded Malicious Code"
+					}
+				],
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/autogen_studio/MAL-2024-9514.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://github.com/advisories/GHSA-p6xq-v995-xh2v"
 		}
 	],
 	"credits": [
@@ -40,6 +66,23 @@
 				"versions": [
 					"1.0.2"
 				]
+			},
+			{
+				"id": "GHSA-p6xq-v995-xh2v",
+				"import_time": "2025-02-08T00:31:36.969811281Z",
+				"modified_time": "2025-02-07T06:07:37Z",
+				"ranges": [
+					{
+						"events": [
+							{
+								"introduced": "0"
+							}
+						],
+						"type": "SEMVER"
+					}
+				],
+				"sha256": "3e5c6d0ae37fec7bcb0a91fd8956a8f6f930e82986d6521df81349ee6a1644d6",
+				"source": "ghsa-malware"
 			}
 		]
 	}
