@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-1239",
+	"modified": "2025-02-07T18:22:59Z",
+	"published": "2025-02-07T18:22:59Z",
+	"summary": "Malicious code in vhx-node-demo (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (b55b8a8a72cf924e41cff8b04685fb70494e96a0baf0a7355a550c0b0660c0fe)\nThe OpenSSF Package Analysis project identified 'vhx-node-demo' @ 1.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "vhx-node-demo",
+				"purl": "pkg:npm/vhx-node-demo"
+			},
+			"versions": [
+				"1.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/vhx-node-demo/MAL-2025-1239.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2025-02-07T18:38:29.029559131Z",
+				"modified_time": "2025-02-07T18:22:59Z",
+				"sha256": "b55b8a8a72cf924e41cff8b04685fb70494e96a0baf0a7355a550c0b0660c0fe",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.0"
+				]
+			}
+		]
+	}
+}
