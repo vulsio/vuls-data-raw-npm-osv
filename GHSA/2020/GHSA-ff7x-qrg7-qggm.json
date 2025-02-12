@@ -37,11 +37,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(dot-prop).set"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2020/07/GHSA-ff7x-qrg7-qggm/GHSA-ff7x-qrg7-qggm.json"
 			}
@@ -65,11 +60,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(dot-prop).set"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2020/07/GHSA-ff7x-qrg7-qggm/GHSA-ff7x-qrg7-qggm.json"
 			}
