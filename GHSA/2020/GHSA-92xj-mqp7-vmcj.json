@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(node-forge).util.setPath"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2020/09/GHSA-92xj-mqp7-vmcj/GHSA-92xj-mqp7-vmcj.json"
 			}

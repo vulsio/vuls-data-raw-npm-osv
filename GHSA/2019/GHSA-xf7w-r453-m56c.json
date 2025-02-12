@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(fstream).DirWriter"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2019/05/GHSA-xf7w-r453-m56c/GHSA-xf7w-r453-m56c.json"
 			}

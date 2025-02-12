@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(follow-redirects).get"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/01/GHSA-74fj-2j2h-c42q/GHSA-74fj-2j2h-c42q.json"
 			}

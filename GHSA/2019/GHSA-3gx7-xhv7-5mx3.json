@@ -37,11 +37,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(eslint-utils).getStaticValue"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2019/08/GHSA-3gx7-xhv7-5mx3/GHSA-3gx7-xhv7-5mx3.json"
 			}

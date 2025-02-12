@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(jsoneditor).getInnerText"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/09/GHSA-hhfg-6hfc-rvxm/GHSA-hhfg-6hfc-rvxm.json"
 			}

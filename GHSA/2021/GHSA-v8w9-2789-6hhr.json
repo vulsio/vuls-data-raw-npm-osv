@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(bson).BSON.serialize"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/05/GHSA-v8w9-2789-6hhr/GHSA-v8w9-2789-6hhr.json"
 			}
