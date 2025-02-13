@@ -1,0 +1,35 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-1329",
+	"modified": "2025-02-13T04:13:47Z",
+	"published": "2025-02-13T04:13:47Z",
+	"summary": "Malicious code in htx-dev (npm)",
+	"details": "This package runs commands in a pre-install script that exfils sensitive data to a attacker-controlled domain.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "htx-dev",
+				"purl": "pkg:npm/htx-dev"
+			},
+			"versions": [
+				"19.4.9"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/htx-dev/MAL-2025-1329.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "GitHax - Software Supply Chain Threat Intelligence",
+			"contact": [
+				"https://githax.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}

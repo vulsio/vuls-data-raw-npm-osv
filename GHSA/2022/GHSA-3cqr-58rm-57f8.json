@@ -42,11 +42,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(handlebars).helpers.lookup"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/02/GHSA-3cqr-58rm-57f8/GHSA-3cqr-58rm-57f8.json"
 			}
@@ -70,11 +65,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(handlebars).helpers.lookup"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/02/GHSA-3cqr-58rm-57f8/GHSA-3cqr-58rm-57f8.json"
 			}

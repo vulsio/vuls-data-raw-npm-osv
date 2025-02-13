@@ -1,0 +1,35 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-1353",
+	"modified": "2025-02-13T05:15:03Z",
+	"published": "2025-02-13T05:15:03Z",
+	"summary": "Malicious code in biconomy-main (npm)",
+	"details": "This package runs commands in a pre-install script that exfils sensitive data to a attacker-controlled domain.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "biconomy-main",
+				"purl": "pkg:npm/biconomy-main"
+			},
+			"versions": [
+				"19.4.9"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/biconomy-main/MAL-2025-1353.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "GitHax - Software Supply Chain Threat Intelligence",
+			"contact": [
+				"https://githax.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": null
+	}
+}
