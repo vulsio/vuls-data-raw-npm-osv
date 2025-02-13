@@ -25,11 +25,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(js-yaml).load"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2019/06/GHSA-8j8c-7jfh-h6hx/GHSA-8j8c-7jfh-h6hx.json"
 			}

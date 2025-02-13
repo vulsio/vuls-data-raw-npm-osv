@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(debug).formatters.o"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/01/GHSA-9vvw-cc9w-f27h/GHSA-9vvw-cc9w-f27h.json"
 			}
@@ -62,11 +57,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(debug).formatters.o"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/01/GHSA-9vvw-cc9w-f27h/GHSA-9vvw-cc9w-f27h.json"
 			}

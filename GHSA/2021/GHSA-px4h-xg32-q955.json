@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(normalize-url)"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/06/GHSA-px4h-xg32-q955/GHSA-px4h-xg32-q955.json"
 			}
@@ -62,11 +57,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(normalize-url)"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/06/GHSA-px4h-xg32-q955/GHSA-px4h-xg32-q955.json"
 			}
@@ -90,11 +80,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(normalize-url)"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/06/GHSA-px4h-xg32-q955/GHSA-px4h-xg32-q955.json"
 			}

@@ -34,14 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(mpath).get",
-					"(mpath).has",
-					"(mpath).unset",
-					"(mpath).set"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/09/GHSA-p92x-r36w-9395/GHSA-p92x-r36w-9395.json"
 			}

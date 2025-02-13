@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(simple-plist).parse"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/03/GHSA-gff7-g5r8-mg8m/GHSA-gff7-g5r8-mg8m.json"
 			}

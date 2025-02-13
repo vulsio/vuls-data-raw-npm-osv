@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(object-path).del"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/09/GHSA-8v63-cqqc-6r2c/GHSA-8v63-cqqc-6r2c.json"
 			}

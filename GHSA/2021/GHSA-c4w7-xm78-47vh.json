@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(y18n)"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/03/GHSA-c4w7-xm78-47vh/GHSA-c4w7-xm78-47vh.json"
 			}
@@ -65,11 +60,6 @@
 			"versions": [
 				"4.0.0"
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(y18n)"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/03/GHSA-c4w7-xm78-47vh/GHSA-c4w7-xm78-47vh.json"
 			}
@@ -93,11 +83,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(y18n)"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/03/GHSA-c4w7-xm78-47vh/GHSA-c4w7-xm78-47vh.json"
 			}

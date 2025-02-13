@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(handlebars).compile"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/02/GHSA-62gr-4qp9-h98f/GHSA-62gr-4qp9-h98f.json"
 			}

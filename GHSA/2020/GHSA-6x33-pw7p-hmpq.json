@@ -31,11 +31,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(http-proxy).createProxyServer"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2020/09/GHSA-6x33-pw7p-hmpq/GHSA-6x33-pw7p-hmpq.json"
 			}

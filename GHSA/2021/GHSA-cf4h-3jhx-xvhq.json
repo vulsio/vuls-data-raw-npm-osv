@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(underscore).template"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/05/GHSA-cf4h-3jhx-xvhq/GHSA-cf4h-3jhx-xvhq.json"
 			}

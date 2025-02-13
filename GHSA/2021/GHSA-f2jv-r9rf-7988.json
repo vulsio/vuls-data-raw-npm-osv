@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f2jv-r9rf-7988",
-	"modified": "2025-01-14T08:57:01.011083Z",
+	"modified": "2025-02-13T05:31:27.487158Z",
 	"published": "2021-05-06T15:57:44Z",
 	"aliases": [
 		"CVE-2021-23369"
@@ -44,11 +44,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(handlebars).template"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/05/GHSA-f2jv-r9rf-7988/GHSA-f2jv-r9rf-7988.json"
 			}

@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(xmlhttprequest).XMLHttpRequest"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/05/GHSA-h4j5-c7cj-74xg/GHSA-h4j5-c7cj-74xg.json"
 			}
@@ -62,11 +57,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(xmlhttprequest-ssl).XMLHttpRequest"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/05/GHSA-h4j5-c7cj-74xg/GHSA-h4j5-c7cj-74xg.json"
 			}

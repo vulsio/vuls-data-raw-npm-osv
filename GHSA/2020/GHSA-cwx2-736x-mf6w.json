@@ -37,11 +37,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(object-path).set"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2020/10/GHSA-cwx2-736x-mf6w/GHSA-cwx2-736x-mf6w.json"
 			}

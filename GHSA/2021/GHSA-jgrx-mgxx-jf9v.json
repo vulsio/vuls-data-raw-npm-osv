@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(tmpl).tmpl"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/09/GHSA-jgrx-mgxx-jf9v/GHSA-jgrx-mgxx-jf9v.json"
 			}

@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(mixin-deep)"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2019/08/GHSA-fhjf-83wg-r2j9/GHSA-fhjf-83wg-r2j9.json"
 			}
@@ -65,11 +60,6 @@
 			"versions": [
 				"2.0.0"
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(mixin-deep)"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2019/08/GHSA-fhjf-83wg-r2j9/GHSA-fhjf-83wg-r2j9.json"
 			}

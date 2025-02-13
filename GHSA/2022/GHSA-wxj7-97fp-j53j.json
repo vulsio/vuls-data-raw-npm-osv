@@ -34,12 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(zip-local).unzip",
-					"(zip-local).sync.unzip"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/02/GHSA-wxj7-97fp-j53j/GHSA-wxj7-97fp-j53j.json"
 			}
