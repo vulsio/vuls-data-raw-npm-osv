@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h452-7996-h45h",
-	"modified": "2023-11-08T04:08:51.518170Z",
+	"modified": "2025-02-13T19:03:25.062781Z",
 	"published": "2023-01-18T06:31:03Z",
 	"aliases": [
 		"CVE-2022-25901"
@@ -89,6 +89,14 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/bmeck/node-cookiejar/blob/master/cookiejar.js#23L73"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/bmeck/node-cookiejar/blob/master/cookiejar.js%23L73"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.debian.org/debian-lts-announce/2023/09/msg00008.html"
 		},
 		{
 			"type": "WEB",
