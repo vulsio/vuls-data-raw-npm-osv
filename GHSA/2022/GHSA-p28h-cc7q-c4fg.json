@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(css-what).parse"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/10/GHSA-p28h-cc7q-c4fg/GHSA-p28h-cc7q-c4fg.json"
 			}

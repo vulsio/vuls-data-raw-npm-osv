@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(collection.js).extend"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/03/GHSA-47pj-q2vm-46xc/GHSA-47pj-q2vm-46xc.json"
 			}

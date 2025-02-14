@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(dottie).set"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/06/GHSA-4gxf-g5gf-22h4/GHSA-4gxf-g5gf-22h4.json"
 			}

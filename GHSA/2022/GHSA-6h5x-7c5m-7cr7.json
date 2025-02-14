@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(eventsource)"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-6h5x-7c5m-7cr7/GHSA-6h5x-7c5m-7cr7.json"
 			}
@@ -62,11 +57,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(eventsource)"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-6h5x-7c5m-7cr7/GHSA-6h5x-7c5m-7cr7.json"
 			}

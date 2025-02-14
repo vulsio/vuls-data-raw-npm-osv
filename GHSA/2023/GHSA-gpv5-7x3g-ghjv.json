@@ -28,11 +28,6 @@
 			"versions": [
 				"4.2.4"
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(fast-xml-parser).XMLParser"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/06/GHSA-gpv5-7x3g-ghjv/GHSA-gpv5-7x3g-ghjv.json"
 			}
