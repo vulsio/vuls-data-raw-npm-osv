@@ -38,11 +38,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(@hapi/hoek).clone"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/09/GHSA-c429-5p7v-vgjp/GHSA-c429-5p7v-vgjp.json"
 			}
@@ -66,11 +61,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(@hapi/hoek).clone"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/09/GHSA-c429-5p7v-vgjp/GHSA-c429-5p7v-vgjp.json"
 			}
@@ -94,11 +84,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(hoek).clone"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/09/GHSA-c429-5p7v-vgjp/GHSA-c429-5p7v-vgjp.json"
 			}

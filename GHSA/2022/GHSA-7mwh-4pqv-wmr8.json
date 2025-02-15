@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(scss-tokenizer).tokenize"
-				]
-			},
 			"database_specific": {
 				"last_known_affected_version_range": "<= 0.4.2",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/07/GHSA-7mwh-4pqv-wmr8/GHSA-7mwh-4pqv-wmr8.json"

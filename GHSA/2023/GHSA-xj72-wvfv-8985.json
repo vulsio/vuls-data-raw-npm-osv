@@ -37,11 +37,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(vm2).run"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/04/GHSA-xj72-wvfv-8985/GHSA-xj72-wvfv-8985.json"
 			}

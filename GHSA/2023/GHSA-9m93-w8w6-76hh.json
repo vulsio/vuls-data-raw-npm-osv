@@ -35,11 +35,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(mongoose).Model.findByIdAndUpdate"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/07/GHSA-9m93-w8w6-76hh/GHSA-9m93-w8w6-76hh.json"
 			}
@@ -63,11 +58,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(mongoose).Model.findByIdAndUpdate"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/07/GHSA-9m93-w8w6-76hh/GHSA-9m93-w8w6-76hh.json"
 			}
@@ -91,11 +81,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(mongoose).Model.findByIdAndUpdate"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/07/GHSA-9m93-w8w6-76hh/GHSA-9m93-w8w6-76hh.json"
 			}

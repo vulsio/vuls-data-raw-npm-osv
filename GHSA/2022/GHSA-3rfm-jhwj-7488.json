@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(loader-utils).interpolateName"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/10/GHSA-3rfm-jhwj-7488/GHSA-3rfm-jhwj-7488.json"
 			}
@@ -62,11 +57,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(loader-utils).interpolateName"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/10/GHSA-3rfm-jhwj-7488/GHSA-3rfm-jhwj-7488.json"
 			}
@@ -90,11 +80,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(loader-utils).interpolateName"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/10/GHSA-3rfm-jhwj-7488/GHSA-3rfm-jhwj-7488.json"
 			}
