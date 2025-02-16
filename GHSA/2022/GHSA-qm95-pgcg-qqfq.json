@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(socket.io-parser).Decoder"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/10/GHSA-qm95-pgcg-qqfq/GHSA-qm95-pgcg-qqfq.json"
 			}
@@ -62,11 +57,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(socket.io-parser).Decoder"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/10/GHSA-qm95-pgcg-qqfq/GHSA-qm95-pgcg-qqfq.json"
 			}
@@ -90,11 +80,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(socket.io-parser).Decoder"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/10/GHSA-qm95-pgcg-qqfq/GHSA-qm95-pgcg-qqfq.json"
 			}
@@ -118,11 +103,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(socket.io-parser).Decoder"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/10/GHSA-qm95-pgcg-qqfq/GHSA-qm95-pgcg-qqfq.json"
 			}
