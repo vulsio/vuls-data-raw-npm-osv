@@ -1,10 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-9861",
-	"modified": "2024-10-16T13:20:11Z",
+	"modified": "2025-02-17T14:37:02Z",
 	"published": "2024-10-16T13:20:11Z",
 	"summary": "Malicious code in spectrum-css-monorepo (npm)",
-	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (f41f0e503b44faa72590ac1417b4070b88f7038dcb277a743937769327d18e64)\nThe OpenSSF Package Analysis project identified 'spectrum-css-monorepo' @ 1.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
 	"affected": [
 		{
 			"package": {
@@ -13,7 +13,8 @@
 				"purl": "pkg:npm/spectrum-css-monorepo"
 			},
 			"versions": [
-				"11.3.61"
+				"11.3.61",
+				"1.0.0"
 			],
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/spectrum-css-monorepo/MAL-2024-9861.json"
@@ -21,6 +22,14 @@
 		}
 	],
 	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		},
 		{
 			"name": "ReversingLabs",
 			"contact": [
@@ -39,6 +48,15 @@
 				"source": "reversing-labs",
 				"versions": [
 					"11.3.61"
+				]
+			},
+			{
+				"import_time": "2025-02-17T14:36:31.833263287Z",
+				"modified_time": "2025-02-17T14:21:09Z",
+				"sha256": "f41f0e503b44faa72590ac1417b4070b88f7038dcb277a743937769327d18e64",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"1.0.0"
 				]
 			}
 		]

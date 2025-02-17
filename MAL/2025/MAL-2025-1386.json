@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2025-1386",
+	"modified": "2025-02-17T13:46:23Z",
+	"published": "2025-02-17T13:46:23Z",
+	"summary": "Malicious code in keycloak-theme (npm)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: ossf-package-analysis (254eea79c1a374e77df5ae18ffd33e3259e5ea7707c9aff15750cede9ef5a4d4)\nThe OpenSSF Package Analysis project identified 'keycloak-theme' @ 3.0.0 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "keycloak-theme",
+				"purl": "pkg:npm/keycloak-theme"
+			},
+			"versions": [
+				"3.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/keycloak-theme/MAL-2025-1386.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "OpenSSF: Package Analysis",
+			"contact": [
+				"https://github.com/ossf/package-analysis",
+				"https://openssf.slack.com/channels/package_analysis"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"import_time": "2025-02-17T14:05:28.273937408Z",
+				"modified_time": "2025-02-17T13:46:23Z",
+				"sha256": "254eea79c1a374e77df5ae18ffd33e3259e5ea7707c9aff15750cede9ef5a4d4",
+				"source": "ossf-package-analysis",
+				"versions": [
+					"3.0.0"
+				]
+			}
+		]
+	}
+}
