@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(shvl).set"
-				]
-			},
 			"database_specific": {
 				"last_known_affected_version_range": "<= 2.0.1",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-pqwc-3vhw-qcvq/GHSA-pqwc-3vhw-qcvq.json"
