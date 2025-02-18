@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(json-schema).validate"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/11/GHSA-896r-f27r-55mw/GHSA-896r-f27r-55mw.json"
 			}
